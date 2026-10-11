@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C4-P2-01",
+  "classLevel": 4,
+  "paper": 2,
+  "testNumber": 1,
+  "testName": "English — Vocabulary 1 (Alphabetical order, Rhymes, Animals)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Alphabetical Order",
+      "question": "Arrange the words in alphabetical (A to Z) order: 'Apple, Ball, Cat, Dog'. Which word comes first?",
+      "options": [
+        "Ball",
+        "Dog",
+        "Apple",
+        "Cat"
+      ],
+      "answer": 2,
+      "explanation": "'Apple' begins with 'A', hence it comes first in alphabetical order."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Alphabetical Order",
+      "question": "Which word will come third if arranged alphabetically? 'Monkey, Lion, Zebra, Elephant'",
+      "options": [
+        "Elephant",
+        "Lion",
+        "Monkey",
+        "Zebra"
+      ],
+      "answer": 2,
+      "explanation": "Alphabetical order: 1. Elephant, 2. Lion, 3. Monkey, 4. Zebra. Third word is 'Monkey'."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Rhyming Words",
+      "question": "Select the rhyming word for 'Cat':",
+      "options": [
+        "Cup",
+        "Bat",
+        "Car",
+        "Cot"
+      ],
+      "answer": 1,
+      "explanation": "'Cat' rhymes with 'Bat' (same ending sound '-at')."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Rhyming Words",
+      "question": "Find the rhyming pair among the following:",
+      "options": [
+        "Sun - Moon",
+        "Ring - Sing",
+        "Book - Pen",
+        "Tree - Bird"
+      ],
+      "answer": 1,
+      "explanation": "'Ring' and 'Sing' have identical rhyme ending sounds."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Animal Homes",
+      "question": "A dog lives in a ____.",
+      "options": [
+        "Stable",
+        "Den",
+        "Kennel",
+        "Burrow"
+      ],
+      "answer": 2,
+      "explanation": "A dog lives in a 'Kennel' (horse in stable, lion in den, rabbit in burrow)."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Animal Homes",
+      "question": "Where does a bird live?",
+      "options": [
+        "Hive",
+        "Nest",
+        "Shed",
+        "Coop"
+      ],
+      "answer": 1,
+      "explanation": "A bird builds and lives in a 'Nest'."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Animal Sounds",
+      "question": "What is the sound made by a cow?",
+      "options": [
+        "Neighs",
+        "Moos",
+        "Barks",
+        "Roars"
+      ],
+      "answer": 1,
+      "explanation": "A cow 'Moos' (or lows)."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Animal Sounds",
+      "question": "Which animal 'Roars'?",
+      "options": [
+        "Dog",
+        "Sheep",
+        "Lion",
+        "Cat"
+      ],
+      "answer": 2,
+      "explanation": "A lion roars."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Young Ones",
+      "question": "A baby dog (young one of a dog) is called a ____.",
+      "options": [
+        "Kitten",
+        "Calf",
+        "Puppy",
+        "Cub"
+      ],
+      "answer": 2,
+      "explanation": "A young dog is a 'Puppy' (cat-kitten, cow-calf, lion-cub)."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Young Ones",
+      "question": "A young one of a sheep is a ____.",
+      "options": [
+        "Foal",
+        "Lamb",
+        "Kid",
+        "Piglet"
+      ],
+      "answer": 1,
+      "explanation": "A baby sheep is called a 'Lamb'."
+    },
+    {
+      "subject": "English",
+      "type": "Vocab",
+      "tagText": "Colors",
+      "question": "What is the color of milk?",
+      "options": [
+        "Red",
+        "White",
+        "Green",
+        "Yellow"
+      ],
+      "answer": 1,
+      "explanation": "Milk is white in color."
+    },
+    {
+      "subject": "English",
+      "type": "Vocab",
+      "tagText": "Days",
+      "question": "Which day comes just after Wednesday?",
+      "options": [
+        "Tuesday",
+        "Thursday",
+        "Friday",
+        "Monday"
+      ],
+      "answer": 1,
+      "explanation": "Wednesday is followed by Thursday."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Months",
+      "question": "Which is the first month of the calendar year?",
+      "options": [
+        "December",
+        "January",
+        "March",
+        "April"
+      ],
+      "answer": 1,
+      "explanation": "January is the first month of the year."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Numbers",
+      "question": "How do you write ordinal number for 1?",
+      "options": [
+        "One",
+        "First (1st)",
+        "Primary",
+        "Once"
+      ],
+      "answer": 1,
+      "explanation": "Ordinal number for 1 is 'First' (1st)."
+    },
+    {
+      "subject": "English",
+      "type": "Vocab",
+      "tagText": "Body Parts",
+      "question": "We smell with our ____.",
+      "options": [
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Tongue"
+      ],
+      "answer": 2,
+      "explanation": "We use our nose to smell."
+    },
+    {
+      "subject": "English",
+      "type": "Vocab",
+      "tagText": "Body Parts",
+      "question": "We see things with our ____.",
+      "options": [
+        "Hands",
+        "Eyes",
+        "Ears",
+        "Feet"
+      ],
+      "answer": 1,
+      "explanation": "Eyes are used for seeing."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "Spelling",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Schol",
+        "Skool",
+        "School",
+        "Scool"
+      ],
+      "answer": 2,
+      "explanation": "The correct spelling is 'School'."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "Opposites",
+      "question": "What is the opposite of 'Big'?",
+      "options": [
+        "Tall",
+        "Small",
+        "Wide",
+        "Long"
+      ],
+      "answer": 1,
+      "explanation": "'Big' is the opposite of 'Small'."
+    },
+    {
+      "subject": "English",
+      "type": "IMP",
+      "tagText": "Synonyms",
+      "question": "Select the word meaning same as 'Happy':",
+      "options": [
+        "Sad",
+        "Glad / Joyful",
+        "Angry",
+        "Tired"
+      ],
+      "answer": 1,
+      "explanation": "'Happy' means 'Glad' or 'Joyful'."
+    },
+    {
+      "subject": "English",
+      "type": "Vocab",
+      "tagText": "General",
+      "question": "Which of the following is a fruit?",
+      "options": [
+        "Potato",
+        "Mango",
+        "Cabbage",
+        "Onion"
+      ],
+      "answer": 1,
+      "explanation": "'Mango' is a fruit (others are vegetables)."
+    }
+  ]
+}
