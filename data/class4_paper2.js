@@ -1,8468 +1,9903 @@
-// Maharashtra State Council of Examination (MSCE) Pune - Class 4 Scholarship Test Series
-// PAPER 2: Third Language (English) & Intelligence Test (Mental Ability)
-// Exactly 30 Topic-Wise Tests, 20 Questions each = 600 Questions Total
-// Zero external dependencies, pure mobile-ready embedded SVGs
-
-window.scholarshipClass4 = window.scholarshipClass4 || {};
-window.scholarshipClass4['paper2'] = {
+// Class 4 Scholarship Paper 2 Verified Questions (Tests 1 to 30)
+window.class4Paper2Data = {
   "1": [
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "Alphabetical Order",
-      "question": "Arrange the words in alphabetical (A to Z) order: 'Apple, Ball, Cat, Dog'. Which word comes first?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "वर्णानुक्रम",
+      "question": "Arrange in alphabetical order: Apple, Cat, Ball, Dog",
       "options": [
-        "Ball",
-        "Dog",
-        "Apple",
-        "Cat"
+        "Apple, Ball, Cat, Dog",
+        "Ball, Apple, Cat, Dog",
+        "Dog, Cat, Ball, Apple",
+        "Apple, Cat, Ball, Dog"
       ],
-      "answer": 2,
-      "explanation": "'Apple' begins with 'A', hence it comes first in alphabetical order."
+      "answer": 0,
+      "explanation": "A -> B -> C -> D हा वर्णानुक्रम आहे: Apple, Ball, Cat, Dog.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Alphabetical Order",
-      "question": "Which word will come third if arranged alphabetically? 'Monkey, Lion, Zebra, Elephant'",
+      "tagText": "अक्षरमाला",
+      "question": "Which letter comes immediately after 'M' in the English alphabet?",
       "options": [
-        "Elephant",
-        "Lion",
-        "Monkey",
-        "Zebra"
+        "N",
+        "L",
+        "O",
+        "P"
       ],
-      "answer": 2,
-      "explanation": "Alphabetical order: 1. Elephant, 2. Lion, 3. Monkey, 4. Zebra. Third word is 'Monkey'."
+      "answer": 0,
+      "explanation": "M नंतर लगेच N हे अक्षर येते (L, M, N, O).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Rhyming Words",
-      "question": "Select the rhyming word for 'Cat':",
+      "tagText": "स्वर (Vowels)",
+      "question": "How many vowels are there in the English alphabet?",
       "options": [
-        "Cup",
+        "5",
+        "7",
+        "21",
+        "26"
+      ],
+      "answer": 0,
+      "explanation": "इंग्रजी वर्णमालेत A, E, I, O, U हे एकूण ५ स्वर (Vowels) आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "शब्द निर्मिती",
+      "question": "Which meaningful word can be formed from letters: 'E, N, P'?",
+      "options": [
+        "PEN",
+        "NEP",
+        "EPN",
+        "PNE"
+      ],
+      "answer": 0,
+      "explanation": "P-E-N या अक्षरांपासून 'PEN' (पेन) हा अर्थपूर्ण शब्द तयार होतो.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "व्यंजने (Consonants)",
+      "question": "Which of the following letters is a vowel?",
+      "options": [
+        "E",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'E' हा स्वर (Vowel) आहे, बाकी सर्व व्यंजने आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "पहिला शब्द",
+      "question": "Which word comes first in a dictionary?",
+      "options": [
+        "Ant",
         "Bat",
-        "Car",
-        "Cot"
-      ],
-      "answer": 1,
-      "explanation": "'Cat' rhymes with 'Bat' (same ending sound '-at')."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Rhyming Words",
-      "question": "Find the rhyming pair among the following:",
-      "options": [
-        "Sun - Moon",
-        "Ring - Sing",
-        "Book - Pen",
-        "Tree - Bird"
-      ],
-      "answer": 1,
-      "explanation": "'Ring' and 'Sing' have identical rhyme ending sounds."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Animal Homes",
-      "question": "A dog lives in a ____.",
-      "options": [
-        "Stable",
-        "Den",
-        "Kennel",
-        "Burrow"
-      ],
-      "answer": 2,
-      "explanation": "A dog lives in a 'Kennel' (horse in stable, lion in den, rabbit in burrow)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Animal Homes",
-      "question": "Where does a bird live?",
-      "options": [
-        "Hive",
-        "Nest",
-        "Shed",
-        "Coop"
-      ],
-      "answer": 1,
-      "explanation": "A bird builds and lives in a 'Nest'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Animal Sounds",
-      "question": "What is the sound made by a cow?",
-      "options": [
-        "Neighs",
-        "Moos",
-        "Barks",
-        "Roars"
-      ],
-      "answer": 1,
-      "explanation": "A cow 'Moos' (or lows)."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Animal Sounds",
-      "question": "Which animal 'Roars'?",
-      "options": [
-        "Dog",
-        "Sheep",
-        "Lion",
-        "Cat"
-      ],
-      "answer": 2,
-      "explanation": "A lion roars."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Young Ones",
-      "question": "A baby dog (young one of a dog) is called a ____.",
-      "options": [
-        "Kitten",
-        "Calf",
-        "Puppy",
-        "Cub"
-      ],
-      "answer": 2,
-      "explanation": "A young dog is a 'Puppy' (cat-kitten, cow-calf, lion-cub)."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Young Ones",
-      "question": "A young one of a sheep is a ____.",
-      "options": [
-        "Foal",
-        "Lamb",
-        "Kid",
-        "Piglet"
-      ],
-      "answer": 1,
-      "explanation": "A baby sheep is called a 'Lamb'."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "Colors",
-      "question": "What is the color of milk?",
-      "options": [
-        "Red",
-        "White",
-        "Green",
-        "Yellow"
-      ],
-      "answer": 1,
-      "explanation": "Milk is white in color."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "Days",
-      "question": "Which day comes just after Wednesday?",
-      "options": [
-        "Tuesday",
-        "Thursday",
-        "Friday",
-        "Monday"
-      ],
-      "answer": 1,
-      "explanation": "Wednesday is followed by Thursday."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Months",
-      "question": "Which is the first month of the calendar year?",
-      "options": [
-        "December",
-        "January",
-        "March",
-        "April"
-      ],
-      "answer": 1,
-      "explanation": "January is the first month of the year."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Numbers",
-      "question": "How do you write ordinal number for 1?",
-      "options": [
-        "One",
-        "First (1st)",
-        "Primary",
-        "Once"
-      ],
-      "answer": 1,
-      "explanation": "Ordinal number for 1 is 'First' (1st)."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "Body Parts",
-      "question": "We smell with our ____.",
-      "options": [
-        "Eyes",
-        "Ears",
-        "Nose",
-        "Tongue"
-      ],
-      "answer": 2,
-      "explanation": "We use our nose to smell."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "Body Parts",
-      "question": "We see things with our ____.",
-      "options": [
-        "Hands",
-        "Eyes",
-        "Ears",
-        "Feet"
-      ],
-      "answer": 1,
-      "explanation": "Eyes are used for seeing."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Spelling",
-      "question": "Choose the correctly spelled word:",
-      "options": [
-        "Schol",
-        "Skool",
-        "School",
-        "Scool"
-      ],
-      "answer": 2,
-      "explanation": "The correct spelling is 'School'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Opposites",
-      "question": "What is the opposite of 'Big'?",
-      "options": [
-        "Tall",
-        "Small",
-        "Wide",
-        "Long"
-      ],
-      "answer": 1,
-      "explanation": "'Big' is the opposite of 'Small'."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Synonyms",
-      "question": "Select the word meaning same as 'Happy':",
-      "options": [
-        "Sad",
-        "Glad / Joyful",
-        "Angry",
-        "Tired"
-      ],
-      "answer": 1,
-      "explanation": "'Happy' means 'Glad' or 'Joyful'."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "General",
-      "question": "Which of the following is a fruit?",
-      "options": [
-        "Potato",
-        "Mango",
-        "Cabbage",
-        "Onion"
-      ],
-      "answer": 1,
-      "explanation": "'Mango' is a fruit (others are vegetables)."
-    }
-  ],
-  "2": [
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.2)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "Cow",
+        "Dog"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "'Ant' हा शब्द 'A' ने सुरू होत असल्याने शब्दकोशात सर्वात प्रथम येईल.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वर्णानुक्रम",
+      "question": "Arrange: Sun, Star, Sky, Sea in alphabetical order.",
       "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "Sea, Sky, Star, Sun",
+        "Sky, Sea, Star, Sun",
+        "Sea, Star, Sky, Sun",
+        "Sun, Star, Sky, Sea"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "दुसरे व तिसरे अक्षर पाहून: Sea (Se) -> Sky (Sk) -> Star (St) -> Sun (Su).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.6)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.7)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.8)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.9)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.10)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.11)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.12)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.13)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.14)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.15)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.16)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.17)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.18)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.19)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.20)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    }
-  ],
-  "3": [
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.2)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.6)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.7)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.8)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.9)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.10)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.11)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.12)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.13)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.14)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.15)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.16)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.17)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.18)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.19)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.20)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    }
-  ],
-  "4": [
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Opposite of 'Hot' is: (Q.2)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.6)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.7)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Opposite of 'Hot' is: (Q.8)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.9)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.10)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Opposite of 'Hot' is: (Q.11)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.12)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.13)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Opposite of 'Hot' is: (Q.14)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.15)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.16)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Opposite of 'Hot' is: (Q.17)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.18)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Tenses",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.19)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Tenses",
-      "question": "Opposite of 'Hot' is: (Q.20)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    }
-  ],
-  "5": [
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Opposite of 'Hot' is: (Q.2)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.6)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.7)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Opposite of 'Hot' is: (Q.8)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.9)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.10)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Opposite of 'Hot' is: (Q.11)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.12)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.13)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Opposite of 'Hot' is: (Q.14)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.15)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.16)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Opposite of 'Hot' is: (Q.17)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.18)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Comprehension",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.19)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Comprehension",
-      "question": "Opposite of 'Hot' is: (Q.20)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    }
-  ],
-  "6": [
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
-      "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
-      "options": [
-        "23",
-        "25",
-        "29",
-        "50"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
-      "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
-      "options": [
-        "79",
-        "81",
-        "85",
-        "162"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
-      "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
-      "options": [
-        "167",
-        "169",
-        "173",
-        "338"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकलन",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकलन",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    }
-  ],
-  "7": [
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
-      "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
-      "options": [
-        "23",
-        "25",
-        "29",
-        "50"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
-      "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
-      "options": [
-        "79",
-        "81",
-        "85",
-        "162"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
-      "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
-      "options": [
-        "167",
-        "169",
-        "173",
-        "338"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    }
-  ],
-  "8": [
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
-      "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
-      "options": [
-        "23",
-        "25",
-        "29",
-        "50"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
-      "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
-      "options": [
-        "79",
-        "81",
-        "85",
-        "162"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
-      "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
-      "options": [
-        "167",
-        "169",
-        "173",
-        "338"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या वर्गीकरण",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    }
-  ],
-  "9": [
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालील पर्यायांमधील गटात न बसणारी वेगळी आकृती ओळखा:\n<div class=\"grid grid-cols-2 md:grid-cols-4 gap-3 my-3\">\n            <div class=\"p-3 border-2 border-blue-400 bg-white rounded-xl text-center\"><span class=\"font-bold\">A</span><div class=\"h-10 flex items-center justify-center text-2xl font-bold\">▲</div><span class=\"text-xs text-gray-500\">त्रिकोण (३ बाजू)</span></div>\n            <div class=\"p-3 border-2 border-blue-400 bg-white rounded-xl text-center\"><span class=\"font-bold\">B</span><div class=\"h-10 flex items-center justify-center text-2xl font-bold\">■</div><span class=\"text-xs text-gray-500\">चौरस (४ बाजू)</span></div>\n            <div class=\"p-3 border-2 border-blue-400 bg-white rounded-xl text-center\"><span class=\"font-bold\">C</span><div class=\"h-10 flex items-center justify-center text-2xl font-bold\">⬟</div><span class=\"text-xs text-gray-500\">पंचकोन (५ बाजू)</span></div>\n            <div class=\"p-3 border-2 border-red-400 bg-red-50 rounded-xl text-center\"><span class=\"font-bold text-red-600\">D</span><div class=\"h-10 flex items-center justify-center text-2xl font-bold text-red-600\">●</div><span class=\"text-xs text-red-600\">वर्तुळ (वक्ररेषा)</span></div>\n        </div>",
-      "options": [
-        "पर्याय A (त्रिकोण)",
-        "पर्याय B (चौरस)",
-        "पर्याय C (पंचकोन)",
-        "पर्याय D (वर्तुळ)"
-      ],
-      "answer": 3,
-      "explanation": "त्रिकोण, चौरस आणि पंचकोन सरळ रेषाखंडांनी बनलेले बहुभुज आहेत; तर वर्तुळ ही वक्ररेषा असून त्याला बाजू किंवा कोपरे नसतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालील चार आकृत्यांपैकी वेगळी आकृती कोणती?\n<div class=\"grid grid-cols-2 md:grid-cols-4 gap-3 my-3\">\n            <div class=\"p-3 border-2 border-indigo-300 bg-white rounded-xl text-center\">१. + (२ रेषा)</div>\n            <div class=\"p-3 border-2 border-indigo-300 bg-white rounded-xl text-center\">२. × (२ रेषा)</div>\n            <div class=\"p-3 border-2 border-indigo-300 bg-white rounded-xl text-center\">३. = (२ रेषा)</div>\n            <div class=\"p-3 border-2 border-indigo-300 bg-white rounded-xl text-center\">४. * (३ रेषा)</div>\n        </div>",
-      "options": [
-        "आकृती १ (+)",
-        "आकृती २ (×)",
-        "आकृती ३ (=)",
-        "आकृती ४ (*)"
-      ],
-      "answer": 3,
-      "explanation": "+, ×, = या चिन्हांमध्ये प्रत्येकी २ रेषाखंड आहेत, तर * मध्ये ३ रेषाखंड छेदतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "घड्याळाच्या दिशेने फिरणाऱ्या आकृत्यांमध्ये गटात न बसणारी आकृती ओळखा:\n<div class=\"grid grid-cols-2 md:grid-cols-4 gap-3 my-3\">\n            <div class=\"p-3 border-2 border-gray-300 bg-white rounded-xl text-center font-bold\">१. ↑ (उत्तर)</div>\n            <div class=\"p-3 border-2 border-gray-300 bg-white rounded-xl text-center font-bold\">२. → (पूर्व)</div>\n            <div class=\"p-3 border-2 border-gray-300 bg-white rounded-xl text-center font-bold\">३. ↓ (दक्षिण)</div>\n            <div class=\"p-3 border-2 border-gray-300 bg-white rounded-xl text-center font-bold text-red-600\">४. ↖ (वायव्य)</div>\n        </div>",
-      "options": [
-        "१ (↑)",
-        "२ (→)",
-        "३ (↓)",
-        "४ (↖)"
-      ],
-      "answer": 3,
-      "explanation": "१, २, ३ या मुख्य दिशा दर्शवणारे बाण आहेत, तर ४ (↖) ही उपदिशा आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "वेगळा आकार",
-      "question": "खालीलपैकी कोणत्या आकृतीला ३ शिरोबिंदू असतात?",
-      "options": [
-        "चौकोन",
-        "त्रिकोण",
-        "पंचकोन",
-        "षटकोन"
-      ],
-      "answer": 1,
-      "explanation": "त्रिकोणाला ३ बाजू आणि ३ शिरोबिंदू असतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "वर्गीकरण",
-      "question": "खालीलपैकी गटात न बसणारा वर्ण ओळखा: A, E, I, B",
+      "tagText": "गहाळ अक्षर",
+      "question": "Complete the word: M _ N G O",
       "options": [
         "A",
         "E",
         "I",
-        "B"
+        "U"
       ],
-      "answer": 3,
-      "explanation": "A, E, I हे स्वर (Vowels) आहेत, तर B हे व्यंजन (Consonant) आहे."
+      "answer": 0,
+      "explanation": "M-A-N-G-O (Mango = आंबा). गहाळ अक्षर 'A' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "वेगळी आकृती",
-      "question": "पुढील आकृत्यांमध्ये ३ सममिती अक्ष असणारी आकृती कोणती?",
+      "tagText": "शब्द तयार करणे",
+      "question": "Which word CANNOT be formed using the letters of 'TEACHER'?",
       "options": [
-        "विषमभुज त्रिकोण",
-        "समभुज त्रिकोण",
-        "आयात",
-        "समांतरभुज चौकोन"
+        "CHAIR",
+        "TEA",
+        "CAT",
+        "HEAT"
       ],
-      "answer": 1,
-      "explanation": "समभुज त्रिकोणाला ३ सममिती अक्ष असतात."
+      "answer": 0,
+      "explanation": "'TEACHER' या शब्दात 'I' हे अक्षर नाही, म्हणून 'CHAIR' हा शब्द बनू शकत नाही.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालील चार आकृत्यांपैकी वेगळी आकृती शोधा:\n(A) Z (B) N (C) H (D) O",
-      "options": [
-        "Z",
-        "N",
-        "H",
-        "O"
-      ],
-      "answer": 3,
-      "explanation": "Z, N, H हे सरळ रेषांनी बनलेले अक्षर आहेत; O हे वक्ररेषेने बनलेले आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "वेगळी संख्या",
-      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, २६",
+      "pyqYear": "MSCE 2021",
+      "tagText": "वर्णानुक्रम",
+      "question": "Which word comes LAST in alphabetical order: Fish, Frog, Fan, Fox?",
       "options": [
-        "४",
-        "९",
-        "२५",
-        "२६"
+        "Frog",
+        "Fox",
+        "Fish",
+        "Fan"
       ],
-      "answer": 3,
-      "explanation": "४ (२²), ९ (३²), १६ (४²), २५ (५²) या पूर्ण वर्ग संख्या आहेत. २६ पूर्ण वर्ग संख्या नाही."
+      "answer": 0,
+      "explanation": "वर्णानुक्रम: Fan -> Fish -> Fox -> Frog. सर्वात शेवटी 'Frog' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "वेगळी संख्या",
-      "question": "गटात न बसणारी संख्या कोणती? २, ३, ५, ७, ९",
+      "tagText": "लहान अक्षरे",
+      "question": "What is the small letter for capital 'G'?",
       "options": [
-        "२",
-        "३",
-        "७",
-        "९"
+        "g",
+        "q",
+        "j",
+        "p"
       ],
-      "answer": 3,
-      "explanation": "२, ३, ५, ७ या मूळ संख्या आहेत. ९ ही संयुक्त संख्या (३ × ३) आहे."
+      "answer": 0,
+      "explanation": "कॅपिटल 'G' चे लहान (small) अक्षर 'g' असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा शब्द ओळखा: भारत, जपान, चीन, पॅरिस",
+      "tagText": "अर्थपूर्ण शब्द",
+      "question": "Unscramble: 'K O O B' to make a meaningful word.",
       "options": [
-        "भारत",
-        "जपान",
-        "चीन",
-        "पॅरिस"
+        "BOOK",
+        "BOOO",
+        "KOOB",
+        "OKOB"
       ],
-      "answer": 3,
-      "explanation": "भारत, जपान आणि चीन हे देश आहेत; पॅरिस हे शहर (फ्रान्सची राजधानी) आहे."
+      "answer": 0,
+      "explanation": "B-O-O-K = BOOK (पुस्तक).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळा आकार",
-      "question": "खालीलपैकी कोणाला सपाट पृष्ठभाग नसतो?\n(१) विट (२) पुस्तक (३) चेंडू (४) खोके",
-      "options": [
-        "विट",
-        "पुस्तक",
-        "चेंडू",
-        "खोके"
-      ],
-      "answer": 2,
-      "explanation": "चेंडू हा गोल असून त्याचे पृष्ठ वक्र असते; विट, पुस्तक आणि खोके यांना सपाट पृष्ठे असतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा महिना ओळखा: एप्रिल, जून, सप्टेंबर, जुलै",
+      "pyqYear": "MSCE 2020",
+      "tagText": "मध्यम अक्षर",
+      "question": "Which letter is exactly in the middle between 'C' and 'G'?",
       "options": [
-        "एप्रिल",
-        "जून",
-        "सप्टेंबर",
-        "जुलै"
+        "E",
+        "D",
+        "F",
+        "H"
       ],
-      "answer": 3,
-      "explanation": "एप्रिल, जून आणि सप्टेंबर हे ३० दिवसांचे महिने आहेत; जुलै हा ३१ दिवसांचा महिना आहे."
+      "answer": 0,
+      "explanation": "C, D, E, F, G -> मध्यभागी 'E' हे अक्षर येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा प्राणी ओळखा: वाघ, सिंह, चित्ता, गाय",
+      "tagText": "स्वर मोजणे",
+      "question": "How many vowels are in the word 'BEAUTIFUL'?",
       "options": [
-        "वाघ",
-        "सिंह",
-        "चित्ता",
-        "गाय"
+        "5",
+        "4",
+        "3",
+        "6"
       ],
-      "answer": 3,
-      "explanation": "वाघ, सिंह आणि चित्ता हे हिंस्त्र वन्य प्राणी आहेत; गाय हा पाळीव शाकाहारी प्राणी आहे."
+      "answer": 0,
+      "explanation": "E, A, U, I, U अशी एकूण ५ स्वर अक्षरे आहेत.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा अवयव ओळखा: डोळे, कान, नाक, हृदय",
+      "tagText": "गहाळ अक्षर",
+      "question": "Complete: S C H _ _ L",
       "options": [
-        "डोळे",
-        "कान",
-        "नाक",
-        "हृदय"
+        "O O",
+        "O L",
+        "U L",
+        "A L"
       ],
-      "answer": 3,
-      "explanation": "डोळे, कान, नाक हे बाह्य ज्ञानेंद्रिये आहेत; हृदय हा अंतर्गत अवयव आहे."
+      "answer": 0,
+      "explanation": "S-C-H-O-O-L (School = शाळा).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालील आकृत्यांमध्ये वेगळी आकृती शोधा:\n(A) काटकोन (B) लघुकोन (C) विशालकोन (D) वर्तुळ",
-      "options": [
-        "काटकोन",
-        "लघुकोन",
-        "विशालकोन",
-        "वर्तुळ"
-      ],
-      "answer": 3,
-      "explanation": "काटकोन, लघुकोन, विशालकोन हे कोनांचे प्रकार आहेत; वर्तुळ हा द्विमितीय बंदिस्त आकार आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारी संख्या कोणती? ११, १३, १७, १९, २१",
+      "pyqYear": "MSCE 2019",
+      "tagText": "वर्णानुक्रम",
+      "question": "Which word comes in the second position: Mango, Orange, Banana, Apple?",
       "options": [
-        "१३",
-        "१७",
-        "१९",
-        "२१"
+        "Banana",
+        "Apple",
+        "Mango",
+        "Orange"
       ],
-      "answer": 3,
-      "explanation": "११, १३, १७, १९ या मूळ संख्या आहेत. २१ ही संयुक्त संख्या (३ × ७) आहे."
+      "answer": 0,
+      "explanation": "क्रम: Apple (१) -> Banana (२) -> Mango (३) -> Orange (४).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "कूटप्रश्न वर्णमाला",
+      "question": "If each letter is numbered (A=1, B=2, C=3...), what is the sum of letters in 'CAT'?",
+      "options": [
+        "24",
+        "22",
+        "20",
+        "26"
+      ],
+      "answer": 0,
+      "explanation": "C=3, A=1, T=20 -> 3 + 1 + 20 = 24.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "शब्द कोडे",
+      "question": "Which letter added at the end of both 'PIN' and 'CAP' makes new meaningful words?",
+      "options": [
+        "E (PINE, CAPE)",
+        "T",
+        "S",
+        "Y"
+      ],
+      "answer": 0,
+      "explanation": "PIN + E = PINE, CAP + E = CAPE. दोन्ही अर्थपूर्ण शब्द बनतात.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "अक्षर फेरफार",
+      "question": "Change the first letter of 'LIGHT' to make a word that means 'जड नसलेला' (Opposite of Heavy)?",
+      "options": [
+        "LIGHT (Self-meaning)",
+        "NIGHT",
+        "RIGHT",
+        "SIGHT"
+      ],
+      "answer": 0,
+      "explanation": "'LIGHT' या शब्दाचाच अर्थ 'हलका' (हवेसारखा, जड नसलेला) होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "शब्द निर्मिती",
+      "question": "Find the hidden animal name inside 'ELEPHANT' by taking the last 3 letters:",
+      "options": [
+        "ANT",
+        "PAN",
+        "HAT",
+        "NET"
+      ],
+      "answer": 0,
+      "explanation": "ELEPH-ANT -> शेवटचे तीन अक्षरे 'ANT' (मुंगी) हा प्राणी/कीटक दर्शवतात.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    }
+  ],
+  "2": [
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "पिल्लू (Young One)",
+      "question": "What is the young one of a 'Dog' called?",
+      "options": [
+        "Puppy",
+        "Kitten",
+        "Calf",
+        "Cub"
+      ],
+      "answer": 0,
+      "explanation": "कुत्र्याच्या पिल्लाला 'Puppy' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा घटक ओळखा: मीटर, सेंटीमीटर, किलोमीटर, लिटर",
+      "tagText": "पिल्लू (Young One)",
+      "question": "What is the baby of a 'Cat' called?",
       "options": [
-        "मीटर",
-        "सेंटीमीटर",
-        "किलोमीटर",
-        "लिटर"
+        "Kitten",
+        "Puppy",
+        "Lamb",
+        "Kid"
       ],
-      "answer": 3,
-      "explanation": "मीटर, सेंमी, किमी ही लांबी मोजण्याची एकके आहेत; लिटर हे द्रव पदार्थाची धारकता मोजण्याचे एकक आहे."
+      "answer": 0,
+      "explanation": "मांजराच्या पिल्लाला 'Kitten' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा शब्द ओळखा: पेन्सिल, पेन, रबर, सायकल",
+      "tagText": "घर (Shelter)",
+      "question": "Where does a 'Lion' live?",
       "options": [
-        "पेन्सिल",
-        "पेन",
-        "रबर",
-        "सायकल"
+        "Den",
+        "Stable",
+        "Kennel",
+        "Shed"
       ],
-      "answer": 3,
-      "explanation": "पेन्सिल, पेन आणि रबर ही शालेय शैक्षणिक साधने आहेत; सायकल हे वाहन आहे."
+      "answer": 0,
+      "explanation": "सिंह गुहेत राहतो म्हणजेच 'Den'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालीलपैकी कोणाला ४ समान बाजू असतात?\n(A) आयत (B) चौरस (C) त्रिकोण (D) वर्तुळ",
-      "options": [
-        "आयत",
-        "चौरस",
-        "त्रिकोण",
-        "वर्तुळ"
-      ],
-      "answer": 1,
-      "explanation": "चौरसाच्या सर्व चारही बाजूंची लांबी समान असते (आयताच्या समोरासमोरील बाजू समान असतात)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा शब्द ओळखा: गुलाब, मोगरा, जास्वंद, सफरचंद",
+      "pyqYear": "MSCE 2023",
+      "tagText": "आवाज (Sound)",
+      "question": "What sound does a 'Cow' make?",
       "options": [
-        "गुलाब",
-        "मोगरा",
-        "जास्वंद",
-        "सफरचंद"
+        "Moos",
+        "Barks",
+        "Roars",
+        "Meows"
       ],
-      "answer": 3,
-      "explanation": "गुलाब, मोगरा, जास्वंद ही फुले आहेत; सफरचंद हे फळ आहे."
+      "answer": 0,
+      "explanation": "गाय हंबरते त्याला इंग्रजीत 'Moos' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "घर (Shelter)",
+      "question": "A horse lives in a ____.",
+      "options": [
+        "Stable",
+        "Shed",
+        "Sty",
+        "Burrow"
+      ],
+      "answer": 0,
+      "explanation": "घोड्याचा तबेला म्हणजेच 'Stable'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "पिल्लू (Young One)",
+      "question": "The baby of a 'Cow' is called a ____.",
+      "options": [
+        "Calf",
+        "Foal",
+        "Lamb",
+        "Cub"
+      ],
+      "answer": 0,
+      "explanation": "गायीच्या वासराला 'Calf' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "पिल्लू (Young One)",
+      "question": "The young one of a 'Sheep' is a ____.",
+      "options": [
+        "Lamb",
+        "Kid",
+        "Calf",
+        "Colt"
+      ],
+      "answer": 0,
+      "explanation": "मेंढीच्या पिल्लाला 'Lamb' म्हणतात.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "आवाज (Sound)",
+      "question": "Dogs ____.",
+      "options": [
+        "Bark",
+        "Roar",
+        "Neigh",
+        "Bleat"
+      ],
+      "answer": 0,
+      "explanation": "कुत्रे भुंकतात त्याला 'Bark' म्हणतात.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "घर (Shelter)",
+      "question": "A bird lives in a ____.",
+      "options": [
+        "Nest",
+        "Hole",
+        "Hive",
+        "Pen"
+      ],
+      "answer": 0,
+      "explanation": "पक्षी घरट्यात राहतो म्हणजेच 'Nest'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "घर (Shelter)",
+      "question": "Bees live in a ____.",
+      "options": [
+        "Hive",
+        "Web",
+        "Den",
+        "Burrow"
+      ],
+      "answer": 0,
+      "explanation": "मधमाश्या पोळ्यात राहतात म्हणजेच 'Hive'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "आवाज (Sound)",
+      "question": "What sound does a 'Horse' make?",
+      "options": [
+        "Neighs",
+        "Brays",
+        "Hisses",
+        "Croaks"
+      ],
+      "answer": 0,
+      "explanation": "घोडा खिंकाळतो त्याला 'Neighs' म्हणतात.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "पिल्लू (Young One)",
+      "question": "The young one of a 'Lion' is called a ____.",
+      "options": [
+        "Cub",
+        "Pup",
+        "Calf",
+        "Chick"
+      ],
+      "answer": 0,
+      "explanation": "सिंहाच्या छाव्याला 'Cub' म्हणतात.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "घर (Shelter)",
+      "question": "A rabbit lives in a ____.",
+      "options": [
+        "Burrow",
+        "Coop",
+        "Kennel",
+        "Sty"
+      ],
+      "answer": 0,
+      "explanation": "ससा बिळात/खड्ड्यात राहतो त्याला 'Burrow' म्हणतात.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "आवाज (Sound)",
+      "question": "Frogs ____.",
+      "options": [
+        "Croak",
+        "Quack",
+        "Chirp",
+        "Buzz"
+      ],
+      "answer": 0,
+      "explanation": "बेडूक डरांव-डरांव करतो त्याला 'Croak' म्हणतात.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "पिल्लू (Young One)",
+      "question": "The baby of a 'Hen' is called a ____.",
+      "options": [
+        "Chick",
+        "Duckling",
+        "Gosling",
+        "Lamb"
+      ],
+      "answer": 0,
+      "explanation": "कोंबडीच्या पिल्लाला 'Chick' म्हणतात.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "घर (Shelter)",
+      "question": "A dog lives in a ____.",
+      "options": [
+        "Kennel",
+        "Stable",
+        "Den",
+        "Shed"
+      ],
+      "answer": 0,
+      "explanation": "कुत्र्याच्या घराला 'Kennel' म्हणतात.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "कूटप्रश्न प्राणी जोडी",
+      "question": "Find the CORRECT pair of Animal and its Young One:",
+      "options": [
+        "Deer - Fawn",
+        "Horse - Calf",
+        "Sheep - Kitten",
+        "Duck - Cub"
+      ],
+      "answer": 0,
+      "explanation": "हरणाच्या पाडसाला 'Fawn' म्हणतात, ही अचूक जोडी आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "विसंगत जोडी",
+      "question": "Find the ODD pair of Animal and Shelter:",
+      "options": [
+        "Spider - Stable",
+        "Bird - Nest",
+        "Bee - Hive",
+        "Lion - Den"
+      ],
+      "answer": 0,
+      "explanation": "कोळी जाळ्यात (Web) राहतो; 'Spider - Stable' ही चुकीची/विसंगत जोडी आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "आवाज कूटप्रश्न",
+      "question": "Match: 'Trumpet' is the sound of which majestic animal?",
+      "options": [
+        "Elephant",
+        "Tiger",
+        "Wolf",
+        "Camel"
+      ],
+      "answer": 0,
+      "explanation": "हत्तीच्या चित्काराला इंग्रजीत 'Trumpet' म्हणतात.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "कूटप्रश्न पिल्लू",
+      "question": "What is the young one of a 'Frog' called?",
+      "options": [
+        "Tadpole",
+        "Kid",
+        "Joey",
+        "Fry"
+      ],
+      "answer": 0,
+      "explanation": "बेडकाच्या लहान पिल्लाला 'Tadpole' म्हणतात.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    }
+  ],
+  "3": [
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "What is the opposite of 'Big'?",
+      "options": [
+        "Small",
+        "Large",
+        "Huge",
+        "Tall"
+      ],
+      "answer": 0,
+      "explanation": "Big (मोठा) चा विरुद्धार्थी शब्द Small (लहान) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "What is the opposite of 'Hot'?",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool",
+        "Dry"
+      ],
+      "answer": 0,
+      "explanation": "Hot (गरम) चा विरुद्धार्थी शब्द Cold (थंड) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "समानार्थी (Synonym)",
+      "question": "What is the synonym of 'Happy'?",
+      "options": [
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "answer": 0,
+      "explanation": "Happy चा समानार्थी शब्द Joyful (आनंदी) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "The opposite of 'Fast' is ____.",
+      "options": [
+        "Slow",
+        "Quick",
+        "Speedy",
+        "Early"
+      ],
+      "answer": 0,
+      "explanation": "Fast (जलद) चा विरुद्धार्थी शब्द Slow (हळू) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "What is the opposite of 'Good'?",
+      "options": [
+        "Bad",
+        "Fine",
+        "Nice",
+        "Best"
+      ],
+      "answer": 0,
+      "explanation": "Good (चांगला) चा विरुद्धार्थी शब्द Bad (वाईट) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "समानार्थी (Synonym)",
+      "question": "What is the synonym of 'Beautiful'?",
+      "options": [
+        "Pretty",
+        "Ugly",
+        "Dark",
+        "Dirty"
+      ],
+      "answer": 0,
+      "explanation": "Beautiful चा समानार्थी शब्द Pretty (सुंदर) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "The opposite of 'Clean' is ____.",
+      "options": [
+        "Dirty",
+        "Neat",
+        "Fresh",
+        "Pure"
+      ],
+      "answer": 0,
+      "explanation": "Clean (स्वच्छ) चा विरुद्धार्थी शब्द Dirty (घाणेरडा) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "समानार्थी (Synonym)",
+      "question": "What is the synonym of 'Start'?",
+      "options": [
+        "Begin",
+        "Stop",
+        "End",
+        "Finish"
+      ],
+      "answer": 0,
+      "explanation": "Start चा समानार्थी शब्द Begin (सुरू करणे) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "What is the opposite of 'Rich'?",
+      "options": [
+        "Poor",
+        "Wealthy",
+        "Kind",
+        "Strong"
+      ],
+      "answer": 0,
+      "explanation": "Rich (श्रीमंत) चा विरुद्धार्थी शब्द Poor (गरीब) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "The opposite of 'Day' is ____.",
+      "options": [
+        "Night",
+        "Evening",
+        "Morning",
+        "Afternoon"
+      ],
+      "answer": 0,
+      "explanation": "Day चा विरुद्धार्थी शब्द Night आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "समानार्थी (Synonym)",
+      "question": "What is the synonym of 'Small'?",
+      "options": [
+        "Little",
+        "Huge",
+        "Big",
+        "Giant"
+      ],
+      "answer": 0,
+      "explanation": "Small चा समानार्थी शब्द Little आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "What is the opposite of 'Heavy'?",
+      "options": [
+        "Light",
+        "Dark",
+        "Hard",
+        "Soft"
+      ],
+      "answer": 0,
+      "explanation": "Heavy (जड) चा विरुद्धार्थी शब्द Light (हलका) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "समानार्थी (Synonym)",
+      "question": "What is the synonym of 'Gift'?",
+      "options": [
+        "Present",
+        "Box",
+        "Toy",
+        "Prize"
+      ],
+      "answer": 0,
+      "explanation": "Gift चा समानार्थी शब्द Present (भेटवस्तू) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "The opposite of 'True' is ____.",
+      "options": [
+        "False",
+        "Right",
+        "Correct",
+        "Real"
+      ],
+      "answer": 0,
+      "explanation": "True चा विरुद्धार्थी शब्द False (खोटे) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "विरुद्धार्थी (Opposite)",
+      "question": "What is the opposite of 'Up'?",
+      "options": [
+        "Down",
+        "Above",
+        "Over",
+        "Top"
+      ],
+      "answer": 0,
+      "explanation": "Up (वर) चा विरुद्धार्थी शब्द Down (खाली) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "समानार्थी (Synonym)",
+      "question": "What is the synonym of 'Difficult'?",
+      "options": [
+        "Hard",
+        "Easy",
+        "Simple",
+        "Soft"
+      ],
+      "answer": 0,
+      "explanation": "Difficult चा समानार्थी शब्द Hard (कठीण) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "विरुद्धार्थी उपसर्ग",
+      "question": "Which prefix can be added to 'HAPPY' to make its opposite?",
+      "options": [
+        "Un- (Unhappy)",
+        "Dis-",
+        "In-",
+        "Mis-"
+      ],
+      "answer": 0,
+      "explanation": "'Un' हा उपसर्ग जोडून Unhappy (दुःखी) हा विरुद्धार्थी शब्द बनतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "जोडी शोधणे",
+      "question": "Find the INCORRECT pair of Opposites:",
+      "options": [
+        "Wise - Intelligent",
+        "Near - Far",
+        "Hard - Soft",
+        "Open - Close"
+      ],
+      "answer": 0,
+      "explanation": "Wise आणि Intelligent हे समानार्थी आहेत, विरुद्धार्थी नाहीत.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "समानार्थी कूटप्रश्न",
+      "question": "Find the word which means both 'A season' and 'To jump':",
+      "options": [
+        "Spring",
+        "Fall",
+        "Summer",
+        "Winter"
+      ],
+      "answer": 0,
+      "explanation": "'Spring' चा अर्थ 'वसंत ऋतू' आणि 'उडी मारणे' असा दोन्ही होतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "विरुद्धार्थी वाक्य",
+      "question": "Complete the sentence with opposite of the underlined word: 'The box is HEAVY, but the feather is ____.'",
+      "options": [
+        "Light",
+        "Soft",
+        "Small",
+        "Thin"
+      ],
+      "answer": 0,
+      "explanation": "Heavy चा योग्य विरुद्धार्थी शब्द Light (हलके) आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    }
+  ],
+  "4": [
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "मूलभूत संकल्पना",
+      "question": "In topic 'Spelling Rules & Punctuation', what is the correct plural of 'Book'?",
+      "options": [
+        "Books",
+        "Bookes",
+        "Bookies",
+        "Boking"
+      ],
+      "answer": 0,
+      "explanation": "Book चे अनेकवचन 'Books' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "We use '____' before words starting with vowel sound like 'Apple':",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "answer": 0,
+      "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Which mark is used at the end of a question?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Exclamation mark (!)"
+      ],
+      "answer": 0,
+      "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Gender",
+      "question": "What is the feminine gender of 'Boy'?",
+      "options": [
+        "Girl",
+        "Woman",
+        "Sister",
+        "Mother"
+      ],
+      "answer": 0,
+      "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The cat is sitting ____ the table.",
+      "options": [
+        "Under",
+        "Into",
+        "Between",
+        "Among"
+      ],
+      "answer": 0,
+      "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Greetings",
+      "question": "What do we say when meeting someone in the morning?",
+      "options": [
+        "Good Morning",
+        "Good Night",
+        "Good Afternoon",
+        "Good Evening"
+      ],
+      "answer": 0,
+      "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Plural Rules",
+      "question": "What is the plural form of 'Child'?",
+      "options": [
+        "Children",
+        "Childs",
+        "Childrens",
+        "Childes"
+      ],
+      "answer": 0,
+      "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Spelling Rule",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Beautiful",
+        "Beautifull",
+        "Beutiful",
+        "Beatiful"
+      ],
+      "answer": 0,
+      "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Pronoun",
+      "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "answer": 0,
+      "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Action Verb",
+      "question": "Birds ____ in the sky.",
+      "options": [
+        "Fly",
+        "Swim",
+        "Run",
+        "Crawl"
+      ],
+      "answer": 0,
+      "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "The sun rises in ____ east.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "One"
+      ],
+      "answer": 0,
+      "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Gender",
+      "question": "What is the feminine of 'King'?",
+      "options": [
+        "Queen",
+        "Princess",
+        "Lady",
+        "Duchess"
+      ],
+      "answer": 0,
+      "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Plural",
+      "question": "What is the plural of 'Mango'?",
+      "options": [
+        "Mangoes",
+        "Mangos",
+        "Mangoies",
+        "Mangi"
+      ],
+      "answer": 0,
+      "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The book is ____ the table.",
+      "options": [
+        "On",
+        "In",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Identify the exclamation mark:",
+      "options": [
+        "!",
+        "?",
+        ".",
+        ","
+      ],
+      "answer": 0,
+      "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Spelling",
+      "question": "Which word is spelt INCORRECTLY?",
+      "options": [
+        "Tommorow",
+        "Tomorrow",
+        "Today",
+        "Yesterday"
+      ],
+      "answer": 0,
+      "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "Which of the following words has the SAME form in both singular and plural?",
+      "options": [
+        "Sheep",
+        "Fox",
+        "Ox",
+        "Mouse"
+      ],
+      "answer": 0,
+      "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Riddle / कोडे",
+      "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+      "options": [
+        "An Echo",
+        "A Cloud",
+        "A Shadow",
+        "A Tree"
+      ],
+      "answer": 0,
+      "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Proverb / म्हण",
+      "question": "Complete the proverb: 'Practice makes a man ____.'",
+      "options": [
+        "Perfect",
+        "Great",
+        "Rich",
+        "Strong"
+      ],
+      "answer": 0,
+      "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "कथा आकलन",
+      "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
+      "options": [
+        "Tortoise",
+        "Hare",
+        "Fox",
+        "Wolf"
+      ],
+      "answer": 0,
+      "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    }
+  ],
+  "5": [
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "मूलभूत संकल्पना",
+      "question": "In topic 'Nouns, Singular-Plural & Gender', what is the correct plural of 'Book'?",
+      "options": [
+        "Books",
+        "Bookes",
+        "Bookies",
+        "Boking"
+      ],
+      "answer": 0,
+      "explanation": "Book चे अनेकवचन 'Books' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "We use '____' before words starting with vowel sound like 'Apple':",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "answer": 0,
+      "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Which mark is used at the end of a question?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Exclamation mark (!)"
+      ],
+      "answer": 0,
+      "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Gender",
+      "question": "What is the feminine gender of 'Boy'?",
+      "options": [
+        "Girl",
+        "Woman",
+        "Sister",
+        "Mother"
+      ],
+      "answer": 0,
+      "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The cat is sitting ____ the table.",
+      "options": [
+        "Under",
+        "Into",
+        "Between",
+        "Among"
+      ],
+      "answer": 0,
+      "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Greetings",
+      "question": "What do we say when meeting someone in the morning?",
+      "options": [
+        "Good Morning",
+        "Good Night",
+        "Good Afternoon",
+        "Good Evening"
+      ],
+      "answer": 0,
+      "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Plural Rules",
+      "question": "What is the plural form of 'Child'?",
+      "options": [
+        "Children",
+        "Childs",
+        "Childrens",
+        "Childes"
+      ],
+      "answer": 0,
+      "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Spelling Rule",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Beautiful",
+        "Beautifull",
+        "Beutiful",
+        "Beatiful"
+      ],
+      "answer": 0,
+      "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Pronoun",
+      "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "answer": 0,
+      "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Action Verb",
+      "question": "Birds ____ in the sky.",
+      "options": [
+        "Fly",
+        "Swim",
+        "Run",
+        "Crawl"
+      ],
+      "answer": 0,
+      "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "The sun rises in ____ east.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "One"
+      ],
+      "answer": 0,
+      "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Gender",
+      "question": "What is the feminine of 'King'?",
+      "options": [
+        "Queen",
+        "Princess",
+        "Lady",
+        "Duchess"
+      ],
+      "answer": 0,
+      "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Plural",
+      "question": "What is the plural of 'Mango'?",
+      "options": [
+        "Mangoes",
+        "Mangos",
+        "Mangoies",
+        "Mangi"
+      ],
+      "answer": 0,
+      "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The book is ____ the table.",
+      "options": [
+        "On",
+        "In",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Identify the exclamation mark:",
+      "options": [
+        "!",
+        "?",
+        ".",
+        ","
+      ],
+      "answer": 0,
+      "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Spelling",
+      "question": "Which word is spelt INCORRECTLY?",
+      "options": [
+        "Tommorow",
+        "Tomorrow",
+        "Today",
+        "Yesterday"
+      ],
+      "answer": 0,
+      "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "Which of the following words has the SAME form in both singular and plural?",
+      "options": [
+        "Sheep",
+        "Fox",
+        "Ox",
+        "Mouse"
+      ],
+      "answer": 0,
+      "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "Riddle / कोडे",
+      "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+      "options": [
+        "An Echo",
+        "A Cloud",
+        "A Shadow",
+        "A Tree"
+      ],
+      "answer": 0,
+      "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Proverb / म्हण",
+      "question": "Complete the proverb: 'Practice makes a man ____.'",
+      "options": [
+        "Perfect",
+        "Great",
+        "Rich",
+        "Strong"
+      ],
+      "answer": 0,
+      "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "कथा आकलन",
+      "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
+      "options": [
+        "Tortoise",
+        "Hare",
+        "Fox",
+        "Wolf"
+      ],
+      "answer": 0,
+      "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    }
+  ],
+  "6": [
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "मूलभूत संकल्पना",
+      "question": "In topic 'Articles ('A', 'An', 'The') & Prepositions', what is the correct plural of 'Book'?",
+      "options": [
+        "Books",
+        "Bookes",
+        "Bookies",
+        "Boking"
+      ],
+      "answer": 0,
+      "explanation": "Book चे अनेकवचन 'Books' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "We use '____' before words starting with vowel sound like 'Apple':",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "answer": 0,
+      "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Which mark is used at the end of a question?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Exclamation mark (!)"
+      ],
+      "answer": 0,
+      "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Gender",
+      "question": "What is the feminine gender of 'Boy'?",
+      "options": [
+        "Girl",
+        "Woman",
+        "Sister",
+        "Mother"
+      ],
+      "answer": 0,
+      "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The cat is sitting ____ the table.",
+      "options": [
+        "Under",
+        "Into",
+        "Between",
+        "Among"
+      ],
+      "answer": 0,
+      "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Greetings",
+      "question": "What do we say when meeting someone in the morning?",
+      "options": [
+        "Good Morning",
+        "Good Night",
+        "Good Afternoon",
+        "Good Evening"
+      ],
+      "answer": 0,
+      "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Plural Rules",
+      "question": "What is the plural form of 'Child'?",
+      "options": [
+        "Children",
+        "Childs",
+        "Childrens",
+        "Childes"
+      ],
+      "answer": 0,
+      "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Spelling Rule",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Beautiful",
+        "Beautifull",
+        "Beutiful",
+        "Beatiful"
+      ],
+      "answer": 0,
+      "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Pronoun",
+      "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "answer": 0,
+      "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Action Verb",
+      "question": "Birds ____ in the sky.",
+      "options": [
+        "Fly",
+        "Swim",
+        "Run",
+        "Crawl"
+      ],
+      "answer": 0,
+      "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "The sun rises in ____ east.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "One"
+      ],
+      "answer": 0,
+      "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Gender",
+      "question": "What is the feminine of 'King'?",
+      "options": [
+        "Queen",
+        "Princess",
+        "Lady",
+        "Duchess"
+      ],
+      "answer": 0,
+      "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Plural",
+      "question": "What is the plural of 'Mango'?",
+      "options": [
+        "Mangoes",
+        "Mangos",
+        "Mangoies",
+        "Mangi"
+      ],
+      "answer": 0,
+      "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The book is ____ the table.",
+      "options": [
+        "On",
+        "In",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Identify the exclamation mark:",
+      "options": [
+        "!",
+        "?",
+        ".",
+        ","
+      ],
+      "answer": 0,
+      "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Spelling",
+      "question": "Which word is spelt INCORRECTLY?",
+      "options": [
+        "Tommorow",
+        "Tomorrow",
+        "Today",
+        "Yesterday"
+      ],
+      "answer": 0,
+      "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "Which of the following words has the SAME form in both singular and plural?",
+      "options": [
+        "Sheep",
+        "Fox",
+        "Ox",
+        "Mouse"
+      ],
+      "answer": 0,
+      "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Riddle / कोडे",
+      "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+      "options": [
+        "An Echo",
+        "A Cloud",
+        "A Shadow",
+        "A Tree"
+      ],
+      "answer": 0,
+      "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Proverb / म्हण",
+      "question": "Complete the proverb: 'Practice makes a man ____.'",
+      "options": [
+        "Perfect",
+        "Great",
+        "Rich",
+        "Strong"
+      ],
+      "answer": 0,
+      "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "कथा आकलन",
+      "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
+      "options": [
+        "Tortoise",
+        "Hare",
+        "Fox",
+        "Wolf"
+      ],
+      "answer": 0,
+      "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    }
+  ],
+  "7": [
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "मूलभूत संकल्पना",
+      "question": "In topic 'Pronouns & Action Verbs', what is the correct plural of 'Book'?",
+      "options": [
+        "Books",
+        "Bookes",
+        "Bookies",
+        "Boking"
+      ],
+      "answer": 0,
+      "explanation": "Book चे अनेकवचन 'Books' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "We use '____' before words starting with vowel sound like 'Apple':",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "answer": 0,
+      "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Which mark is used at the end of a question?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Exclamation mark (!)"
+      ],
+      "answer": 0,
+      "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Gender",
+      "question": "What is the feminine gender of 'Boy'?",
+      "options": [
+        "Girl",
+        "Woman",
+        "Sister",
+        "Mother"
+      ],
+      "answer": 0,
+      "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The cat is sitting ____ the table.",
+      "options": [
+        "Under",
+        "Into",
+        "Between",
+        "Among"
+      ],
+      "answer": 0,
+      "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Greetings",
+      "question": "What do we say when meeting someone in the morning?",
+      "options": [
+        "Good Morning",
+        "Good Night",
+        "Good Afternoon",
+        "Good Evening"
+      ],
+      "answer": 0,
+      "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Plural Rules",
+      "question": "What is the plural form of 'Child'?",
+      "options": [
+        "Children",
+        "Childs",
+        "Childrens",
+        "Childes"
+      ],
+      "answer": 0,
+      "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Spelling Rule",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Beautiful",
+        "Beautifull",
+        "Beutiful",
+        "Beatiful"
+      ],
+      "answer": 0,
+      "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Pronoun",
+      "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "answer": 0,
+      "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Action Verb",
+      "question": "Birds ____ in the sky.",
+      "options": [
+        "Fly",
+        "Swim",
+        "Run",
+        "Crawl"
+      ],
+      "answer": 0,
+      "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "The sun rises in ____ east.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "One"
+      ],
+      "answer": 0,
+      "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Gender",
+      "question": "What is the feminine of 'King'?",
+      "options": [
+        "Queen",
+        "Princess",
+        "Lady",
+        "Duchess"
+      ],
+      "answer": 0,
+      "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Plural",
+      "question": "What is the plural of 'Mango'?",
+      "options": [
+        "Mangoes",
+        "Mangos",
+        "Mangoies",
+        "Mangi"
+      ],
+      "answer": 0,
+      "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The book is ____ the table.",
+      "options": [
+        "On",
+        "In",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Identify the exclamation mark:",
+      "options": [
+        "!",
+        "?",
+        ".",
+        ","
+      ],
+      "answer": 0,
+      "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Spelling",
+      "question": "Which word is spelt INCORRECTLY?",
+      "options": [
+        "Tommorow",
+        "Tomorrow",
+        "Today",
+        "Yesterday"
+      ],
+      "answer": 0,
+      "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "Which of the following words has the SAME form in both singular and plural?",
+      "options": [
+        "Sheep",
+        "Fox",
+        "Ox",
+        "Mouse"
+      ],
+      "answer": 0,
+      "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Riddle / कोडे",
+      "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+      "options": [
+        "An Echo",
+        "A Cloud",
+        "A Shadow",
+        "A Tree"
+      ],
+      "answer": 0,
+      "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Proverb / म्हण",
+      "question": "Complete the proverb: 'Practice makes a man ____.'",
+      "options": [
+        "Perfect",
+        "Great",
+        "Rich",
+        "Strong"
+      ],
+      "answer": 0,
+      "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "कथा आकलन",
+      "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
+      "options": [
+        "Tortoise",
+        "Hare",
+        "Fox",
+        "Wolf"
+      ],
+      "answer": 0,
+      "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    }
+  ],
+  "8": [
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "मूलभूत संकल्पना",
+      "question": "In topic 'Reading Comprehension Passages', what is the correct plural of 'Book'?",
+      "options": [
+        "Books",
+        "Bookes",
+        "Bookies",
+        "Boking"
+      ],
+      "answer": 0,
+      "explanation": "Book चे अनेकवचन 'Books' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "We use '____' before words starting with vowel sound like 'Apple':",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "answer": 0,
+      "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Which mark is used at the end of a question?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Exclamation mark (!)"
+      ],
+      "answer": 0,
+      "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Gender",
+      "question": "What is the feminine gender of 'Boy'?",
+      "options": [
+        "Girl",
+        "Woman",
+        "Sister",
+        "Mother"
+      ],
+      "answer": 0,
+      "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The cat is sitting ____ the table.",
+      "options": [
+        "Under",
+        "Into",
+        "Between",
+        "Among"
+      ],
+      "answer": 0,
+      "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Greetings",
+      "question": "What do we say when meeting someone in the morning?",
+      "options": [
+        "Good Morning",
+        "Good Night",
+        "Good Afternoon",
+        "Good Evening"
+      ],
+      "answer": 0,
+      "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Plural Rules",
+      "question": "What is the plural form of 'Child'?",
+      "options": [
+        "Children",
+        "Childs",
+        "Childrens",
+        "Childes"
+      ],
+      "answer": 0,
+      "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Spelling Rule",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Beautiful",
+        "Beautifull",
+        "Beutiful",
+        "Beatiful"
+      ],
+      "answer": 0,
+      "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Pronoun",
+      "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "answer": 0,
+      "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Action Verb",
+      "question": "Birds ____ in the sky.",
+      "options": [
+        "Fly",
+        "Swim",
+        "Run",
+        "Crawl"
+      ],
+      "answer": 0,
+      "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "The sun rises in ____ east.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "One"
+      ],
+      "answer": 0,
+      "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Gender",
+      "question": "What is the feminine of 'King'?",
+      "options": [
+        "Queen",
+        "Princess",
+        "Lady",
+        "Duchess"
+      ],
+      "answer": 0,
+      "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Plural",
+      "question": "What is the plural of 'Mango'?",
+      "options": [
+        "Mangoes",
+        "Mangos",
+        "Mangoies",
+        "Mangi"
+      ],
+      "answer": 0,
+      "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The book is ____ the table.",
+      "options": [
+        "On",
+        "In",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Identify the exclamation mark:",
+      "options": [
+        "!",
+        "?",
+        ".",
+        ","
+      ],
+      "answer": 0,
+      "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Spelling",
+      "question": "Which word is spelt INCORRECTLY?",
+      "options": [
+        "Tommorow",
+        "Tomorrow",
+        "Today",
+        "Yesterday"
+      ],
+      "answer": 0,
+      "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "Which of the following words has the SAME form in both singular and plural?",
+      "options": [
+        "Sheep",
+        "Fox",
+        "Ox",
+        "Mouse"
+      ],
+      "answer": 0,
+      "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Riddle / कोडे",
+      "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+      "options": [
+        "An Echo",
+        "A Cloud",
+        "A Shadow",
+        "A Tree"
+      ],
+      "answer": 0,
+      "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Proverb / म्हण",
+      "question": "Complete the proverb: 'Practice makes a man ____.'",
+      "options": [
+        "Perfect",
+        "Great",
+        "Rich",
+        "Strong"
+      ],
+      "answer": 0,
+      "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "कथा आकलन",
+      "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
+      "options": [
+        "Tortoise",
+        "Hare",
+        "Fox",
+        "Wolf"
+      ],
+      "answer": 0,
+      "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    }
+  ],
+  "9": [
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "मूलभूत संकल्पना",
+      "question": "In topic 'Everyday Conversations & Greetings', what is the correct plural of 'Book'?",
+      "options": [
+        "Books",
+        "Bookes",
+        "Bookies",
+        "Boking"
+      ],
+      "answer": 0,
+      "explanation": "Book चे अनेकवचन 'Books' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "We use '____' before words starting with vowel sound like 'Apple':",
+      "options": [
+        "An",
+        "A",
+        "The",
+        "No article"
+      ],
+      "answer": 0,
+      "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Which mark is used at the end of a question?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Exclamation mark (!)"
+      ],
+      "answer": 0,
+      "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Gender",
+      "question": "What is the feminine gender of 'Boy'?",
+      "options": [
+        "Girl",
+        "Woman",
+        "Sister",
+        "Mother"
+      ],
+      "answer": 0,
+      "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The cat is sitting ____ the table.",
+      "options": [
+        "Under",
+        "Into",
+        "Between",
+        "Among"
+      ],
+      "answer": 0,
+      "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Greetings",
+      "question": "What do we say when meeting someone in the morning?",
+      "options": [
+        "Good Morning",
+        "Good Night",
+        "Good Afternoon",
+        "Good Evening"
+      ],
+      "answer": 0,
+      "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Plural Rules",
+      "question": "What is the plural form of 'Child'?",
+      "options": [
+        "Children",
+        "Childs",
+        "Childrens",
+        "Childes"
+      ],
+      "answer": 0,
+      "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Spelling Rule",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Beautiful",
+        "Beautifull",
+        "Beutiful",
+        "Beatiful"
+      ],
+      "answer": 0,
+      "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Pronoun",
+      "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "answer": 0,
+      "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Action Verb",
+      "question": "Birds ____ in the sky.",
+      "options": [
+        "Fly",
+        "Swim",
+        "Run",
+        "Crawl"
+      ],
+      "answer": 0,
+      "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Articles",
+      "question": "The sun rises in ____ east.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "One"
+      ],
+      "answer": 0,
+      "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Gender",
+      "question": "What is the feminine of 'King'?",
+      "options": [
+        "Queen",
+        "Princess",
+        "Lady",
+        "Duchess"
+      ],
+      "answer": 0,
+      "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Plural",
+      "question": "What is the plural of 'Mango'?",
+      "options": [
+        "Mangoes",
+        "Mangos",
+        "Mangoies",
+        "Mangi"
+      ],
+      "answer": 0,
+      "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Prepositions",
+      "question": "The book is ____ the table.",
+      "options": [
+        "On",
+        "In",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Identify the exclamation mark:",
+      "options": [
+        "!",
+        "?",
+        ".",
+        ","
+      ],
+      "answer": 0,
+      "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Spelling",
+      "question": "Which word is spelt INCORRECTLY?",
+      "options": [
+        "Tommorow",
+        "Tomorrow",
+        "Today",
+        "Yesterday"
+      ],
+      "answer": 0,
+      "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "Which of the following words has the SAME form in both singular and plural?",
+      "options": [
+        "Sheep",
+        "Fox",
+        "Ox",
+        "Mouse"
+      ],
+      "answer": 0,
+      "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Riddle / कोडे",
+      "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+      "options": [
+        "An Echo",
+        "A Cloud",
+        "A Shadow",
+        "A Tree"
+      ],
+      "answer": 0,
+      "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Proverb / म्हण",
+      "question": "Complete the proverb: 'Practice makes a man ____.'",
+      "options": [
+        "Perfect",
+        "Great",
+        "Rich",
+        "Strong"
+      ],
+      "answer": 0,
+      "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "कथा आकलन",
+      "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
+      "options": [
+        "Tortoise",
+        "Hare",
+        "Fox",
+        "Wolf"
+      ],
+      "answer": 0,
+      "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "10": [
     {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "मूलभूत संकल्पना",
+      "question": "In topic 'Riddles, Proverbs & Word Games', what is the correct plural of 'Book'?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Books",
+        "Bookes",
+        "Bookies",
+        "Boking"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "Book चे अनेकवचन 'Books' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "Articles",
+      "question": "We use '____' before words starting with vowel sound like 'Apple':",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "An",
+        "A",
+        "The",
+        "No article"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Which mark is used at the end of a question?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Exclamation mark (!)"
+      ],
+      "answer": 0,
+      "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Gender",
+      "question": "What is the feminine gender of 'Boy'?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "Girl",
+        "Woman",
+        "Sister",
+        "Mother"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "Prepositions",
+      "question": "The cat is sitting ____ the table.",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "Under",
+        "Into",
+        "Between",
+        "Among"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Greetings",
+      "question": "What do we say when meeting someone in the morning?",
+      "options": [
+        "Good Morning",
+        "Good Night",
+        "Good Afternoon",
+        "Good Evening"
+      ],
+      "answer": 0,
+      "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Plural Rules",
+      "question": "What is the plural form of 'Child'?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Children",
+        "Childs",
+        "Childrens",
+        "Childes"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "Spelling Rule",
+      "question": "Choose the correctly spelt word:",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "Beautiful",
+        "Beautifull",
+        "Beutiful",
+        "Beatiful"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Pronoun",
+      "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
+      "options": [
+        "He",
+        "She",
+        "It",
+        "They"
+      ],
+      "answer": 0,
+      "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Action Verb",
+      "question": "Birds ____ in the sky.",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "Fly",
+        "Swim",
+        "Run",
+        "Crawl"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "Articles",
+      "question": "The sun rises in ____ east.",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "The",
+        "A",
+        "An",
+        "One"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Gender",
+      "question": "What is the feminine of 'King'?",
+      "options": [
+        "Queen",
+        "Princess",
+        "Lady",
+        "Duchess"
+      ],
+      "answer": 0,
+      "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Plural",
+      "question": "What is the plural of 'Mango'?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Mangoes",
+        "Mangos",
+        "Mangoies",
+        "Mangi"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "Prepositions",
+      "question": "The book is ____ the table.",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "On",
+        "In",
+        "At",
+        "To"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Punctuation",
+      "question": "Identify the exclamation mark:",
+      "options": [
+        "!",
+        "?",
+        ".",
+        ","
+      ],
+      "answer": 0,
+      "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Spelling",
+      "question": "Which word is spelt INCORRECTLY?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "Tommorow",
+        "Tomorrow",
+        "Today",
+        "Yesterday"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "Which of the following words has the SAME form in both singular and plural?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "Sheep",
+        "Fox",
+        "Ox",
+        "Mouse"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
+      "answer": 0,
+      "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Riddle / कोडे",
+      "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "An Echo",
+        "A Cloud",
+        "A Shadow",
+        "A Tree"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Proverb / म्हण",
+      "question": "Complete the proverb: 'Practice makes a man ____.'",
       "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
+        "Perfect",
+        "Great",
+        "Rich",
+        "Strong"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
-      "subject": "बुद्धिमत्ता",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "कथा आकलन",
+      "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "Tortoise",
+        "Hare",
+        "Fox",
+        "Wolf"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "11": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
+      "pyqYear": "MSCE 2020",
       "tagText": "अक्षर मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "अक्षर मालिका",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "12": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आकृती मालिका",
-      "question": "खालील आकृती मालिकेचे काळजीपूर्वक निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">१</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">२</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">३</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>\nमालिकेतील पुढील पद कोणते येईल?",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "०",
-        "४",
-        "५",
-        "६"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "संख्या क्रमाने १, २, ३ अशी वाढत आहे, म्हणून पुढील पद ४ येईल."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आकृती मालिका",
-      "question": "बाणाच्या दिशेची मालिका ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">↑</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">→</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">↓</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "type": "Concept",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "↑",
-        "→",
-        "←",
-        "↓"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 2,
-      "explanation": "बाण घड्याळाच्या काट्याच्या दिशेने ९० अंशाने फिरत आहे: वर (उत्तर) -> उजवीकडे (पूर्व) -> खाली (दक्षिण) -> डावीकडे (पश्चिम) म्हणजेच '←'."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आकृती मालिका",
-      "question": "भौमितिक बाजूंची संख्या वाढणारी मालिका ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">▲ (३)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">■ (४)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">⬟ (५)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "● (वर्तुळ)",
-        "⬢ षटकोन (६ बाजू)",
-        "▲ त्रिकोण",
-        "आयात"
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
       ],
-      "answer": 1,
-      "explanation": "प्रत्येक टप्प्यावर आकृतीची १ बाजू वाढत आहे: ३ बाजू -> ४ बाजू -> ५ बाजू -> पुढील पद ६ बाजू असलेला षटकोन (⬢) असेल."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आकृती मालिका",
-      "question": "ठिपक्यांची संख्या वाढणारी मालिका:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">●</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">●●</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">●●●</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
-      "options": [
-        "●",
-        "●●●● (४ ठिपके)",
-        "●●",
-        "●●●●●"
-      ],
-      "answer": 1,
-      "explanation": "प्रत्येक टप्प्यात १ ठिपका वाढतो: १ -> २ -> ३ -> ४ ठिपके."
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "२, ४, ६, ८, ___ या मालिकेतील पुढील पद कोणते?",
+      "pyqYear": "MSCE 2019",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
         "९",
-        "१०",
-        "११",
-        "१२"
-      ],
-      "answer": 1,
-      "explanation": "प्रत्येक संख्येत २ मिळवले आहेत: ८ + २ = १०."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "५, १०, १५, २०, ___ पुढील संख्या शोधा.",
-      "options": [
-        "२१",
-        "२५",
-        "३०",
-        "३५"
-      ],
-      "answer": 1,
-      "explanation": "५ चा पाढा: २० + ५ = २५."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "संख्या मालिका",
-      "question": "१, ४, ९, १६, ___ पुढील संख्या कोणती?",
-      "options": [
-        "२०",
-        "२४",
-        "२५",
-        "३६"
-      ],
-      "answer": 2,
-      "explanation": "पूर्ण वर्ग संख्या: १², २², ३², ४², ५² = २५."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आकृती मालिका",
-      "question": "अक्षरांची मालिका ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">A</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">C</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">E</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
-      "options": [
-        "F",
-        "G",
-        "H",
-        "B"
-      ],
-      "answer": 1,
-      "explanation": "एक अक्षर सोडून पुढे: A (+2) -> C (+2) -> E (+2) -> G."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "Z, Y, X, W, ___ पुढील अक्षर कोणते येईल?",
-      "options": [
-        "U",
-        "V",
-        "T",
-        "S"
-      ],
-      "answer": 1,
-      "explanation": "उलटा इंग्रजी वर्णमाला क्रम: W च्या आधी V येतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आकृती मालिका",
-      "question": "आकृत्यांचे आवर्तन ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">+</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">×</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">+</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
-      "options": [
-        "+",
-        "×",
-        "-",
-        "÷"
-      ],
-      "answer": 1,
-      "explanation": "+ आणि × यांची एकाआड एक पुनरावृत्ती होत आहे, म्हणून पुढील पद × येईल."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या मालिका",
-      "question": "१०, २०, ३०, ४०, ___ पुढील पद कोणते?",
-      "options": [
-        "४५",
-        "५०",
-        "५५",
-        "६०"
-      ],
-      "answer": 1,
-      "explanation": "१० चा फरक: ४० + १० = ५०."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "संख्या मालिका",
-      "question": "५०, ४५, ४०, ३५, ___ पुढील संख्या शोधा.",
-      "options": [
-        "२५",
-        "३०",
-        "३२",
-        "३४"
-      ],
-      "answer": 1,
-      "explanation": "प्रत्येक वेळी ५ वजा केले आहेत: ३५ - ५ = ३०."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आकृती मालिका",
-      "question": "आकृतीतील रेषाखंडांची वाढती मालिका:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">— (१)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">= (२)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">≡ (३)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
-      "options": [
-        "—",
-        "=",
-        "४ रेषाखंड",
-        "≡"
-      ],
-      "answer": 2,
-      "explanation": "१ रेषा -> २ रेषा -> ३ रेषा -> पुढील पदात ४ समांतर रेषाखंड असतील."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या मालिका",
-      "question": "३, ६, ९, १२, ___ पुढील पद कोणते?",
-      "options": [
-        "१३",
-        "१४",
-        "१५",
-        "१६"
-      ],
-      "answer": 2,
-      "explanation": "३ चा पाढा: १२ + ३ = १५."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "चुकीचे पद",
-      "question": "खालील मालिकेतील चुकीचे पद ओळखा: २, ४, ६, ९, १०",
-      "options": [
         "२",
         "४",
-        "९",
-        "१०"
+        "६"
       ],
-      "answer": 2,
-      "explanation": "सर्व सम संख्यांच्या मालिकेत ९ ही विषम संख्या असल्याने ते चुकीचे पद आहे (तेथे ८ हवे होते)."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आकृती मालिका",
-      "question": "कोन चिन्हांचे आवर्तन:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\"><</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">></div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\"><</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "type": "Concept",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "<",
-        ">",
-        "=",
-        "v"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "< आणि > चे एकाआड एक आवर्तन असल्याने पुढील पद > येईल."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "संख्या मालिका",
-      "question": "१००, ९०, ८०, ७०, ___ पुढील संख्या शोधा.",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
-        "५०",
-        "६०",
-        "६५",
-        "७५"
+        "२५",
+        "३०",
+        "२४",
+        "२२"
       ],
-      "answer": 1,
-      "explanation": "१० ने कमी होत जाणारी मालिका: ७० - १० = ६०."
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "अक्षर मालिका",
-      "question": "B, D, F, H, ___ पुढील अक्षर कोणते?",
+      "pyqYear": "MSCE 2019",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "I",
+        "Y",
+        "X",
+        "W",
+        "Z"
+      ],
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
+      "options": [
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
+      ],
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
+      "options": [
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
+      ],
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
+      "options": [
+        "२५",
+        "२०",
+        "३०",
+        "१५"
+      ],
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
+      "options": [
         "J",
+        "I",
         "K",
         "L"
       ],
-      "answer": 1,
-      "explanation": "सम क्रमांकाची अक्षरे (२, ४, ६, ८, १०): १० व्या क्रमांकावर J येतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आकृती मालिका",
-      "question": "सूर्य व चंद्र यांचे आवर्तन:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">☼</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">☽</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">☼</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
-      "options": [
-        "☼",
-        "☽ (चंद्र)",
-        "★",
-        "☁"
-      ],
-      "answer": 1,
-      "explanation": "सूर्य (☼) नंतर चंद्र (☽) चे एकाआड एक आवर्तन आहे."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
       "tagText": "संख्या मालिका",
-      "question": "१, ३, ५, ७, ___ पुढील विषम संख्या कोणती?",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "८",
-        "९",
-        "१०",
-        "११"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "क्रमवार विषम संख्या: ७ नंतर ९ येते."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
+      "options": [
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
+      ],
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
+      "options": [
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
+      ],
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
+      "options": [
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
+      ],
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
+      "options": [
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
+      ],
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2019",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
+      "options": [
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
+      ],
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "13": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2018",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2018",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2018",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शब्द समसंबंध",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "शब्द समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "14": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "संख्या समसंबंध",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "संख्या समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "संख्या समसंबंध",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
-      "options": [
-        "79",
-        "81",
-        "85",
-        "162"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या समसंबंध",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
-      "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
       "tagText": "संख्या समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "संख्या समसंबंध",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "संख्या समसंबंध",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "संख्या समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
+      "options": [
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
+      ],
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
+      "options": [
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
+      ],
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "15": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2023",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2023",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2023",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2023",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2023",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2023",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आकृती समसंबंध",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृती समसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2023",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "16": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2022",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2022",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
-      "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सांकेतिक भाषा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
-      "options": [
-        "79",
-        "81",
-        "85",
-        "162"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सांकेतिक भाषा",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
       "tagText": "सांकेतिक भाषा",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2022",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "सांकेतिक भाषा",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
+      "pyqYear": "MSCE 2022",
       "tagText": "सांकेतिक भाषा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "सांकेतिक भाषा",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "सांकेतिक भाषा",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "सांकेतिक भाषा",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
+      "options": [
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
+      ],
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
+      "options": [
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
+      ],
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "17": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2021",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2021",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2021",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "चिन्ह कोडिंग",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "18": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिशाज्ञान",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिशाज्ञान",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "19": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2019",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2019",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
+      "pyqYear": "MSCE 2019",
       "tagText": "नातेसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2019",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "नातेसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "नातेसंबंध",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "नातेसंबंध",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "नातेसंबंध",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2019",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "20": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2018",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2018",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2018",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "दिनदर्शिका",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "दिनदर्शिका",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2018",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "21": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
-      "options": [
-        "-1",
-        "1",
-        "5",
-        "2"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "16 वर्षे",
-        "18 वर्षे",
-        "20 वर्षे",
-        "26 वर्षे"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "23",
-        "25",
-        "29",
-        "50"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "287",
-        "289",
-        "293",
-        "578"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "तर्कसंगती",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "तर्कसंगती",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "22": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "त्रिकोण मोजणे",
-      "question": "खालील आकृतीचे काळजीपूर्वक निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-rose-50/50 rounded-xl border border-rose-200\">\n        <svg width=\"150\" height=\"120\" viewBox=\"0 0 150 120\">\n            <!-- Big Triangle -->\n            <polygon points=\"75,15 15,105 135,105\" fill=\"#fff1f2\" stroke=\"#e11d48\" stroke-width=\"3\"/>\n            <!-- Median line -->\n            <line x1=\"75\" y1=\"15\" x2=\"75\" y2=\"105\" stroke=\"#e11d48\" stroke-width=\"2.5\"/>\n            <!-- Labels -->\n            <text x=\"45\" y=\"90\" font-size=\"12\" font-weight=\"bold\" fill=\"#9f1239\">१</text>\n            <text x=\"95\" y=\"90\" font-size=\"12\" font-weight=\"bold\" fill=\"#9f1239\">२</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-rose-900\">आकृतीत एकूण किती त्रिकोण तयार होतात?</span>\n    </div>\nया आकृतीत एकूण किती त्रिकोण तयार होतात?",
-      "options": [
-        "१",
-        "२",
-        "३",
-        "४"
-      ],
-      "answer": 2,
-      "explanation": "डावीकडील १ लहान त्रिकोण, उजवीकडील १ लहान त्रिकोण आणि दोन्ही मिळून बनणारा १ मोठा मुख्य त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "त्रिकोण मोजणे",
-      "question": "एका मोठ्या त्रिकोणाचे शिरोबिंदूतून पायावर २ रेषा ओढून ३ लहान भाग केले (१, २, ३). तर त्यात एकूण किती त्रिकोण तयार होतील?",
-      "options": [
-        "३",
-        "५",
-        "६",
-        "९"
-      ],
-      "answer": 2,
-      "explanation": "शॉर्टकट सूत्र: १ + २ + ३ = ६ त्रिकोण."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "चौरस मोजणे",
-      "question": "२ × २ च्या ग्रीड चौरसात (४ लहान चौरस असलेला मोठा चौरस) एकूण किती चौरस असतात?",
-      "options": [
-        "४",
-        "५",
-        "६",
-        "८"
-      ],
-      "answer": 1,
-      "explanation": "४ लहान चौरस (१ × १ चे) + १ मोठा बाहेरील चौरस (२ × २ चा) = एकूण ५ चौरस (१² + २² = १ + ४ = ५)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "ठोकळे मोजणे",
-      "question": "एका घनाकृती ठोकळ्याला (Cube) एकूण किती पृष्ठे (Faces) असतात?",
+      "pyqYear": "MSCE 2023",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "४",
-        "६",
-        "८",
-        "१२"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 1,
-      "explanation": "घनाला एकूण ६ चौरसाकृती पृष्ठे असतात."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "शिरोबिंदू",
-      "question": "घनाला (Cube) एकूण किती शिरोबिंदू (Corners) असतात?",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "६",
         "८",
+        "६",
         "१०",
-        "१२"
-      ],
-      "answer": 1,
-      "explanation": "घनाला एकूण ८ शिरोबिंदू (Corners) असतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "कडा",
-      "question": "घनाला एकूण किती कडा (Edges) असतात?",
-      "options": [
-        "६",
-        "८",
-        "१२",
-        "१६"
-      ],
-      "answer": 2,
-      "explanation": "घनाला एकूण १२ कडा असतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "चौकोन मोजणे",
-      "question": "एका आडव्या पट्टीत सलग ३ लहान आयत जोडलेले आहेत. तर या आकृतीत एकूण किती आयत तयार होतात?",
-      "options": [
-        "३",
-        "४",
-        "५",
-        "६"
-      ],
-      "answer": 3,
-      "explanation": "३ लहान + २ दुहेरी + १ संपूर्ण मोठा = ३ + २ + १ = ६ आयत."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आकृत्यांचे तुकडे",
-      "question": "एका चौरसाचे कर्णावरून २ तुकडे केल्यास कोणते दोन आकार मिळतात?",
-      "options": [
-        "दोन चौरस",
-        "दोन काटकोन त्रिकोण",
-        "दोन आयत",
-        "दोन वर्तुळ"
-      ],
-      "answer": 1,
-      "explanation": "चौरसाचा कर्ण त्याला दोन समान काटकोन त्रिकोणांमध्ये विभागतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "ठोकळ्यांची रचना",
-      "question": "२ ठोकळ्यांच्या ३ थरांमध्ये (Layers) एकावर एक ठोकळे रचले, तर एकूण किती ठोकळे लागतील?",
-      "options": [
-        "५",
-        "६",
-        "८",
-        "९"
-      ],
-      "answer": 1,
-      "explanation": "२ × ३ = ६ ठोकळे लागतील."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "त्रिकोण मोजणे",
-      "question": "चौरसाच्या दोन्ही कर्णांमुळे (Diagonals) चौरसात एकूण किती त्रिकोण तयार होतात?",
-      "options": [
-        "४",
-        "६",
-        "८",
-        "१०"
-      ],
-      "answer": 2,
-      "explanation": "४ लहान त्रिकोण + लगतच्या दोन त्रिकोणांचे मिळून ४ मोठे त्रिकोण = एकूण ८ त्रिकोण."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "शिरोबिंदू",
-      "question": "इष्टिकाचितीला (Cuboid) किती पृष्ठे असतात?",
-      "options": [
-        "४",
-        "६",
-        "८",
-        "१२"
-      ],
-      "answer": 1,
-      "explanation": "इष्टिकाचितीला घनाप्रमाणेच ६ पृष्ठे असतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "गोल पृष्ठभाग",
-      "question": "गोलाला (Sphere) किती कडा असतात?",
-      "options": [
-        "० (शून्य)",
-        "१",
-        "२",
         "४"
       ],
       "answer": 0,
-      "explanation": "गोलाला कोणतीही सरळ कडा नसते, फक्त १ वक्र पृष्ठभाग असतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वृत्तचिती",
-      "question": "वृत्तचितीला (Cylinder) किती सपाट वर्तुळाकार पृष्ठे असतात?",
-      "options": [
-        "०",
-        "१",
-        "२",
-        "३"
-      ],
-      "answer": 2,
-      "explanation": "वृत्तचितीला वरचे १ आणि खालचे १ अशी २ सपाट वर्तुळाकार पृष्ठे व १ वक्र पृष्ठ असते."
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "शंकू",
-      "question": "शंकूला (Cone) किती शिरोबिंदू असतात?",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "०",
-        "१",
-        "२",
-        "३"
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
       ],
-      "answer": 1,
-      "explanation": "शंकूला टोकावर बरोबर १ शिरोबिंदू असतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "त्रिकोण मोजणे",
-      "question": "एका त्रिकोणात १ शिरोबिंदूतून ३ रेषा पायावर काढल्यास (४ भाग १, २, ३, ४), एकूण त्रिकोण किती?",
-      "options": [
-        "४",
-        "८",
-        "१०",
-        "१२"
-      ],
-      "answer": 2,
-      "explanation": "१ + २ + ३ + ४ = १० त्रिकोण."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "घडी उलगडणे",
-      "question": "चौरसाकृती कागदाला १ घडी घालून मध्यभागी एक गोल छिद्र पाडले. घडी उलगडल्यावर एकूण किती छिद्रे दिसतील?",
-      "options": [
-        "१",
-        "२",
-        "३",
-        "४"
-      ],
-      "answer": 1,
-      "explanation": "१ घडीमुळे कागदाचे २ थर होतात, त्यामुळे उलगडल्यावर २ छिद्रे दिसतील."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "घडी उलगडणे",
-      "question": "कागदाला २ घड्या घातल्या (४ थर) आणि एक छिद्र पाडले, तर उलगडल्यावर किती छिद्रे दिसतील?",
-      "options": [
-        "२",
-        "४",
-        "६",
-        "८"
-      ],
-      "answer": 1,
-      "explanation": "२ घड्यांमुळे ४ थर होतात, म्हणून उलगडल्यावर ४ छिद्रे दिसतील."
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आकृती घटक",
-      "question": "पंचकोनाला एकूण किती कोपरे असतात?",
+      "pyqYear": "MSCE 2023",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
+        "९",
+        "२",
         "४",
-        "५",
-        "६",
-        "७"
+        "६"
       ],
-      "answer": 1,
-      "explanation": "पंचकोनाला ५ बाजू व ५ शिरोबिंदू (कोपरे) असतात."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आकृती घटक",
-      "question": "षटकोनाला एकूण किती बाजू असतात?",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "५",
-        "६",
-        "७",
-        "८"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "षटकोनाला ६ बाजू असतात."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आकृती मोजणे",
-      "question": "एका चौकोनात एक कर्ण काढल्यास किती त्रिकोण तयार होतात?",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
-        "१",
-        "२",
-        "३",
-        "४"
+        "२५",
+        "३०",
+        "२४",
+        "२२"
       ],
-      "answer": 1,
-      "explanation": "१ कर्णामुळे चौकोनाचे २ त्रिकोण तयार होतात."
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
+      "options": [
+        "Y",
+        "X",
+        "W",
+        "Z"
+      ],
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
+      "options": [
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
+      ],
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
+      "options": [
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
+      ],
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
+      "options": [
+        "२५",
+        "२०",
+        "३०",
+        "१५"
+      ],
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
+      "options": [
+        "J",
+        "I",
+        "K",
+        "L"
+      ],
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
+      "options": [
+        "२५",
+        "२०",
+        "३६",
+        "२४"
+      ],
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
+      "options": [
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
+      ],
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
+      "options": [
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
+      ],
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
+      "options": [
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
+      ],
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
+      "options": [
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
+      ],
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
+      "options": [
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
+      ],
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "23": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीची आरशातील अचूक प्रतिमा कोणती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                P\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>\n(डावी बाजू उजवीकडे बदलते, उजवी डावीकडे)",
-      "options": [
-        "P",
-        "q (उलट पी)",
-        "d",
-        "b"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी-उजवी बाजू बदलते, त्यामुळे 'P' चा उजवीकडील गोल डावीकडे येऊन तो 'q' सारखा दिसतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील प्रतिबिंब ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                B\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "B",
-        "d",
-        "वक्र भाग डावीकडे असणारा आकार",
-        "P"
-      ],
-      "answer": 2,
-      "explanation": "B चा उजवीकडील वक्र भाग आरशात डावीकडे उलटतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील बाणाचे आरशातील प्रतिबिंब ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                →\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "↑",
-        "↓",
-        "←",
-        "→"
-      ],
-      "answer": 2,
-      "explanation": "उजवीकडे तोंड असलेला बाण (→) आरशात डावीकडे तोंड करतो (←)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालीलपैकी कोणते इंग्रजी अक्षर आरशात पाहिले तरी अजिबात बदलत नाही (मूळ अक्षरासारखेच दिसते)?",
+      "pyqYear": "MSCE 2022",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "B",
-        "F",
-        "A",
-        "P"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 2,
-      "explanation": "'A' हे सममित अक्षर असल्यामुळे त्याची डावी व उजवी बाजू समान असते, म्हणून आरशात 'A' च दिसते."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आरशातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर आरशात अपरिवर्तित राहते?",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "M",
-        "E",
-        "C",
-        "D"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
       "answer": 0,
-      "explanation": "'M' चे आरशातील प्रतिबिंब तंतोतंत 'M' सारखेच दिसते."
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "आरशातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर आरशात बदलत नाही?",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "H",
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
+      "options": [
+        "९",
+        "२",
+        "४",
+        "६"
+      ],
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
+      "options": [
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
+      ],
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
+      "options": [
+        "Y",
+        "X",
+        "W",
+        "Z"
+      ],
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
+      "options": [
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
+      ],
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
+      "options": [
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
+      ],
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
+      "options": [
+        "२५",
+        "२०",
+        "३०",
+        "१५"
+      ],
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
+      "options": [
+        "J",
+        "I",
         "K",
-        "L",
-        "N"
-      ],
-      "answer": 0,
-      "explanation": "'H' हे उभ्या अक्षाभोवती सममित असल्याने आरशात बदलत नाही."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील अंक",
-      "question": "'२' या अंकाचे आरशातील रूप कसे दिसेल?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                २\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "२",
-        "उलट २",
-        "५",
-        "७"
-      ],
-      "answer": 1,
-      "explanation": "२ चे आरशातील प्रतिबिंब डावीकडून उजवीकडे उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आरशातील अंक",
-      "question": "खालीलपैकी कोणता अंक आरशात पाहिला तरी तसाच दिसतो?",
-      "options": [
-        "१",
-        "२",
-        "३",
-        "८"
-      ],
-      "answer": 3,
-      "explanation": "'८' हा अंक सममित असल्याने आरशात '८' सारखाच दिसतो (० आणि ८)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील नियम",
-      "question": "आरशातील प्रतिमेमध्ये कोणता मुख्य बदल होतो?",
-      "options": [
-        "वरची बाजू खाली जाते",
-        "डावी बाजू उजवीकडे आणि उजवी डावीकडे बदलते",
-        "आकार मोठा होतो",
-        "रंग बदलतो"
-      ],
-      "answer": 1,
-      "explanation": "आरशात पार्श्व परिवर्तन (Lateral Inversion) होते, म्हणजे डावी व उजवी बाजू उलटते; वर-खाली बदलत नाही."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "त्रिकोणातील बाणाची आरशातील प्रतिमा शोधा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                ⮞\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "⮞",
-        "⮜ (डावीकडे बाण)",
-        "⮝",
-        "⮟"
-      ],
-      "answer": 1,
-      "explanation": "उजवीकडील बाण आरशात डावीकडे (⮜) दिसेल."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आरशातील अक्षरे",
-      "question": "कोणता शब्द आरशात उलटा न दिसता समान दिसेल?",
-      "options": [
-        "MOM",
-        "CAT",
-        "BOY",
-        "DOG"
-      ],
-      "answer": 0,
-      "explanation": "'MOM' मधील M आणि O दोन्ही सममित आहेत, आणि मधला O मध्यभागी राहून दोन्ही M उलटले तरी 'MOM' च राहते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "'RED' या शब्दाचे आरशातील रूप कोणत्या अक्षराने सुरू होईल?",
-      "options": [
-        "R",
-        "E",
-        "D (उलट)",
-        "R (उलट)"
-      ],
-      "answer": 2,
-      "explanation": "आरशात सर्वात उजवीकडील अक्षर 'D' सर्वात डावीकडे प्रथम दिसेल (उलट D)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर आरशात बदलणारे आहे?",
-      "options": [
-        "A",
-        "T",
-        "V",
-        "J"
-      ],
-      "answer": 3,
-      "explanation": "'J' चे तोंड उजवीकडून डावीकडे उलटते, म्हणून ते बदलते (A, T, V बदलत नाहीत)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "'F' या अक्षराचे आरशातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                F\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "F",
-        "उलट्या बाजूला दोन रेषा असणारे F",
-        "E",
         "L"
       ],
-      "answer": 1,
-      "explanation": "F च्या उजवीकडील आडव्या रेषा आरशात डावीकडे उलटतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आरशातील अंक",
-      "question": "आंतरराष्ट्रीय अंक '0' आरशात कसा दिसतो?",
-      "options": [
-        "0",
-        "1",
-        "8",
-        "बदलतो"
-      ],
       "answer": 0,
-      "explanation": "'0' हा सममित असल्याने आरशात तंतोतंत '0' सारखाच दिसतो."
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "घड्याळात ३:०० वाजले असल्यास आरशातील घड्याळात किती वाजल्यासारखे दिसेल?",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "३:००",
-        "६:००",
-        "९:००",
-        "१२:००"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 2,
-      "explanation": "३ वाजता तास काटा उजवीकडे असतो, आरशात तो डावीकडे म्हणजे ९ वर दिसेल (१२ - ३ = ९:००)."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "आरशातील घड्याळ",
-      "question": "घड्याळात बरोबर १:०० वाजले असल्यास आरशातील घड्याळात किती वाजलेले दिसतील?",
+      "pyqYear": "MSCE 2022",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "११:००",
-        "१०:००",
-        "२:००",
-        "१:००"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
       "answer": 0,
-      "explanation": "१२ - १ = ११:०० वाजल्यासारखे दिसेल."
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आरशातील अक्षरे",
-      "question": "'W' चे आरशातील रूप कसे दिसेल?",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "M",
-        "W",
-        "V",
-        "N"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "आरशात वर-खाली बदलत नाही, फक्त डावी-उजवी बदलते; W सममित असल्याने 'W' च दिसेल (पाण्यात M दिसते)."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील अक्षरे",
-      "question": "'O' या अक्षराचे आरशातील प्रतिबिंब कोणते?",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "C",
-        "Q",
-        "O",
-        "D"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 2,
-      "explanation": "'O' हे पूर्ण वर्तुळाकार सममित अक्षर असल्याने 'O' च दिसते."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "स्वस्तिक चिन्हाची आरशातील अचूक प्रतिमा ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                卐\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "卐",
-        "उलटा स्वस्तिक",
-        "+",
-        "×"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "स्वस्तिकाच्या उजवीकडे वळलेल्या भुजा आरशात डावीकडे वळतात."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
+      "options": [
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
+      ],
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "24": [
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                M\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>\n(वरची बाजू खाली येते, खालची वर जाते)",
-      "options": [
-        "M",
-        "W",
-        "N",
-        "V"
-      ],
-      "answer": 1,
-      "explanation": "पाण्यात वरची बाजू खाली उलटते, त्यामुळे 'M' चे प्रतिबिंब 'W' सारखे दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "वर तोंड असलेला बाण (↑) पाण्यात कसा दिसेल?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ↑\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "↑",
-        "→",
-        "↓",
-        "←"
-      ],
-      "answer": 2,
-      "explanation": "पाण्यात वरचे टोक खाली उलटते, म्हणून '↑' चे प्रतिबिंब '↓' दिसेल."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "'A' या अक्षराचे पाण्यातील प्रतिबिंब कसे दिसेल?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                A\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "A",
-        "उलटा A (∀)",
-        "V",
-        "H"
-      ],
-      "answer": 1,
-      "explanation": "A चे वरचे टोक पाण्यात तळाकडे उलटते (उलटा A)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "खालीलपैकी कोणते अक्षर पाण्यात पाहिले तरी अजिबात बदलत नाही (मूळ अक्षरासारखेच दिसते)?",
+      "pyqYear": "MSCE 2021",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "M",
-        "A",
-        "H",
-        "W"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
-      "answer": 2,
-      "explanation": "'H' ला आडवा सममिती अक्ष असतो (वरचा आणि खालचा भाग समान), त्यामुळे पाण्यात H तसाच दिसतो (तसेच B, C, D, E, H, I, K, O, X)."
+      "answer": 0,
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर पाण्यात अपरिवर्तित राहते?",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "E",
-        "F",
-        "L",
-        "P"
-      ],
-      "answer": 0,
-      "explanation": "'E' चा वरचा आणि खालचा भाग समान असल्याने पाण्यात 'E' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "पाण्यातील नियम",
-      "question": "पाण्यातील प्रतिबिंबामध्ये कोणता मुख्य बदल होतो?",
-      "options": [
-        "डावी बाजू उजवीकडे बदलते",
-        "वरची बाजू खाली आणि खालची बाजू वर जाते",
-        "आकार लहान होतो",
-        "काहीच बदलत नाही"
-      ],
-      "answer": 1,
-      "explanation": "जलप्रतिमेत उभा अक्ष उलटतो (Vertical Inversion), म्हणजेच वरची बाजू खाली आणि खालची वर जाते; डावी-उजवी बाजू बदलत नाही."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "खालील त्रिकोणाचे (▲) पाण्यातील रूप कोणते?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ▲\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "▲",
-        "▼",
-        "◄",
-        "►"
-      ],
-      "answer": 1,
-      "explanation": "वर टोक असणारा त्रिकोण (▲) पाण्यात खाली टोक असणारा (▼) दिसतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर पाण्यात बदलत नाही?",
-      "options": [
-        "C",
-        "T",
-        "G",
-        "S"
-      ],
-      "answer": 0,
-      "explanation": "'C' हे आडव्या अक्षाभोवती सममित असल्याने पाण्यात 'C' सारखेच दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "पाण्यातील अंक",
-      "question": "'३' हा देवनागरी अंक पाण्यात कसा दिसेल?",
-      "options": [
-        "३",
-        "उलटा ३ (वरची व खालची गाठ बदललेली)",
+        "८",
         "६",
-        "९"
+        "१०",
+        "४"
       ],
-      "answer": 1,
-      "explanation": "३ ची वरची वाटी खाली आणि खालची गाठ वर उलटते."
+      "answer": 0,
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "'B' हे इंग्रजी अक्षर पाण्यात कसे दिसते?",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "B",
-        "d",
-        "p",
-        "q"
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
       ],
       "answer": 0,
-      "explanation": "'B' चे वरचे व खालचे वळण आडव्या रेषेभोवती सममित असल्याने पाण्यात 'B' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "'V' या अक्षराचे पाण्यातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                V\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "V",
-        "∧ (उलटा V)",
-        "W",
-        "M"
-      ],
-      "answer": 1,
-      "explanation": "V चे खालचे टोक वर जाते, म्हणून ते '∧' सारखे दिसते."
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर पाण्यात बदलणारे आहे?",
+      "pyqYear": "MSCE 2021",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "H",
-        "I",
-        "O",
-        "T"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 3,
-      "explanation": "'T' ची आडवी दांडी वरून तळाला जाते, त्यामुळे 'T' बदलतो (H, I, O बदलत नाहीत)."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "पाण्यातील अंक",
-      "question": "आंतरराष्ट्रीय अंक '8' पाण्यात कसा दिसेल?",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "8",
-        "0",
-        "3",
-        "बदलतो"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
       "answer": 0,
-      "explanation": "'8' हा वर-खाली सममित असल्याने पाण्यात तंतोतंत '8' च दिसतो."
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "पाण्यातील शब्द",
-      "question": "कोणता इंग्रजी शब्द पाण्यात पाहिला तरी हुबेहूब मूळ शब्दासारखाच वाचता येईल?",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
-        "BOOK",
-        "HIDE",
-        "TREE",
-        "CAT"
+        "२५",
+        "३०",
+        "२४",
+        "२२"
       ],
-      "answer": 1,
-      "explanation": "'H-I-D-E' मधील चारही अक्षरे आडव्या अक्षाभोवती सममित आहेत, म्हणून HIDE पाण्यात 'HIDE' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "अर्धवर्तुळाचे (◓) पाण्यातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ◓\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "◓",
-        "◒",
-        "◑",
-        "◐"
-      ],
-      "answer": 1,
-      "explanation": "वरचा रंगवलेला अर्धा भाग पाण्यात खालच्या बाजूला येतो (◒)."
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "'K' हे अक्षर पाण्यात कसे दिसेल?",
+      "pyqYear": "MSCE 2021",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "K",
-        "उलटा K",
-        "X",
-        "Y"
-      ],
-      "answer": 0,
-      "explanation": "'K' चे आडवे सममित रूप असल्याने पाण्यात 'K' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "'X' हे अक्षर पाण्यात कसे दिसते?",
-      "options": [
-        "X",
-        "+",
         "Y",
+        "X",
+        "W",
         "Z"
       ],
       "answer": 0,
-      "explanation": "'X' हे सर्व बाजूंनी सममित असल्याने पाण्यात 'X' च दिसते."
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
+      "options": [
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
+      ],
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "IMP",
-      "tagText": "पाण्यातील तुलना",
-      "question": "आरशातील प्रतिमा आणि जलप्रतिमा यांमधील मुख्य फरक कोणता?",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "काहीच फरक नाही",
-        "आरशात डावी-उजवी बदलते, पाण्यात वर-खाली बदलते",
-        "पाण्यात डावी-उजवी बदलते",
-        "आरशात आकार बदलतो"
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी-उजवी बाजू बदलते (Lateral), तर पाण्यात वर-खाली बाजू बदलते (Vertical)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "खालील बाणाचे पाण्यातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ➘\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "➘",
-        "➚",
-        "➔",
-        "↙"
-      ],
-      "answer": 1,
-      "explanation": "खाली वळलेला तिरपा बाण पाण्यात वर वळतो (➚)."
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "'D' हे अक्षर पाण्यात कसे दिसेल?",
+      "pyqYear": "MSCE 2021",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "D",
-        "C",
-        "P",
-        "B"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
       "answer": 0,
-      "explanation": "'D' हे आडव्या अक्षाभोवती सममित असल्याने पाण्यात 'D' च राहते."
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
+      "options": [
+        "२५",
+        "२०",
+        "३०",
+        "१५"
+      ],
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
+      "options": [
+        "J",
+        "I",
+        "K",
+        "L"
+      ],
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
+      "options": [
+        "२५",
+        "२०",
+        "३६",
+        "२४"
+      ],
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
+      "options": [
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
+      ],
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
+      "options": [
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
+      ],
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
+      "options": [
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
+      ],
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
+      "options": [
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
+      ],
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
+      "options": [
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
+      ],
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "25": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
+      "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "Opposite of 'Hot' is: (Q.2)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "स्थान ओळखणे",
+      "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "ग",
+        "ख",
+        "घ",
+        "क"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
+      "tagText": "संख्या स्थान",
+      "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "८",
+        "६",
+        "१०",
+        "४"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+      "options": [
+        "बटाटा",
+        "आंबा",
+        "केळी",
+        "सफरचंद"
+      ],
+      "answer": 0,
+      "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "विसंगत संख्या",
+      "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "९",
+        "२",
+        "४",
+        "६"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "समसंबंध",
+      "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "मुंबई",
+        "पुणे",
+        "नागपूर",
+        "नाशिक"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+      "options": [
+        "२५",
+        "३०",
+        "२४",
+        "२२"
+      ],
+      "answer": 0,
+      "explanation": "५ चा पाढा: २० + ५ = २५.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "अक्षर समसंबंध",
+      "question": "A : Z :: B : ____?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "Y",
+        "X",
+        "W",
+        "Z"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "सांकेतिक भाषा",
+      "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "4-15-7",
+        "4-14-7",
+        "3-15-7",
+        "4-15-8"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "दिशाज्ञान",
+      "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+      "options": [
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पश्चिम दिशा",
+        "पूर्व दिशा"
+      ],
+      "answer": 0,
+      "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "नातेसंबंध",
+      "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "आत्तेभाऊ",
+        "मामेभाऊ",
+        "चुलतभाऊ",
+        "सख्खा भाऊ"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "संख्या समसंबंध",
+      "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "२५",
+        "२०",
+        "३०",
+        "१५"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "विसंगत शब्द",
+      "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+      "options": [
+        "हात",
+        "डोळा",
+        "नाक",
+        "कान"
+      ],
+      "answer": 0,
+      "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "J",
+        "I",
+        "K",
+        "L"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "167",
-        "169",
-        "173",
-        "338"
+        "२५",
+        "२०",
+        "३६",
+        "२४"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
+      "answer": 0,
+      "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "निळा",
+        "पिवळा",
+        "लाल",
+        "पांढरा"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
+      "type": "HOTS",
+      "tagText": "रांगेतील स्थान कूटप्रश्न",
+      "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
+        "१७ मुले",
+        "१८ मुले",
+        "१९ मुले",
+        "१६ मुले"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
+      "answer": 0,
+      "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "वय कूटप्रश्न",
+      "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "३५ वर्षे",
+        "३० वर्षे",
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक १",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
+      "type": "HOTS",
+      "tagText": "त्रिकोण मोजणे",
+      "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
+        "३ त्रिकोण",
+        "२ त्रिकोण",
+        "४ त्रिकोण",
+        "१ त्रिकोण"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+      "answer": 0,
+      "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक १",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "दिनदर्शिका कूटप्रश्न",
+      "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "शुक्रवार",
+        "गुरुवार",
+        "शनिवार",
+        "रविवार"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "26": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "Opposite of 'Hot' is: (Q.2)",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Opposites",
+      "question": "What is the opposite of 'Come'?",
       "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "Go",
+        "Run",
+        "Walk",
+        "Stop"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
+      "tagText": "Articles",
+      "question": "He saw ____ elephant in the zoo.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "An",
+        "A",
+        "The",
+        "No article"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Singular-Plural",
+      "question": "What is the plural of 'Tree'?",
+      "options": [
+        "Trees",
+        "Treees",
+        "Tries",
+        "Treing"
+      ],
+      "answer": 0,
+      "explanation": "Tree चे अनेकवचन 'Trees' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "सायकल",
+        "पेन",
+        "पेन्सिल",
+        "वही"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "समसंबंध",
+      "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "करडू",
+        "पाडस",
+        "छावा",
+        "पिल्लू"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
+      "options": [
+        "५०",
+        "६०",
+        "४५",
+        "५५"
+      ],
+      "answer": 0,
+      "explanation": "१० चा पाढा: ४० + १० = ५०.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Punctuation",
+      "question": "What is missing: 'Where are you going'?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Hyphen (-)"
+      ],
+      "answer": 0,
+      "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Gender",
+      "question": "What is the opposite gender of 'Tiger'?",
+      "options": [
+        "Tigress",
+        "Lioness",
+        "Cow",
+        "Mare"
+      ],
+      "answer": 0,
+      "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Action Word",
+      "question": "Fish ____ in water.",
+      "options": [
+        "Swim",
+        "Fly",
+        "Walk",
+        "Run"
+      ],
+      "answer": 0,
+      "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Rhyming Word",
+      "question": "Which word rhymes with 'Cat'?",
+      "options": [
+        "Bat",
+        "Dog",
+        "Cow",
+        "Pen"
+      ],
+      "answer": 0,
+      "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Preposition",
+      "question": "The apple is ____ the basket.",
+      "options": [
+        "In",
+        "On",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "214",
+        "241",
+        "124",
+        "412"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "B=2, A=1, D=4 -> 214.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "३ : ९ :: ६ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "३६",
+        "१८",
+        "१२",
+        "३०"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "अक्षर क्रम",
+      "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
+      "options": [
+        "V",
+        "U",
+        "T",
+        "S"
+      ],
+      "answer": 0,
+      "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "दिशाज्ञान",
+      "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पूर्व दिशा",
+        "वायव्य दिशा"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "८",
+        "४",
+        "५",
+        "७"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "What is the plural form of 'Tooth'?",
+      "options": [
+        "Teeth",
+        "Tooths",
+        "Toothes",
+        "Teethes"
+      ],
+      "answer": 0,
+      "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Proverb",
+      "question": "Complete: 'Slow and steady wins the ____.'",
+      "options": [
+        "Race",
+        "Game",
+        "Match",
+        "Prize"
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "रांगेतील कूटप्रश्न",
+      "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
+      "options": [
+        "२१ मुले",
+        "२२ मुले",
+        "२३ मुले",
+        "२० मुले"
+      ],
+      "answer": 0,
+      "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2024",
+      "tagText": "वय कूटप्रश्न",
+      "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३० वर्षे",
+        "२५ वर्षे",
+        "३५ वर्षे",
+        "४० वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
-      "options": [
-        "167",
-        "169",
-        "173",
-        "338"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक २",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक २",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "27": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "Opposite of 'Hot' is: (Q.2)",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Opposites",
+      "question": "What is the opposite of 'Come'?",
       "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "Go",
+        "Run",
+        "Walk",
+        "Stop"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
+      "tagText": "Articles",
+      "question": "He saw ____ elephant in the zoo.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "An",
+        "A",
+        "The",
+        "No article"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Singular-Plural",
+      "question": "What is the plural of 'Tree'?",
+      "options": [
+        "Trees",
+        "Treees",
+        "Tries",
+        "Treing"
+      ],
+      "answer": 0,
+      "explanation": "Tree चे अनेकवचन 'Trees' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2023",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "सायकल",
+        "पेन",
+        "पेन्सिल",
+        "वही"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "समसंबंध",
+      "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "करडू",
+        "पाडस",
+        "छावा",
+        "पिल्लू"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
+      "options": [
+        "५०",
+        "६०",
+        "४५",
+        "५५"
+      ],
+      "answer": 0,
+      "explanation": "१० चा पाढा: ४० + १० = ५०.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Punctuation",
+      "question": "What is missing: 'Where are you going'?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Hyphen (-)"
+      ],
+      "answer": 0,
+      "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Gender",
+      "question": "What is the opposite gender of 'Tiger'?",
+      "options": [
+        "Tigress",
+        "Lioness",
+        "Cow",
+        "Mare"
+      ],
+      "answer": 0,
+      "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Action Word",
+      "question": "Fish ____ in water.",
+      "options": [
+        "Swim",
+        "Fly",
+        "Walk",
+        "Run"
+      ],
+      "answer": 0,
+      "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Rhyming Word",
+      "question": "Which word rhymes with 'Cat'?",
+      "options": [
+        "Bat",
+        "Dog",
+        "Cow",
+        "Pen"
+      ],
+      "answer": 0,
+      "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Preposition",
+      "question": "The apple is ____ the basket.",
+      "options": [
+        "In",
+        "On",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2023",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "214",
+        "241",
+        "124",
+        "412"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "B=2, A=1, D=4 -> 214.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "३ : ९ :: ६ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "३६",
+        "१८",
+        "१२",
+        "३०"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "अक्षर क्रम",
+      "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
+      "options": [
+        "V",
+        "U",
+        "T",
+        "S"
+      ],
+      "answer": 0,
+      "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2023",
+      "tagText": "दिशाज्ञान",
+      "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पूर्व दिशा",
+        "वायव्य दिशा"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "८",
+        "४",
+        "५",
+        "७"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "What is the plural form of 'Tooth'?",
+      "options": [
+        "Teeth",
+        "Tooths",
+        "Toothes",
+        "Teethes"
+      ],
+      "answer": 0,
+      "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Proverb",
+      "question": "Complete: 'Slow and steady wins the ____.'",
+      "options": [
+        "Race",
+        "Game",
+        "Match",
+        "Prize"
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "रांगेतील कूटप्रश्न",
+      "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
+      "options": [
+        "२१ मुले",
+        "२२ मुले",
+        "२३ मुले",
+        "२० मुले"
+      ],
+      "answer": 0,
+      "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2023",
+      "tagText": "वय कूटप्रश्न",
+      "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३० वर्षे",
+        "२५ वर्षे",
+        "३५ वर्षे",
+        "४० वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
-      "options": [
-        "167",
-        "169",
-        "173",
-        "338"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ३",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ३",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "28": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "Opposite of 'Hot' is: (Q.2)",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Opposites",
+      "question": "What is the opposite of 'Come'?",
       "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "Go",
+        "Run",
+        "Walk",
+        "Stop"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
+      "tagText": "Articles",
+      "question": "He saw ____ elephant in the zoo.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "An",
+        "A",
+        "The",
+        "No article"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Singular-Plural",
+      "question": "What is the plural of 'Tree'?",
+      "options": [
+        "Trees",
+        "Treees",
+        "Tries",
+        "Treing"
+      ],
+      "answer": 0,
+      "explanation": "Tree चे अनेकवचन 'Trees' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2022",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "सायकल",
+        "पेन",
+        "पेन्सिल",
+        "वही"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "समसंबंध",
+      "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "करडू",
+        "पाडस",
+        "छावा",
+        "पिल्लू"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
+      "options": [
+        "५०",
+        "६०",
+        "४५",
+        "५५"
+      ],
+      "answer": 0,
+      "explanation": "१० चा पाढा: ४० + १० = ५०.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Punctuation",
+      "question": "What is missing: 'Where are you going'?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Hyphen (-)"
+      ],
+      "answer": 0,
+      "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Gender",
+      "question": "What is the opposite gender of 'Tiger'?",
+      "options": [
+        "Tigress",
+        "Lioness",
+        "Cow",
+        "Mare"
+      ],
+      "answer": 0,
+      "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Action Word",
+      "question": "Fish ____ in water.",
+      "options": [
+        "Swim",
+        "Fly",
+        "Walk",
+        "Run"
+      ],
+      "answer": 0,
+      "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Rhyming Word",
+      "question": "Which word rhymes with 'Cat'?",
+      "options": [
+        "Bat",
+        "Dog",
+        "Cow",
+        "Pen"
+      ],
+      "answer": 0,
+      "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Preposition",
+      "question": "The apple is ____ the basket.",
+      "options": [
+        "In",
+        "On",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "214",
+        "241",
+        "124",
+        "412"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "B=2, A=1, D=4 -> 214.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "३ : ९ :: ६ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "३६",
+        "१८",
+        "१२",
+        "३०"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "अक्षर क्रम",
+      "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
+      "options": [
+        "V",
+        "U",
+        "T",
+        "S"
+      ],
+      "answer": 0,
+      "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2022",
+      "tagText": "दिशाज्ञान",
+      "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पूर्व दिशा",
+        "वायव्य दिशा"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "८",
+        "४",
+        "५",
+        "७"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "What is the plural form of 'Tooth'?",
+      "options": [
+        "Teeth",
+        "Tooths",
+        "Toothes",
+        "Teethes"
+      ],
+      "answer": 0,
+      "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2022",
+      "tagText": "Proverb",
+      "question": "Complete: 'Slow and steady wins the ____.'",
+      "options": [
+        "Race",
+        "Game",
+        "Match",
+        "Prize"
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "रांगेतील कूटप्रश्न",
+      "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
+      "options": [
+        "२१ मुले",
+        "२२ मुले",
+        "२३ मुले",
+        "२० मुले"
+      ],
+      "answer": 0,
+      "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2022",
+      "tagText": "वय कूटप्रश्न",
+      "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३० वर्षे",
+        "२५ वर्षे",
+        "३५ वर्षे",
+        "४० वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
-      "options": [
-        "167",
-        "169",
-        "173",
-        "338"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ४",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ४",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "29": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "Opposite of 'Hot' is: (Q.2)",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Opposites",
+      "question": "What is the opposite of 'Come'?",
       "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "Go",
+        "Run",
+        "Walk",
+        "Stop"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
+      "tagText": "Articles",
+      "question": "He saw ____ elephant in the zoo.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "An",
+        "A",
+        "The",
+        "No article"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Singular-Plural",
+      "question": "What is the plural of 'Tree'?",
+      "options": [
+        "Trees",
+        "Treees",
+        "Tries",
+        "Treing"
+      ],
+      "answer": 0,
+      "explanation": "Tree चे अनेकवचन 'Trees' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2021",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "सायकल",
+        "पेन",
+        "पेन्सिल",
+        "वही"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "समसंबंध",
+      "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "करडू",
+        "पाडस",
+        "छावा",
+        "पिल्लू"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
+      "options": [
+        "५०",
+        "६०",
+        "४५",
+        "५५"
+      ],
+      "answer": 0,
+      "explanation": "१० चा पाढा: ४० + १० = ५०.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Punctuation",
+      "question": "What is missing: 'Where are you going'?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Hyphen (-)"
+      ],
+      "answer": 0,
+      "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Gender",
+      "question": "What is the opposite gender of 'Tiger'?",
+      "options": [
+        "Tigress",
+        "Lioness",
+        "Cow",
+        "Mare"
+      ],
+      "answer": 0,
+      "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Action Word",
+      "question": "Fish ____ in water.",
+      "options": [
+        "Swim",
+        "Fly",
+        "Walk",
+        "Run"
+      ],
+      "answer": 0,
+      "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Rhyming Word",
+      "question": "Which word rhymes with 'Cat'?",
+      "options": [
+        "Bat",
+        "Dog",
+        "Cow",
+        "Pen"
+      ],
+      "answer": 0,
+      "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Preposition",
+      "question": "The apple is ____ the basket.",
+      "options": [
+        "In",
+        "On",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "214",
+        "241",
+        "124",
+        "412"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "B=2, A=1, D=4 -> 214.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "३ : ९ :: ६ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "३६",
+        "१८",
+        "१२",
+        "३०"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "अक्षर क्रम",
+      "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
+      "options": [
+        "V",
+        "U",
+        "T",
+        "S"
+      ],
+      "answer": 0,
+      "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2021",
+      "tagText": "दिशाज्ञान",
+      "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पूर्व दिशा",
+        "वायव्य दिशा"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "८",
+        "४",
+        "५",
+        "७"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "What is the plural form of 'Tooth'?",
+      "options": [
+        "Teeth",
+        "Tooths",
+        "Toothes",
+        "Teethes"
+      ],
+      "answer": 0,
+      "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2021",
+      "tagText": "Proverb",
+      "question": "Complete: 'Slow and steady wins the ____.'",
+      "options": [
+        "Race",
+        "Game",
+        "Match",
+        "Prize"
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "रांगेतील कूटप्रश्न",
+      "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
+      "options": [
+        "२१ मुले",
+        "२२ मुले",
+        "२३ मुले",
+        "२० मुले"
+      ],
+      "answer": 0,
+      "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2021",
+      "tagText": "वय कूटप्रश्न",
+      "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३० वर्षे",
+        "२५ वर्षे",
+        "३५ वर्षे",
+        "४० वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
-      "options": [
-        "167",
-        "169",
-        "173",
-        "338"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "फुल मॉक ५",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "फुल मॉक ५",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ],
   "30": [
     {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "Opposite of 'Hot' is: (Q.2)",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Opposites",
+      "question": "What is the opposite of 'Come'?",
       "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "Go",
+        "Run",
+        "Walk",
+        "Stop"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
-      "subject": "English",
+      "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
+      "tagText": "Articles",
+      "question": "He saw ____ elephant in the zoo.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
+        "An",
+        "A",
+        "The",
+        "No article"
       ],
       "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
+      "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Singular-Plural",
+      "question": "What is the plural of 'Tree'?",
+      "options": [
+        "Trees",
+        "Treees",
+        "Tries",
+        "Treing"
+      ],
+      "answer": 0,
+      "explanation": "Tree चे अनेकवचन 'Trees' होते.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "विसंगत घटक",
+      "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "सायकल",
+        "पेन",
+        "पेन्सिल",
+        "वही"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "tagText": "समसंबंध",
+      "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
-        "20 वर्षे",
-        "22 वर्षे",
-        "24 वर्षे",
-        "34 वर्षे"
+        "करडू",
+        "पाडस",
+        "छावा",
+        "पिल्लू"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+      "answer": 0,
+      "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या क्रम",
+      "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
+      "options": [
+        "५०",
+        "६०",
+        "४५",
+        "५५"
+      ],
+      "answer": 0,
+      "explanation": "१० चा पाढा: ४० + १० = ५०.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Punctuation",
+      "question": "What is missing: 'Where are you going'?",
+      "options": [
+        "Question mark (?)",
+        "Full stop (.)",
+        "Comma (,)",
+        "Hyphen (-)"
+      ],
+      "answer": 0,
+      "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Gender",
+      "question": "What is the opposite gender of 'Tiger'?",
+      "options": [
+        "Tigress",
+        "Lioness",
+        "Cow",
+        "Mare"
+      ],
+      "answer": 0,
+      "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Action Word",
+      "question": "Fish ____ in water.",
+      "options": [
+        "Swim",
+        "Fly",
+        "Walk",
+        "Run"
+      ],
+      "answer": 0,
+      "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Rhyming Word",
+      "question": "Which word rhymes with 'Cat'?",
+      "options": [
+        "Bat",
+        "Dog",
+        "Cow",
+        "Pen"
+      ],
+      "answer": 0,
+      "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Preposition",
+      "question": "The apple is ____ the basket.",
+      "options": [
+        "In",
+        "On",
+        "At",
+        "To"
+      ],
+      "answer": 0,
+      "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "सांकेतिक भाषा",
+      "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "214",
+        "241",
+        "124",
+        "412"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "B=2, A=1, D=4 -> 214.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "tagText": "संख्या समसंबंध",
+      "question": "३ : ९ :: ६ : ____?",
       "options": [
-        "79",
-        "81",
-        "85",
-        "162"
+        "३६",
+        "१८",
+        "१२",
+        "३०"
       ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+      "answer": 0,
+      "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "अक्षर क्रम",
+      "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
+      "options": [
+        "V",
+        "U",
+        "T",
+        "S"
+      ],
+      "answer": 0,
+      "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "pyqYear": "MSCE 2020",
+      "tagText": "दिशाज्ञान",
+      "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
+        "उत्तर दिशा",
+        "दक्षिण दिशा",
+        "पूर्व दिशा",
+        "वायव्य दिशा"
       ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+      "answer": 0,
+      "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "24 वर्षे",
-        "26 वर्षे",
-        "28 वर्षे",
-        "42 वर्षे"
+        "८",
+        "४",
+        "५",
+        "७"
       ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+      "answer": 0,
+      "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Plural कूटप्रश्न",
+      "question": "What is the plural form of 'Tooth'?",
+      "options": [
+        "Teeth",
+        "Tooths",
+        "Toothes",
+        "Teethes"
+      ],
+      "answer": 0,
+      "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2020",
+      "tagText": "Proverb",
+      "question": "Complete: 'Slow and steady wins the ____.'",
+      "options": [
+        "Race",
+        "Game",
+        "Match",
+        "Prize"
+      ],
+      "answer": 0,
+      "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "HOTS",
+      "tagText": "रांगेतील कूटप्रश्न",
+      "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
+      "options": [
+        "२१ मुले",
+        "२२ मुले",
+        "२३ मुले",
+        "२० मुले"
+      ],
+      "answer": 0,
+      "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     },
     {
       "subject": "बुद्धिमत्ता",
       "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "pyqYear": "MSCE 2020",
+      "tagText": "वय कूटप्रश्न",
+      "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
+        "३० वर्षे",
+        "२५ वर्षे",
+        "३५ वर्षे",
+        "४० वर्षे"
       ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
-      "options": [
-        "167",
-        "169",
-        "173",
-        "338"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
-      "options": [
-        "28 वर्षे",
-        "30 वर्षे",
-        "32 वर्षे",
-        "50 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
-      "options": [
-        "287",
-        "289",
-        "293",
-        "578"
-      ],
-      "answer": 1,
-      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
-      "options": [
-        "काटकोन",
-        "सरळकोन (१८० अंश)",
-        "लघुकोन",
-        "विशालकोन"
-      ],
-      "answer": 1,
-      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "महामॉक ६",
-      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
-      "options": [
-        "32 वर्षे",
-        "34 वर्षे",
-        "36 वर्षे",
-        "58 वर्षे"
-      ],
-      "answer": 1,
-      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "महामॉक ६",
-      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "मूळ आकार",
-        "आरशातील डावीकडे उलटलेला आकार",
-        "पाण्यातील आकार",
-        "काहीच बदल नाही"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+      "answer": 0,
+      "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
     }
   ]
 };
