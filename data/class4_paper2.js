@@ -6753,7 +6753,7 @@ window.scholarshipClass4['paper2'] = {
         "➘",
         "➚",
         "➔",
-        "➘"
+        "↙"
       ],
       "answer": 1,
       "explanation": "खाली वळलेला तिरपा बाण पाण्यात वर वळतो (➚)."
