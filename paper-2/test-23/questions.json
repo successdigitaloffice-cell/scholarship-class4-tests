@@ -1,291 +1,330 @@
-{
-  "seriesId": "SCHOLARSHIP-C4-P2-23",
-  "classLevel": 4,
-  "paper": 2,
-  "testNumber": 23,
-  "testName": "बुद्धिमत्ता — आरशातील प्रतिमा (Mirror Image Special)",
-  "totalQuestions": 20,
-  "totalMarks": 40,
-  "questions": [
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीची आरशातील अचूक प्रतिमा कोणती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                P\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>\n(डावी बाजू उजवीकडे बदलते, उजवी डावीकडे)",
-      "options": [
-        "P",
-        "q (उलट पी)",
-        "d",
-        "b"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी-उजवी बाजू बदलते, त्यामुळे 'P' चा उजवीकडील गोल डावीकडे येऊन तो 'q' सारखा दिसतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील आकृतीचे आरशातील प्रतिबिंब ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                B\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "B",
-        "d",
-        "वक्र भाग डावीकडे असणारा आकार",
-        "P"
-      ],
-      "answer": 2,
-      "explanation": "B चा उजवीकडील वक्र भाग आरशात डावीकडे उलटतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालील बाणाचे आरशातील प्रतिबिंब ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                →\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "↑",
-        "↓",
-        "←",
-        "→"
-      ],
-      "answer": 2,
-      "explanation": "उजवीकडे तोंड असलेला बाण (→) आरशात डावीकडे तोंड करतो (←)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "खालीलपैकी कोणते इंग्रजी अक्षर आरशात पाहिले तरी अजिबात बदलत नाही (मूळ अक्षरासारखेच दिसते)?",
-      "options": [
-        "B",
-        "F",
-        "A",
-        "P"
-      ],
-      "answer": 2,
-      "explanation": "'A' हे सममित अक्षर असल्यामुळे त्याची डावी व उजवी बाजू समान असते, म्हणून आरशात 'A' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर आरशात अपरिवर्तित राहते?",
-      "options": [
-        "M",
-        "E",
-        "C",
-        "D"
-      ],
-      "answer": 0,
-      "explanation": "'M' चे आरशातील प्रतिबिंब तंतोतंत 'M' सारखेच दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आरशातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर आरशात बदलत नाही?",
-      "options": [
-        "H",
-        "K",
-        "L",
-        "N"
-      ],
-      "answer": 0,
-      "explanation": "'H' हे उभ्या अक्षाभोवती सममित असल्याने आरशात बदलत नाही."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील अंक",
-      "question": "'२' या अंकाचे आरशातील रूप कसे दिसेल?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                २\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "२",
-        "उलट २",
-        "५",
-        "७"
-      ],
-      "answer": 1,
-      "explanation": "२ चे आरशातील प्रतिबिंब डावीकडून उजवीकडे उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आरशातील अंक",
-      "question": "खालीलपैकी कोणता अंक आरशात पाहिला तरी तसाच दिसतो?",
-      "options": [
-        "१",
-        "२",
-        "३",
-        "८"
-      ],
-      "answer": 3,
-      "explanation": "'८' हा अंक सममित असल्याने आरशात '८' सारखाच दिसतो (० आणि ८)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील नियम",
-      "question": "आरशातील प्रतिमेमध्ये कोणता मुख्य बदल होतो?",
-      "options": [
-        "वरची बाजू खाली जाते",
-        "डावी बाजू उजवीकडे आणि उजवी डावीकडे बदलते",
-        "आकार मोठा होतो",
-        "रंग बदलतो"
-      ],
-      "answer": 1,
-      "explanation": "आरशात पार्श्व परिवर्तन (Lateral Inversion) होते, म्हणजे डावी व उजवी बाजू उलटते; वर-खाली बदलत नाही."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "त्रिकोणातील बाणाची आरशातील प्रतिमा शोधा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                ⮞\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "⮞",
-        "⮜ (डावीकडे बाण)",
-        "⮝",
-        "⮟"
-      ],
-      "answer": 1,
-      "explanation": "उजवीकडील बाण आरशात डावीकडे (⮜) दिसेल."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आरशातील अक्षरे",
-      "question": "कोणता शब्द आरशात उलटा न दिसता समान दिसेल?",
-      "options": [
-        "MOM",
-        "CAT",
-        "BOY",
-        "DOG"
-      ],
-      "answer": 0,
-      "explanation": "'MOM' मधील M आणि O दोन्ही सममित आहेत, आणि मधला O मध्यभागी राहून दोन्ही M उलटले तरी 'MOM' च राहते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "'RED' या शब्दाचे आरशातील रूप कोणत्या अक्षराने सुरू होईल?",
-      "options": [
-        "R",
-        "E",
-        "D (उलट)",
-        "R (उलट)"
-      ],
-      "answer": 2,
-      "explanation": "आरशात सर्वात उजवीकडील अक्षर 'D' सर्वात डावीकडे प्रथम दिसेल (उलट D)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर आरशात बदलणारे आहे?",
-      "options": [
-        "A",
-        "T",
-        "V",
-        "J"
-      ],
-      "answer": 3,
-      "explanation": "'J' चे तोंड उजवीकडून डावीकडे उलटते, म्हणून ते बदलते (A, T, V बदलत नाहीत)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "'F' या अक्षराचे आरशातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                F\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "F",
-        "उलट्या बाजूला दोन रेषा असणारे F",
-        "E",
-        "L"
-      ],
-      "answer": 1,
-      "explanation": "F च्या उजवीकडील आडव्या रेषा आरशात डावीकडे उलटतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आरशातील अंक",
-      "question": "आंतरराष्ट्रीय अंक '0' आरशात कसा दिसतो?",
-      "options": [
-        "0",
-        "1",
-        "8",
-        "बदलतो"
-      ],
-      "answer": 0,
-      "explanation": "'0' हा सममित असल्याने आरशात तंतोतंत '0' सारखाच दिसतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "घड्याळात ३:०० वाजले असल्यास आरशातील घड्याळात किती वाजल्यासारखे दिसेल?",
-      "options": [
-        "३:००",
-        "६:००",
-        "९:००",
-        "१२:००"
-      ],
-      "answer": 2,
-      "explanation": "३ वाजता तास काटा उजवीकडे असतो, आरशात तो डावीकडे म्हणजे ९ वर दिसेल (१२ - ३ = ९:००)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "आरशातील घड्याळ",
-      "question": "घड्याळात बरोबर १:०० वाजले असल्यास आरशातील घड्याळात किती वाजलेले दिसतील?",
-      "options": [
-        "११:००",
-        "१०:००",
-        "२:००",
-        "१:००"
-      ],
-      "answer": 0,
-      "explanation": "१२ - १ = ११:०० वाजल्यासारखे दिसेल."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "आरशातील अक्षरे",
-      "question": "'W' चे आरशातील रूप कसे दिसेल?",
-      "options": [
-        "M",
-        "W",
-        "V",
-        "N"
-      ],
-      "answer": 1,
-      "explanation": "आरशात वर-खाली बदलत नाही, फक्त डावी-उजवी बदलते; W सममित असल्याने 'W' च दिसेल (पाण्यात M दिसते)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "आरशातील अक्षरे",
-      "question": "'O' या अक्षराचे आरशातील प्रतिबिंब कोणते?",
-      "options": [
-        "C",
-        "Q",
-        "O",
-        "D"
-      ],
-      "answer": 2,
-      "explanation": "'O' हे पूर्ण वर्तुळाकार सममित अक्षर असल्याने 'O' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "आरशातील प्रतिमा",
-      "question": "स्वस्तिक चिन्हाची आरशातील अचूक प्रतिमा ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                卐\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
-      "options": [
-        "卐",
-        "उलटा स्वस्तिक",
-        "+",
-        "×"
-      ],
-      "answer": 1,
-      "explanation": "स्वस्तिकाच्या उजवीकडे वळलेल्या भुजा आरशात डावीकडे वळतात."
-    }
-  ]
-}
+[
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "स्थान ओळखणे",
+    "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
+    "options": [
+      "ग",
+      "ख",
+      "घ",
+      "क"
+    ],
+    "answer": 0,
+    "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "संख्या स्थान",
+    "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
+    "options": [
+      "८",
+      "६",
+      "१०",
+      "४"
+    ],
+    "answer": 0,
+    "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "विसंगत घटक",
+    "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+    "options": [
+      "बटाटा",
+      "आंबा",
+      "केळी",
+      "सफरचंद"
+    ],
+    "answer": 0,
+    "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "विसंगत संख्या",
+    "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
+    "options": [
+      "९",
+      "२",
+      "४",
+      "६"
+    ],
+    "answer": 0,
+    "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "समसंबंध",
+    "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
+    "options": [
+      "मुंबई",
+      "पुणे",
+      "नागपूर",
+      "नाशिक"
+    ],
+    "answer": 0,
+    "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "संख्या क्रम",
+    "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+    "options": [
+      "२५",
+      "३०",
+      "२४",
+      "२२"
+    ],
+    "answer": 0,
+    "explanation": "५ चा पाढा: २० + ५ = २५.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "अक्षर समसंबंध",
+    "question": "A : Z :: B : ____?",
+    "options": [
+      "Y",
+      "X",
+      "W",
+      "Z"
+    ],
+    "answer": 0,
+    "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "सांकेतिक भाषा",
+    "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
+    "options": [
+      "4-15-7",
+      "4-14-7",
+      "3-15-7",
+      "4-15-8"
+    ],
+    "answer": 0,
+    "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "दिशाज्ञान",
+    "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+    "options": [
+      "उत्तर दिशा",
+      "दक्षिण दिशा",
+      "पश्चिम दिशा",
+      "पूर्व दिशा"
+    ],
+    "answer": 0,
+    "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "नातेसंबंध",
+    "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
+    "options": [
+      "आत्तेभाऊ",
+      "मामेभाऊ",
+      "चुलतभाऊ",
+      "सख्खा भाऊ"
+    ],
+    "answer": 0,
+    "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "संख्या समसंबंध",
+    "question": "४ : १६ :: ५ : ____?",
+    "options": [
+      "२५",
+      "२०",
+      "३०",
+      "१५"
+    ],
+    "answer": 0,
+    "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "विसंगत शब्द",
+    "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+    "options": [
+      "हात",
+      "डोळा",
+      "नाक",
+      "कान"
+    ],
+    "answer": 0,
+    "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "अक्षर मालिका",
+    "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
+    "options": [
+      "J",
+      "I",
+      "K",
+      "L"
+    ],
+    "answer": 0,
+    "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "संख्या मालिका",
+    "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
+    "options": [
+      "२५",
+      "२०",
+      "३६",
+      "२४"
+    ],
+    "answer": 0,
+    "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "आरशातील प्रतिमा",
+    "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "सांकेतिक भाषा",
+    "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
+    "options": [
+      "निळा",
+      "पिवळा",
+      "लाल",
+      "पांढरा"
+    ],
+    "answer": 0,
+    "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "HOTS",
+    "tagText": "रांगेतील स्थान कूटप्रश्न",
+    "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
+    "options": [
+      "१७ मुले",
+      "१८ मुले",
+      "१९ मुले",
+      "१६ मुले"
+    ],
+    "answer": 0,
+    "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "वय कूटप्रश्न",
+    "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
+    "options": [
+      "३५ वर्षे",
+      "३० वर्षे",
+      "४० वर्षे",
+      "२५ वर्षे"
+    ],
+    "answer": 0,
+    "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "HOTS",
+    "tagText": "त्रिकोण मोजणे",
+    "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
+    "options": [
+      "३ त्रिकोण",
+      "२ त्रिकोण",
+      "४ त्रिकोण",
+      "१ त्रिकोण"
+    ],
+    "answer": 0,
+    "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "दिनदर्शिका कूटप्रश्न",
+    "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
+    "options": [
+      "शुक्रवार",
+      "गुरुवार",
+      "शनिवार",
+      "रविवार"
+    ],
+    "answer": 0,
+    "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  }
+]
