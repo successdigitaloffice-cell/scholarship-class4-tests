@@ -1,291 +1,330 @@
-{
-  "seriesId": "SCHOLARSHIP-C4-P1-24",
-  "classLevel": 4,
-  "paper": 1,
-  "testNumber": 24,
-  "testName": "मिश्र सराव २: शब्दसंपत्ती, अपूर्णांक व भूमिती",
-  "totalQuestions": 20,
-  "totalMarks": 40,
-  "questions": [
-    {
-      "subject": "मराठी",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "'राजूने सुंदर निबंध लिहिला.' या वाक्यातील विशेषण कोणते? (प्रश्न क्र. 1)",
-      "options": [
-        "राजूने",
-        "सुंदर",
-        "निबंध",
-        "लिहिला"
-      ],
-      "answer": 1,
-      "explanation": "'सुंदर' हा शब्द निबंध या नामाबद्दल विशेष माहिती सांगत असल्याने विशेषण आहे."
-    },
-    {
-      "subject": "मराठी",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "'सूर्य पूर्वेला उगवतो.' या वाक्यातील काळ कोणता? (प्रश्न क्र. 2)",
-      "options": [
-        "वर्तमानकाळ",
-        "भूतकाळ",
-        "भविष्यकाळ",
-        "अपूर्ण भूतकाळ"
-      ],
-      "answer": 0,
-      "explanation": "नित्य सत्य आणि चालू काळातील घटना वर्तमानकाळात व्यक्त होते."
-    },
-    {
-      "subject": "मराठी",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "'काखेत कळसा आणि गावाला वळसा' या म्हणीचा योग्य अर्थ सांगा. (प्रश्न क्र. 3)",
-      "options": [
-        "जवळ असलेली वस्तू सर्वत्र शोधणे",
-        "कळस डोक्यावर घेऊन फिरणे",
-        "गावात फिरून पाणी आणणे",
-        "दुसऱ्याला मदत न करणे"
-      ],
-      "answer": 0,
-      "explanation": "आपल्या जवळच असणारी गोष्ट इतरत्र सर्वत्र शोधत फिरणे म्हणजे काखेत कळसा आणि गावाला वळसा."
-    },
-    {
-      "subject": "मराठी",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "'राजूने सुंदर निबंध लिहिला.' या वाक्यातील विशेषण कोणते? (प्रश्न क्र. 4)",
-      "options": [
-        "राजूने",
-        "सुंदर",
-        "निबंध",
-        "लिहिला"
-      ],
-      "answer": 1,
-      "explanation": "'सुंदर' हा शब्द निबंध या नामाबद्दल विशेष माहिती सांगत असल्याने विशेषण आहे."
-    },
-    {
-      "subject": "मराठी",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "'सूर्य पूर्वेला उगवतो.' या वाक्यातील काळ कोणता? (प्रश्न क्र. 5)",
-      "options": [
-        "वर्तमानकाळ",
-        "भूतकाळ",
-        "भविष्यकाळ",
-        "अपूर्ण भूतकाळ"
-      ],
-      "answer": 0,
-      "explanation": "नित्य सत्य आणि चालू काळातील घटना वर्तमानकाळात व्यक्त होते."
-    },
-    {
-      "subject": "गणित",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(225 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">7:30</span>\n    </div>\nघड्याळात दर्शवलेली वेळ कोणती?",
-      "options": [
-        "7:००",
-        "7:30",
-        "8:००",
-        "7:३०"
-      ],
-      "answer": 1,
-      "explanation": "घड्याळात बरोबर 7 तास 30 मिनिटे दर्शवली आहेत."
-    },
-    {
-      "subject": "गणित",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "एका व्यापाऱ्याने एक वस्तू 350 रुपयांस खरेदी करून 450 रुपयांस विकली, तर त्याला किती नफा झाला? (प्रश्न क्र. 7)",
-      "options": [
-        "५० रु. तोटा",
-        "100 रु. नफा",
-        "१५० रु. नफा",
-        "नफा नाही तोटा नाही"
-      ],
-      "answer": 1,
-      "explanation": "विक्री किंमत खरेदीपेक्षा जास्त असल्याने नफा = विक्री - खरेदी = 450 - 350 = 100 रुपये नफा."
-    },
-    {
-      "subject": "गणित",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "एका आयताची लांबी 11 सेमी व रुंदी 6 सेमी असल्यास त्याची परिमिती किती? (प्रश्न क्र. 8)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <rect x=\"20\" y=\"20\" width=\"140\" height=\"70\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\" rx=\"4\"/>\n            <text x=\"90\" y=\"15\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">लांबी = 11 सेमी</text>\n            <text x=\"90\" y=\"105\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">लांबी = 11 सेमी</text>\n            <text x=\"165\" y=\"60\" text-anchor=\"start\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">6 सेमी</text>\n            <text x=\"5\" y=\"60\" text-anchor=\"end\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">6 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">आयताची परिमिती = २ × (लांबी + रुंदी)</span>\n    </div>",
-      "options": [
-        "30 सेमी",
-        "34 सेमी",
-        "66 चौ.सेमी",
-        "40 सेमी"
-      ],
-      "answer": 1,
-      "explanation": "परिमिती = २ × (लांबी + रुंदी) = २ × (11 + 6) = 34 सेमी."
-    },
-    {
-      "subject": "गणित",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "एका शाळेत 3850 मुले आणि 1650 मुली शिकतात, तर शाळेतील एकूण विद्यार्थी किती? (प्रश्न क्र. 9)",
-      "options": [
-        "5400",
-        "5500",
-        "5600",
-        "5550"
-      ],
-      "answer": 1,
-      "explanation": "एकूण विद्यार्थी = 3850 + 1650 = 5500."
-    },
-    {
-      "subject": "गणित",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(345 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">11:30</span>\n    </div>\nघड्याळात दर्शवलेली वेळ कोणती?",
-      "options": [
-        "11:००",
-        "11:30",
-        "12:००",
-        "11:३०"
-      ],
-      "answer": 1,
-      "explanation": "घड्याळात बरोबर 11 तास 30 मिनिटे दर्शवली आहेत."
-    },
-    {
-      "subject": "गणित",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "एका व्यापाऱ्याने एक वस्तू 550 रुपयांस खरेदी करून 650 रुपयांस विकली, तर त्याला किती नफा झाला? (प्रश्न क्र. 11)",
-      "options": [
-        "५० रु. तोटा",
-        "100 रु. नफा",
-        "१५० रु. नफा",
-        "नफा नाही तोटा नाही"
-      ],
-      "answer": 1,
-      "explanation": "विक्री किंमत खरेदीपेक्षा जास्त असल्याने नफा = विक्री - खरेदी = 650 - 550 = 100 रुपये नफा."
-    },
-    {
-      "subject": "गणित",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "एका आयताची लांबी 10 सेमी व रुंदी 4 सेमी असल्यास त्याची परिमिती किती? (प्रश्न क्र. 12)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <rect x=\"20\" y=\"20\" width=\"140\" height=\"70\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\" rx=\"4\"/>\n            <text x=\"90\" y=\"15\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">लांबी = 10 सेमी</text>\n            <text x=\"90\" y=\"105\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">लांबी = 10 सेमी</text>\n            <text x=\"165\" y=\"60\" text-anchor=\"start\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">4 सेमी</text>\n            <text x=\"5\" y=\"60\" text-anchor=\"end\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">4 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">आयताची परिमिती = २ × (लांबी + रुंदी)</span>\n    </div>",
-      "options": [
-        "24 सेमी",
-        "28 सेमी",
-        "40 चौ.सेमी",
-        "34 सेमी"
-      ],
-      "answer": 1,
-      "explanation": "परिमिती = २ × (लांबी + रुंदी) = २ × (10 + 4) = 28 सेमी."
-    },
-    {
-      "subject": "गणित",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "एका शाळेत 4450 मुले आणि 1850 मुली शिकतात, तर शाळेतील एकूण विद्यार्थी किती? (प्रश्न क्र. 13)",
-      "options": [
-        "6200",
-        "6300",
-        "6400",
-        "6350"
-      ],
-      "answer": 1,
-      "explanation": "एकूण विद्यार्थी = 4450 + 1850 = 6300."
-    },
-    {
-      "subject": "गणित",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(135 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">4:30</span>\n    </div>\nघड्याळात दर्शवलेली वेळ कोणती?",
-      "options": [
-        "4:००",
-        "4:30",
-        "5:००",
-        "4:३०"
-      ],
-      "answer": 1,
-      "explanation": "घड्याळात बरोबर 4 तास 30 मिनिटे दर्शवली आहेत."
-    },
-    {
-      "subject": "गणित",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "एका व्यापाऱ्याने एक वस्तू 750 रुपयांस खरेदी करून 850 रुपयांस विकली, तर त्याला किती नफा झाला? (प्रश्न क्र. 15)",
-      "options": [
-        "५० रु. तोटा",
-        "100 रु. नफा",
-        "१५० रु. नफा",
-        "नफा नाही तोटा नाही"
-      ],
-      "answer": 1,
-      "explanation": "विक्री किंमत खरेदीपेक्षा जास्त असल्याने नफा = विक्री - खरेदी = 850 - 750 = 100 रुपये नफा."
-    },
-    {
-      "subject": "गणित",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "एका आयताची लांबी 9 सेमी व रुंदी 5 सेमी असल्यास त्याची परिमिती किती? (प्रश्न क्र. 16)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <rect x=\"20\" y=\"20\" width=\"140\" height=\"70\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\" rx=\"4\"/>\n            <text x=\"90\" y=\"15\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">लांबी = 9 सेमी</text>\n            <text x=\"90\" y=\"105\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">लांबी = 9 सेमी</text>\n            <text x=\"165\" y=\"60\" text-anchor=\"start\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n            <text x=\"5\" y=\"60\" text-anchor=\"end\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">5 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">आयताची परिमिती = २ × (लांबी + रुंदी)</span>\n    </div>",
-      "options": [
-        "24 सेमी",
-        "28 सेमी",
-        "45 चौ.सेमी",
-        "34 सेमी"
-      ],
-      "answer": 1,
-      "explanation": "परिमिती = २ × (लांबी + रुंदी) = २ × (9 + 5) = 28 सेमी."
-    },
-    {
-      "subject": "गणित",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "एका शाळेत 5050 मुले आणि 2050 मुली शिकतात, तर शाळेतील एकूण विद्यार्थी किती? (प्रश्न क्र. 17)",
-      "options": [
-        "7000",
-        "7100",
-        "7200",
-        "7150"
-      ],
-      "answer": 1,
-      "explanation": "एकूण विद्यार्थी = 5050 + 2050 = 7100."
-    },
-    {
-      "subject": "गणित",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(255 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">8:30</span>\n    </div>\nघड्याळात दर्शवलेली वेळ कोणती?",
-      "options": [
-        "8:००",
-        "8:30",
-        "9:००",
-        "8:३०"
-      ],
-      "answer": 1,
-      "explanation": "घड्याळात बरोबर 8 तास 30 मिनिटे दर्शवली आहेत."
-    },
-    {
-      "subject": "गणित",
-      "type": "Concept",
-      "tagText": "संयुक्त सराव",
-      "question": "एका व्यापाऱ्याने एक वस्तू 950 रुपयांस खरेदी करून 1050 रुपयांस विकली, तर त्याला किती नफा झाला? (प्रश्न क्र. 19)",
-      "options": [
-        "५० रु. तोटा",
-        "100 रु. नफा",
-        "१५० रु. नफा",
-        "नफा नाही तोटा नाही"
-      ],
-      "answer": 1,
-      "explanation": "विक्री किंमत खरेदीपेक्षा जास्त असल्याने नफा = विक्री - खरेदी = 1050 - 950 = 100 रुपये नफा."
-    },
-    {
-      "subject": "गणित",
-      "type": "PYQ",
-      "tagText": "संयुक्त सराव",
-      "question": "एका आयताची लांबी 8 सेमी व रुंदी 6 सेमी असल्यास त्याची परिमिती किती? (प्रश्न क्र. 20)\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-emerald-50/50 rounded-xl border border-emerald-200\">\n        <svg width=\"180\" height=\"110\" viewBox=\"0 0 180 110\">\n            <rect x=\"20\" y=\"20\" width=\"140\" height=\"70\" fill=\"#ecfdf5\" stroke=\"#059669\" stroke-width=\"3\" rx=\"4\"/>\n            <text x=\"90\" y=\"15\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">लांबी = 8 सेमी</text>\n            <text x=\"90\" y=\"105\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">लांबी = 8 सेमी</text>\n            <text x=\"165\" y=\"60\" text-anchor=\"start\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">6 सेमी</text>\n            <text x=\"5\" y=\"60\" text-anchor=\"end\" font-size=\"12\" font-weight=\"bold\" fill=\"#065f46\">6 सेमी</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-emerald-900\">आयताची परिमिती = २ × (लांबी + रुंदी)</span>\n    </div>",
-      "options": [
-        "24 सेमी",
-        "28 सेमी",
-        "48 चौ.सेमी",
-        "34 सेमी"
-      ],
-      "answer": 1,
-      "explanation": "परिमिती = २ × (लांबी + रुंदी) = २ × (8 + 6) = 28 सेमी."
-    }
-  ]
-}
+[
+  {
+    "subject": "गणित",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "चित्रालेख प्रमाण",
+    "question": "एका चित्रालेखात प्रमाण: १ चित्र (🌸) = ५ फुले दिले आहे. जर राहुलच्या नावापुढे ३ फुले काढली असतील, तर राहुलकडे किती फुले आहेत?",
+    "options": [
+      "१५ फुले",
+      "८ फुले",
+      "३ फुले",
+      "५ फुले"
+    ],
+    "answer": 0,
+    "explanation": "३ × ५ = १५ फुले.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "गणित",
+    "type": "Concept",
+    "tagText": "चित्रालेख व्याख्या",
+    "question": "दिलेली माहिती चित्रांच्या साह्याने मांडलेल्या आलेखाला काय म्हणतात?",
+    "options": [
+      "चित्रालेख (Pictograph)",
+      "स्तंभालेख",
+      "वृत्तालेख",
+      "रेषालेख"
+    ],
+    "answer": 0,
+    "explanation": "चित्रांच्या साहाय्याने दर्शवलेल्या सांख्यिकी मांडणीस 'चित्रालेख' म्हणतात.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "गणित",
+    "type": "IMP",
+    "tagText": "प्रमाण वाचन",
+    "question": "प्रमाण: १ 🚗 = १० गाड्या. एका शोरूममध्ये ४ 🚗 चित्रे दिली असल्यास शोरूममध्ये एकूण किती गाड्या आहेत?",
+    "options": [
+      "४० गाड्या",
+      "१४ गाड्या",
+      "४ गाड्या",
+      "१० गाड्या"
+    ],
+    "answer": 0,
+    "explanation": "४ × १० = ४० गाड्या.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "गणित",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2023",
+    "tagText": "चित्रे मोजणे",
+    "question": "एका वर्गात ५० विद्यार्थी आहेत. प्रमाण: १ 🧒 = १० विद्यार्थी. तर वर्गातील विद्यार्थ्यांसाठी किती चित्रे काढावी लागतील?",
+    "options": [
+      "५ चित्रे",
+      "१० चित्रे",
+      "५० चित्रे",
+      "४ चित्रे"
+    ],
+    "answer": 0,
+    "explanation": "५० ÷ १० = ५ चित्रे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "गणित",
+    "type": "Concept",
+    "tagText": "चित्रालेख विश्लेषण",
+    "question": "चित्रालेखावरून माहिती मिळवण्यासाठी सर्वप्रथम काय पाहणे आवश्यक असते?",
+    "options": [
+      "प्रमाण (Scale)",
+      "चित्रांचा रंग",
+      "आलेखाची लांबी",
+      "पर्याय"
+    ],
+    "answer": 0,
+    "explanation": "एका चित्राची नेमकी किंमत समजण्यासाठी 'प्रमाण' पाहणे सर्वात महत्त्वाचे असते.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "गणित",
+    "type": "IMP",
+    "tagText": "प्रमाण गणना",
+    "question": "प्रमाण: १ 🌳 = ८ झाडे. शाळेच्या आवारात ६ 🌳 चित्रे दाखवली आहेत, तर एकूण झाडे किती?",
+    "options": [
+      "४८ झाडे",
+      "१४ झाडे",
+      "४२ झाडे",
+      "५४ झाडे"
+    ],
+    "answer": 0,
+    "explanation": "६ × ८ = ४८ झाडे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "गणित",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "तुलना",
+    "question": "प्रमाण: १ 📚 = ५ पुस्तके. अनिकेतपुढे ४ पुस्तके व स्नेहापुढे ६ पुस्तके आहेत, तर स्नेहाकडे अनिकेतपेक्षा किती पुस्तके जास्त आहेत?",
+    "options": [
+      "१० पुस्तके",
+      "२ पुस्तके",
+      "५ पुस्तके",
+      "१५ पुस्तके"
+    ],
+    "answer": 0,
+    "explanation": "फरक = ६ - ४ = २ चित्रे. २ × ५ = १० पुस्तके.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "Concept",
+    "tagText": "एकूण बेरीज",
+    "question": "प्रमाण: १ ⚽ = १० चेंडू. अ, ब आणि क या तिघांकडे अनुक्रमे २, ३ आणि ५ चित्रे आहेत, तर तिघांकडे मिळून एकूण किती चेंडू आहेत?",
+    "options": [
+      "१०० चेंडू",
+      "१० चेंडू",
+      "५० चेंडू",
+      "८० चेंडू"
+    ],
+    "answer": 0,
+    "explanation": "एकूण चित्रे = २ + ३ + ५ = १०. एकूण चेंडू = १० × १० = १०० चेंडू.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "IMP",
+    "tagText": "अर्धे चित्र",
+    "question": "प्रमाण: १ 🍎 = २० सफरचंदे. जर चित्रात १ पूर्ण सफरचंद आणि १ अर्धे सफरचंद दिले असेल, तर एकूण किती सफरचंदे झाली?",
+    "options": [
+      "३० सफरचंदे",
+      "४० सफरचंदे",
+      "२५ सफरचंदे",
+      "२० सफरचंदे"
+    ],
+    "answer": 0,
+    "explanation": "१ पूर्ण = २०, अर्धे = १० -> २० + १० = ३० सफरचंदे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "प्रमाण काढणे",
+    "question": "एका गावातील ६० बैलांसाठी चित्रालेखात ६ 🐂 चित्रे काढली आहेत, तर १ चित्रासाठी प्रमाण किती मानले आहे?",
+    "options": [
+      "१० बैल",
+      "६ बैल",
+      "१ बैल",
+      "६० बैल"
+    ],
+    "answer": 0,
+    "explanation": "प्रमाण = ६० ÷ ६ = १० बैल.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "Concept",
+    "tagText": "सर्वात कमी",
+    "question": "चित्रालेखात ज्या घटकापुढे सर्वात कमी चित्रे असतात, त्या घटकाची संख्या कशी असते?",
+    "options": [
+      "सर्वात कमी",
+      "सर्वात जास्त",
+      "शून्य",
+      "सांगता येत नाही"
+    ],
+    "answer": 0,
+    "explanation": "कमी चित्रे म्हणजे संख्याही सर्वात कमी असते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "IMP",
+    "tagText": "गुणोत्तर",
+    "question": "प्रमाण: १ 🚲 = ५ सायकली. गावात सोमवारी ४ चित्रे व मंगळवारी ८ चित्रे सायकली विकल्या गेल्या, तर मंगळवारी सोमवारापेक्षा किती पट सायकली विकल्या?",
+    "options": [
+      "२ पट",
+      "४ पट",
+      "अर्धी",
+      "३ पट"
+    ],
+    "answer": 0,
+    "explanation": "८ ÷ ४ = २ पट सायकली विकल्या.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2020",
+    "tagText": "चित्रालेख बेरीज",
+    "question": "प्रमाण: १ 🌲 = १५ झाडे. एका जंगलात सागाची ४ व आंब्याची २ चित्रे आहेत, तर एकूण झाडे किती?",
+    "options": [
+      "९० झाडे",
+      "६० झाडे",
+      "३० झाडे",
+      "७५ झाडे"
+    ],
+    "answer": 0,
+    "explanation": "(४ + २) = ६ चित्रे. ६ × १५ = ९० झाडे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "Concept",
+    "tagText": "प्रमाण महत्त्व",
+    "question": "जर चित्रालेखात प्रमाण दिले नसेल, तर खालीलपैकी काय घडेल?",
+    "options": [
+      "अचूक संख्या काढता येणार नाही",
+      "संख्या सहज काढता येईल",
+      "चित्र मोजणे सोपे होईल",
+      "काही फरक पडणार नाही"
+    ],
+    "answer": 0,
+    "explanation": "प्रमाणाशिवाय चित्राचे अचूक मूल्य समजणे अशक्य असते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "IMP",
+    "tagText": "फरक काढणे",
+    "question": "प्रमाण: १ 🌟 = ५० गुण. रोहनला ४ तारे आणि अमितला ३ तारे मिळाले, तर दोघांच्या गुणांत किती फरक आहे?",
+    "options": [
+      "५० गुण",
+      "१०० गुण",
+      "१५० गुण",
+      "२५ गुण"
+    ],
+    "answer": 0,
+    "explanation": "(४ - ३) = १ तारा = ५० गुण.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2019",
+    "tagText": "प्रमाण",
+    "question": "प्रमाण: १ 🍨 = २५ आईस्क्रीम. एका दुकानात ८ 🍨 चित्रे दाखवली आहेत, तर एकूण किती आईस्क्रीम विकली गेली?",
+    "options": [
+      "२००",
+      "१५०",
+      "१७५",
+      "२५०"
+    ],
+    "answer": 0,
+    "explanation": "८ × २५ = २०० आईस्क्रीम.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "गणित",
+    "type": "HOTS",
+    "tagText": "कूटप्रश्न चित्रालेख",
+    "question": "एका गावात एकूण ४५० लोकसंख्या आहे. प्रमाण: १ 👤 = ५० व्यक्ती. या लोकसंख्येमध्ये स्त्रिया दर्शवण्यासाठी ४ चित्रे वापरली असतील, तर पुरुषांसाठी किती चित्रे लागतील?",
+    "options": [
+      "५ चित्रे",
+      "९ चित्रे",
+      "४ चित्रे",
+      "६ चित्रे"
+    ],
+    "answer": 0,
+    "explanation": "एकूण चित्रे = ४५० ÷ ५० = ९. पुरुषांची चित्रे = ९ - ४ = ५ चित्रे.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "गणित",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "कूटप्रश्न शेकडा चित्रालेख",
+    "question": "प्रमाण: १ 📘 = १२ पुस्तके. वर्गातील ग्रंथालयात एकूण ९६ पुस्तके असल्यास चित्रालेखात किती पुस्तकांची चित्रे काढावी लागतील?",
+    "options": [
+      "८ चित्रे",
+      "७ चित्रे",
+      "९ चित्रे",
+      "६ चित्रे"
+    ],
+    "answer": 0,
+    "explanation": "९६ ÷ १२ = ८ चित्रे.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "गणित",
+    "type": "HOTS",
+    "tagText": "चित्रालेख फरक कूटप्रश्न",
+    "question": "प्रमाण: १ 🌾 = ३० पोती गहू. शेतकरी 'अ' कडे शेतकरी 'ब' पेक्षा १५० पोती गहू जास्त आहे, तर शेतकरी 'अ' च्या खात्यात 'ब' पेक्षा किती चित्रे जास्त असतील?",
+    "options": [
+      "५ चित्रे",
+      "४ चित्रे",
+      "६ चित्रे",
+      "१० चित्रे"
+    ],
+    "answer": 0,
+    "explanation": "१५० ÷ ३० = ५ चित्रे जास्त असतील.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "गणित",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2023",
+    "tagText": "चित्रालेख कूटप्रश्न",
+    "question": "प्रमाण: १ 🥛 = २५ लिटर दूध. डेअरीमध्ये सकाळी ६ चित्रे आणि संध्याकाळी ४ चित्रे दूध संकलन झाले, तर संपूर्ण दिवसात एकूण किती लिटर दूध संकलित झाले?",
+    "options": [
+      "२५० लिटर",
+      "२०० लिटर",
+      "१५० लिटर",
+      "३०० लिटर"
+    ],
+    "answer": 0,
+    "explanation": "एकूण चित्रे = ६ + ४ = १०. १० × २५ = २५० लिटर दूध.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  }
+]
