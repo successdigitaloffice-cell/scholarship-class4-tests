@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C4-P1-12",
+  "classLevel": 4,
+  "paper": 1,
+  "testNumber": 12,
+  "testName": "गणित — मापन: कालमापन (घड्याळ, तास-मिनिटे, दिनदर्शिका)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "घड्याळ वाचन",
+      "question": "खालील घड्याळातील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(90 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        \n    </div>\nघड्याळात किती वाजले आहेत?",
+      "options": [
+        "१२ वाजले",
+        "३ वाजले",
+        "६ वाजले",
+        "९ वाजले"
+      ],
+      "answer": 1,
+      "explanation": "तास काटा ३ वर आणि मिनिट काटा १२ वर असल्याने बरोबर ३ वाजले आहेत."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "घड्याळ वाचन",
+      "question": "खालील घड्याळात कोणती वेळ दर्शवली आहे?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(225 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n        </svg>\n        \n    </div>",
+      "options": [
+        "७ वाजले",
+        "साडे सात (७:३०)",
+        "८ वाजले",
+        "सव्वा सात"
+      ],
+      "answer": 1,
+      "explanation": "तास काटा ७ आणि ८ च्या मध्ये व मिनिट काटा ६ वर (३० मिनिटे) असल्याने साडे सात (७:३०) वाजले आहेत."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "घड्याळ वाचन",
+      "question": "खालील घड्याळातील वेळ ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(127.5 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(90 70 70)\"/>\n        </svg>\n        \n    </div>",
+      "options": [
+        "चार वाजले",
+        "सव्वा चार (४:१५)",
+        "साडे चार",
+        "पावणे पाच"
+      ],
+      "answer": 1,
+      "explanation": "तास काटा ४ च्या किंचित पुढे व मिनिट काटा ३ वर (१५ मिनिटे) असल्याने सव्वा चार (४:१५) वाजले आहेत."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "घड्याळ वाचन",
+      "question": "खालील घड्याळातील वेळ ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(292.5 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(270 70 70)\"/>\n        </svg>\n        \n    </div>",
+      "options": [
+        "साडेनऊ",
+        "सव्वा नऊ",
+        "पावणे दहा (९:४५)",
+        "दहा वाजले"
+      ],
+      "answer": 2,
+      "explanation": "तास काटा १० च्या जवळ आणि मिनिट काटा ९ वर (४५ मिनिटे) असल्याने पावणे दहा (९:४५) वाजले आहेत."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "वेळेचे रूपांतर",
+      "question": "१ तास म्हणजे किती मिनिटे?",
+      "options": [
+        "२४ मिनिटे",
+        "६० मिनिटे",
+        "१०० मिनिटे",
+        "३६० मिनिटे"
+      ],
+      "answer": 1,
+      "explanation": "१ तास = ६० मिनिटे."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "वेळेचे रूपांतर",
+      "question": "२ तास १५ मिनिटे म्हणजे एकूण किती मिनिटे?",
+      "options": [
+        "१२५ मिनिटे",
+        "१३५ मिनिटे",
+        "१४५ मिनिटे",
+        "२१५ मिनिटे"
+      ],
+      "answer": 1,
+      "explanation": "२ तास = २ × ६० = १२० मिनिटे. १२० + १५ = १३५ मिनिटे."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "वेळेची बेरीज",
+      "question": "दुपारी २:३० वाजता सुरू झालेला चित्रपट २ तास चालला, तर तो किती वाजता संपला?",
+      "options": [
+        "दुपारी ३:३०",
+        "दुपारी ४:००",
+        "दुपारी ४:३०",
+        "संध्याकाळी ५:००"
+      ],
+      "answer": 2,
+      "explanation": "२:३० + २ तास = दुपारी ४:३० वाजता."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "दिनदर्शिका",
+      "question": "एका सामान्य वर्षात एकूण किती दिवस असतात?",
+      "options": [
+        "३६०",
+        "३६५",
+        "३६६",
+        "३७०"
+      ],
+      "answer": 1,
+      "explanation": "सामान्य वर्षात ३६५ दिवस असतात, तर लीप वर्षात ३६६ दिवस असतात."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "लीप वर्ष",
+      "question": "खालीलपैकी कोणते वर्ष लीप वर्ष आहे?",
+      "options": [
+        "२०२१",
+        "२०२२",
+        "२०२३",
+        "२०२४"
+      ],
+      "answer": 3,
+      "explanation": "ज्या इसवी सन वर्षाला ४ ने पूर्ण भाग जातो ते वर्ष लीप वर्ष असते. २०२४ ÷ ४ = ५०६ (पूर्ण भाग जातो)."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "महिने व दिवस",
+      "question": "फेब्रुवारी महिन्यात लीप वर्षामध्ये किती दिवस असतात?",
+      "options": [
+        "२८",
+        "२९",
+        "३०",
+        "३१"
+      ],
+      "answer": 1,
+      "explanation": "लीप वर्षात फेब्रुवारी महिन्यात २९ दिवस असतात."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "दिनदर्शिका वार",
+      "question": "एका महिन्याची ५ तारीख सोमवार असल्यास, त्याच महिन्याची १२ तारीख कोणता वार असेल?",
+      "options": [
+        "रविवार",
+        "सोमवार",
+        "मंगळवार",
+        "बुधवार"
+      ],
+      "answer": 1,
+      "explanation": "कोणत्याही तारखेत ७ मिळवल्यास तोच वार येतो. ५ + ७ = १२ तारीख, म्हणून १२ तारखेलाही सोमवारच असेल."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "महिने व दिवस",
+      "question": "खालीलपैकी ३१ दिवसांचा नसलेला महिना कोणता?",
+      "options": [
+        "जानेवारी",
+        "मार्च",
+        "एप्रिल",
+        "मे"
+      ],
+      "answer": 2,
+      "explanation": "एप्रिल महिन्यात ३० दिवस असतात (जानेवारी, मार्च, मे मध्ये ३१ दिवस असतात)."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "दिनदर्शिका",
+      "question": "१५ ऑगस्ट हा स्वातंत्र्यदिन गुरुवारी आला असल्यास, १ ऑगस्ट रोजी कोणता वार होता?",
+      "options": [
+        "मंगळवार",
+        "बुधवार",
+        "गुरुवार",
+        "शुक्रवार"
+      ],
+      "answer": 2,
+      "explanation": "१५ - ७ = ८ तारीख (गुरुवार), ८ - ७ = १ तारीख (गुरुवार). १ ऑगस्टलाही गुरुवारच होता."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "कालमापन",
+      "question": "१ दिवस म्हणजे किती तास?",
+      "options": [
+        "१२ तास",
+        "२४ तास",
+        "४८ तास",
+        "६० तास"
+      ],
+      "answer": 1,
+      "explanation": "१ दिवस = २४ तास."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "घड्याळ काटे",
+      "question": "घड्याळात बरोबर ३:०० वाजता तास काटा आणि मिनिट काटा यांमध्ये कोणता कोन तयार होतो?",
+      "options": [
+        "लघुकोन",
+        "काटकोन (९० अंश)",
+        "विशालकोन",
+        "सरळकोन"
+      ],
+      "answer": 1,
+      "explanation": "३ वाजता तास काटा ३ वर आणि मिनिट काटा १२ वर असतो, त्यामुळे काटकोन (९० अंश) तयार होतो."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "घड्याळ काटे",
+      "question": "घड्याळात बरोबर ६:०० वाजता दोन काट्यांमध्ये कोणता कोन तयार होतो?",
+      "options": [
+        "काटकोन",
+        "लघुकोन",
+        "सरळकोन (१८० अंश)",
+        "शून्य कोन"
+      ],
+      "answer": 2,
+      "explanation": "६ वाजता दोन्ही काटे सरळ एका रेषेत परस्पर विरुद्ध असतात, म्हणून सरळकोन (१८० अंश) होतो."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "वेळ",
+      "question": "दुपारचे १२ ते रात्रीचे १२ या दरम्यानच्या वेळेला काय म्हणतात?",
+      "options": [
+        "मध्यान्हपूर्व (a.m.)",
+        "मध्यान्होत्तर (p.m.)",
+        "पहाट",
+        "सकाळ"
+      ],
+      "answer": 1,
+      "explanation": "दुपारच्या १२ नंतरच्या वेळेला मध्यान्होत्तर (Post Meridiem - p.m.) म्हणतात."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "दिनदर्शिका",
+      "question": "१ आठवडा म्हणजे ७ दिवस, तर ५ आठवडे म्हणजे किती दिवस?",
+      "options": [
+        "२५ दिवस",
+        "३० दिवस",
+        "३५ दिवस",
+        "४० दिवस"
+      ],
+      "answer": 2,
+      "explanation": "५ × ७ = ३५ दिवस."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "वेळ वजाबाकी",
+      "question": "सकाळी ९:०० ते दुपारी १:०० या दरम्यान किती तासांचा फरक आहे?",
+      "options": [
+        "२ तास",
+        "३ तास",
+        "४ तास",
+        "५ तास"
+      ],
+      "answer": 2,
+      "explanation": "९ ते १० (१), १० ते ११ (२), ११ ते १२ (३), १२ ते १ (४) -> एकूण ४ तास."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "मिनिटे ते सेकंद",
+      "question": "१ मिनिट म्हणजे किती सेकंद?",
+      "options": [
+        "३० सेकंद",
+        "६० सेकंद",
+        "१०० सेकंद",
+        "१२० सेकंद"
+      ],
+      "answer": 1,
+      "explanation": "१ मिनिट = ६० सेकंद."
+    }
+  ]
+}
