@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C4-P2-08",
+  "classLevel": 4,
+  "paper": 2,
+  "testNumber": 8,
+  "testName": "बुद्धिमत्ता — वर्गीकरण २: संख्या वर्गीकरण",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "समसंबंध ओळखा: ५ : २५ :: 1 : ? (प्रश्न क्र. 1)",
+      "options": [
+        "-1",
+        "1",
+        "5",
+        "2"
+      ],
+      "answer": 1,
+      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 1² = 1."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "options": [
+        "काटकोन",
+        "सरळकोन (१८० अंश)",
+        "लघुकोन",
+        "विशालकोन"
+      ],
+      "answer": 1,
+      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "रोहनचे वय आज 13 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 3)",
+      "options": [
+        "16 वर्षे",
+        "18 वर्षे",
+        "20 वर्षे",
+        "26 वर्षे"
+      ],
+      "answer": 1,
+      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 13 + ५ = 18 वर्षे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 4):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "मूळ आकार",
+        "आरशातील डावीकडे उलटलेला आकार",
+        "पाण्यातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "समसंबंध ओळखा: ५ : २५ :: 5 : ? (प्रश्न क्र. 5)",
+      "options": [
+        "23",
+        "25",
+        "29",
+        "50"
+      ],
+      "answer": 1,
+      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 5² = 25."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "options": [
+        "काटकोन",
+        "सरळकोन (१८० अंश)",
+        "लघुकोन",
+        "विशालकोन"
+      ],
+      "answer": 1,
+      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "रोहनचे वय आज 17 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 7)",
+      "options": [
+        "20 वर्षे",
+        "22 वर्षे",
+        "24 वर्षे",
+        "34 वर्षे"
+      ],
+      "answer": 1,
+      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 17 + ५ = 22 वर्षे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 8):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "मूळ आकार",
+        "आरशातील डावीकडे उलटलेला आकार",
+        "पाण्यातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "समसंबंध ओळखा: ५ : २५ :: 9 : ? (प्रश्न क्र. 9)",
+      "options": [
+        "79",
+        "81",
+        "85",
+        "162"
+      ],
+      "answer": 1,
+      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 9² = 81."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "options": [
+        "काटकोन",
+        "सरळकोन (१८० अंश)",
+        "लघुकोन",
+        "विशालकोन"
+      ],
+      "answer": 1,
+      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "रोहनचे वय आज 21 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 11)",
+      "options": [
+        "24 वर्षे",
+        "26 वर्षे",
+        "28 वर्षे",
+        "42 वर्षे"
+      ],
+      "answer": 1,
+      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 21 + ५ = 26 वर्षे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 12):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "मूळ आकार",
+        "आरशातील डावीकडे उलटलेला आकार",
+        "पाण्यातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "समसंबंध ओळखा: ५ : २५ :: 13 : ? (प्रश्न क्र. 13)",
+      "options": [
+        "167",
+        "169",
+        "173",
+        "338"
+      ],
+      "answer": 1,
+      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 13² = 169."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "options": [
+        "काटकोन",
+        "सरळकोन (१८० अंश)",
+        "लघुकोन",
+        "विशालकोन"
+      ],
+      "answer": 1,
+      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "रोहनचे वय आज 25 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 15)",
+      "options": [
+        "28 वर्षे",
+        "30 वर्षे",
+        "32 वर्षे",
+        "50 वर्षे"
+      ],
+      "answer": 1,
+      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 25 + ५ = 30 वर्षे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 16):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "मूळ आकार",
+        "आरशातील डावीकडे उलटलेला आकार",
+        "पाण्यातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "समसंबंध ओळखा: ५ : २५ :: 17 : ? (प्रश्न क्र. 17)",
+      "options": [
+        "287",
+        "289",
+        "293",
+        "578"
+      ],
+      "answer": 1,
+      "explanation": "पहिल्या पदाचा वर्ग दुसरे पद आहे (५² = २५), तसेच 17² = 289."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "घड्याळातील वेळेचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-blue-50/50 rounded-xl border border-blue-200\">\n        <svg width=\"140\" height=\"140\" viewBox=\"0 0 140 140\" class=\"drop-shadow-sm\">\n            <circle cx=\"70\" cy=\"70\" r=\"62\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"4\"/>\n            <circle cx=\"70\" cy=\"70\" r=\"5\" fill=\"#1e3a8a\"/>\n            <!-- Clock Numbers -->\n            <text x=\"70\" y=\"24\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">12</text>\n            <text x=\"118\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">3</text>\n            <text x=\"70\" y=\"122\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">6</text>\n            <text x=\"22\" y=\"74\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"bold\" fill=\"#1e3a8a\">9</text>\n            <!-- Hour Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"40\" stroke=\"#b91c1c\" stroke-width=\"4\" stroke-linecap=\"round\" transform=\"rotate(180 70 70)\"/>\n            <!-- Minute Hand -->\n            <line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"22\" stroke=\"#1e3a8a\" stroke-width=\"3\" stroke-linecap=\"round\" transform=\"rotate(0 70 70)\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-blue-900\">६:०० वाजता</span>\n    </div>\nदोन काट्यांमध्ये कोणता कोन तयार झाला आहे?",
+      "options": [
+        "काटकोन",
+        "सरळकोन (१८० अंश)",
+        "लघुकोन",
+        "विशालकोन"
+      ],
+      "answer": 1,
+      "explanation": "६ वाजता दोन्ही काटे परस्पर विरुद्ध रेषेत असल्याने सरळकोन (१८० अंश) होतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "रोहनचे वय आज 29 वर्षे आहे, तर ५ वर्षांनंतर त्याचे वय किती वर्षे असेल? (प्रश्न क्र. 19)",
+      "options": [
+        "32 वर्षे",
+        "34 वर्षे",
+        "36 वर्षे",
+        "58 वर्षे"
+      ],
+      "answer": 1,
+      "explanation": "५ वर्षांनंतरचे वय = आजचे वय + ५ = 29 + ५ = 34 वर्षे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या वर्गीकरण",
+      "question": "खालील आकृतीचे आरशातील रूप ओळखा (प्रश्न क्र. 20):\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                L\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "मूळ आकार",
+        "आरशातील डावीकडे उलटलेला आकार",
+        "पाण्यातील आकार",
+        "काहीच बदल नाही"
+      ],
+      "answer": 1,
+      "explanation": "आरशात डावी आणि उजवी बाजू उलटते."
+    }
+  ]
+}
