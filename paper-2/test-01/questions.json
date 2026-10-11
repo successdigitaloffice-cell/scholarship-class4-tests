@@ -1,291 +1,330 @@
-{
-  "seriesId": "SCHOLARSHIP-C4-P2-01",
-  "classLevel": 4,
-  "paper": 2,
-  "testNumber": 1,
-  "testName": "English — Vocabulary 1 (Alphabetical order, Rhymes, Animals)",
-  "totalQuestions": 20,
-  "totalMarks": 40,
-  "questions": [
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Alphabetical Order",
-      "question": "Arrange the words in alphabetical (A to Z) order: 'Apple, Ball, Cat, Dog'. Which word comes first?",
-      "options": [
-        "Ball",
-        "Dog",
-        "Apple",
-        "Cat"
-      ],
-      "answer": 2,
-      "explanation": "'Apple' begins with 'A', hence it comes first in alphabetical order."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Alphabetical Order",
-      "question": "Which word will come third if arranged alphabetically? 'Monkey, Lion, Zebra, Elephant'",
-      "options": [
-        "Elephant",
-        "Lion",
-        "Monkey",
-        "Zebra"
-      ],
-      "answer": 2,
-      "explanation": "Alphabetical order: 1. Elephant, 2. Lion, 3. Monkey, 4. Zebra. Third word is 'Monkey'."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Rhyming Words",
-      "question": "Select the rhyming word for 'Cat':",
-      "options": [
-        "Cup",
-        "Bat",
-        "Car",
-        "Cot"
-      ],
-      "answer": 1,
-      "explanation": "'Cat' rhymes with 'Bat' (same ending sound '-at')."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Rhyming Words",
-      "question": "Find the rhyming pair among the following:",
-      "options": [
-        "Sun - Moon",
-        "Ring - Sing",
-        "Book - Pen",
-        "Tree - Bird"
-      ],
-      "answer": 1,
-      "explanation": "'Ring' and 'Sing' have identical rhyme ending sounds."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Animal Homes",
-      "question": "A dog lives in a ____.",
-      "options": [
-        "Stable",
-        "Den",
-        "Kennel",
-        "Burrow"
-      ],
-      "answer": 2,
-      "explanation": "A dog lives in a 'Kennel' (horse in stable, lion in den, rabbit in burrow)."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Animal Homes",
-      "question": "Where does a bird live?",
-      "options": [
-        "Hive",
-        "Nest",
-        "Shed",
-        "Coop"
-      ],
-      "answer": 1,
-      "explanation": "A bird builds and lives in a 'Nest'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Animal Sounds",
-      "question": "What is the sound made by a cow?",
-      "options": [
-        "Neighs",
-        "Moos",
-        "Barks",
-        "Roars"
-      ],
-      "answer": 1,
-      "explanation": "A cow 'Moos' (or lows)."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Animal Sounds",
-      "question": "Which animal 'Roars'?",
-      "options": [
-        "Dog",
-        "Sheep",
-        "Lion",
-        "Cat"
-      ],
-      "answer": 2,
-      "explanation": "A lion roars."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Young Ones",
-      "question": "A baby dog (young one of a dog) is called a ____.",
-      "options": [
-        "Kitten",
-        "Calf",
-        "Puppy",
-        "Cub"
-      ],
-      "answer": 2,
-      "explanation": "A young dog is a 'Puppy' (cat-kitten, cow-calf, lion-cub)."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Young Ones",
-      "question": "A young one of a sheep is a ____.",
-      "options": [
-        "Foal",
-        "Lamb",
-        "Kid",
-        "Piglet"
-      ],
-      "answer": 1,
-      "explanation": "A baby sheep is called a 'Lamb'."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "Colors",
-      "question": "What is the color of milk?",
-      "options": [
-        "Red",
-        "White",
-        "Green",
-        "Yellow"
-      ],
-      "answer": 1,
-      "explanation": "Milk is white in color."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "Days",
-      "question": "Which day comes just after Wednesday?",
-      "options": [
-        "Tuesday",
-        "Thursday",
-        "Friday",
-        "Monday"
-      ],
-      "answer": 1,
-      "explanation": "Wednesday is followed by Thursday."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Months",
-      "question": "Which is the first month of the calendar year?",
-      "options": [
-        "December",
-        "January",
-        "March",
-        "April"
-      ],
-      "answer": 1,
-      "explanation": "January is the first month of the year."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Numbers",
-      "question": "How do you write ordinal number for 1?",
-      "options": [
-        "One",
-        "First (1st)",
-        "Primary",
-        "Once"
-      ],
-      "answer": 1,
-      "explanation": "Ordinal number for 1 is 'First' (1st)."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "Body Parts",
-      "question": "We smell with our ____.",
-      "options": [
-        "Eyes",
-        "Ears",
-        "Nose",
-        "Tongue"
-      ],
-      "answer": 2,
-      "explanation": "We use our nose to smell."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "Body Parts",
-      "question": "We see things with our ____.",
-      "options": [
-        "Hands",
-        "Eyes",
-        "Ears",
-        "Feet"
-      ],
-      "answer": 1,
-      "explanation": "Eyes are used for seeing."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "Spelling",
-      "question": "Choose the correctly spelled word:",
-      "options": [
-        "Schol",
-        "Skool",
-        "School",
-        "Scool"
-      ],
-      "answer": 2,
-      "explanation": "The correct spelling is 'School'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "Opposites",
-      "question": "What is the opposite of 'Big'?",
-      "options": [
-        "Tall",
-        "Small",
-        "Wide",
-        "Long"
-      ],
-      "answer": 1,
-      "explanation": "'Big' is the opposite of 'Small'."
-    },
-    {
-      "subject": "English",
-      "type": "IMP",
-      "tagText": "Synonyms",
-      "question": "Select the word meaning same as 'Happy':",
-      "options": [
-        "Sad",
-        "Glad / Joyful",
-        "Angry",
-        "Tired"
-      ],
-      "answer": 1,
-      "explanation": "'Happy' means 'Glad' or 'Joyful'."
-    },
-    {
-      "subject": "English",
-      "type": "Vocab",
-      "tagText": "General",
-      "question": "Which of the following is a fruit?",
-      "options": [
-        "Potato",
-        "Mango",
-        "Cabbage",
-        "Onion"
-      ],
-      "answer": 1,
-      "explanation": "'Mango' is a fruit (others are vegetables)."
-    }
-  ]
-}
+[
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "वर्णानुक्रम",
+    "question": "Arrange in alphabetical order: Apple, Cat, Ball, Dog",
+    "options": [
+      "Apple, Ball, Cat, Dog",
+      "Ball, Apple, Cat, Dog",
+      "Dog, Cat, Ball, Apple",
+      "Apple, Cat, Ball, Dog"
+    ],
+    "answer": 0,
+    "explanation": "A -> B -> C -> D हा वर्णानुक्रम आहे: Apple, Ball, Cat, Dog.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "अक्षरमाला",
+    "question": "Which letter comes immediately after 'M' in the English alphabet?",
+    "options": [
+      "N",
+      "L",
+      "O",
+      "P"
+    ],
+    "answer": 0,
+    "explanation": "M नंतर लगेच N हे अक्षर येते (L, M, N, O).",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "स्वर (Vowels)",
+    "question": "How many vowels are there in the English alphabet?",
+    "options": [
+      "5",
+      "7",
+      "21",
+      "26"
+    ],
+    "answer": 0,
+    "explanation": "इंग्रजी वर्णमालेत A, E, I, O, U हे एकूण ५ स्वर (Vowels) आहेत.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2023",
+    "tagText": "शब्द निर्मिती",
+    "question": "Which meaningful word can be formed from letters: 'E, N, P'?",
+    "options": [
+      "PEN",
+      "NEP",
+      "EPN",
+      "PNE"
+    ],
+    "answer": 0,
+    "explanation": "P-E-N या अक्षरांपासून 'PEN' (पेन) हा अर्थपूर्ण शब्द तयार होतो.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "व्यंजने (Consonants)",
+    "question": "Which of the following letters is a vowel?",
+    "options": [
+      "E",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "'E' हा स्वर (Vowel) आहे, बाकी सर्व व्यंजने आहेत.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "पहिला शब्द",
+    "question": "Which word comes first in a dictionary?",
+    "options": [
+      "Ant",
+      "Bat",
+      "Cow",
+      "Dog"
+    ],
+    "answer": 0,
+    "explanation": "'Ant' हा शब्द 'A' ने सुरू होत असल्याने शब्दकोशात सर्वात प्रथम येईल.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "वर्णानुक्रम",
+    "question": "Arrange: Sun, Star, Sky, Sea in alphabetical order.",
+    "options": [
+      "Sea, Sky, Star, Sun",
+      "Sky, Sea, Star, Sun",
+      "Sea, Star, Sky, Sun",
+      "Sun, Star, Sky, Sea"
+    ],
+    "answer": 0,
+    "explanation": "दुसरे व तिसरे अक्षर पाहून: Sea (Se) -> Sky (Sk) -> Star (St) -> Sun (Su).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "गहाळ अक्षर",
+    "question": "Complete the word: M _ N G O",
+    "options": [
+      "A",
+      "E",
+      "I",
+      "U"
+    ],
+    "answer": 0,
+    "explanation": "M-A-N-G-O (Mango = आंबा). गहाळ अक्षर 'A' आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "शब्द तयार करणे",
+    "question": "Which word CANNOT be formed using the letters of 'TEACHER'?",
+    "options": [
+      "CHAIR",
+      "TEA",
+      "CAT",
+      "HEAT"
+    ],
+    "answer": 0,
+    "explanation": "'TEACHER' या शब्दात 'I' हे अक्षर नाही, म्हणून 'CHAIR' हा शब्द बनू शकत नाही.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "वर्णानुक्रम",
+    "question": "Which word comes LAST in alphabetical order: Fish, Frog, Fan, Fox?",
+    "options": [
+      "Frog",
+      "Fox",
+      "Fish",
+      "Fan"
+    ],
+    "answer": 0,
+    "explanation": "वर्णानुक्रम: Fan -> Fish -> Fox -> Frog. सर्वात शेवटी 'Frog' येईल.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "लहान अक्षरे",
+    "question": "What is the small letter for capital 'G'?",
+    "options": [
+      "g",
+      "q",
+      "j",
+      "p"
+    ],
+    "answer": 0,
+    "explanation": "कॅपिटल 'G' चे लहान (small) अक्षर 'g' असते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "अर्थपूर्ण शब्द",
+    "question": "Unscramble: 'K O O B' to make a meaningful word.",
+    "options": [
+      "BOOK",
+      "BOOO",
+      "KOOB",
+      "OKOB"
+    ],
+    "answer": 0,
+    "explanation": "B-O-O-K = BOOK (पुस्तक).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2020",
+    "tagText": "मध्यम अक्षर",
+    "question": "Which letter is exactly in the middle between 'C' and 'G'?",
+    "options": [
+      "E",
+      "D",
+      "F",
+      "H"
+    ],
+    "answer": 0,
+    "explanation": "C, D, E, F, G -> मध्यभागी 'E' हे अक्षर येते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "स्वर मोजणे",
+    "question": "How many vowels are in the word 'BEAUTIFUL'?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "E, A, U, I, U अशी एकूण ५ स्वर अक्षरे आहेत.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "गहाळ अक्षर",
+    "question": "Complete: S C H _ _ L",
+    "options": [
+      "O O",
+      "O L",
+      "U L",
+      "A L"
+    ],
+    "answer": 0,
+    "explanation": "S-C-H-O-O-L (School = शाळा).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2019",
+    "tagText": "वर्णानुक्रम",
+    "question": "Which word comes in the second position: Mango, Orange, Banana, Apple?",
+    "options": [
+      "Banana",
+      "Apple",
+      "Mango",
+      "Orange"
+    ],
+    "answer": 0,
+    "explanation": "क्रम: Apple (१) -> Banana (२) -> Mango (३) -> Orange (४).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "कूटप्रश्न वर्णमाला",
+    "question": "If each letter is numbered (A=1, B=2, C=3...), what is the sum of letters in 'CAT'?",
+    "options": [
+      "24",
+      "22",
+      "20",
+      "26"
+    ],
+    "answer": 0,
+    "explanation": "C=3, A=1, T=20 -> 3 + 1 + 20 = 24.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "शब्द कोडे",
+    "question": "Which letter added at the end of both 'PIN' and 'CAP' makes new meaningful words?",
+    "options": [
+      "E (PINE, CAPE)",
+      "T",
+      "S",
+      "Y"
+    ],
+    "answer": 0,
+    "explanation": "PIN + E = PINE, CAP + E = CAPE. दोन्ही अर्थपूर्ण शब्द बनतात.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "अक्षर फेरफार",
+    "question": "Change the first letter of 'LIGHT' to make a word that means 'जड नसलेला' (Opposite of Heavy)?",
+    "options": [
+      "LIGHT (Self-meaning)",
+      "NIGHT",
+      "RIGHT",
+      "SIGHT"
+    ],
+    "answer": 0,
+    "explanation": "'LIGHT' या शब्दाचाच अर्थ 'हलका' (हवेसारखा, जड नसलेला) होतो.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2023",
+    "tagText": "शब्द निर्मिती",
+    "question": "Find the hidden animal name inside 'ELEPHANT' by taking the last 3 letters:",
+    "options": [
+      "ANT",
+      "PAN",
+      "HAT",
+      "NET"
+    ],
+    "answer": 0,
+    "explanation": "ELEPH-ANT -> शेवटचे तीन अक्षरे 'ANT' (मुंगी) हा प्राणी/कीटक दर्शवतात.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  }
+]
