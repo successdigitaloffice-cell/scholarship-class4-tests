@@ -1,291 +1,330 @@
-{
-  "seriesId": "SCHOLARSHIP-C4-P2-03",
-  "classLevel": 4,
-  "paper": 2,
-  "testNumber": 3,
-  "testName": "English — Grammar 1 (Articles: a, an, the & Nouns/Pronouns)",
-  "totalQuestions": 20,
-  "totalMarks": 40,
-  "questions": [
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.2)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.6)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.7)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.8)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.9)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.10)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.11)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.12)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.13)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.14)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.15)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.16)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.17)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.18)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Grammar",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.19)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Grammar",
-      "question": "Opposite of 'Hot' is: (Q.20)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    }
-  ]
-}
+[
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "What is the opposite of 'Big'?",
+    "options": [
+      "Small",
+      "Large",
+      "Huge",
+      "Tall"
+    ],
+    "answer": 0,
+    "explanation": "Big (मोठा) चा विरुद्धार्थी शब्द Small (लहान) आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "What is the opposite of 'Hot'?",
+    "options": [
+      "Cold",
+      "Warm",
+      "Cool",
+      "Dry"
+    ],
+    "answer": 0,
+    "explanation": "Hot (गरम) चा विरुद्धार्थी शब्द Cold (थंड) आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "समानार्थी (Synonym)",
+    "question": "What is the synonym of 'Happy'?",
+    "options": [
+      "Joyful",
+      "Sad",
+      "Angry",
+      "Tired"
+    ],
+    "answer": 0,
+    "explanation": "Happy चा समानार्थी शब्द Joyful (आनंदी) आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2023",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "The opposite of 'Fast' is ____.",
+    "options": [
+      "Slow",
+      "Quick",
+      "Speedy",
+      "Early"
+    ],
+    "answer": 0,
+    "explanation": "Fast (जलद) चा विरुद्धार्थी शब्द Slow (हळू) आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "What is the opposite of 'Good'?",
+    "options": [
+      "Bad",
+      "Fine",
+      "Nice",
+      "Best"
+    ],
+    "answer": 0,
+    "explanation": "Good (चांगला) चा विरुद्धार्थी शब्द Bad (वाईट) आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "समानार्थी (Synonym)",
+    "question": "What is the synonym of 'Beautiful'?",
+    "options": [
+      "Pretty",
+      "Ugly",
+      "Dark",
+      "Dirty"
+    ],
+    "answer": 0,
+    "explanation": "Beautiful चा समानार्थी शब्द Pretty (सुंदर) आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "The opposite of 'Clean' is ____.",
+    "options": [
+      "Dirty",
+      "Neat",
+      "Fresh",
+      "Pure"
+    ],
+    "answer": 0,
+    "explanation": "Clean (स्वच्छ) चा विरुद्धार्थी शब्द Dirty (घाणेरडा) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "समानार्थी (Synonym)",
+    "question": "What is the synonym of 'Start'?",
+    "options": [
+      "Begin",
+      "Stop",
+      "End",
+      "Finish"
+    ],
+    "answer": 0,
+    "explanation": "Start चा समानार्थी शब्द Begin (सुरू करणे) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "What is the opposite of 'Rich'?",
+    "options": [
+      "Poor",
+      "Wealthy",
+      "Kind",
+      "Strong"
+    ],
+    "answer": 0,
+    "explanation": "Rich (श्रीमंत) चा विरुद्धार्थी शब्द Poor (गरीब) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "The opposite of 'Day' is ____.",
+    "options": [
+      "Night",
+      "Evening",
+      "Morning",
+      "Afternoon"
+    ],
+    "answer": 0,
+    "explanation": "Day चा विरुद्धार्थी शब्द Night आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "समानार्थी (Synonym)",
+    "question": "What is the synonym of 'Small'?",
+    "options": [
+      "Little",
+      "Huge",
+      "Big",
+      "Giant"
+    ],
+    "answer": 0,
+    "explanation": "Small चा समानार्थी शब्द Little आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "What is the opposite of 'Heavy'?",
+    "options": [
+      "Light",
+      "Dark",
+      "Hard",
+      "Soft"
+    ],
+    "answer": 0,
+    "explanation": "Heavy (जड) चा विरुद्धार्थी शब्द Light (हलका) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2020",
+    "tagText": "समानार्थी (Synonym)",
+    "question": "What is the synonym of 'Gift'?",
+    "options": [
+      "Present",
+      "Box",
+      "Toy",
+      "Prize"
+    ],
+    "answer": 0,
+    "explanation": "Gift चा समानार्थी शब्द Present (भेटवस्तू) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "The opposite of 'True' is ____.",
+    "options": [
+      "False",
+      "Right",
+      "Correct",
+      "Real"
+    ],
+    "answer": 0,
+    "explanation": "True चा विरुद्धार्थी शब्द False (खोटे) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "विरुद्धार्थी (Opposite)",
+    "question": "What is the opposite of 'Up'?",
+    "options": [
+      "Down",
+      "Above",
+      "Over",
+      "Top"
+    ],
+    "answer": 0,
+    "explanation": "Up (वर) चा विरुद्धार्थी शब्द Down (खाली) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2019",
+    "tagText": "समानार्थी (Synonym)",
+    "question": "What is the synonym of 'Difficult'?",
+    "options": [
+      "Hard",
+      "Easy",
+      "Simple",
+      "Soft"
+    ],
+    "answer": 0,
+    "explanation": "Difficult चा समानार्थी शब्द Hard (कठीण) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "विरुद्धार्थी उपसर्ग",
+    "question": "Which prefix can be added to 'HAPPY' to make its opposite?",
+    "options": [
+      "Un- (Unhappy)",
+      "Dis-",
+      "In-",
+      "Mis-"
+    ],
+    "answer": 0,
+    "explanation": "'Un' हा उपसर्ग जोडून Unhappy (दुःखी) हा विरुद्धार्थी शब्द बनतो.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "जोडी शोधणे",
+    "question": "Find the INCORRECT pair of Opposites:",
+    "options": [
+      "Wise - Intelligent",
+      "Near - Far",
+      "Hard - Soft",
+      "Open - Close"
+    ],
+    "answer": 0,
+    "explanation": "Wise आणि Intelligent हे समानार्थी आहेत, विरुद्धार्थी नाहीत.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "समानार्थी कूटप्रश्न",
+    "question": "Find the word which means both 'A season' and 'To jump':",
+    "options": [
+      "Spring",
+      "Fall",
+      "Summer",
+      "Winter"
+    ],
+    "answer": 0,
+    "explanation": "'Spring' चा अर्थ 'वसंत ऋतू' आणि 'उडी मारणे' असा दोन्ही होतो.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2023",
+    "tagText": "विरुद्धार्थी वाक्य",
+    "question": "Complete the sentence with opposite of the underlined word: 'The box is HEAVY, but the feather is ____.'",
+    "options": [
+      "Light",
+      "Soft",
+      "Small",
+      "Thin"
+    ],
+    "answer": 0,
+    "explanation": "Heavy चा योग्य विरुद्धार्थी शब्द Light (हलके) आहे.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  }
+]
