@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C4-P2-24",
+  "classLevel": 4,
+  "paper": 2,
+  "testNumber": 24,
+  "testName": "बुद्धिमत्ता — जलप्रतिमा (Water Reflection Special)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "पाण्यातील प्रतिबिंब",
+      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                M\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>\n(वरची बाजू खाली येते, खालची वर जाते)",
+      "options": [
+        "M",
+        "W",
+        "N",
+        "V"
+      ],
+      "answer": 1,
+      "explanation": "पाण्यात वरची बाजू खाली उलटते, त्यामुळे 'M' चे प्रतिबिंब 'W' सारखे दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "पाण्यातील प्रतिबिंब",
+      "question": "वर तोंड असलेला बाण (↑) पाण्यात कसा दिसेल?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ↑\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "↑",
+        "→",
+        "↓",
+        "←"
+      ],
+      "answer": 2,
+      "explanation": "पाण्यात वरचे टोक खाली उलटते, म्हणून '↑' चे प्रतिबिंब '↓' दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "पाण्यातील प्रतिबिंब",
+      "question": "'A' या अक्षराचे पाण्यातील प्रतिबिंब कसे दिसेल?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                A\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "A",
+        "उलटा A (∀)",
+        "V",
+        "H"
+      ],
+      "answer": 1,
+      "explanation": "A चे वरचे टोक पाण्यात तळाकडे उलटते (उलटा A)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "पाण्यातील प्रतिबिंब",
+      "question": "खालीलपैकी कोणते अक्षर पाण्यात पाहिले तरी अजिबात बदलत नाही (मूळ अक्षरासारखेच दिसते)?",
+      "options": [
+        "M",
+        "A",
+        "H",
+        "W"
+      ],
+      "answer": 2,
+      "explanation": "'H' ला आडवा सममिती अक्ष असतो (वरचा आणि खालचा भाग समान), त्यामुळे पाण्यात H तसाच दिसतो (तसेच B, C, D, E, H, I, K, O, X)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "पाण्यातील अक्षरे",
+      "question": "खालीलपैकी कोणते अक्षर पाण्यात अपरिवर्तित राहते?",
+      "options": [
+        "E",
+        "F",
+        "L",
+        "P"
+      ],
+      "answer": 0,
+      "explanation": "'E' चा वरचा आणि खालचा भाग समान असल्याने पाण्यात 'E' च दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "पाण्यातील नियम",
+      "question": "पाण्यातील प्रतिबिंबामध्ये कोणता मुख्य बदल होतो?",
+      "options": [
+        "डावी बाजू उजवीकडे बदलते",
+        "वरची बाजू खाली आणि खालची बाजू वर जाते",
+        "आकार लहान होतो",
+        "काहीच बदलत नाही"
+      ],
+      "answer": 1,
+      "explanation": "जलप्रतिमेत उभा अक्ष उलटतो (Vertical Inversion), म्हणजेच वरची बाजू खाली आणि खालची वर जाते; डावी-उजवी बाजू बदलत नाही."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "पाण्यातील प्रतिबिंब",
+      "question": "खालील त्रिकोणाचे (▲) पाण्यातील रूप कोणते?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ▲\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "▲",
+        "▼",
+        "◄",
+        "►"
+      ],
+      "answer": 1,
+      "explanation": "वर टोक असणारा त्रिकोण (▲) पाण्यात खाली टोक असणारा (▼) दिसतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "पाण्यातील अक्षरे",
+      "question": "खालीलपैकी कोणते अक्षर पाण्यात बदलत नाही?",
+      "options": [
+        "C",
+        "T",
+        "G",
+        "S"
+      ],
+      "answer": 0,
+      "explanation": "'C' हे आडव्या अक्षाभोवती सममित असल्याने पाण्यात 'C' सारखेच दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "पाण्यातील अंक",
+      "question": "'३' हा देवनागरी अंक पाण्यात कसा दिसेल?",
+      "options": [
+        "३",
+        "उलटा ३ (वरची व खालची गाठ बदललेली)",
+        "६",
+        "९"
+      ],
+      "answer": 1,
+      "explanation": "३ ची वरची वाटी खाली आणि खालची गाठ वर उलटते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "पाण्यातील अक्षरे",
+      "question": "'B' हे इंग्रजी अक्षर पाण्यात कसे दिसते?",
+      "options": [
+        "B",
+        "d",
+        "p",
+        "q"
+      ],
+      "answer": 0,
+      "explanation": "'B' चे वरचे व खालचे वळण आडव्या रेषेभोवती सममित असल्याने पाण्यात 'B' च दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "पाण्यातील प्रतिबिंब",
+      "question": "'V' या अक्षराचे पाण्यातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                V\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "V",
+        "∧ (उलटा V)",
+        "W",
+        "M"
+      ],
+      "answer": 1,
+      "explanation": "V चे खालचे टोक वर जाते, म्हणून ते '∧' सारखे दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "पाण्यातील अक्षरे",
+      "question": "खालीलपैकी कोणते अक्षर पाण्यात बदलणारे आहे?",
+      "options": [
+        "H",
+        "I",
+        "O",
+        "T"
+      ],
+      "answer": 3,
+      "explanation": "'T' ची आडवी दांडी वरून तळाला जाते, त्यामुळे 'T' बदलतो (H, I, O बदलत नाहीत)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "पाण्यातील अंक",
+      "question": "आंतरराष्ट्रीय अंक '8' पाण्यात कसा दिसेल?",
+      "options": [
+        "8",
+        "0",
+        "3",
+        "बदलतो"
+      ],
+      "answer": 0,
+      "explanation": "'8' हा वर-खाली सममित असल्याने पाण्यात तंतोतंत '8' च दिसतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "पाण्यातील शब्द",
+      "question": "कोणता इंग्रजी शब्द पाण्यात पाहिला तरी हुबेहूब मूळ शब्दासारखाच वाचता येईल?",
+      "options": [
+        "BOOK",
+        "HIDE",
+        "TREE",
+        "CAT"
+      ],
+      "answer": 1,
+      "explanation": "'H-I-D-E' मधील चारही अक्षरे आडव्या अक्षाभोवती सममित आहेत, म्हणून HIDE पाण्यात 'HIDE' च दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "पाण्यातील प्रतिबिंब",
+      "question": "अर्धवर्तुळाचे (◓) पाण्यातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ◓\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "◓",
+        "◒",
+        "◑",
+        "◐"
+      ],
+      "answer": 1,
+      "explanation": "वरचा रंगवलेला अर्धा भाग पाण्यात खालच्या बाजूला येतो (◒)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "पाण्यातील अक्षरे",
+      "question": "'K' हे अक्षर पाण्यात कसे दिसेल?",
+      "options": [
+        "K",
+        "उलटा K",
+        "X",
+        "Y"
+      ],
+      "answer": 0,
+      "explanation": "'K' चे आडवे सममित रूप असल्याने पाण्यात 'K' च दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "पाण्यातील अक्षरे",
+      "question": "'X' हे अक्षर पाण्यात कसे दिसते?",
+      "options": [
+        "X",
+        "+",
+        "Y",
+        "Z"
+      ],
+      "answer": 0,
+      "explanation": "'X' हे सर्व बाजूंनी सममित असल्याने पाण्यात 'X' च दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "पाण्यातील तुलना",
+      "question": "आरशातील प्रतिमा आणि जलप्रतिमा यांमधील मुख्य फरक कोणता?",
+      "options": [
+        "काहीच फरक नाही",
+        "आरशात डावी-उजवी बदलते, पाण्यात वर-खाली बदलते",
+        "पाण्यात डावी-उजवी बदलते",
+        "आरशात आकार बदलतो"
+      ],
+      "answer": 1,
+      "explanation": "आरशात डावी-उजवी बाजू बदलते (Lateral), तर पाण्यात वर-खाली बाजू बदलते (Vertical)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "पाण्यातील प्रतिबिंब",
+      "question": "खालील बाणाचे पाण्यातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ➘\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
+      "options": [
+        "➘",
+        "➚",
+        "➔",
+        "➘"
+      ],
+      "answer": 1,
+      "explanation": "खाली वळलेला तिरपा बाण पाण्यात वर वळतो (➚)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "पाण्यातील अक्षरे",
+      "question": "'D' हे अक्षर पाण्यात कसे दिसेल?",
+      "options": [
+        "D",
+        "C",
+        "P",
+        "B"
+      ],
+      "answer": 0,
+      "explanation": "'D' हे आडव्या अक्षाभोवती सममित असल्याने पाण्यात 'D' च राहते."
+    }
+  ]
+}
