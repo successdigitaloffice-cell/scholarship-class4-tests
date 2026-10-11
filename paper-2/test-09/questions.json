@@ -1,291 +1,330 @@
-{
-  "seriesId": "SCHOLARSHIP-C4-P2-09",
-  "classLevel": 4,
-  "paper": 2,
-  "testNumber": 9,
-  "testName": "बुद्धिमत्ता — वर्गीकरण ३: आकृत्यांचे वर्गीकरण (वेगळी आकृती)",
-  "totalQuestions": 20,
-  "totalMarks": 40,
-  "questions": [
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालील पर्यायांमधील गटात न बसणारी वेगळी आकृती ओळखा:\n<div class=\"grid grid-cols-2 md:grid-cols-4 gap-3 my-3\">\n            <div class=\"p-3 border-2 border-blue-400 bg-white rounded-xl text-center\"><span class=\"font-bold\">A</span><div class=\"h-10 flex items-center justify-center text-2xl font-bold\">▲</div><span class=\"text-xs text-gray-500\">त्रिकोण (३ बाजू)</span></div>\n            <div class=\"p-3 border-2 border-blue-400 bg-white rounded-xl text-center\"><span class=\"font-bold\">B</span><div class=\"h-10 flex items-center justify-center text-2xl font-bold\">■</div><span class=\"text-xs text-gray-500\">चौरस (४ बाजू)</span></div>\n            <div class=\"p-3 border-2 border-blue-400 bg-white rounded-xl text-center\"><span class=\"font-bold\">C</span><div class=\"h-10 flex items-center justify-center text-2xl font-bold\">⬟</div><span class=\"text-xs text-gray-500\">पंचकोन (५ बाजू)</span></div>\n            <div class=\"p-3 border-2 border-red-400 bg-red-50 rounded-xl text-center\"><span class=\"font-bold text-red-600\">D</span><div class=\"h-10 flex items-center justify-center text-2xl font-bold text-red-600\">●</div><span class=\"text-xs text-red-600\">वर्तुळ (वक्ररेषा)</span></div>\n        </div>",
-      "options": [
-        "पर्याय A (त्रिकोण)",
-        "पर्याय B (चौरस)",
-        "पर्याय C (पंचकोन)",
-        "पर्याय D (वर्तुळ)"
-      ],
-      "answer": 3,
-      "explanation": "त्रिकोण, चौरस आणि पंचकोन सरळ रेषाखंडांनी बनलेले बहुभुज आहेत; तर वर्तुळ ही वक्ररेषा असून त्याला बाजू किंवा कोपरे नसतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालील चार आकृत्यांपैकी वेगळी आकृती कोणती?\n<div class=\"grid grid-cols-2 md:grid-cols-4 gap-3 my-3\">\n            <div class=\"p-3 border-2 border-indigo-300 bg-white rounded-xl text-center\">१. + (२ रेषा)</div>\n            <div class=\"p-3 border-2 border-indigo-300 bg-white rounded-xl text-center\">२. × (२ रेषा)</div>\n            <div class=\"p-3 border-2 border-indigo-300 bg-white rounded-xl text-center\">३. = (२ रेषा)</div>\n            <div class=\"p-3 border-2 border-indigo-300 bg-white rounded-xl text-center\">४. * (३ रेषा)</div>\n        </div>",
-      "options": [
-        "आकृती १ (+)",
-        "आकृती २ (×)",
-        "आकृती ३ (=)",
-        "आकृती ४ (*)"
-      ],
-      "answer": 3,
-      "explanation": "+, ×, = या चिन्हांमध्ये प्रत्येकी २ रेषाखंड आहेत, तर * मध्ये ३ रेषाखंड छेदतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "घड्याळाच्या दिशेने फिरणाऱ्या आकृत्यांमध्ये गटात न बसणारी आकृती ओळखा:\n<div class=\"grid grid-cols-2 md:grid-cols-4 gap-3 my-3\">\n            <div class=\"p-3 border-2 border-gray-300 bg-white rounded-xl text-center font-bold\">१. ↑ (उत्तर)</div>\n            <div class=\"p-3 border-2 border-gray-300 bg-white rounded-xl text-center font-bold\">२. → (पूर्व)</div>\n            <div class=\"p-3 border-2 border-gray-300 bg-white rounded-xl text-center font-bold\">३. ↓ (दक्षिण)</div>\n            <div class=\"p-3 border-2 border-gray-300 bg-white rounded-xl text-center font-bold text-red-600\">४. ↖ (वायव्य)</div>\n        </div>",
-      "options": [
-        "१ (↑)",
-        "२ (→)",
-        "३ (↓)",
-        "४ (↖)"
-      ],
-      "answer": 3,
-      "explanation": "१, २, ३ या मुख्य दिशा दर्शवणारे बाण आहेत, तर ४ (↖) ही उपदिशा आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "वेगळा आकार",
-      "question": "खालीलपैकी कोणत्या आकृतीला ३ शिरोबिंदू असतात?",
-      "options": [
-        "चौकोन",
-        "त्रिकोण",
-        "पंचकोन",
-        "षटकोन"
-      ],
-      "answer": 1,
-      "explanation": "त्रिकोणाला ३ बाजू आणि ३ शिरोबिंदू असतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण",
-      "question": "खालीलपैकी गटात न बसणारा वर्ण ओळखा: A, E, I, B",
-      "options": [
-        "A",
-        "E",
-        "I",
-        "B"
-      ],
-      "answer": 3,
-      "explanation": "A, E, I हे स्वर (Vowels) आहेत, तर B हे व्यंजन (Consonant) आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वेगळी आकृती",
-      "question": "पुढील आकृत्यांमध्ये ३ सममिती अक्ष असणारी आकृती कोणती?",
-      "options": [
-        "विषमभुज त्रिकोण",
-        "समभुज त्रिकोण",
-        "आयात",
-        "समांतरभुज चौकोन"
-      ],
-      "answer": 1,
-      "explanation": "समभुज त्रिकोणाला ३ सममिती अक्ष असतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालील चार आकृत्यांपैकी वेगळी आकृती शोधा:\n(A) Z (B) N (C) H (D) O",
-      "options": [
-        "Z",
-        "N",
-        "H",
-        "O"
-      ],
-      "answer": 3,
-      "explanation": "Z, N, H हे सरळ रेषांनी बनलेले अक्षर आहेत; O हे वक्ररेषेने बनलेले आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "वेगळी संख्या",
-      "question": "गटात न बसणारी संख्या शोधा: ४, ९, १६, २५, २६",
-      "options": [
-        "४",
-        "९",
-        "२५",
-        "२६"
-      ],
-      "answer": 3,
-      "explanation": "४ (२²), ९ (३²), १६ (४²), २५ (५²) या पूर्ण वर्ग संख्या आहेत. २६ पूर्ण वर्ग संख्या नाही."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वेगळी संख्या",
-      "question": "गटात न बसणारी संख्या कोणती? २, ३, ५, ७, ९",
-      "options": [
-        "२",
-        "३",
-        "७",
-        "९"
-      ],
-      "answer": 3,
-      "explanation": "२, ३, ५, ७ या मूळ संख्या आहेत. ९ ही संयुक्त संख्या (३ × ३) आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा शब्द ओळखा: भारत, जपान, चीन, पॅरिस",
-      "options": [
-        "भारत",
-        "जपान",
-        "चीन",
-        "पॅरिस"
-      ],
-      "answer": 3,
-      "explanation": "भारत, जपान आणि चीन हे देश आहेत; पॅरिस हे शहर (फ्रान्सची राजधानी) आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळा आकार",
-      "question": "खालीलपैकी कोणाला सपाट पृष्ठभाग नसतो?\n(१) विट (२) पुस्तक (३) चेंडू (४) खोके",
-      "options": [
-        "विट",
-        "पुस्तक",
-        "चेंडू",
-        "खोके"
-      ],
-      "answer": 2,
-      "explanation": "चेंडू हा गोल असून त्याचे पृष्ठ वक्र असते; विट, पुस्तक आणि खोके यांना सपाट पृष्ठे असतात."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा महिना ओळखा: एप्रिल, जून, सप्टेंबर, जुलै",
-      "options": [
-        "एप्रिल",
-        "जून",
-        "सप्टेंबर",
-        "जुलै"
-      ],
-      "answer": 3,
-      "explanation": "एप्रिल, जून आणि सप्टेंबर हे ३० दिवसांचे महिने आहेत; जुलै हा ३१ दिवसांचा महिना आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा प्राणी ओळखा: वाघ, सिंह, चित्ता, गाय",
-      "options": [
-        "वाघ",
-        "सिंह",
-        "चित्ता",
-        "गाय"
-      ],
-      "answer": 3,
-      "explanation": "वाघ, सिंह आणि चित्ता हे हिंस्त्र वन्य प्राणी आहेत; गाय हा पाळीव शाकाहारी प्राणी आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा अवयव ओळखा: डोळे, कान, नाक, हृदय",
-      "options": [
-        "डोळे",
-        "कान",
-        "नाक",
-        "हृदय"
-      ],
-      "answer": 3,
-      "explanation": "डोळे, कान, नाक हे बाह्य ज्ञानेंद्रिये आहेत; हृदय हा अंतर्गत अवयव आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालील आकृत्यांमध्ये वेगळी आकृती शोधा:\n(A) काटकोन (B) लघुकोन (C) विशालकोन (D) वर्तुळ",
-      "options": [
-        "काटकोन",
-        "लघुकोन",
-        "विशालकोन",
-        "वर्तुळ"
-      ],
-      "answer": 3,
-      "explanation": "काटकोन, लघुकोन, विशालकोन हे कोनांचे प्रकार आहेत; वर्तुळ हा द्विमितीय बंदिस्त आकार आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारी संख्या कोणती? ११, १३, १७, १९, २१",
-      "options": [
-        "१३",
-        "१७",
-        "१९",
-        "२१"
-      ],
-      "answer": 3,
-      "explanation": "११, १३, १७, १९ या मूळ संख्या आहेत. २१ ही संयुक्त संख्या (३ × ७) आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा घटक ओळखा: मीटर, सेंटीमीटर, किलोमीटर, लिटर",
-      "options": [
-        "मीटर",
-        "सेंटीमीटर",
-        "किलोमीटर",
-        "लिटर"
-      ],
-      "answer": 3,
-      "explanation": "मीटर, सेंमी, किमी ही लांबी मोजण्याची एकके आहेत; लिटर हे द्रव पदार्थाची धारकता मोजण्याचे एकक आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा शब्द ओळखा: पेन्सिल, पेन, रबर, सायकल",
-      "options": [
-        "पेन्सिल",
-        "पेन",
-        "रबर",
-        "सायकल"
-      ],
-      "answer": 3,
-      "explanation": "पेन्सिल, पेन आणि रबर ही शालेय शैक्षणिक साधने आहेत; सायकल हे वाहन आहे."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "वेगळी आकृती",
-      "question": "खालीलपैकी कोणाला ४ समान बाजू असतात?\n(A) आयत (B) चौरस (C) त्रिकोण (D) वर्तुळ",
-      "options": [
-        "आयत",
-        "चौरस",
-        "त्रिकोण",
-        "वर्तुळ"
-      ],
-      "answer": 1,
-      "explanation": "चौरसाच्या सर्व चारही बाजूंची लांबी समान असते (आयताच्या समोरासमोरील बाजू समान असतात)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "वर्गीकरण",
-      "question": "गटात न बसणारा शब्द ओळखा: गुलाब, मोगरा, जास्वंद, सफरचंद",
-      "options": [
-        "गुलाब",
-        "मोगरा",
-        "जास्वंद",
-        "सफरचंद"
-      ],
-      "answer": 3,
-      "explanation": "गुलाब, मोगरा, जास्वंद ही फुले आहेत; सफरचंद हे फळ आहे."
-    }
-  ]
-}
+[
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "मूलभूत संकल्पना",
+    "question": "In topic 'Everyday Conversations & Greetings', what is the correct plural of 'Book'?",
+    "options": [
+      "Books",
+      "Bookes",
+      "Bookies",
+      "Boking"
+    ],
+    "answer": 0,
+    "explanation": "Book चे अनेकवचन 'Books' होते.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Articles",
+    "question": "We use '____' before words starting with vowel sound like 'Apple':",
+    "options": [
+      "An",
+      "A",
+      "The",
+      "No article"
+    ],
+    "answer": 0,
+    "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Punctuation",
+    "question": "Which mark is used at the end of a question?",
+    "options": [
+      "Question mark (?)",
+      "Full stop (.)",
+      "Comma (,)",
+      "Exclamation mark (!)"
+    ],
+    "answer": 0,
+    "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "Gender",
+    "question": "What is the feminine gender of 'Boy'?",
+    "options": [
+      "Girl",
+      "Woman",
+      "Sister",
+      "Mother"
+    ],
+    "answer": 0,
+    "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Prepositions",
+    "question": "The cat is sitting ____ the table.",
+    "options": [
+      "Under",
+      "Into",
+      "Between",
+      "Among"
+    ],
+    "answer": 0,
+    "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Greetings",
+    "question": "What do we say when meeting someone in the morning?",
+    "options": [
+      "Good Morning",
+      "Good Night",
+      "Good Afternoon",
+      "Good Evening"
+    ],
+    "answer": 0,
+    "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "Plural Rules",
+    "question": "What is the plural form of 'Child'?",
+    "options": [
+      "Children",
+      "Childs",
+      "Childrens",
+      "Childes"
+    ],
+    "answer": 0,
+    "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Spelling Rule",
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Beautiful",
+      "Beautifull",
+      "Beutiful",
+      "Beatiful"
+    ],
+    "answer": 0,
+    "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Pronoun",
+    "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
+    "options": [
+      "He",
+      "She",
+      "It",
+      "They"
+    ],
+    "answer": 0,
+    "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "Action Verb",
+    "question": "Birds ____ in the sky.",
+    "options": [
+      "Fly",
+      "Swim",
+      "Run",
+      "Crawl"
+    ],
+    "answer": 0,
+    "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Articles",
+    "question": "The sun rises in ____ east.",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "One"
+    ],
+    "answer": 0,
+    "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Gender",
+    "question": "What is the feminine of 'King'?",
+    "options": [
+      "Queen",
+      "Princess",
+      "Lady",
+      "Duchess"
+    ],
+    "answer": 0,
+    "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "Plural",
+    "question": "What is the plural of 'Mango'?",
+    "options": [
+      "Mangoes",
+      "Mangos",
+      "Mangoies",
+      "Mangi"
+    ],
+    "answer": 0,
+    "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "Prepositions",
+    "question": "The book is ____ the table.",
+    "options": [
+      "On",
+      "In",
+      "At",
+      "To"
+    ],
+    "answer": 0,
+    "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "Punctuation",
+    "question": "Identify the exclamation mark:",
+    "options": [
+      "!",
+      "?",
+      ".",
+      ","
+    ],
+    "answer": 0,
+    "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "Spelling",
+    "question": "Which word is spelt INCORRECTLY?",
+    "options": [
+      "Tommorow",
+      "Tomorrow",
+      "Today",
+      "Yesterday"
+    ],
+    "answer": 0,
+    "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "Plural कूटप्रश्न",
+    "question": "Which of the following words has the SAME form in both singular and plural?",
+    "options": [
+      "Sheep",
+      "Fox",
+      "Ox",
+      "Mouse"
+    ],
+    "answer": 0,
+    "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "Riddle / कोडे",
+    "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+    "options": [
+      "An Echo",
+      "A Cloud",
+      "A Shadow",
+      "A Tree"
+    ],
+    "answer": 0,
+    "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "Proverb / म्हण",
+    "question": "Complete the proverb: 'Practice makes a man ____.'",
+    "options": [
+      "Perfect",
+      "Great",
+      "Rich",
+      "Strong"
+    ],
+    "answer": 0,
+    "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "कथा आकलन",
+    "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
+    "options": [
+      "Tortoise",
+      "Hare",
+      "Fox",
+      "Wolf"
+    ],
+    "answer": 0,
+    "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  }
+]
