@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C4-P1-10",
+  "classLevel": 4,
+  "paper": 1,
+  "testNumber": 10,
+  "testName": "गणित — अपूर्णांक (पाव, अर्धा, पाऊण, सव्वा, दीड, अडीच, तुलना)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "अपूर्णांक आकृती",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-sky-50/50 rounded-xl border border-sky-200\">\n        <svg width=\"180\" height=\"40\" viewBox=\"0 0 180 40\">\n            <rect x=\"0\" y=\"0\" width=\"45\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"45\" y=\"0\" width=\"45\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"90\" y=\"0\" width=\"45\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"135\" y=\"0\" width=\"45\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/>\n        </svg>\n        <span class=\"mt-2 text-xs font-bold text-sky-900\">एकूण समान भाग = 4, रंगवलेले भाग = 1</span>\n    </div>\nरंगवलेला भाग कोणता अपूर्णांक दर्शवतो?",
+      "options": [
+        "१/२ (अर्धा)",
+        "१/४ (पाव)",
+        "३/४ (पाऊण)",
+        "१ (पूर्ण)"
+      ],
+      "answer": 1,
+      "explanation": "एकूण ४ समान भागांपैकी १ भाग रंगवलेला आहे, म्हणून हा १/४ (पाव भाग) आहे."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "अपूर्णांक आकृती",
+      "question": "खालील आकृतीत रंगवलेला भाग कोणता अपूर्णांक दर्शवतो?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-sky-50/50 rounded-xl border border-sky-200\">\n        <svg width=\"180\" height=\"40\" viewBox=\"0 0 180 40\">\n            <rect x=\"0\" y=\"0\" width=\"45\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"45\" y=\"0\" width=\"45\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"90\" y=\"0\" width=\"45\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"135\" y=\"0\" width=\"45\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/>\n        </svg>\n        <span class=\"mt-2 text-xs font-bold text-sky-900\">एकूण समान भाग = 4, रंगवलेले भाग = 3</span>\n    </div>",
+      "options": [
+        "१/४ (पाव)",
+        "१/२ (अर्धा)",
+        "३/४ (पाऊण)",
+        "४/४ (पूर्ण)"
+      ],
+      "answer": 2,
+      "explanation": "४ समान भागांपैकी ३ भाग रंगवलेले आहेत, म्हणून ३/४ (पाऊण भाग)."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "अपूर्णांक आकृती",
+      "question": "खालील आकृतीत रंगवलेला भाग कोणता अपूर्णांक दर्शवतो?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-sky-50/50 rounded-xl border border-sky-200\">\n        <svg width=\"180\" height=\"40\" viewBox=\"0 0 180 40\">\n            <rect x=\"0\" y=\"0\" width=\"30\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"30\" y=\"0\" width=\"30\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"60\" y=\"0\" width=\"30\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"90\" y=\"0\" width=\"30\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"120\" y=\"0\" width=\"30\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"150\" y=\"0\" width=\"30\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/>\n        </svg>\n        <span class=\"mt-2 text-xs font-bold text-sky-900\">एकूण समान भाग = 6, रंगवलेले भाग = 3</span>\n    </div>",
+      "options": [
+        "१/६",
+        "२/६",
+        "३/६ (अर्धा)",
+        "४/६"
+      ],
+      "answer": 2,
+      "explanation": "६ पैकी ३ भाग रंगवले आहेत -> ३/६ = १/२ (अर्धा भाग)."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "अपूर्णांक संकल्पना",
+      "question": "'सव्वा दोन' हा अपूर्णांक व्यवहारी भाषेत कसा लिहिला जातो?",
+      "options": [
+        "२ १/२",
+        "२ १/४",
+        "२ ३/४",
+        "१ १/४"
+      ],
+      "answer": 1,
+      "explanation": "२ पूर्ण आणि पाव (१/४) भाग म्हणजे 'सव्वा दोन' (२ १/४)."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "अपूर्णांक संकल्पना",
+      "question": "'दीड' म्हणजे किती?",
+      "options": [
+        "१ १/४",
+        "१ १/२",
+        "१ ३/४",
+        "२ १/२"
+      ],
+      "answer": 1,
+      "explanation": "१ पूर्ण आणि अर्धा (१/२) भाग म्हणजे 'दीड' (१ १/२)."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "अपूर्णांक संकल्पना",
+      "question": "'अडीच' म्हणजे किती?",
+      "options": [
+        "२ १/४",
+        "२ १/२",
+        "२ ३/४",
+        "३ १/२"
+      ],
+      "answer": 1,
+      "explanation": "२ पूर्ण आणि अर्धा (१/२) भाग म्हणजे 'अडीच' (२ १/२)."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "समच्छेद अपूर्णांक",
+      "question": "३/८ + २/८ = किती?",
+      "options": [
+        "५/१६",
+        "५/८",
+        "१/८",
+        "६/८"
+      ],
+      "answer": 1,
+      "explanation": "छेद समान असल्यास अंशांची बेरीज होते: (३ + २) / ८ = ५/८."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "अपूर्णांक वजाबाकी",
+      "question": "७/९ - ४/९ = किती?",
+      "options": [
+        "३/९",
+        "३/०",
+        "११/९",
+        "३/१८"
+      ],
+      "answer": 0,
+      "explanation": "छेद समान असल्याने अंशांची वजाबाकी: (७ - ४) / ९ = ३/९ (किंवा १/३)."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "तुलना",
+      "question": "५/११ आणि ८/११ यांपैकी मोठा अपूर्णांक कोणता?",
+      "options": [
+        "५/११",
+        "८/११",
+        "दोन्ही समान",
+        "सांगता येत नाही"
+      ],
+      "answer": 1,
+      "explanation": "छेद समान असल्यास ज्याचा अंश मोठा तो अपूर्णांक मोठा, म्हणून ८/११ > ५/११."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "अंश समान तुलना",
+      "question": "४/७ आणि ४/९ यांपैकी मोठा अपूर्णांक कोणता?",
+      "options": [
+        "४/७",
+        "४/९",
+        "दोन्ही समान",
+        "सांगता येत नाही"
+      ],
+      "answer": 0,
+      "explanation": "अंश समान असल्यास ज्याचा छेद लहान असतो, तो अपूर्णांक मोठा असतो (४/७ > ४/९)."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "शाब्दिक अपूर्णांक",
+      "question": "२० रुपयांचे 'पाव' (१/४) भाग म्हणजे किती रुपये?",
+      "options": [
+        "२ रुपये",
+        "५ रुपये",
+        "१० रुपये",
+        "१५ रुपये"
+      ],
+      "answer": 1,
+      "explanation": "२० चा १/४ = २० ÷ ४ = ५ रुपये."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "शाब्दिक अपूर्णांक",
+      "question": "१०० रुपयांचे 'पाऊण' (३/४) भाग म्हणजे किती रुपये?",
+      "options": [
+        "२५ रुपये",
+        "५० रुपये",
+        "७५ रुपये",
+        "८० रुपये"
+      ],
+      "answer": 2,
+      "explanation": "१०० चा ३/४ = (१०० ÷ ४) × ३ = २५ × ३ = ७५ रुपये."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "अपूर्णांक आकृती",
+      "question": "खालील आकृतीत रंगवलेला भाग कोणता अपूर्णांक दर्शवतो?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-sky-50/50 rounded-xl border border-sky-200\">\n        <svg width=\"180\" height=\"40\" viewBox=\"0 0 180 40\">\n            <rect x=\"0\" y=\"0\" width=\"22.5\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"22.5\" y=\"0\" width=\"22.5\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"45\" y=\"0\" width=\"22.5\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"67.5\" y=\"0\" width=\"22.5\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"90\" y=\"0\" width=\"22.5\" height=\"40\" fill=\"#3b82f6\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"112.5\" y=\"0\" width=\"22.5\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"135\" y=\"0\" width=\"22.5\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/><rect x=\"157.5\" y=\"0\" width=\"22.5\" height=\"40\" fill=\"#ffffff\" stroke=\"#1e3a8a\" stroke-width=\"2\"/>\n        </svg>\n        <span class=\"mt-2 text-xs font-bold text-sky-900\">एकूण समान भाग = 8, रंगवलेले भाग = 5</span>\n    </div>",
+      "options": [
+        "३/८",
+        "५/८",
+        "४/८",
+        "१/२"
+      ],
+      "answer": 1,
+      "explanation": "८ समान भागांपैकी ५ भाग रंगवलेले आहेत, म्हणून उत्तर ५/८ आहे."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "अपूर्णांक वाचन",
+      "question": "'पावणे चार' म्हणजे किती?",
+      "options": [
+        "३ १/४",
+        "३ १/२",
+        "३ ३/४",
+        "४ १/४"
+      ],
+      "answer": 2,
+      "explanation": "४ ला पाव भाग कमी म्हणजे ३ पूर्ण आणि पाऊण भाग = ३ ३/४."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "अपूर्णांक बेरीज",
+      "question": "१/४ + १/४ + १/४ + १/४ = किती?",
+      "options": [
+        "४/१६",
+        "१ (पूर्ण)",
+        "१/२",
+        "२"
+      ],
+      "answer": 1,
+      "explanation": "(१ + १ + १ + १) / ४ = ४/४ = १ पूर्ण."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "अपूर्णांक",
+      "question": "एका टरबुजाचे ८ समान भाग केले. त्यातील २ भाग रोहनने खाल्ले, तर त्याने किती भाग खाल्ला?",
+      "options": [
+        "२/८ (किंवा १/४ भाग)",
+        "१/२ भाग",
+        "३/४ भाग",
+        "६/८ भाग"
+      ],
+      "answer": 0,
+      "explanation": "८ पैकी २ भाग = २/८ = १/४ (पाव भाग)."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "अपूर्णांक",
+      "question": "खालीलपैकी सर्वात लहान अपूर्णांक कोणता? (२/५, ३/५, १/५, ४/५)",
+      "options": [
+        "२/५",
+        "३/५",
+        "१/५",
+        "४/५"
+      ],
+      "answer": 2,
+      "explanation": "छेद समान असल्याने सर्वात लहान अंशाचा अपूर्णांक १/५ हा सर्वात लहान आहे."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "दशांश तोंडओळख",
+      "question": "०.५ हा दशांश अपूर्णांक कोणत्या व्यवहारी अपूर्णांकाशी समान आहे?",
+      "options": [
+        "१/४",
+        "१/२ (अर्धा)",
+        "३/४",
+        "१/१०"
+      ],
+      "answer": 1,
+      "explanation": "०.५ = ५/१० = १/२ (अर्धा)."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "अपूर्णांक",
+      "question": "१ डझन केळी म्हणजे १२ केळी. तर अर्धा डझन म्हणजे किती केळी?",
+      "options": [
+        "३",
+        "६",
+        "९",
+        "१२"
+      ],
+      "answer": 1,
+      "explanation": "१२ चा अर्धा (१/२) = १२ ÷ २ = ६ केळी."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "अपूर्णांक",
+      "question": "१ किलोमीटरचे 'अर्धा किलोमीटर' म्हणजे किती मीटर?",
+      "options": [
+        "२५० मीटर",
+        "५०० मीटर",
+        "७५० मीटर",
+        "१००० मीटर"
+      ],
+      "answer": 1,
+      "explanation": "१ किमी = १००० मीटर. अर्धा किमी = १००० ÷ २ = ५०० मीटर."
+    }
+  ]
+}
