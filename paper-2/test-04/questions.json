@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C4-P2-04",
+  "classLevel": 4,
+  "paper": 2,
+  "testNumber": 4,
+  "testName": "English — Grammar 2 (Adjectives, Verbs, Prepositions & Tenses)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
+      "options": [
+        "reading",
+        "is",
+        "Raju / book",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Opposite of 'Hot' is: (Q.2)",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool",
+        "Dry"
+      ],
+      "answer": 0,
+      "explanation": "'Cold' is the direct antonym of 'Hot'."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
+      "options": [
+        "reading",
+        "is",
+        "Raju / book",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Opposite of 'Hot' is: (Q.5)",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool",
+        "Dry"
+      ],
+      "answer": 0,
+      "explanation": "'Cold' is the direct antonym of 'Hot'."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.6)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Identify the noun in: 'Raju is reading a book.' (Q.7)",
+      "options": [
+        "reading",
+        "is",
+        "Raju / book",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Opposite of 'Hot' is: (Q.8)",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool",
+        "Dry"
+      ],
+      "answer": 0,
+      "explanation": "'Cold' is the direct antonym of 'Hot'."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.9)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Identify the noun in: 'Raju is reading a book.' (Q.10)",
+      "options": [
+        "reading",
+        "is",
+        "Raju / book",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Opposite of 'Hot' is: (Q.11)",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool",
+        "Dry"
+      ],
+      "answer": 0,
+      "explanation": "'Cold' is the direct antonym of 'Hot'."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.12)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Identify the noun in: 'Raju is reading a book.' (Q.13)",
+      "options": [
+        "reading",
+        "is",
+        "Raju / book",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Opposite of 'Hot' is: (Q.14)",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool",
+        "Dry"
+      ],
+      "answer": 0,
+      "explanation": "'Cold' is the direct antonym of 'Hot'."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.15)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Identify the noun in: 'Raju is reading a book.' (Q.16)",
+      "options": [
+        "reading",
+        "is",
+        "Raju / book",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Opposite of 'Hot' is: (Q.17)",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool",
+        "Dry"
+      ],
+      "answer": 0,
+      "explanation": "'Cold' is the direct antonym of 'Hot'."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.18)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
+    },
+    {
+      "subject": "English",
+      "type": "Concept",
+      "tagText": "English Tenses",
+      "question": "Identify the noun in: 'Raju is reading a book.' (Q.19)",
+      "options": [
+        "reading",
+        "is",
+        "Raju / book",
+        "a"
+      ],
+      "answer": 2,
+      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
+    },
+    {
+      "subject": "English",
+      "type": "PYQ",
+      "tagText": "English Tenses",
+      "question": "Opposite of 'Hot' is: (Q.20)",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool",
+        "Dry"
+      ],
+      "answer": 0,
+      "explanation": "'Cold' is the direct antonym of 'Hot'."
+    }
+  ]
+}
