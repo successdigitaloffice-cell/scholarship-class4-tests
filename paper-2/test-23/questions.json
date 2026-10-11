@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C4-P2-23",
+  "classLevel": 4,
+  "paper": 2,
+  "testNumber": 23,
+  "testName": "बुद्धिमत्ता — आरशातील प्रतिमा (Mirror Image Special)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीची आरशातील अचूक प्रतिमा कोणती?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                P\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>\n(डावी बाजू उजवीकडे बदलते, उजवी डावीकडे)",
+      "options": [
+        "P",
+        "q (उलट पी)",
+        "d",
+        "b"
+      ],
+      "answer": 1,
+      "explanation": "आरशात डावी-उजवी बाजू बदलते, त्यामुळे 'P' चा उजवीकडील गोल डावीकडे येऊन तो 'q' सारखा दिसतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील आकृतीचे आरशातील प्रतिबिंब ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                B\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "B",
+        "d",
+        "वक्र भाग डावीकडे असणारा आकार",
+        "P"
+      ],
+      "answer": 2,
+      "explanation": "B चा उजवीकडील वक्र भाग आरशात डावीकडे उलटतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालील बाणाचे आरशातील प्रतिबिंब ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                →\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "↑",
+        "↓",
+        "←",
+        "→"
+      ],
+      "answer": 2,
+      "explanation": "उजवीकडे तोंड असलेला बाण (→) आरशात डावीकडे तोंड करतो (←)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "खालीलपैकी कोणते इंग्रजी अक्षर आरशात पाहिले तरी अजिबात बदलत नाही (मूळ अक्षरासारखेच दिसते)?",
+      "options": [
+        "B",
+        "F",
+        "A",
+        "P"
+      ],
+      "answer": 2,
+      "explanation": "'A' हे सममित अक्षर असल्यामुळे त्याची डावी व उजवी बाजू समान असते, म्हणून आरशात 'A' च दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील अक्षरे",
+      "question": "खालीलपैकी कोणते अक्षर आरशात अपरिवर्तित राहते?",
+      "options": [
+        "M",
+        "E",
+        "C",
+        "D"
+      ],
+      "answer": 0,
+      "explanation": "'M' चे आरशातील प्रतिबिंब तंतोतंत 'M' सारखेच दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील अक्षरे",
+      "question": "खालीलपैकी कोणते अक्षर आरशात बदलत नाही?",
+      "options": [
+        "H",
+        "K",
+        "L",
+        "N"
+      ],
+      "answer": 0,
+      "explanation": "'H' हे उभ्या अक्षाभोवती सममित असल्याने आरशात बदलत नाही."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आरशातील अंक",
+      "question": "'२' या अंकाचे आरशातील रूप कसे दिसेल?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                २\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "२",
+        "उलट २",
+        "५",
+        "७"
+      ],
+      "answer": 1,
+      "explanation": "२ चे आरशातील प्रतिबिंब डावीकडून उजवीकडे उलटते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील अंक",
+      "question": "खालीलपैकी कोणता अंक आरशात पाहिला तरी तसाच दिसतो?",
+      "options": [
+        "१",
+        "२",
+        "३",
+        "८"
+      ],
+      "answer": 3,
+      "explanation": "'८' हा अंक सममित असल्याने आरशात '८' सारखाच दिसतो (० आणि ८)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील नियम",
+      "question": "आरशातील प्रतिमेमध्ये कोणता मुख्य बदल होतो?",
+      "options": [
+        "वरची बाजू खाली जाते",
+        "डावी बाजू उजवीकडे आणि उजवी डावीकडे बदलते",
+        "आकार मोठा होतो",
+        "रंग बदलतो"
+      ],
+      "answer": 1,
+      "explanation": "आरशात पार्श्व परिवर्तन (Lateral Inversion) होते, म्हणजे डावी व उजवी बाजू उलटते; वर-खाली बदलत नाही."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "त्रिकोणातील बाणाची आरशातील प्रतिमा शोधा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                ⮞\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "⮞",
+        "⮜ (डावीकडे बाण)",
+        "⮝",
+        "⮟"
+      ],
+      "answer": 1,
+      "explanation": "उजवीकडील बाण आरशात डावीकडे (⮜) दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील अक्षरे",
+      "question": "कोणता शब्द आरशात उलटा न दिसता समान दिसेल?",
+      "options": [
+        "MOM",
+        "CAT",
+        "BOY",
+        "DOG"
+      ],
+      "answer": 0,
+      "explanation": "'MOM' मधील M आणि O दोन्ही सममित आहेत, आणि मधला O मध्यभागी राहून दोन्ही M उलटले तरी 'MOM' च राहते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "'RED' या शब्दाचे आरशातील रूप कोणत्या अक्षराने सुरू होईल?",
+      "options": [
+        "R",
+        "E",
+        "D (उलट)",
+        "R (उलट)"
+      ],
+      "answer": 2,
+      "explanation": "आरशात सर्वात उजवीकडील अक्षर 'D' सर्वात डावीकडे प्रथम दिसेल (उलट D)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील अक्षरे",
+      "question": "खालीलपैकी कोणते अक्षर आरशात बदलणारे आहे?",
+      "options": [
+        "A",
+        "T",
+        "V",
+        "J"
+      ],
+      "answer": 3,
+      "explanation": "'J' चे तोंड उजवीकडून डावीकडे उलटते, म्हणून ते बदलते (A, T, V बदलत नाहीत)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "'F' या अक्षराचे आरशातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                F\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "F",
+        "उलट्या बाजूला दोन रेषा असणारे F",
+        "E",
+        "L"
+      ],
+      "answer": 1,
+      "explanation": "F च्या उजवीकडील आडव्या रेषा आरशात डावीकडे उलटतात."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील अंक",
+      "question": "आंतरराष्ट्रीय अंक '0' आरशात कसा दिसतो?",
+      "options": [
+        "0",
+        "1",
+        "8",
+        "बदलतो"
+      ],
+      "answer": 0,
+      "explanation": "'0' हा सममित असल्याने आरशात तंतोतंत '0' सारखाच दिसतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "घड्याळात ३:०० वाजले असल्यास आरशातील घड्याळात किती वाजल्यासारखे दिसेल?",
+      "options": [
+        "३:००",
+        "६:००",
+        "९:००",
+        "१२:००"
+      ],
+      "answer": 2,
+      "explanation": "३ वाजता तास काटा उजवीकडे असतो, आरशात तो डावीकडे म्हणजे ९ वर दिसेल (१२ - ३ = ९:००)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "आरशातील घड्याळ",
+      "question": "घड्याळात बरोबर १:०० वाजले असल्यास आरशातील घड्याळात किती वाजलेले दिसतील?",
+      "options": [
+        "११:००",
+        "१०:००",
+        "२:००",
+        "१:००"
+      ],
+      "answer": 0,
+      "explanation": "१२ - १ = ११:०० वाजल्यासारखे दिसेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "आरशातील अक्षरे",
+      "question": "'W' चे आरशातील रूप कसे दिसेल?",
+      "options": [
+        "M",
+        "W",
+        "V",
+        "N"
+      ],
+      "answer": 1,
+      "explanation": "आरशात वर-खाली बदलत नाही, फक्त डावी-उजवी बदलते; W सममित असल्याने 'W' च दिसेल (पाण्यात M दिसते)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "आरशातील अक्षरे",
+      "question": "'O' या अक्षराचे आरशातील प्रतिबिंब कोणते?",
+      "options": [
+        "C",
+        "Q",
+        "O",
+        "D"
+      ],
+      "answer": 2,
+      "explanation": "'O' हे पूर्ण वर्तुळाकार सममित अक्षर असल्याने 'O' च दिसते."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आरशातील प्रतिमा",
+      "question": "स्वस्तिक चिन्हाची आरशातील अचूक प्रतिमा ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-purple-50/50 rounded-xl border border-purple-200\">\n        <div class=\"flex items-center gap-6\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-purple-600 bg-white rounded-lg text-2xl font-black text-purple-900 shadow-sm\">\n                卐\n            </div>\n            <div class=\"flex flex-col items-center\">\n                <div class=\"h-16 w-1 border-r-2 border-dashed border-red-500\"></div>\n                <span class=\"text-[10px] font-black text-red-600 uppercase mt-1\">आरसा (Mirror)</span>\n            </div>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-purple-900\">आरशातील अचूक प्रतिमा ओळखा</span>\n    </div>",
+      "options": [
+        "卐",
+        "उलटा स्वस्तिक",
+        "+",
+        "×"
+      ],
+      "answer": 1,
+      "explanation": "स्वस्तिकाच्या उजवीकडे वळलेल्या भुजा आरशात डावीकडे वळतात."
+    }
+  ]
+}
