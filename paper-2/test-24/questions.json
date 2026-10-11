@@ -1,291 +1,330 @@
-{
-  "seriesId": "SCHOLARSHIP-C4-P2-24",
-  "classLevel": 4,
-  "paper": 2,
-  "testNumber": 24,
-  "testName": "बुद्धिमत्ता — जलप्रतिमा (Water Reflection Special)",
-  "totalQuestions": 20,
-  "totalMarks": 40,
-  "questions": [
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "खालील आकृतीचे पाण्यातील प्रतिबिंब (Water Reflection) ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                M\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>\n(वरची बाजू खाली येते, खालची वर जाते)",
-      "options": [
-        "M",
-        "W",
-        "N",
-        "V"
-      ],
-      "answer": 1,
-      "explanation": "पाण्यात वरची बाजू खाली उलटते, त्यामुळे 'M' चे प्रतिबिंब 'W' सारखे दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "वर तोंड असलेला बाण (↑) पाण्यात कसा दिसेल?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ↑\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "↑",
-        "→",
-        "↓",
-        "←"
-      ],
-      "answer": 2,
-      "explanation": "पाण्यात वरचे टोक खाली उलटते, म्हणून '↑' चे प्रतिबिंब '↓' दिसेल."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "'A' या अक्षराचे पाण्यातील प्रतिबिंब कसे दिसेल?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                A\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "A",
-        "उलटा A (∀)",
-        "V",
-        "H"
-      ],
-      "answer": 1,
-      "explanation": "A चे वरचे टोक पाण्यात तळाकडे उलटते (उलटा A)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "खालीलपैकी कोणते अक्षर पाण्यात पाहिले तरी अजिबात बदलत नाही (मूळ अक्षरासारखेच दिसते)?",
-      "options": [
-        "M",
-        "A",
-        "H",
-        "W"
-      ],
-      "answer": 2,
-      "explanation": "'H' ला आडवा सममिती अक्ष असतो (वरचा आणि खालचा भाग समान), त्यामुळे पाण्यात H तसाच दिसतो (तसेच B, C, D, E, H, I, K, O, X)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर पाण्यात अपरिवर्तित राहते?",
-      "options": [
-        "E",
-        "F",
-        "L",
-        "P"
-      ],
-      "answer": 0,
-      "explanation": "'E' चा वरचा आणि खालचा भाग समान असल्याने पाण्यात 'E' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "पाण्यातील नियम",
-      "question": "पाण्यातील प्रतिबिंबामध्ये कोणता मुख्य बदल होतो?",
-      "options": [
-        "डावी बाजू उजवीकडे बदलते",
-        "वरची बाजू खाली आणि खालची बाजू वर जाते",
-        "आकार लहान होतो",
-        "काहीच बदलत नाही"
-      ],
-      "answer": 1,
-      "explanation": "जलप्रतिमेत उभा अक्ष उलटतो (Vertical Inversion), म्हणजेच वरची बाजू खाली आणि खालची वर जाते; डावी-उजवी बाजू बदलत नाही."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "खालील त्रिकोणाचे (▲) पाण्यातील रूप कोणते?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ▲\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "▲",
-        "▼",
-        "◄",
-        "►"
-      ],
-      "answer": 1,
-      "explanation": "वर टोक असणारा त्रिकोण (▲) पाण्यात खाली टोक असणारा (▼) दिसतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर पाण्यात बदलत नाही?",
-      "options": [
-        "C",
-        "T",
-        "G",
-        "S"
-      ],
-      "answer": 0,
-      "explanation": "'C' हे आडव्या अक्षाभोवती सममित असल्याने पाण्यात 'C' सारखेच दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "पाण्यातील अंक",
-      "question": "'३' हा देवनागरी अंक पाण्यात कसा दिसेल?",
-      "options": [
-        "३",
-        "उलटा ३ (वरची व खालची गाठ बदललेली)",
-        "६",
-        "९"
-      ],
-      "answer": 1,
-      "explanation": "३ ची वरची वाटी खाली आणि खालची गाठ वर उलटते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "'B' हे इंग्रजी अक्षर पाण्यात कसे दिसते?",
-      "options": [
-        "B",
-        "d",
-        "p",
-        "q"
-      ],
-      "answer": 0,
-      "explanation": "'B' चे वरचे व खालचे वळण आडव्या रेषेभोवती सममित असल्याने पाण्यात 'B' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "'V' या अक्षराचे पाण्यातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                V\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "V",
-        "∧ (उलटा V)",
-        "W",
-        "M"
-      ],
-      "answer": 1,
-      "explanation": "V चे खालचे टोक वर जाते, म्हणून ते '∧' सारखे दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "खालीलपैकी कोणते अक्षर पाण्यात बदलणारे आहे?",
-      "options": [
-        "H",
-        "I",
-        "O",
-        "T"
-      ],
-      "answer": 3,
-      "explanation": "'T' ची आडवी दांडी वरून तळाला जाते, त्यामुळे 'T' बदलतो (H, I, O बदलत नाहीत)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "पाण्यातील अंक",
-      "question": "आंतरराष्ट्रीय अंक '8' पाण्यात कसा दिसेल?",
-      "options": [
-        "8",
-        "0",
-        "3",
-        "बदलतो"
-      ],
-      "answer": 0,
-      "explanation": "'8' हा वर-खाली सममित असल्याने पाण्यात तंतोतंत '8' च दिसतो."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "पाण्यातील शब्द",
-      "question": "कोणता इंग्रजी शब्द पाण्यात पाहिला तरी हुबेहूब मूळ शब्दासारखाच वाचता येईल?",
-      "options": [
-        "BOOK",
-        "HIDE",
-        "TREE",
-        "CAT"
-      ],
-      "answer": 1,
-      "explanation": "'H-I-D-E' मधील चारही अक्षरे आडव्या अक्षाभोवती सममित आहेत, म्हणून HIDE पाण्यात 'HIDE' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "अर्धवर्तुळाचे (◓) पाण्यातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ◓\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "◓",
-        "◒",
-        "◑",
-        "◐"
-      ],
-      "answer": 1,
-      "explanation": "वरचा रंगवलेला अर्धा भाग पाण्यात खालच्या बाजूला येतो (◒)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "'K' हे अक्षर पाण्यात कसे दिसेल?",
-      "options": [
-        "K",
-        "उलटा K",
-        "X",
-        "Y"
-      ],
-      "answer": 0,
-      "explanation": "'K' चे आडवे सममित रूप असल्याने पाण्यात 'K' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Concept",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "'X' हे अक्षर पाण्यात कसे दिसते?",
-      "options": [
-        "X",
-        "+",
-        "Y",
-        "Z"
-      ],
-      "answer": 0,
-      "explanation": "'X' हे सर्व बाजूंनी सममित असल्याने पाण्यात 'X' च दिसते."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "IMP",
-      "tagText": "पाण्यातील तुलना",
-      "question": "आरशातील प्रतिमा आणि जलप्रतिमा यांमधील मुख्य फरक कोणता?",
-      "options": [
-        "काहीच फरक नाही",
-        "आरशात डावी-उजवी बदलते, पाण्यात वर-खाली बदलते",
-        "पाण्यात डावी-उजवी बदलते",
-        "आरशात आकार बदलतो"
-      ],
-      "answer": 1,
-      "explanation": "आरशात डावी-उजवी बाजू बदलते (Lateral), तर पाण्यात वर-खाली बाजू बदलते (Vertical)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "Diagram",
-      "tagText": "पाण्यातील प्रतिबिंब",
-      "question": "खालील बाणाचे पाण्यातील रूप ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-cyan-50/50 rounded-xl border border-cyan-200\">\n        <div class=\"flex flex-col items-center gap-2\">\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-cyan-600 bg-white rounded-lg text-2xl font-black text-cyan-900 shadow-sm\">\n                ➘\n            </div>\n            <div class=\"w-32 h-1 border-b-2 border-dashed border-blue-500 my-1\"></div>\n            <span class=\"text-[10px] font-black text-blue-600 uppercase\">पाण्याची पातळी (Water Surface)</span>\n            <div class=\"w-16 h-16 flex items-center justify-center border-2 border-dashed border-gray-400 bg-gray-50 rounded-lg text-2xl font-black text-gray-500\">\n                ?\n            </div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-cyan-900\">पाण्यातील अचूक प्रतिबिंब ओळखा</span>\n    </div>",
-      "options": [
-        "➘",
-        "➚",
-        "➔",
-        "↙"
-      ],
-      "answer": 1,
-      "explanation": "खाली वळलेला तिरपा बाण पाण्यात वर वळतो (➚)."
-    },
-    {
-      "subject": "बुद्धिमत्ता",
-      "type": "PYQ",
-      "tagText": "पाण्यातील अक्षरे",
-      "question": "'D' हे अक्षर पाण्यात कसे दिसेल?",
-      "options": [
-        "D",
-        "C",
-        "P",
-        "B"
-      ],
-      "answer": 0,
-      "explanation": "'D' हे आडव्या अक्षाभोवती सममित असल्याने पाण्यात 'D' च राहते."
-    }
-  ]
-}
+[
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "स्थान ओळखणे",
+    "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
+    "options": [
+      "ग",
+      "ख",
+      "घ",
+      "क"
+    ],
+    "answer": 0,
+    "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "संख्या स्थान",
+    "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
+    "options": [
+      "८",
+      "६",
+      "१०",
+      "४"
+    ],
+    "answer": 0,
+    "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "विसंगत घटक",
+    "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
+    "options": [
+      "बटाटा",
+      "आंबा",
+      "केळी",
+      "सफरचंद"
+    ],
+    "answer": 0,
+    "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "विसंगत संख्या",
+    "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
+    "options": [
+      "९",
+      "२",
+      "४",
+      "६"
+    ],
+    "answer": 0,
+    "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "समसंबंध",
+    "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
+    "options": [
+      "मुंबई",
+      "पुणे",
+      "नागपूर",
+      "नाशिक"
+    ],
+    "answer": 0,
+    "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "संख्या क्रम",
+    "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
+    "options": [
+      "२५",
+      "३०",
+      "२४",
+      "२२"
+    ],
+    "answer": 0,
+    "explanation": "५ चा पाढा: २० + ५ = २५.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "अक्षर समसंबंध",
+    "question": "A : Z :: B : ____?",
+    "options": [
+      "Y",
+      "X",
+      "W",
+      "Z"
+    ],
+    "answer": 0,
+    "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "सांकेतिक भाषा",
+    "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
+    "options": [
+      "4-15-7",
+      "4-14-7",
+      "3-15-7",
+      "4-15-8"
+    ],
+    "answer": 0,
+    "explanation": "D=4, O=15, G=7 -> 4-15-7.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "दिशाज्ञान",
+    "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
+    "options": [
+      "उत्तर दिशा",
+      "दक्षिण दिशा",
+      "पश्चिम दिशा",
+      "पूर्व दिशा"
+    ],
+    "answer": 0,
+    "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "नातेसंबंध",
+    "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
+    "options": [
+      "आत्तेभाऊ",
+      "मामेभाऊ",
+      "चुलतभाऊ",
+      "सख्खा भाऊ"
+    ],
+    "answer": 0,
+    "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "संख्या समसंबंध",
+    "question": "४ : १६ :: ५ : ____?",
+    "options": [
+      "२५",
+      "२०",
+      "३०",
+      "१५"
+    ],
+    "answer": 0,
+    "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "विसंगत शब्द",
+    "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
+    "options": [
+      "हात",
+      "डोळा",
+      "नाक",
+      "कान"
+    ],
+    "answer": 0,
+    "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "अक्षर मालिका",
+    "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
+    "options": [
+      "J",
+      "I",
+      "K",
+      "L"
+    ],
+    "answer": 0,
+    "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "Concept",
+    "tagText": "संख्या मालिका",
+    "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
+    "options": [
+      "२५",
+      "२०",
+      "३६",
+      "२४"
+    ],
+    "answer": 0,
+    "explanation": "१², २², ३², ४² नंतर ५² = २५.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "IMP",
+    "tagText": "आरशातील प्रतिमा",
+    "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 0,
+    "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "सांकेतिक भाषा",
+    "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
+    "options": [
+      "निळा",
+      "पिवळा",
+      "लाल",
+      "पांढरा"
+    ],
+    "answer": 0,
+    "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "HOTS",
+    "tagText": "रांगेतील स्थान कूटप्रश्न",
+    "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
+    "options": [
+      "१७ मुले",
+      "१८ मुले",
+      "१९ मुले",
+      "१६ मुले"
+    ],
+    "answer": 0,
+    "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "वय कूटप्रश्न",
+    "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
+    "options": [
+      "३५ वर्षे",
+      "३० वर्षे",
+      "४० वर्षे",
+      "२५ वर्षे"
+    ],
+    "answer": 0,
+    "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "HOTS",
+    "tagText": "त्रिकोण मोजणे",
+    "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
+    "options": [
+      "३ त्रिकोण",
+      "२ त्रिकोण",
+      "४ त्रिकोण",
+      "१ त्रिकोण"
+    ],
+    "answer": 0,
+    "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "बुद्धिमत्ता",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "दिनदर्शिका कूटप्रश्न",
+    "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
+    "options": [
+      "शुक्रवार",
+      "गुरुवार",
+      "शनिवार",
+      "रविवार"
+    ],
+    "answer": 0,
+    "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  }
+]
