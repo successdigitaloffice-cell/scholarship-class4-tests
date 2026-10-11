@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C4-P2-12",
+  "classLevel": 4,
+  "paper": 2,
+  "testNumber": 12,
+  "testName": "बुद्धिमत्ता — क्रम ३: आकृती मालिका (पुढील आकृती ओळखणे)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आकृती मालिका",
+      "question": "खालील आकृती मालिकेचे काळजीपूर्वक निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">१</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">२</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">३</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>\nमालिकेतील पुढील पद कोणते येईल?",
+      "options": [
+        "०",
+        "४",
+        "५",
+        "६"
+      ],
+      "answer": 1,
+      "explanation": "संख्या क्रमाने १, २, ३ अशी वाढत आहे, म्हणून पुढील पद ४ येईल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आकृती मालिका",
+      "question": "बाणाच्या दिशेची मालिका ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">↑</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">→</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">↓</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "options": [
+        "↑",
+        "→",
+        "←",
+        "↓"
+      ],
+      "answer": 2,
+      "explanation": "बाण घड्याळाच्या काट्याच्या दिशेने ९० अंशाने फिरत आहे: वर (उत्तर) -> उजवीकडे (पूर्व) -> खाली (दक्षिण) -> डावीकडे (पश्चिम) म्हणजेच '←'."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आकृती मालिका",
+      "question": "भौमितिक बाजूंची संख्या वाढणारी मालिका ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">▲ (३)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">■ (४)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">⬟ (५)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "options": [
+        "● (वर्तुळ)",
+        "⬢ षटकोन (६ बाजू)",
+        "▲ त्रिकोण",
+        "आयात"
+      ],
+      "answer": 1,
+      "explanation": "प्रत्येक टप्प्यावर आकृतीची १ बाजू वाढत आहे: ३ बाजू -> ४ बाजू -> ५ बाजू -> पुढील पद ६ बाजू असलेला षटकोन (⬢) असेल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आकृती मालिका",
+      "question": "ठिपक्यांची संख्या वाढणारी मालिका:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">●</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">●●</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">●●●</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "options": [
+        "●",
+        "●●●● (४ ठिपके)",
+        "●●",
+        "●●●●●"
+      ],
+      "answer": 1,
+      "explanation": "प्रत्येक टप्प्यात १ ठिपका वाढतो: १ -> २ -> ३ -> ४ ठिपके."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या मालिका",
+      "question": "२, ४, ६, ८, ___ या मालिकेतील पुढील पद कोणते?",
+      "options": [
+        "९",
+        "१०",
+        "११",
+        "१२"
+      ],
+      "answer": 1,
+      "explanation": "प्रत्येक संख्येत २ मिळवले आहेत: ८ + २ = १०."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या मालिका",
+      "question": "५, १०, १५, २०, ___ पुढील संख्या शोधा.",
+      "options": [
+        "२१",
+        "२५",
+        "३०",
+        "३५"
+      ],
+      "answer": 1,
+      "explanation": "५ चा पाढा: २० + ५ = २५."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या मालिका",
+      "question": "१, ४, ९, १६, ___ पुढील संख्या कोणती?",
+      "options": [
+        "२०",
+        "२४",
+        "२५",
+        "३६"
+      ],
+      "answer": 2,
+      "explanation": "पूर्ण वर्ग संख्या: १², २², ३², ४², ५² = २५."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आकृती मालिका",
+      "question": "अक्षरांची मालिका ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">A</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">C</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">E</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "options": [
+        "F",
+        "G",
+        "H",
+        "B"
+      ],
+      "answer": 1,
+      "explanation": "एक अक्षर सोडून पुढे: A (+2) -> C (+2) -> E (+2) -> G."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "अक्षर मालिका",
+      "question": "Z, Y, X, W, ___ पुढील अक्षर कोणते येईल?",
+      "options": [
+        "U",
+        "V",
+        "T",
+        "S"
+      ],
+      "answer": 1,
+      "explanation": "उलटा इंग्रजी वर्णमाला क्रम: W च्या आधी V येतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आकृती मालिका",
+      "question": "आकृत्यांचे आवर्तन ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">+</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">×</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">+</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "options": [
+        "+",
+        "×",
+        "-",
+        "÷"
+      ],
+      "answer": 1,
+      "explanation": "+ आणि × यांची एकाआड एक पुनरावृत्ती होत आहे, म्हणून पुढील पद × येईल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या मालिका",
+      "question": "१०, २०, ३०, ४०, ___ पुढील पद कोणते?",
+      "options": [
+        "४५",
+        "५०",
+        "५५",
+        "६०"
+      ],
+      "answer": 1,
+      "explanation": "१० चा फरक: ४० + १० = ५०."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या मालिका",
+      "question": "५०, ४५, ४०, ३५, ___ पुढील संख्या शोधा.",
+      "options": [
+        "२५",
+        "३०",
+        "३२",
+        "३४"
+      ],
+      "answer": 1,
+      "explanation": "प्रत्येक वेळी ५ वजा केले आहेत: ३५ - ५ = ३०."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आकृती मालिका",
+      "question": "आकृतीतील रेषाखंडांची वाढती मालिका:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">— (१)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">= (२)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">≡ (३)</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "options": [
+        "—",
+        "=",
+        "४ रेषाखंड",
+        "≡"
+      ],
+      "answer": 2,
+      "explanation": "१ रेषा -> २ रेषा -> ३ रेषा -> पुढील पदात ४ समांतर रेषाखंड असतील."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "संख्या मालिका",
+      "question": "३, ६, ९, १२, ___ पुढील पद कोणते?",
+      "options": [
+        "१३",
+        "१४",
+        "१५",
+        "१६"
+      ],
+      "answer": 2,
+      "explanation": "३ चा पाढा: १२ + ३ = १५."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "चुकीचे पद",
+      "question": "खालील मालिकेतील चुकीचे पद ओळखा: २, ४, ६, ९, १०",
+      "options": [
+        "२",
+        "४",
+        "९",
+        "१०"
+      ],
+      "answer": 2,
+      "explanation": "सर्व सम संख्यांच्या मालिकेत ९ ही विषम संख्या असल्याने ते चुकीचे पद आहे (तेथे ८ हवे होते)."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आकृती मालिका",
+      "question": "कोन चिन्हांचे आवर्तन:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\"><</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">></div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\"><</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "options": [
+        "<",
+        ">",
+        "=",
+        "v"
+      ],
+      "answer": 1,
+      "explanation": "< आणि > चे एकाआड एक आवर्तन असल्याने पुढील पद > येईल."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "IMP",
+      "tagText": "संख्या मालिका",
+      "question": "१००, ९०, ८०, ७०, ___ पुढील संख्या शोधा.",
+      "options": [
+        "५०",
+        "६०",
+        "६५",
+        "७५"
+      ],
+      "answer": 1,
+      "explanation": "१० ने कमी होत जाणारी मालिका: ७० - १० = ६०."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "PYQ",
+      "tagText": "अक्षर मालिका",
+      "question": "B, D, F, H, ___ पुढील अक्षर कोणते?",
+      "options": [
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "answer": 1,
+      "explanation": "सम क्रमांकाची अक्षरे (२, ४, ६, ८, १०): १० व्या क्रमांकावर J येतो."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Diagram",
+      "tagText": "आकृती मालिका",
+      "question": "सूर्य व चंद्र यांचे आवर्तन:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <div class=\"flex items-center gap-2 md:gap-3\">\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">☼</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">☽</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-amber-500 bg-white rounded-lg text-xl font-bold text-amber-900 shadow-sm\">☼</div>\n            <i class=\"fas fa-arrow-right text-gray-400 text-xs\"></i>\n            <div class=\"w-12 h-12 md:w-14 md:h-14 flex items-center justify-center border-2 border-dashed border-red-500 bg-red-50 rounded-lg text-xl font-black text-red-600 shadow-sm\">?</div>\n        </div>\n        <span class=\"mt-2 text-xs font-bold text-amber-900\">आकृती मालिकेतील पुढील पद (?) ओळखा</span>\n    </div>",
+      "options": [
+        "☼",
+        "☽ (चंद्र)",
+        "★",
+        "☁"
+      ],
+      "answer": 1,
+      "explanation": "सूर्य (☼) नंतर चंद्र (☽) चे एकाआड एक आवर्तन आहे."
+    },
+    {
+      "subject": "बुद्धिमत्ता",
+      "type": "Concept",
+      "tagText": "संख्या मालिका",
+      "question": "१, ३, ५, ७, ___ पुढील विषम संख्या कोणती?",
+      "options": [
+        "८",
+        "९",
+        "१०",
+        "११"
+      ],
+      "answer": 1,
+      "explanation": "क्रमवार विषम संख्या: ७ नंतर ९ येते."
+    }
+  ]
+}
