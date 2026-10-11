@@ -1,291 +1,330 @@
-{
-  "seriesId": "SCHOLARSHIP-C4-P2-02",
-  "classLevel": 4,
-  "paper": 2,
-  "testNumber": 2,
-  "testName": "English — Vocabulary 2 (Opposites, Synonyms, Days, Months)",
-  "totalQuestions": 20,
-  "totalMarks": 40,
-  "questions": [
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.1)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.2)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.3)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.4)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.5)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.6)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.7)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.8)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.9)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.10)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.11)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.12)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.13)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.14)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.15)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.16)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.17)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Choose the correct article: 'He is eating ____ apple.' (Q.18)",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
-      "answer": 1,
-      "explanation": "'Apple' begins with vowel sound /æ/, hence article 'an' is used."
-    },
-    {
-      "subject": "English",
-      "type": "Concept",
-      "tagText": "English Vocab",
-      "question": "Identify the noun in: 'Raju is reading a book.' (Q.19)",
-      "options": [
-        "reading",
-        "is",
-        "Raju / book",
-        "a"
-      ],
-      "answer": 2,
-      "explanation": "'Raju' (Proper Noun) and 'book' (Common Noun) are naming words."
-    },
-    {
-      "subject": "English",
-      "type": "PYQ",
-      "tagText": "English Vocab",
-      "question": "Opposite of 'Hot' is: (Q.20)",
-      "options": [
-        "Cold",
-        "Warm",
-        "Cool",
-        "Dry"
-      ],
-      "answer": 0,
-      "explanation": "'Cold' is the direct antonym of 'Hot'."
-    }
-  ]
-}
+[
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "पिल्लू (Young One)",
+    "question": "What is the young one of a 'Dog' called?",
+    "options": [
+      "Puppy",
+      "Kitten",
+      "Calf",
+      "Cub"
+    ],
+    "answer": 0,
+    "explanation": "कुत्र्याच्या पिल्लाला 'Puppy' म्हणतात.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "पिल्लू (Young One)",
+    "question": "What is the baby of a 'Cat' called?",
+    "options": [
+      "Kitten",
+      "Puppy",
+      "Lamb",
+      "Kid"
+    ],
+    "answer": 0,
+    "explanation": "मांजराच्या पिल्लाला 'Kitten' म्हणतात.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "घर (Shelter)",
+    "question": "Where does a 'Lion' live?",
+    "options": [
+      "Den",
+      "Stable",
+      "Kennel",
+      "Shed"
+    ],
+    "answer": 0,
+    "explanation": "सिंह गुहेत राहतो म्हणजेच 'Den'.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2023",
+    "tagText": "आवाज (Sound)",
+    "question": "What sound does a 'Cow' make?",
+    "options": [
+      "Moos",
+      "Barks",
+      "Roars",
+      "Meows"
+    ],
+    "answer": 0,
+    "explanation": "गाय हंबरते त्याला इंग्रजीत 'Moos' म्हणतात.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "घर (Shelter)",
+    "question": "A horse lives in a ____.",
+    "options": [
+      "Stable",
+      "Shed",
+      "Sty",
+      "Burrow"
+    ],
+    "answer": 0,
+    "explanation": "घोड्याचा तबेला म्हणजेच 'Stable'.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "पिल्लू (Young One)",
+    "question": "The baby of a 'Cow' is called a ____.",
+    "options": [
+      "Calf",
+      "Foal",
+      "Lamb",
+      "Cub"
+    ],
+    "answer": 0,
+    "explanation": "गायीच्या वासराला 'Calf' म्हणतात.",
+    "difficulty": "सोपे",
+    "difficultyEn": "Easy"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2022",
+    "tagText": "पिल्लू (Young One)",
+    "question": "The young one of a 'Sheep' is a ____.",
+    "options": [
+      "Lamb",
+      "Kid",
+      "Calf",
+      "Colt"
+    ],
+    "answer": 0,
+    "explanation": "मेंढीच्या पिल्लाला 'Lamb' म्हणतात.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "आवाज (Sound)",
+    "question": "Dogs ____.",
+    "options": [
+      "Bark",
+      "Roar",
+      "Neigh",
+      "Bleat"
+    ],
+    "answer": 0,
+    "explanation": "कुत्रे भुंकतात त्याला 'Bark' म्हणतात.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "घर (Shelter)",
+    "question": "A bird lives in a ____.",
+    "options": [
+      "Nest",
+      "Hole",
+      "Hive",
+      "Pen"
+    ],
+    "answer": 0,
+    "explanation": "पक्षी घरट्यात राहतो म्हणजेच 'Nest'.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2021",
+    "tagText": "घर (Shelter)",
+    "question": "Bees live in a ____.",
+    "options": [
+      "Hive",
+      "Web",
+      "Den",
+      "Burrow"
+    ],
+    "answer": 0,
+    "explanation": "मधमाश्या पोळ्यात राहतात म्हणजेच 'Hive'.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "आवाज (Sound)",
+    "question": "What sound does a 'Horse' make?",
+    "options": [
+      "Neighs",
+      "Brays",
+      "Hisses",
+      "Croaks"
+    ],
+    "answer": 0,
+    "explanation": "घोडा खिंकाळतो त्याला 'Neighs' म्हणतात.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "पिल्लू (Young One)",
+    "question": "The young one of a 'Lion' is called a ____.",
+    "options": [
+      "Cub",
+      "Pup",
+      "Calf",
+      "Chick"
+    ],
+    "answer": 0,
+    "explanation": "सिंहाच्या छाव्याला 'Cub' म्हणतात.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2020",
+    "tagText": "घर (Shelter)",
+    "question": "A rabbit lives in a ____.",
+    "options": [
+      "Burrow",
+      "Coop",
+      "Kennel",
+      "Sty"
+    ],
+    "answer": 0,
+    "explanation": "ससा बिळात/खड्ड्यात राहतो त्याला 'Burrow' म्हणतात.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "Concept",
+    "tagText": "आवाज (Sound)",
+    "question": "Frogs ____.",
+    "options": [
+      "Croak",
+      "Quack",
+      "Chirp",
+      "Buzz"
+    ],
+    "answer": 0,
+    "explanation": "बेडूक डरांव-डरांव करतो त्याला 'Croak' म्हणतात.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "IMP",
+    "tagText": "पिल्लू (Young One)",
+    "question": "The baby of a 'Hen' is called a ____.",
+    "options": [
+      "Chick",
+      "Duckling",
+      "Gosling",
+      "Lamb"
+    ],
+    "answer": 0,
+    "explanation": "कोंबडीच्या पिल्लाला 'Chick' म्हणतात.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2019",
+    "tagText": "घर (Shelter)",
+    "question": "A dog lives in a ____.",
+    "options": [
+      "Kennel",
+      "Stable",
+      "Den",
+      "Shed"
+    ],
+    "answer": 0,
+    "explanation": "कुत्र्याच्या घराला 'Kennel' म्हणतात.",
+    "difficulty": "मध्यम",
+    "difficultyEn": "Medium"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "कूटप्रश्न प्राणी जोडी",
+    "question": "Find the CORRECT pair of Animal and its Young One:",
+    "options": [
+      "Deer - Fawn",
+      "Horse - Calf",
+      "Sheep - Kitten",
+      "Duck - Cub"
+    ],
+    "answer": 0,
+    "explanation": "हरणाच्या पाडसाला 'Fawn' म्हणतात, ही अचूक जोडी आहे.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2024",
+    "tagText": "विसंगत जोडी",
+    "question": "Find the ODD pair of Animal and Shelter:",
+    "options": [
+      "Spider - Stable",
+      "Bird - Nest",
+      "Bee - Hive",
+      "Lion - Den"
+    ],
+    "answer": 0,
+    "explanation": "कोळी जाळ्यात (Web) राहतो; 'Spider - Stable' ही चुकीची/विसंगत जोडी आहे.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "HOTS",
+    "tagText": "आवाज कूटप्रश्न",
+    "question": "Match: 'Trumpet' is the sound of which majestic animal?",
+    "options": [
+      "Elephant",
+      "Tiger",
+      "Wolf",
+      "Camel"
+    ],
+    "answer": 0,
+    "explanation": "हत्तीच्या चित्काराला इंग्रजीत 'Trumpet' म्हणतात.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  },
+  {
+    "subject": "इंग्रजी",
+    "type": "PYQ",
+    "pyqYear": "MSCE 2023",
+    "tagText": "कूटप्रश्न पिल्लू",
+    "question": "What is the young one of a 'Frog' called?",
+    "options": [
+      "Tadpole",
+      "Kid",
+      "Joey",
+      "Fry"
+    ],
+    "answer": 0,
+    "explanation": "बेडकाच्या लहान पिल्लाला 'Tadpole' म्हणतात.",
+    "difficulty": "कठीण",
+    "difficultyEn": "Hard"
+  }
+]
