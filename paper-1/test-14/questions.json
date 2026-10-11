@@ -1,0 +1,291 @@
+{
+  "seriesId": "SCHOLARSHIP-C4-P1-14",
+  "classLevel": 4,
+  "paper": 1,
+  "testNumber": 14,
+  "testName": "गणित — भूमिती १: कोन व वर्तुळ (आकृत्यांसह)",
+  "totalQuestions": 20,
+  "totalMarks": 40,
+  "questions": [
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "कोन प्रकार",
+      "question": "खालील आकृतीतील कोनाचा प्रकार ओळखा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"150\" height=\"120\" viewBox=\"0 0 150 120\">\n            <!-- Baseline -->\n            <line x1=\"25\" y1=\"95\" x2=\"135\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <line x1=\"25\" y1=\"95\" x2=\"25\" y2=\"25\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <rect x=\"25\" y=\"75\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <circle cx=\"25\" cy=\"95\" r=\"4\" fill=\"#1e3a8a\"/>\n            <text x=\"135\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">B</text>\n            <text x=\"15\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">A</text>\n            <text x=\"30\" y=\"20\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">C</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">कोन ABC = ९० अंश</span>\n    </div>",
+      "options": [
+        "लघुकोन",
+        "काटकोन",
+        "विशालकोन",
+        "सरळकोन"
+      ],
+      "answer": 1,
+      "explanation": "९० अंशाच्या कोनाला 'काटकोन' म्हणतात."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "कोन प्रकार",
+      "question": "खालील आकृतीत दर्शवलेला कोन कोणता आहे?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"150\" height=\"120\" viewBox=\"0 0 150 120\">\n            <!-- Baseline -->\n            <line x1=\"25\" y1=\"95\" x2=\"135\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <line x1=\"25\" y1=\"95\" x2=\"95\" y2=\"40\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <path d=\"M 50 95 A 25 25 0 0 0 45 78\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <circle cx=\"25\" cy=\"95\" r=\"4\" fill=\"#1e3a8a\"/>\n            <text x=\"135\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">B</text>\n            <text x=\"15\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">A</text>\n            <text x=\"30\" y=\"20\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">C</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">९० अंशापेक्षा लहान कोन</span>\n    </div>",
+      "options": [
+        "लघुकोन",
+        "काटकोन",
+        "विशालकोन",
+        "प्रविशालकोन"
+      ],
+      "answer": 0,
+      "explanation": "९० अंशापेक्षा लहान असलेल्या कोनाला 'लघुकोन' म्हणतात."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "कोन प्रकार",
+      "question": "खालील आकृतीतील कोनाचा प्रकार सांगा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"150\" height=\"120\" viewBox=\"0 0 150 120\">\n            <!-- Baseline -->\n            <line x1=\"25\" y1=\"95\" x2=\"135\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <line x1=\"75\" y1=\"95\" x2=\"20\" y2=\"45\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <path d=\"M 50 95 A 25 25 0 0 1 55 75\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <circle cx=\"25\" cy=\"95\" r=\"4\" fill=\"#1e3a8a\"/>\n            <text x=\"135\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">B</text>\n            <text x=\"15\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">A</text>\n            <text x=\"30\" y=\"20\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">C</text>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-amber-900\">९० अंशापेक्षा मोठा व १८० पेक्षा लहान</span>\n    </div>",
+      "options": [
+        "लघुकोन",
+        "काटकोन",
+        "विशालकोन",
+        "शून्य कोन"
+      ],
+      "answer": 2,
+      "explanation": "९० अंशापेक्षा मोठ्या आणि १८० अंशापेक्षा लहान कोनाला 'विशालकोन' म्हणतात."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "वर्तुळ घटक",
+      "question": "खालील आकृतीचे निरीक्षण करा:\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-indigo-50/50 rounded-xl border border-indigo-200\">\n        <svg width=\"150\" height=\"150\" viewBox=\"0 0 150 150\">\n            <circle cx=\"75\" cy=\"75\" r=\"60\" fill=\"#f8fafc\" stroke=\"#3b82f6\" stroke-width=\"3\"/>\n            <circle cx=\"75\" cy=\"75\" r=\"4\" fill=\"#ef4444\"/>\n            <text x=\"75\" y=\"92\" font-size=\"11\" font-weight=\"bold\" fill=\"#ef4444\" text-anchor=\"middle\">O (केंद्र)</text>\n            <!-- Radius / Diameter -->\n            <line x1=\"75\" y1=\"75\" x2=\"135\" y2=\"75\" stroke=\"#ef4444\" stroke-width=\"2.5\" stroke-dasharray=\"3,3\"/>\n            <text x=\"105\" y=\"68\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">7 सेमी</text>\n            \n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-indigo-900\">वर्तुळ केंद्र O आणि त्रिज्या = 7 सेमी</span>\n    </div>\nवर्तुळाची त्रिज्या ७ सेमी असल्यास, त्याचा व्यास किती सेमी असेल?",
+      "options": [
+        "३.५ सेमी",
+        "७ सेमी",
+        "१४ सेमी",
+        "२१ सेमी"
+      ],
+      "answer": 2,
+      "explanation": "व्यास = २ × त्रिज्या = २ × ७ = १४ सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "Diagram",
+      "tagText": "वर्तुळ घटक",
+      "question": "खालील आकृतीत वर्तुळाचा केंद्रबिंदू कोणता आहे?\n<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-indigo-50/50 rounded-xl border border-indigo-200\">\n        <svg width=\"150\" height=\"150\" viewBox=\"0 0 150 150\">\n            <circle cx=\"75\" cy=\"75\" r=\"60\" fill=\"#f8fafc\" stroke=\"#3b82f6\" stroke-width=\"3\"/>\n            <circle cx=\"75\" cy=\"75\" r=\"4\" fill=\"#ef4444\"/>\n            <text x=\"75\" y=\"92\" font-size=\"11\" font-weight=\"bold\" fill=\"#ef4444\" text-anchor=\"middle\">O (केंद्र)</text>\n            <!-- Radius / Diameter -->\n            <line x1=\"75\" y1=\"75\" x2=\"135\" y2=\"75\" stroke=\"#ef4444\" stroke-width=\"2.5\" stroke-dasharray=\"3,3\"/>\n            <text x=\"105\" y=\"68\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">5 सेमी</text>\n            <line x1=\"15\" y1=\"75\" x2=\"75\" y2=\"75\" stroke=\"#ef4444\" stroke-width=\"2.5\" stroke-dasharray=\"3,3\"/>\n        </svg>\n        <span class=\"mt-1 text-xs font-bold text-indigo-900\">वर्तुळ केंद्र O आणि त्रिज्या = 5 सेमी</span>\n    </div>",
+      "options": [
+        "बिंदू O",
+        "बिंदू A",
+        "बिंदू B",
+        "बिंदू P"
+      ],
+      "answer": 0,
+      "explanation": "आकृतीत स्पष्टपणे मध्यभागी बिंदू O हा केंद्रबिंदू दाखवला आहे."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "वर्तुळ व्याख्या",
+      "question": "वर्तुळाच्या केंद्रातून जाणाऱ्या आणि वर्तुळावरील दोन बिंदूंना जोडणाऱ्या रेषाखंडाला काय म्हणतात?",
+      "options": [
+        "त्रिज्या",
+        "व्यास",
+        "जीवा",
+        "परीघ"
+      ],
+      "answer": 1,
+      "explanation": "केंद्रातून जाणाऱ्या जीवेला वर्तुळाचा 'व्यास' म्हणतात. व्यास ही वर्तुळाची सर्वात मोठी जीवा असते."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "वर्तुळ व्याख्या",
+      "question": "वर्तुळाचा केंद्रबिंदू आणि वर्तुळावरील कोणताही बिंदू यांना जोडणाऱ्या रेषाखंडाला काय म्हणतात?",
+      "options": [
+        "व्यास",
+        "त्रिज्या",
+        "जीवा",
+        "छेदिका"
+      ],
+      "answer": 1,
+      "explanation": "केंद्रबिंदू आणि वर्तुळावरील बिंदू जोडणाऱ्या रेषाखंडाला 'त्रिज्या' म्हणतात."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "वर्तुळ संबंध",
+      "question": "एका वर्तुळाचा व्यास २० सेमी आहे, तर त्याची त्रिज्या किती असेल?",
+      "options": [
+        "५ सेमी",
+        "१० सेमी",
+        "२० सेमी",
+        "४० सेमी"
+      ],
+      "answer": 1,
+      "explanation": "त्रिज्या = व्यास ÷ २ = २० ÷ २ = १० सेमी."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "कोन मापन",
+      "question": "कोन मोजण्यासाठी कोणत्या भूमितीय साधनांचा वापर केला जातो?",
+      "options": [
+        "पट्टी (Ruler)",
+        "कर्कटक (Divider)",
+        "कोनमापक (Protractor)",
+        "गुण्या (Set Square)"
+      ],
+      "answer": 2,
+      "explanation": "कोन अंशात मोजण्यासाठी 'कोनमापक' वापरला जातो."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "कोन",
+      "question": "पुस्तकाच्या लगतच्या दोन कडांमध्ये कोणता कोन तयार होतो?",
+      "options": [
+        "लघुकोन",
+        "काटकोन",
+        "विशालकोन",
+        "सरळकोन"
+      ],
+      "answer": 1,
+      "explanation": "पुस्तकाच्या लगतच्या कडा एकमेकांना लंब असतात, त्यामुळे काटकोन (९० अंश) तयार होतो."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भौमितिक घटक",
+      "question": "ज्या आकृतीला दोन्ही बाजूंनी मर्यादा नसते आणि ती दोन्ही बाजूंनी अमर्याद वाढवता येते, तिला काय म्हणतात?",
+      "options": [
+        "रेषाखंड",
+        "किरण",
+        "रेषा",
+        "बिंदू"
+      ],
+      "answer": 2,
+      "explanation": "दोन्ही दिशांना अमर्याद असणाऱ्या आकृतीला 'रेषा' म्हणतात (रेषाखंडाला दोन अंत्यबिंदू असतात)."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "किरण",
+      "question": "एका बिंदूपासून सुरू होऊन एकाच दिशेने अमर्याद जाणाऱ्या आकृतीला काय म्हणतात?",
+      "options": [
+        "रेषा",
+        "किरण",
+        "रेषाखंड",
+        "कोन"
+      ],
+      "answer": 1,
+      "explanation": "आरंभबिंदूपासून एकाच दिशेने अमर्याद जाणाऱ्या आकृतीला 'किरण' म्हणतात (उदा. सूर्याची किरणे)."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "रेषाखंड",
+      "question": "रेषाखंडाला किती अंत्यबिंदू असतात?",
+      "options": [
+        "०",
+        "१",
+        "२",
+        "असंख्य"
+      ],
+      "answer": 2,
+      "explanation": "रेषाखंडाला निश्चित लांबी आणि २ अंत्यबिंदू असतात."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "वर्तुळ जीवा",
+      "question": "वर्तुळावरील कोणतेही दोन बिंदू जोडणाऱ्या रेषाखंडाला काय म्हणतात?",
+      "options": [
+        "त्रिज्या",
+        "जीवा",
+        "व्यास",
+        "परीघ"
+      ],
+      "answer": 1,
+      "explanation": "वर्तुळावरील कोणतेही दोन बिंदू जोडणाऱ्या रेषाखंडाला 'जीवा' म्हणतात."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "वर्तुळ",
+      "question": "एका वर्तुळात किती त्रिज्या काढता येतात?",
+      "options": [
+        "१",
+        "२",
+        "४",
+        "असंख्य"
+      ],
+      "answer": 3,
+      "explanation": "एका वर्तुळात अनंत (असंख्य) त्रिज्या काढता येतात आणि सर्व त्रिज्यांची लांबी समान असते."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "कोन",
+      "question": "६० अंश मापाचा कोन कोणत्या प्रकारात येतो?",
+      "options": [
+        "लघुकोन",
+        "काटकोन",
+        "विशालकोन",
+        "सरळकोन"
+      ],
+      "answer": 0,
+      "explanation": "६० अंश हा ९० अंशापेक्षा लहान असल्याने तो 'लघुकोन' आहे."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "कोन",
+      "question": "१२० अंश मापाचा कोन कोणत्या प्रकारात येतो?",
+      "options": [
+        "लघुकोन",
+        "काटकोन",
+        "विशालकोन",
+        "सरळकोन"
+      ],
+      "answer": 2,
+      "explanation": "१२० अंश हा ९० पेक्षा मोठा व १८० पेक्षा लहान असल्याने तो 'विशालकोन' आहे."
+    },
+    {
+      "subject": "गणित",
+      "type": "PYQ",
+      "tagText": "वर्तुळ",
+      "question": "वर्तुळाची सर्वात मोठी जीवा कोणती असते?",
+      "options": [
+        "त्रिज्या",
+        "व्यास",
+        "कंस",
+        "परीघ"
+      ],
+      "answer": 1,
+      "explanation": "केंद्रातून जाणारा व्यास ही वर्तुळाची सर्वात मोठी जीवा असते."
+    },
+    {
+      "subject": "गणित",
+      "type": "IMP",
+      "tagText": "भूमिती",
+      "question": "कात्रीच्या दोन पात्यांमध्ये सुरुवातीला कोणता कोन तयार होतो?",
+      "options": [
+        "काटकोन",
+        "लघुकोन",
+        "विशालकोन",
+        "सरळकोन"
+      ],
+      "answer": 1,
+      "explanation": "कात्री उघडताना प्रथम पात्यांमध्ये ९० अंशापेक्षा लहान म्हणजेच लघुकोन तयार होतो."
+    },
+    {
+      "subject": "गणित",
+      "type": "Concept",
+      "tagText": "वर्तुळ",
+      "question": "नाणे, सायकलचे चाक, बांगडी या वस्तूंचा आकार कसा असतो?",
+      "options": [
+        "त्रिकोणी",
+        "चौकोनी",
+        "गोलाकार / वर्तुळाकार",
+        "शंकू"
+      ],
+      "answer": 2,
+      "explanation": "बांगडी, नाणे आणि चाक या सपाट पृष्ठभागावरील वर्तुळाकार वस्तू आहेत."
+    }
+  ]
+}
