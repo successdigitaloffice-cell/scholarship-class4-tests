@@ -6,12 +6,12 @@
     "tagText": "पिल्लू (Young One)",
     "question": "What is the young one of a 'Dog' called?",
     "options": [
-      "Puppy",
-      "Kitten",
       "Calf",
-      "Cub"
+      "Kitten",
+      "Cub",
+      "Puppy"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "कुत्र्याच्या पिल्लाला 'Puppy' म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -22,12 +22,12 @@
     "tagText": "पिल्लू (Young One)",
     "question": "What is the baby of a 'Cat' called?",
     "options": [
-      "Kitten",
+      "Kid",
       "Puppy",
-      "Lamb",
-      "Kid"
+      "Kitten",
+      "Lamb"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "मांजराच्या पिल्लाला 'Kitten' म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -39,9 +39,9 @@
     "question": "Where does a 'Lion' live?",
     "options": [
       "Den",
+      "Shed",
       "Stable",
-      "Kennel",
-      "Shed"
+      "Kennel"
     ],
     "answer": 0,
     "explanation": "सिंह गुहेत राहतो म्हणजेच 'Den'.",
@@ -56,8 +56,8 @@
     "question": "What sound does a 'Cow' make?",
     "options": [
       "Moos",
-      "Barks",
       "Roars",
+      "Barks",
       "Meows"
     ],
     "answer": 0,
@@ -71,12 +71,12 @@
     "tagText": "घर (Shelter)",
     "question": "A horse lives in a ____.",
     "options": [
-      "Stable",
-      "Shed",
       "Sty",
-      "Burrow"
+      "Burrow",
+      "Stable",
+      "Shed"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "घोड्याचा तबेला म्हणजेच 'Stable'.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -87,12 +87,12 @@
     "tagText": "पिल्लू (Young One)",
     "question": "The baby of a 'Cow' is called a ____.",
     "options": [
-      "Calf",
       "Foal",
       "Lamb",
+      "Calf",
       "Cub"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "गायीच्या वासराला 'Calf' म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -104,12 +104,12 @@
     "tagText": "पिल्लू (Young One)",
     "question": "The young one of a 'Sheep' is a ____.",
     "options": [
-      "Lamb",
       "Kid",
-      "Calf",
-      "Colt"
+      "Lamb",
+      "Colt",
+      "Calf"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "मेंढीच्या पिल्लाला 'Lamb' म्हणतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -121,9 +121,9 @@
     "question": "Dogs ____.",
     "options": [
       "Bark",
+      "Bleat",
       "Roar",
-      "Neigh",
-      "Bleat"
+      "Neigh"
     ],
     "answer": 0,
     "explanation": "कुत्रे भुंकतात त्याला 'Bark' म्हणतात.",
@@ -136,12 +136,12 @@
     "tagText": "घर (Shelter)",
     "question": "A bird lives in a ____.",
     "options": [
-      "Nest",
-      "Hole",
+      "Pen",
       "Hive",
-      "Pen"
+      "Hole",
+      "Nest"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "पक्षी घरट्यात राहतो म्हणजेच 'Nest'.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -153,12 +153,12 @@
     "tagText": "घर (Shelter)",
     "question": "Bees live in a ____.",
     "options": [
-      "Hive",
       "Web",
       "Den",
+      "Hive",
       "Burrow"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "मधमाश्या पोळ्यात राहतात म्हणजेच 'Hive'.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -169,12 +169,12 @@
     "tagText": "आवाज (Sound)",
     "question": "What sound does a 'Horse' make?",
     "options": [
-      "Neighs",
-      "Brays",
       "Hisses",
-      "Croaks"
+      "Neighs",
+      "Croaks",
+      "Brays"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "घोडा खिंकाळतो त्याला 'Neighs' म्हणतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -185,12 +185,12 @@
     "tagText": "पिल्लू (Young One)",
     "question": "The young one of a 'Lion' is called a ____.",
     "options": [
+      "Calf",
       "Cub",
       "Pup",
-      "Calf",
       "Chick"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "सिंहाच्या छाव्याला 'Cub' म्हणतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -202,12 +202,12 @@
     "tagText": "घर (Shelter)",
     "question": "A rabbit lives in a ____.",
     "options": [
-      "Burrow",
+      "Sty",
       "Coop",
-      "Kennel",
-      "Sty"
+      "Burrow",
+      "Kennel"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "ससा बिळात/खड्ड्यात राहतो त्याला 'Burrow' म्हणतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -218,12 +218,12 @@
     "tagText": "आवाज (Sound)",
     "question": "Frogs ____.",
     "options": [
-      "Croak",
       "Quack",
-      "Chirp",
-      "Buzz"
+      "Croak",
+      "Buzz",
+      "Chirp"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "बेडूक डरांव-डरांव करतो त्याला 'Croak' म्हणतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -234,12 +234,12 @@
     "tagText": "पिल्लू (Young One)",
     "question": "The baby of a 'Hen' is called a ____.",
     "options": [
-      "Chick",
-      "Duckling",
       "Gosling",
-      "Lamb"
+      "Lamb",
+      "Duckling",
+      "Chick"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "कोंबडीच्या पिल्लाला 'Chick' म्हणतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -251,12 +251,12 @@
     "tagText": "घर (Shelter)",
     "question": "A dog lives in a ____.",
     "options": [
-      "Kennel",
-      "Stable",
       "Den",
-      "Shed"
+      "Shed",
+      "Stable",
+      "Kennel"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "कुत्र्याच्या घराला 'Kennel' म्हणतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -267,12 +267,12 @@
     "tagText": "कूटप्रश्न प्राणी जोडी",
     "question": "Find the CORRECT pair of Animal and its Young One:",
     "options": [
+      "Sheep - Kitten",
       "Deer - Fawn",
       "Horse - Calf",
-      "Sheep - Kitten",
       "Duck - Cub"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "हरणाच्या पाडसाला 'Fawn' म्हणतात, ही अचूक जोडी आहे.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -285,8 +285,8 @@
     "question": "Find the ODD pair of Animal and Shelter:",
     "options": [
       "Spider - Stable",
-      "Bird - Nest",
       "Bee - Hive",
+      "Bird - Nest",
       "Lion - Den"
     ],
     "answer": 0,
@@ -301,9 +301,9 @@
     "question": "Match: 'Trumpet' is the sound of which majestic animal?",
     "options": [
       "Elephant",
-      "Tiger",
       "Wolf",
-      "Camel"
+      "Camel",
+      "Tiger"
     ],
     "answer": 0,
     "explanation": "हत्तीच्या चित्काराला इंग्रजीत 'Trumpet' म्हणतात.",
@@ -317,12 +317,12 @@
     "tagText": "कूटप्रश्न पिल्लू",
     "question": "What is the young one of a 'Frog' called?",
     "options": [
-      "Tadpole",
       "Kid",
+      "Fry",
       "Joey",
-      "Fry"
+      "Tadpole"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "बेडकाच्या लहान पिल्लाला 'Tadpole' म्हणतात.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
