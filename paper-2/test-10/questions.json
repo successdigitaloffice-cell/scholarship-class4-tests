@@ -22,12 +22,12 @@
     "tagText": "Articles",
     "question": "We use '____' before words starting with vowel sound like 'Apple':",
     "options": [
-      "An",
       "A",
       "The",
-      "No article"
+      "No article",
+      "An"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -38,12 +38,12 @@
     "tagText": "Punctuation",
     "question": "Which mark is used at the end of a question?",
     "options": [
-      "Question mark (?)",
       "Full stop (.)",
       "Comma (,)",
+      "Question mark (?)",
       "Exclamation mark (!)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -55,12 +55,12 @@
     "tagText": "Gender",
     "question": "What is the feminine gender of 'Boy'?",
     "options": [
-      "Girl",
-      "Woman",
       "Sister",
-      "Mother"
+      "Mother",
+      "Woman",
+      "Girl"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -72,9 +72,9 @@
     "question": "The cat is sitting ____ the table.",
     "options": [
       "Under",
+      "Among",
       "Into",
-      "Between",
-      "Among"
+      "Between"
     ],
     "answer": 0,
     "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
@@ -87,12 +87,12 @@
     "tagText": "Greetings",
     "question": "What do we say when meeting someone in the morning?",
     "options": [
-      "Good Morning",
-      "Good Night",
       "Good Afternoon",
-      "Good Evening"
+      "Good Evening",
+      "Good Morning",
+      "Good Night"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -104,12 +104,12 @@
     "tagText": "Plural Rules",
     "question": "What is the plural form of 'Child'?",
     "options": [
-      "Children",
-      "Childs",
+      "Childes",
       "Childrens",
-      "Childes"
+      "Children",
+      "Childs"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -120,12 +120,12 @@
     "tagText": "Spelling Rule",
     "question": "Choose the correctly spelt word:",
     "options": [
+      "Beatiful",
       "Beautiful",
       "Beautifull",
-      "Beutiful",
-      "Beatiful"
+      "Beutiful"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -136,12 +136,12 @@
     "tagText": "Pronoun",
     "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
     "options": [
-      "He",
-      "She",
       "It",
-      "They"
+      "He",
+      "They",
+      "She"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -153,12 +153,12 @@
     "tagText": "Action Verb",
     "question": "Birds ____ in the sky.",
     "options": [
-      "Fly",
       "Swim",
       "Run",
+      "Fly",
       "Crawl"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -169,12 +169,12 @@
     "tagText": "Articles",
     "question": "The sun rises in ____ east.",
     "options": [
-      "The",
-      "A",
       "An",
-      "One"
+      "One",
+      "A",
+      "The"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -186,9 +186,9 @@
     "question": "What is the feminine of 'King'?",
     "options": [
       "Queen",
+      "Duchess",
       "Princess",
-      "Lady",
-      "Duchess"
+      "Lady"
     ],
     "answer": 0,
     "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
@@ -202,12 +202,12 @@
     "tagText": "Plural",
     "question": "What is the plural of 'Mango'?",
     "options": [
-      "Mangoes",
       "Mangos",
-      "Mangoies",
-      "Mangi"
+      "Mangi",
+      "Mangoes",
+      "Mangoies"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -218,12 +218,12 @@
     "tagText": "Prepositions",
     "question": "The book is ____ the table.",
     "options": [
-      "On",
       "In",
+      "On",
       "At",
       "To"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -234,12 +234,12 @@
     "tagText": "Punctuation",
     "question": "Identify the exclamation mark:",
     "options": [
+      ".",
       "!",
       "?",
-      ".",
       ","
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -251,12 +251,12 @@
     "tagText": "Spelling",
     "question": "Which word is spelt INCORRECTLY?",
     "options": [
-      "Tommorow",
+      "Yesterday",
       "Tomorrow",
       "Today",
-      "Yesterday"
+      "Tommorow"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -269,8 +269,8 @@
     "options": [
       "Sheep",
       "Fox",
-      "Ox",
-      "Mouse"
+      "Mouse",
+      "Ox"
     ],
     "answer": 0,
     "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
@@ -285,9 +285,9 @@
     "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
     "options": [
       "An Echo",
+      "A Tree",
       "A Cloud",
-      "A Shadow",
-      "A Tree"
+      "A Shadow"
     ],
     "answer": 0,
     "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
@@ -300,12 +300,12 @@
     "tagText": "Proverb / म्हण",
     "question": "Complete the proverb: 'Practice makes a man ____.'",
     "options": [
-      "Perfect",
-      "Great",
       "Rich",
-      "Strong"
+      "Perfect",
+      "Strong",
+      "Great"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -317,12 +317,12 @@
     "tagText": "कथा आकलन",
     "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
     "options": [
-      "Tortoise",
       "Hare",
+      "Wolf",
       "Fox",
-      "Wolf"
+      "Tortoise"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
