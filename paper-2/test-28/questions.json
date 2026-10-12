@@ -6,12 +6,12 @@
     "tagText": "Opposites",
     "question": "What is the opposite of 'Come'?",
     "options": [
-      "Go",
-      "Run",
       "Walk",
+      "Run",
+      "Go",
       "Stop"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -22,12 +22,12 @@
     "tagText": "Articles",
     "question": "He saw ____ elephant in the zoo.",
     "options": [
-      "An",
-      "A",
       "The",
+      "A",
+      "An",
       "No article"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -38,12 +38,12 @@
     "tagText": "Singular-Plural",
     "question": "What is the plural of 'Tree'?",
     "options": [
-      "Trees",
       "Treees",
       "Tries",
-      "Treing"
+      "Treing",
+      "Trees"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Tree चे अनेकवचन 'Trees' होते.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -55,12 +55,12 @@
     "tagText": "विसंगत घटक",
     "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
     "options": [
-      "सायकल",
-      "पेन",
       "पेन्सिल",
-      "वही"
+      "पेन",
+      "वही",
+      "सायकल"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -71,12 +71,12 @@
     "tagText": "समसंबंध",
     "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
     "options": [
-      "करडू",
-      "पाडस",
       "छावा",
+      "पाडस",
+      "करडू",
       "पिल्लू"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -87,12 +87,12 @@
     "tagText": "संख्या क्रम",
     "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
     "options": [
-      "५०",
       "६०",
-      "४५",
-      "५५"
+      "५०",
+      "५५",
+      "४५"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "१० चा पाढा: ४० + १० = ५०.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -105,9 +105,9 @@
     "question": "What is missing: 'Where are you going'?",
     "options": [
       "Question mark (?)",
-      "Full stop (.)",
       "Comma (,)",
-      "Hyphen (-)"
+      "Hyphen (-)",
+      "Full stop (.)"
     ],
     "answer": 0,
     "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
@@ -120,12 +120,12 @@
     "tagText": "Gender",
     "question": "What is the opposite gender of 'Tiger'?",
     "options": [
-      "Tigress",
       "Lioness",
+      "Tigress",
       "Cow",
       "Mare"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -137,9 +137,9 @@
     "question": "Fish ____ in water.",
     "options": [
       "Swim",
-      "Fly",
+      "Run",
       "Walk",
-      "Run"
+      "Fly"
     ],
     "answer": 0,
     "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
@@ -153,12 +153,12 @@
     "tagText": "Rhyming Word",
     "question": "Which word rhymes with 'Cat'?",
     "options": [
-      "Bat",
       "Dog",
+      "Bat",
       "Cow",
       "Pen"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -169,12 +169,12 @@
     "tagText": "Preposition",
     "question": "The apple is ____ the basket.",
     "options": [
-      "In",
-      "On",
+      "To",
       "At",
-      "To"
+      "In",
+      "On"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -186,12 +186,12 @@
     "tagText": "सांकेतिक भाषा",
     "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
     "options": [
-      "214",
       "241",
-      "124",
-      "412"
+      "214",
+      "412",
+      "124"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "B=2, A=1, D=4 -> 214.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -202,12 +202,12 @@
     "tagText": "संख्या समसंबंध",
     "question": "३ : ९ :: ६ : ____?",
     "options": [
-      "३६",
-      "१८",
       "१२",
-      "३०"
+      "१८",
+      "३०",
+      "३६"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -218,12 +218,12 @@
     "tagText": "अक्षर क्रम",
     "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
     "options": [
-      "V",
       "U",
+      "V",
       "T",
       "S"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -236,9 +236,9 @@
     "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
     "options": [
       "उत्तर दिशा",
+      "वायव्य दिशा",
       "दक्षिण दिशा",
-      "पूर्व दिशा",
-      "वायव्य दिशा"
+      "पूर्व दिशा"
     ],
     "answer": 0,
     "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
@@ -251,12 +251,12 @@
     "tagText": "आरशातील प्रतिमा",
     "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
     "options": [
-      "८",
-      "४",
       "५",
-      "७"
+      "७",
+      "४",
+      "८"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -267,12 +267,12 @@
     "tagText": "Plural कूटप्रश्न",
     "question": "What is the plural form of 'Tooth'?",
     "options": [
-      "Teeth",
-      "Tooths",
+      "Teethes",
       "Toothes",
-      "Teethes"
+      "Teeth",
+      "Tooths"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -285,8 +285,8 @@
     "question": "Complete: 'Slow and steady wins the ____.'",
     "options": [
       "Race",
-      "Game",
       "Match",
+      "Game",
       "Prize"
     ],
     "answer": 0,
@@ -301,9 +301,9 @@
     "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
     "options": [
       "२१ मुले",
-      "२२ मुले",
+      "२० मुले",
       "२३ मुले",
-      "२० मुले"
+      "२२ मुले"
     ],
     "answer": 0,
     "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
@@ -317,12 +317,12 @@
     "tagText": "वय कूटप्रश्न",
     "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
     "options": [
-      "३० वर्षे",
-      "२५ वर्षे",
       "३५ वर्षे",
-      "४० वर्षे"
+      "२५ वर्षे",
+      "४० वर्षे",
+      "३० वर्षे"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
