@@ -6,12 +6,12 @@
     "tagText": "Opposites",
     "question": "What is the opposite of 'Come'?",
     "options": [
-      "Go",
-      "Run",
       "Walk",
-      "Stop"
+      "Stop",
+      "Run",
+      "Go"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -38,12 +38,12 @@
     "tagText": "Singular-Plural",
     "question": "What is the plural of 'Tree'?",
     "options": [
-      "Trees",
       "Treees",
-      "Tries",
-      "Treing"
+      "Treing",
+      "Trees",
+      "Tries"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Tree चे अनेकवचन 'Trees' होते.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -55,12 +55,12 @@
     "tagText": "विसंगत घटक",
     "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
     "options": [
-      "सायकल",
-      "पेन",
       "पेन्सिल",
+      "पेन",
+      "सायकल",
       "वही"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -71,12 +71,12 @@
     "tagText": "समसंबंध",
     "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
     "options": [
-      "करडू",
       "पाडस",
+      "करडू",
       "छावा",
       "पिल्लू"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -87,12 +87,12 @@
     "tagText": "संख्या क्रम",
     "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
     "options": [
+      "५५",
       "५०",
-      "६०",
       "४५",
-      "५५"
+      "६०"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "१० चा पाढा: ४० + १० = ५०.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -104,12 +104,12 @@
     "tagText": "Punctuation",
     "question": "What is missing: 'Where are you going'?",
     "options": [
-      "Question mark (?)",
-      "Full stop (.)",
+      "Hyphen (-)",
       "Comma (,)",
-      "Hyphen (-)"
+      "Full stop (.)",
+      "Question mark (?)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -122,8 +122,8 @@
     "options": [
       "Tigress",
       "Lioness",
-      "Cow",
-      "Mare"
+      "Mare",
+      "Cow"
     ],
     "answer": 0,
     "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
@@ -136,12 +136,12 @@
     "tagText": "Action Word",
     "question": "Fish ____ in water.",
     "options": [
+      "Walk",
       "Swim",
       "Fly",
-      "Walk",
       "Run"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -153,12 +153,12 @@
     "tagText": "Rhyming Word",
     "question": "Which word rhymes with 'Cat'?",
     "options": [
-      "Bat",
       "Dog",
       "Cow",
-      "Pen"
+      "Pen",
+      "Bat"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -169,12 +169,12 @@
     "tagText": "Preposition",
     "question": "The apple is ____ the basket.",
     "options": [
-      "In",
-      "On",
+      "To",
       "At",
-      "To"
+      "In",
+      "On"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -186,12 +186,12 @@
     "tagText": "सांकेतिक भाषा",
     "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
     "options": [
+      "124",
       "214",
       "241",
-      "124",
       "412"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "B=2, A=1, D=4 -> 214.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -203,9 +203,9 @@
     "question": "३ : ९ :: ६ : ____?",
     "options": [
       "३६",
-      "१८",
       "१२",
-      "३०"
+      "३०",
+      "१८"
     ],
     "answer": 0,
     "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
@@ -218,12 +218,12 @@
     "tagText": "अक्षर क्रम",
     "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
     "options": [
-      "V",
-      "U",
+      "S",
       "T",
-      "S"
+      "U",
+      "V"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -235,12 +235,12 @@
     "tagText": "दिशाज्ञान",
     "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
     "options": [
-      "उत्तर दिशा",
       "दक्षिण दिशा",
       "पूर्व दिशा",
+      "उत्तर दिशा",
       "वायव्य दिशा"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -251,12 +251,12 @@
     "tagText": "आरशातील प्रतिमा",
     "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
     "options": [
-      "८",
-      "४",
       "५",
-      "७"
+      "८",
+      "७",
+      "४"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -285,9 +285,9 @@
     "question": "Complete: 'Slow and steady wins the ____.'",
     "options": [
       "Race",
+      "Prize",
       "Game",
-      "Match",
-      "Prize"
+      "Match"
     ],
     "answer": 0,
     "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
@@ -300,12 +300,12 @@
     "tagText": "रांगेतील कूटप्रश्न",
     "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
     "options": [
-      "२१ मुले",
+      "२० मुले",
       "२२ मुले",
-      "२३ मुले",
-      "२० मुले"
+      "२१ मुले",
+      "२३ मुले"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -317,12 +317,12 @@
     "tagText": "वय कूटप्रश्न",
     "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
     "options": [
-      "३० वर्षे",
       "२५ वर्षे",
+      "४० वर्षे",
       "३५ वर्षे",
-      "४० वर्षे"
+      "३० वर्षे"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
