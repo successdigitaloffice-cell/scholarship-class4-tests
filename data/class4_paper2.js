@@ -8,12 +8,12 @@ window.class4Paper2Data = {
       "tagText": "वर्णानुक्रम",
       "question": "Arrange in alphabetical order: Apple, Cat, Ball, Dog",
       "options": [
-        "Apple, Ball, Cat, Dog",
-        "Ball, Apple, Cat, Dog",
         "Dog, Cat, Ball, Apple",
-        "Apple, Cat, Ball, Dog"
+        "Apple, Cat, Ball, Dog",
+        "Apple, Ball, Cat, Dog",
+        "Ball, Apple, Cat, Dog"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "A -> B -> C -> D हा वर्णानुक्रम आहे: Apple, Ball, Cat, Dog.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -24,12 +24,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षरमाला",
       "question": "Which letter comes immediately after 'M' in the English alphabet?",
       "options": [
+        "P",
         "N",
-        "L",
         "O",
-        "P"
+        "L"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "M नंतर लगेच N हे अक्षर येते (L, M, N, O).",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -40,12 +40,12 @@ window.class4Paper2Data = {
       "tagText": "स्वर (Vowels)",
       "question": "How many vowels are there in the English alphabet?",
       "options": [
+        "26",
         "5",
-        "7",
         "21",
-        "26"
+        "7"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "इंग्रजी वर्णमालेत A, E, I, O, U हे एकूण ५ स्वर (Vowels) आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -57,12 +57,12 @@ window.class4Paper2Data = {
       "tagText": "शब्द निर्मिती",
       "question": "Which meaningful word can be formed from letters: 'E, N, P'?",
       "options": [
-        "PEN",
-        "NEP",
+        "PNE",
         "EPN",
-        "PNE"
+        "NEP",
+        "PEN"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "P-E-N या अक्षरांपासून 'PEN' (पेन) हा अर्थपूर्ण शब्द तयार होतो.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -73,12 +73,12 @@ window.class4Paper2Data = {
       "tagText": "व्यंजने (Consonants)",
       "question": "Which of the following letters is a vowel?",
       "options": [
-        "E",
         "B",
-        "C",
-        "D"
+        "E",
+        "D",
+        "C"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'E' हा स्वर (Vowel) आहे, बाकी सर्व व्यंजने आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -89,12 +89,12 @@ window.class4Paper2Data = {
       "tagText": "पहिला शब्द",
       "question": "Which word comes first in a dictionary?",
       "options": [
-        "Ant",
         "Bat",
-        "Cow",
-        "Dog"
+        "Ant",
+        "Dog",
+        "Cow"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Ant' हा शब्द 'A' ने सुरू होत असल्याने शब्दकोशात सर्वात प्रथम येईल.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -106,12 +106,12 @@ window.class4Paper2Data = {
       "tagText": "वर्णानुक्रम",
       "question": "Arrange: Sun, Star, Sky, Sea in alphabetical order.",
       "options": [
-        "Sea, Sky, Star, Sun",
         "Sky, Sea, Star, Sun",
+        "Sun, Star, Sky, Sea",
         "Sea, Star, Sky, Sun",
-        "Sun, Star, Sky, Sea"
+        "Sea, Sky, Star, Sun"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दुसरे व तिसरे अक्षर पाहून: Sea (Se) -> Sky (Sk) -> Star (St) -> Sun (Su).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -122,12 +122,12 @@ window.class4Paper2Data = {
       "tagText": "गहाळ अक्षर",
       "question": "Complete the word: M _ N G O",
       "options": [
-        "A",
-        "E",
         "I",
+        "E",
+        "A",
         "U"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "M-A-N-G-O (Mango = आंबा). गहाळ अक्षर 'A' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -139,8 +139,8 @@ window.class4Paper2Data = {
       "question": "Which word CANNOT be formed using the letters of 'TEACHER'?",
       "options": [
         "CHAIR",
-        "TEA",
         "CAT",
+        "TEA",
         "HEAT"
       ],
       "answer": 0,
@@ -155,12 +155,12 @@ window.class4Paper2Data = {
       "tagText": "वर्णानुक्रम",
       "question": "Which word comes LAST in alphabetical order: Fish, Frog, Fan, Fox?",
       "options": [
-        "Frog",
         "Fox",
-        "Fish",
-        "Fan"
+        "Fan",
+        "Frog",
+        "Fish"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "वर्णानुक्रम: Fan -> Fish -> Fox -> Frog. सर्वात शेवटी 'Frog' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -187,12 +187,12 @@ window.class4Paper2Data = {
       "tagText": "अर्थपूर्ण शब्द",
       "question": "Unscramble: 'K O O B' to make a meaningful word.",
       "options": [
-        "BOOK",
-        "BOOO",
         "KOOB",
-        "OKOB"
+        "BOOK",
+        "OKOB",
+        "BOOO"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "B-O-O-K = BOOK (पुस्तक).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -204,12 +204,12 @@ window.class4Paper2Data = {
       "tagText": "मध्यम अक्षर",
       "question": "Which letter is exactly in the middle between 'C' and 'G'?",
       "options": [
-        "E",
         "D",
         "F",
-        "H"
+        "H",
+        "E"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "C, D, E, F, G -> मध्यभागी 'E' हे अक्षर येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -221,8 +221,8 @@ window.class4Paper2Data = {
       "question": "How many vowels are in the word 'BEAUTIFUL'?",
       "options": [
         "5",
-        "4",
         "3",
+        "4",
         "6"
       ],
       "answer": 0,
@@ -236,12 +236,12 @@ window.class4Paper2Data = {
       "tagText": "गहाळ अक्षर",
       "question": "Complete: S C H _ _ L",
       "options": [
-        "O O",
-        "O L",
         "U L",
-        "A L"
+        "A L",
+        "O O",
+        "O L"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "S-C-H-O-O-L (School = शाळा).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -253,12 +253,12 @@ window.class4Paper2Data = {
       "tagText": "वर्णानुक्रम",
       "question": "Which word comes in the second position: Mango, Orange, Banana, Apple?",
       "options": [
-        "Banana",
+        "Orange",
         "Apple",
         "Mango",
-        "Orange"
+        "Banana"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "क्रम: Apple (१) -> Banana (२) -> Mango (३) -> Orange (४).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -269,12 +269,12 @@ window.class4Paper2Data = {
       "tagText": "कूटप्रश्न वर्णमाला",
       "question": "If each letter is numbered (A=1, B=2, C=3...), what is the sum of letters in 'CAT'?",
       "options": [
-        "24",
-        "22",
+        "26",
         "20",
-        "26"
+        "22",
+        "24"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "C=3, A=1, T=20 -> 3 + 1 + 20 = 24.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -287,9 +287,9 @@ window.class4Paper2Data = {
       "question": "Which letter added at the end of both 'PIN' and 'CAP' makes new meaningful words?",
       "options": [
         "E (PINE, CAPE)",
-        "T",
         "S",
-        "Y"
+        "Y",
+        "T"
       ],
       "answer": 0,
       "explanation": "PIN + E = PINE, CAP + E = CAPE. दोन्ही अर्थपूर्ण शब्द बनतात.",
@@ -303,9 +303,9 @@ window.class4Paper2Data = {
       "question": "Change the first letter of 'LIGHT' to make a word that means 'जड नसलेला' (Opposite of Heavy)?",
       "options": [
         "LIGHT (Self-meaning)",
+        "SIGHT",
         "NIGHT",
-        "RIGHT",
-        "SIGHT"
+        "RIGHT"
       ],
       "answer": 0,
       "explanation": "'LIGHT' या शब्दाचाच अर्थ 'हलका' (हवेसारखा, जड नसलेला) होतो.",
@@ -319,12 +319,12 @@ window.class4Paper2Data = {
       "tagText": "शब्द निर्मिती",
       "question": "Find the hidden animal name inside 'ELEPHANT' by taking the last 3 letters:",
       "options": [
-        "ANT",
-        "PAN",
         "HAT",
-        "NET"
+        "NET",
+        "ANT",
+        "PAN"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "ELEPH-ANT -> शेवटचे तीन अक्षरे 'ANT' (मुंगी) हा प्राणी/कीटक दर्शवतात.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -338,12 +338,12 @@ window.class4Paper2Data = {
       "tagText": "पिल्लू (Young One)",
       "question": "What is the young one of a 'Dog' called?",
       "options": [
-        "Puppy",
-        "Kitten",
         "Calf",
-        "Cub"
+        "Kitten",
+        "Cub",
+        "Puppy"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "कुत्र्याच्या पिल्लाला 'Puppy' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -354,12 +354,12 @@ window.class4Paper2Data = {
       "tagText": "पिल्लू (Young One)",
       "question": "What is the baby of a 'Cat' called?",
       "options": [
-        "Kitten",
+        "Kid",
         "Puppy",
-        "Lamb",
-        "Kid"
+        "Kitten",
+        "Lamb"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "मांजराच्या पिल्लाला 'Kitten' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -371,9 +371,9 @@ window.class4Paper2Data = {
       "question": "Where does a 'Lion' live?",
       "options": [
         "Den",
+        "Shed",
         "Stable",
-        "Kennel",
-        "Shed"
+        "Kennel"
       ],
       "answer": 0,
       "explanation": "सिंह गुहेत राहतो म्हणजेच 'Den'.",
@@ -388,8 +388,8 @@ window.class4Paper2Data = {
       "question": "What sound does a 'Cow' make?",
       "options": [
         "Moos",
-        "Barks",
         "Roars",
+        "Barks",
         "Meows"
       ],
       "answer": 0,
@@ -403,12 +403,12 @@ window.class4Paper2Data = {
       "tagText": "घर (Shelter)",
       "question": "A horse lives in a ____.",
       "options": [
-        "Stable",
-        "Shed",
         "Sty",
-        "Burrow"
+        "Burrow",
+        "Stable",
+        "Shed"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "घोड्याचा तबेला म्हणजेच 'Stable'.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -419,12 +419,12 @@ window.class4Paper2Data = {
       "tagText": "पिल्लू (Young One)",
       "question": "The baby of a 'Cow' is called a ____.",
       "options": [
-        "Calf",
         "Foal",
         "Lamb",
+        "Calf",
         "Cub"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "गायीच्या वासराला 'Calf' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -436,12 +436,12 @@ window.class4Paper2Data = {
       "tagText": "पिल्लू (Young One)",
       "question": "The young one of a 'Sheep' is a ____.",
       "options": [
-        "Lamb",
         "Kid",
-        "Calf",
-        "Colt"
+        "Lamb",
+        "Colt",
+        "Calf"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "मेंढीच्या पिल्लाला 'Lamb' म्हणतात.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -453,9 +453,9 @@ window.class4Paper2Data = {
       "question": "Dogs ____.",
       "options": [
         "Bark",
+        "Bleat",
         "Roar",
-        "Neigh",
-        "Bleat"
+        "Neigh"
       ],
       "answer": 0,
       "explanation": "कुत्रे भुंकतात त्याला 'Bark' म्हणतात.",
@@ -468,12 +468,12 @@ window.class4Paper2Data = {
       "tagText": "घर (Shelter)",
       "question": "A bird lives in a ____.",
       "options": [
-        "Nest",
-        "Hole",
+        "Pen",
         "Hive",
-        "Pen"
+        "Hole",
+        "Nest"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "पक्षी घरट्यात राहतो म्हणजेच 'Nest'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -485,12 +485,12 @@ window.class4Paper2Data = {
       "tagText": "घर (Shelter)",
       "question": "Bees live in a ____.",
       "options": [
-        "Hive",
         "Web",
         "Den",
+        "Hive",
         "Burrow"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "मधमाश्या पोळ्यात राहतात म्हणजेच 'Hive'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -501,12 +501,12 @@ window.class4Paper2Data = {
       "tagText": "आवाज (Sound)",
       "question": "What sound does a 'Horse' make?",
       "options": [
-        "Neighs",
-        "Brays",
         "Hisses",
-        "Croaks"
+        "Neighs",
+        "Croaks",
+        "Brays"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "घोडा खिंकाळतो त्याला 'Neighs' म्हणतात.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -517,12 +517,12 @@ window.class4Paper2Data = {
       "tagText": "पिल्लू (Young One)",
       "question": "The young one of a 'Lion' is called a ____.",
       "options": [
+        "Calf",
         "Cub",
         "Pup",
-        "Calf",
         "Chick"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "सिंहाच्या छाव्याला 'Cub' म्हणतात.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -534,12 +534,12 @@ window.class4Paper2Data = {
       "tagText": "घर (Shelter)",
       "question": "A rabbit lives in a ____.",
       "options": [
-        "Burrow",
+        "Sty",
         "Coop",
-        "Kennel",
-        "Sty"
+        "Burrow",
+        "Kennel"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "ससा बिळात/खड्ड्यात राहतो त्याला 'Burrow' म्हणतात.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -550,12 +550,12 @@ window.class4Paper2Data = {
       "tagText": "आवाज (Sound)",
       "question": "Frogs ____.",
       "options": [
-        "Croak",
         "Quack",
-        "Chirp",
-        "Buzz"
+        "Croak",
+        "Buzz",
+        "Chirp"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "बेडूक डरांव-डरांव करतो त्याला 'Croak' म्हणतात.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -566,12 +566,12 @@ window.class4Paper2Data = {
       "tagText": "पिल्लू (Young One)",
       "question": "The baby of a 'Hen' is called a ____.",
       "options": [
-        "Chick",
-        "Duckling",
         "Gosling",
-        "Lamb"
+        "Lamb",
+        "Duckling",
+        "Chick"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "कोंबडीच्या पिल्लाला 'Chick' म्हणतात.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -583,12 +583,12 @@ window.class4Paper2Data = {
       "tagText": "घर (Shelter)",
       "question": "A dog lives in a ____.",
       "options": [
-        "Kennel",
-        "Stable",
         "Den",
-        "Shed"
+        "Shed",
+        "Stable",
+        "Kennel"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "कुत्र्याच्या घराला 'Kennel' म्हणतात.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -599,12 +599,12 @@ window.class4Paper2Data = {
       "tagText": "कूटप्रश्न प्राणी जोडी",
       "question": "Find the CORRECT pair of Animal and its Young One:",
       "options": [
+        "Sheep - Kitten",
         "Deer - Fawn",
         "Horse - Calf",
-        "Sheep - Kitten",
         "Duck - Cub"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "हरणाच्या पाडसाला 'Fawn' म्हणतात, ही अचूक जोडी आहे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -617,8 +617,8 @@ window.class4Paper2Data = {
       "question": "Find the ODD pair of Animal and Shelter:",
       "options": [
         "Spider - Stable",
-        "Bird - Nest",
         "Bee - Hive",
+        "Bird - Nest",
         "Lion - Den"
       ],
       "answer": 0,
@@ -633,9 +633,9 @@ window.class4Paper2Data = {
       "question": "Match: 'Trumpet' is the sound of which majestic animal?",
       "options": [
         "Elephant",
-        "Tiger",
         "Wolf",
-        "Camel"
+        "Camel",
+        "Tiger"
       ],
       "answer": 0,
       "explanation": "हत्तीच्या चित्काराला इंग्रजीत 'Trumpet' म्हणतात.",
@@ -649,12 +649,12 @@ window.class4Paper2Data = {
       "tagText": "कूटप्रश्न पिल्लू",
       "question": "What is the young one of a 'Frog' called?",
       "options": [
-        "Tadpole",
         "Kid",
+        "Fry",
         "Joey",
-        "Fry"
+        "Tadpole"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "बेडकाच्या लहान पिल्लाला 'Tadpole' म्हणतात.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -670,8 +670,8 @@ window.class4Paper2Data = {
       "options": [
         "Small",
         "Large",
-        "Huge",
-        "Tall"
+        "Tall",
+        "Huge"
       ],
       "answer": 0,
       "explanation": "Big (मोठा) चा विरुद्धार्थी शब्द Small (लहान) आहे.",
@@ -684,12 +684,12 @@ window.class4Paper2Data = {
       "tagText": "विरुद्धार्थी (Opposite)",
       "question": "What is the opposite of 'Hot'?",
       "options": [
-        "Cold",
-        "Warm",
+        "Dry",
         "Cool",
-        "Dry"
+        "Warm",
+        "Cold"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Hot (गरम) चा विरुद्धार्थी शब्द Cold (थंड) आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -700,12 +700,12 @@ window.class4Paper2Data = {
       "tagText": "समानार्थी (Synonym)",
       "question": "What is the synonym of 'Happy'?",
       "options": [
+        "Angry",
         "Joyful",
         "Sad",
-        "Angry",
         "Tired"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Happy चा समानार्थी शब्द Joyful (आनंदी) आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -717,12 +717,12 @@ window.class4Paper2Data = {
       "tagText": "विरुद्धार्थी (Opposite)",
       "question": "The opposite of 'Fast' is ____.",
       "options": [
-        "Slow",
         "Quick",
         "Speedy",
+        "Slow",
         "Early"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Fast (जलद) चा विरुद्धार्थी शब्द Slow (हळू) आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -733,12 +733,12 @@ window.class4Paper2Data = {
       "tagText": "विरुद्धार्थी (Opposite)",
       "question": "What is the opposite of 'Good'?",
       "options": [
-        "Bad",
         "Fine",
+        "Best",
         "Nice",
-        "Best"
+        "Bad"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Good (चांगला) चा विरुद्धार्थी शब्द Bad (वाईट) आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -749,12 +749,12 @@ window.class4Paper2Data = {
       "tagText": "समानार्थी (Synonym)",
       "question": "What is the synonym of 'Beautiful'?",
       "options": [
+        "Dark",
         "Pretty",
         "Ugly",
-        "Dark",
         "Dirty"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Beautiful चा समानार्थी शब्द Pretty (सुंदर) आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -766,12 +766,12 @@ window.class4Paper2Data = {
       "tagText": "विरुद्धार्थी (Opposite)",
       "question": "The opposite of 'Clean' is ____.",
       "options": [
-        "Dirty",
         "Neat",
         "Fresh",
-        "Pure"
+        "Pure",
+        "Dirty"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Clean (स्वच्छ) चा विरुद्धार्थी शब्द Dirty (घाणेरडा) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -782,12 +782,12 @@ window.class4Paper2Data = {
       "tagText": "समानार्थी (Synonym)",
       "question": "What is the synonym of 'Start'?",
       "options": [
-        "Begin",
         "Stop",
         "End",
+        "Begin",
         "Finish"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Start चा समानार्थी शब्द Begin (सुरू करणे) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -798,12 +798,12 @@ window.class4Paper2Data = {
       "tagText": "विरुद्धार्थी (Opposite)",
       "question": "What is the opposite of 'Rich'?",
       "options": [
-        "Poor",
-        "Wealthy",
         "Kind",
+        "Wealthy",
+        "Poor",
         "Strong"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Rich (श्रीमंत) चा विरुद्धार्थी शब्द Poor (गरीब) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -815,12 +815,12 @@ window.class4Paper2Data = {
       "tagText": "विरुद्धार्थी (Opposite)",
       "question": "The opposite of 'Day' is ____.",
       "options": [
-        "Night",
         "Evening",
+        "Night",
         "Morning",
         "Afternoon"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Day चा विरुद्धार्थी शब्द Night आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -832,9 +832,9 @@ window.class4Paper2Data = {
       "question": "What is the synonym of 'Small'?",
       "options": [
         "Little",
+        "Giant",
         "Huge",
-        "Big",
-        "Giant"
+        "Big"
       ],
       "answer": 0,
       "explanation": "Small चा समानार्थी शब्द Little आहे.",
@@ -864,12 +864,12 @@ window.class4Paper2Data = {
       "tagText": "समानार्थी (Synonym)",
       "question": "What is the synonym of 'Gift'?",
       "options": [
-        "Present",
-        "Box",
         "Toy",
+        "Box",
+        "Present",
         "Prize"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Gift चा समानार्थी शब्द Present (भेटवस्तू) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -880,12 +880,12 @@ window.class4Paper2Data = {
       "tagText": "विरुद्धार्थी (Opposite)",
       "question": "The opposite of 'True' is ____.",
       "options": [
-        "False",
-        "Right",
         "Correct",
-        "Real"
+        "Right",
+        "Real",
+        "False"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "True चा विरुद्धार्थी शब्द False (खोटे) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -897,9 +897,9 @@ window.class4Paper2Data = {
       "question": "What is the opposite of 'Up'?",
       "options": [
         "Down",
-        "Above",
         "Over",
-        "Top"
+        "Top",
+        "Above"
       ],
       "answer": 0,
       "explanation": "Up (वर) चा विरुद्धार्थी शब्द Down (खाली) आहे.",
@@ -914,9 +914,9 @@ window.class4Paper2Data = {
       "question": "What is the synonym of 'Difficult'?",
       "options": [
         "Hard",
+        "Soft",
         "Easy",
-        "Simple",
-        "Soft"
+        "Simple"
       ],
       "answer": 0,
       "explanation": "Difficult चा समानार्थी शब्द Hard (कठीण) आहे.",
@@ -929,12 +929,12 @@ window.class4Paper2Data = {
       "tagText": "विरुद्धार्थी उपसर्ग",
       "question": "Which prefix can be added to 'HAPPY' to make its opposite?",
       "options": [
-        "Un- (Unhappy)",
         "Dis-",
         "In-",
-        "Mis-"
+        "Mis-",
+        "Un- (Unhappy)"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'Un' हा उपसर्ग जोडून Unhappy (दुःखी) हा विरुद्धार्थी शब्द बनतो.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -946,12 +946,12 @@ window.class4Paper2Data = {
       "tagText": "जोडी शोधणे",
       "question": "Find the INCORRECT pair of Opposites:",
       "options": [
-        "Wise - Intelligent",
-        "Near - Far",
+        "Open - Close",
         "Hard - Soft",
-        "Open - Close"
+        "Wise - Intelligent",
+        "Near - Far"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Wise आणि Intelligent हे समानार्थी आहेत, विरुद्धार्थी नाहीत.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -962,12 +962,12 @@ window.class4Paper2Data = {
       "tagText": "समानार्थी कूटप्रश्न",
       "question": "Find the word which means both 'A season' and 'To jump':",
       "options": [
-        "Spring",
         "Fall",
-        "Summer",
-        "Winter"
+        "Spring",
+        "Winter",
+        "Summer"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Spring' चा अर्थ 'वसंत ऋतू' आणि 'उडी मारणे' असा दोन्ही होतो.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -979,12 +979,12 @@ window.class4Paper2Data = {
       "tagText": "विरुद्धार्थी वाक्य",
       "question": "Complete the sentence with opposite of the underlined word: 'The box is HEAVY, but the feather is ____.'",
       "options": [
+        "Thin",
         "Light",
-        "Soft",
         "Small",
-        "Thin"
+        "Soft"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Heavy चा योग्य विरुद्धार्थी शब्द Light (हलके) आहे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -998,12 +998,12 @@ window.class4Paper2Data = {
       "tagText": "मूलभूत संकल्पना",
       "question": "In topic 'Spelling Rules & Punctuation', what is the correct plural of 'Book'?",
       "options": [
-        "Books",
-        "Bookes",
+        "Boking",
         "Bookies",
-        "Boking"
+        "Books",
+        "Bookes"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Book चे अनेकवचन 'Books' होते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1014,12 +1014,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "We use '____' before words starting with vowel sound like 'Apple':",
       "options": [
-        "An",
         "A",
+        "No article",
         "The",
-        "No article"
+        "An"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1030,12 +1030,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "Which mark is used at the end of a question?",
       "options": [
-        "Question mark (?)",
-        "Full stop (.)",
         "Comma (,)",
+        "Full stop (.)",
+        "Question mark (?)",
         "Exclamation mark (!)"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1049,8 +1049,8 @@ window.class4Paper2Data = {
       "options": [
         "Girl",
         "Woman",
-        "Sister",
-        "Mother"
+        "Mother",
+        "Sister"
       ],
       "answer": 0,
       "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
@@ -1063,12 +1063,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The cat is sitting ____ the table.",
       "options": [
+        "Between",
         "Under",
         "Into",
-        "Between",
         "Among"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1079,12 +1079,12 @@ window.class4Paper2Data = {
       "tagText": "Greetings",
       "question": "What do we say when meeting someone in the morning?",
       "options": [
-        "Good Morning",
-        "Good Night",
         "Good Afternoon",
-        "Good Evening"
+        "Good Morning",
+        "Good Evening",
+        "Good Night"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1112,12 +1112,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling Rule",
       "question": "Choose the correctly spelt word:",
       "options": [
-        "Beautiful",
         "Beautifull",
+        "Beatiful",
         "Beutiful",
-        "Beatiful"
+        "Beautiful"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1128,12 +1128,12 @@ window.class4Paper2Data = {
       "tagText": "Pronoun",
       "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
       "options": [
+        "They",
         "He",
         "She",
-        "It",
-        "They"
+        "It"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1145,12 +1145,12 @@ window.class4Paper2Data = {
       "tagText": "Action Verb",
       "question": "Birds ____ in the sky.",
       "options": [
+        "Run",
         "Fly",
         "Swim",
-        "Run",
         "Crawl"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1161,12 +1161,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "The sun rises in ____ east.",
       "options": [
-        "The",
-        "A",
         "An",
-        "One"
+        "One",
+        "A",
+        "The"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1178,9 +1178,9 @@ window.class4Paper2Data = {
       "question": "What is the feminine of 'King'?",
       "options": [
         "Queen",
-        "Princess",
         "Lady",
-        "Duchess"
+        "Duchess",
+        "Princess"
       ],
       "answer": 0,
       "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
@@ -1194,12 +1194,12 @@ window.class4Paper2Data = {
       "tagText": "Plural",
       "question": "What is the plural of 'Mango'?",
       "options": [
-        "Mangoes",
-        "Mangos",
+        "Mangi",
         "Mangoies",
-        "Mangi"
+        "Mangos",
+        "Mangoes"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1210,12 +1210,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The book is ____ the table.",
       "options": [
-        "On",
         "In",
         "At",
+        "On",
         "To"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1227,9 +1227,9 @@ window.class4Paper2Data = {
       "question": "Identify the exclamation mark:",
       "options": [
         "!",
+        ",",
         "?",
-        ".",
-        ","
+        "."
       ],
       "answer": 0,
       "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
@@ -1244,8 +1244,8 @@ window.class4Paper2Data = {
       "question": "Which word is spelt INCORRECTLY?",
       "options": [
         "Tommorow",
-        "Tomorrow",
         "Today",
+        "Tomorrow",
         "Yesterday"
       ],
       "answer": 0,
@@ -1259,12 +1259,12 @@ window.class4Paper2Data = {
       "tagText": "Plural कूटप्रश्न",
       "question": "Which of the following words has the SAME form in both singular and plural?",
       "options": [
-        "Sheep",
-        "Fox",
         "Ox",
+        "Fox",
+        "Sheep",
         "Mouse"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -1276,12 +1276,12 @@ window.class4Paper2Data = {
       "tagText": "Riddle / कोडे",
       "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
       "options": [
-        "An Echo",
-        "A Cloud",
         "A Shadow",
-        "A Tree"
+        "A Cloud",
+        "A Tree",
+        "An Echo"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -1292,12 +1292,12 @@ window.class4Paper2Data = {
       "tagText": "Proverb / म्हण",
       "question": "Complete the proverb: 'Practice makes a man ____.'",
       "options": [
-        "Perfect",
-        "Great",
+        "Strong",
         "Rich",
-        "Strong"
+        "Perfect",
+        "Great"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -1309,12 +1309,12 @@ window.class4Paper2Data = {
       "tagText": "कथा आकलन",
       "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
       "options": [
-        "Tortoise",
         "Hare",
+        "Tortoise",
         "Fox",
         "Wolf"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -1328,12 +1328,12 @@ window.class4Paper2Data = {
       "tagText": "मूलभूत संकल्पना",
       "question": "In topic 'Nouns, Singular-Plural & Gender', what is the correct plural of 'Book'?",
       "options": [
-        "Books",
-        "Bookes",
+        "Boking",
         "Bookies",
-        "Boking"
+        "Bookes",
+        "Books"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Book चे अनेकवचन 'Books' होते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1345,8 +1345,8 @@ window.class4Paper2Data = {
       "question": "We use '____' before words starting with vowel sound like 'Apple':",
       "options": [
         "An",
-        "A",
         "The",
+        "A",
         "No article"
       ],
       "answer": 0,
@@ -1360,12 +1360,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "Which mark is used at the end of a question?",
       "options": [
-        "Question mark (?)",
         "Full stop (.)",
-        "Comma (,)",
-        "Exclamation mark (!)"
+        "Exclamation mark (!)",
+        "Question mark (?)",
+        "Comma (,)"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1377,12 +1377,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the feminine gender of 'Boy'?",
       "options": [
-        "Girl",
         "Woman",
-        "Sister",
-        "Mother"
+        "Mother",
+        "Girl",
+        "Sister"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1393,12 +1393,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The cat is sitting ____ the table.",
       "options": [
+        "Between",
         "Under",
         "Into",
-        "Between",
         "Among"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1409,12 +1409,12 @@ window.class4Paper2Data = {
       "tagText": "Greetings",
       "question": "What do we say when meeting someone in the morning?",
       "options": [
-        "Good Morning",
         "Good Night",
+        "Good Evening",
         "Good Afternoon",
-        "Good Evening"
+        "Good Morning"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1426,12 +1426,12 @@ window.class4Paper2Data = {
       "tagText": "Plural Rules",
       "question": "What is the plural form of 'Child'?",
       "options": [
-        "Children",
         "Childs",
+        "Children",
         "Childrens",
         "Childes"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1442,12 +1442,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling Rule",
       "question": "Choose the correctly spelt word:",
       "options": [
-        "Beautiful",
-        "Beautifull",
         "Beutiful",
-        "Beatiful"
+        "Beautiful",
+        "Beatiful",
+        "Beautifull"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1459,9 +1459,9 @@ window.class4Paper2Data = {
       "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
       "options": [
         "He",
+        "They",
         "She",
-        "It",
-        "They"
+        "It"
       ],
       "answer": 0,
       "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
@@ -1476,9 +1476,9 @@ window.class4Paper2Data = {
       "question": "Birds ____ in the sky.",
       "options": [
         "Fly",
-        "Swim",
+        "Crawl",
         "Run",
-        "Crawl"
+        "Swim"
       ],
       "answer": 0,
       "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
@@ -1491,12 +1491,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "The sun rises in ____ east.",
       "options": [
-        "The",
-        "A",
         "An",
-        "One"
+        "One",
+        "A",
+        "The"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1508,9 +1508,9 @@ window.class4Paper2Data = {
       "question": "What is the feminine of 'King'?",
       "options": [
         "Queen",
-        "Princess",
+        "Duchess",
         "Lady",
-        "Duchess"
+        "Princess"
       ],
       "answer": 0,
       "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
@@ -1524,12 +1524,12 @@ window.class4Paper2Data = {
       "tagText": "Plural",
       "question": "What is the plural of 'Mango'?",
       "options": [
-        "Mangoes",
-        "Mangos",
+        "Mangi",
         "Mangoies",
-        "Mangi"
+        "Mangoes",
+        "Mangos"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1540,12 +1540,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The book is ____ the table.",
       "options": [
-        "On",
         "In",
+        "On",
         "At",
         "To"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1556,12 +1556,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "Identify the exclamation mark:",
       "options": [
-        "!",
-        "?",
         ".",
+        "?",
+        "!",
         ","
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1573,12 +1573,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling",
       "question": "Which word is spelt INCORRECTLY?",
       "options": [
-        "Tommorow",
         "Tomorrow",
+        "Tommorow",
         "Today",
         "Yesterday"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1590,9 +1590,9 @@ window.class4Paper2Data = {
       "question": "Which of the following words has the SAME form in both singular and plural?",
       "options": [
         "Sheep",
-        "Fox",
         "Ox",
-        "Mouse"
+        "Mouse",
+        "Fox"
       ],
       "answer": 0,
       "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
@@ -1606,12 +1606,12 @@ window.class4Paper2Data = {
       "tagText": "Riddle / कोडे",
       "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
       "options": [
-        "An Echo",
         "A Cloud",
         "A Shadow",
+        "An Echo",
         "A Tree"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -1622,12 +1622,12 @@ window.class4Paper2Data = {
       "tagText": "Proverb / म्हण",
       "question": "Complete the proverb: 'Practice makes a man ____.'",
       "options": [
-        "Perfect",
-        "Great",
+        "Strong",
         "Rich",
-        "Strong"
+        "Great",
+        "Perfect"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -1639,12 +1639,12 @@ window.class4Paper2Data = {
       "tagText": "कथा आकलन",
       "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
       "options": [
-        "Tortoise",
         "Hare",
         "Fox",
-        "Wolf"
+        "Wolf",
+        "Tortoise"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -1658,12 +1658,12 @@ window.class4Paper2Data = {
       "tagText": "मूलभूत संकल्पना",
       "question": "In topic 'Articles ('A', 'An', 'The') & Prepositions', what is the correct plural of 'Book'?",
       "options": [
-        "Books",
+        "Boking",
         "Bookes",
-        "Bookies",
-        "Boking"
+        "Books",
+        "Bookies"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Book चे अनेकवचन 'Books' होते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1674,12 +1674,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "We use '____' before words starting with vowel sound like 'Apple':",
       "options": [
-        "An",
         "A",
-        "The",
-        "No article"
+        "No article",
+        "An",
+        "The"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1690,12 +1690,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "Which mark is used at the end of a question?",
       "options": [
-        "Question mark (?)",
         "Full stop (.)",
+        "Exclamation mark (!)",
         "Comma (,)",
-        "Exclamation mark (!)"
+        "Question mark (?)"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1707,12 +1707,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the feminine gender of 'Boy'?",
       "options": [
-        "Girl",
-        "Woman",
         "Sister",
-        "Mother"
+        "Mother",
+        "Woman",
+        "Girl"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1723,12 +1723,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The cat is sitting ____ the table.",
       "options": [
-        "Under",
-        "Into",
         "Between",
-        "Among"
+        "Under",
+        "Among",
+        "Into"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1739,12 +1739,12 @@ window.class4Paper2Data = {
       "tagText": "Greetings",
       "question": "What do we say when meeting someone in the morning?",
       "options": [
+        "Good Afternoon",
         "Good Morning",
         "Good Night",
-        "Good Afternoon",
         "Good Evening"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -1757,9 +1757,9 @@ window.class4Paper2Data = {
       "question": "What is the plural form of 'Child'?",
       "options": [
         "Children",
-        "Childs",
+        "Childes",
         "Childrens",
-        "Childes"
+        "Childs"
       ],
       "answer": 0,
       "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
@@ -1772,12 +1772,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling Rule",
       "question": "Choose the correctly spelt word:",
       "options": [
+        "Beutiful",
         "Beautiful",
         "Beautifull",
-        "Beutiful",
         "Beatiful"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1788,12 +1788,12 @@ window.class4Paper2Data = {
       "tagText": "Pronoun",
       "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
       "options": [
-        "He",
-        "She",
         "It",
-        "They"
+        "She",
+        "They",
+        "He"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1806,8 +1806,8 @@ window.class4Paper2Data = {
       "question": "Birds ____ in the sky.",
       "options": [
         "Fly",
-        "Swim",
         "Run",
+        "Swim",
         "Crawl"
       ],
       "answer": 0,
@@ -1821,12 +1821,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "The sun rises in ____ east.",
       "options": [
-        "The",
         "A",
+        "The",
         "An",
         "One"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1837,12 +1837,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the feminine of 'King'?",
       "options": [
-        "Queen",
-        "Princess",
+        "Duchess",
         "Lady",
-        "Duchess"
+        "Queen",
+        "Princess"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1854,12 +1854,12 @@ window.class4Paper2Data = {
       "tagText": "Plural",
       "question": "What is the plural of 'Mango'?",
       "options": [
-        "Mangoes",
-        "Mangos",
         "Mangoies",
-        "Mangi"
+        "Mangi",
+        "Mangoes",
+        "Mangos"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1870,12 +1870,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The book is ____ the table.",
       "options": [
-        "On",
-        "In",
         "At",
-        "To"
+        "To",
+        "In",
+        "On"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1903,12 +1903,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling",
       "question": "Which word is spelt INCORRECTLY?",
       "options": [
+        "Today",
         "Tommorow",
         "Tomorrow",
-        "Today",
         "Yesterday"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -1919,12 +1919,12 @@ window.class4Paper2Data = {
       "tagText": "Plural कूटप्रश्न",
       "question": "Which of the following words has the SAME form in both singular and plural?",
       "options": [
-        "Sheep",
+        "Mouse",
         "Fox",
-        "Ox",
-        "Mouse"
+        "Sheep",
+        "Ox"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -1953,9 +1953,9 @@ window.class4Paper2Data = {
       "question": "Complete the proverb: 'Practice makes a man ____.'",
       "options": [
         "Perfect",
+        "Strong",
         "Great",
-        "Rich",
-        "Strong"
+        "Rich"
       ],
       "answer": 0,
       "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
@@ -1969,12 +1969,12 @@ window.class4Paper2Data = {
       "tagText": "कथा आकलन",
       "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
       "options": [
-        "Tortoise",
+        "Wolf",
         "Hare",
         "Fox",
-        "Wolf"
+        "Tortoise"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -1988,12 +1988,12 @@ window.class4Paper2Data = {
       "tagText": "मूलभूत संकल्पना",
       "question": "In topic 'Pronouns & Action Verbs', what is the correct plural of 'Book'?",
       "options": [
-        "Books",
-        "Bookes",
         "Bookies",
+        "Bookes",
+        "Books",
         "Boking"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Book चे अनेकवचन 'Books' होते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2004,12 +2004,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "We use '____' before words starting with vowel sound like 'Apple':",
       "options": [
-        "An",
-        "A",
         "The",
-        "No article"
+        "No article",
+        "A",
+        "An"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2020,12 +2020,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "Which mark is used at the end of a question?",
       "options": [
-        "Question mark (?)",
         "Full stop (.)",
+        "Question mark (?)",
         "Comma (,)",
         "Exclamation mark (!)"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2053,12 +2053,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The cat is sitting ____ the table.",
       "options": [
-        "Under",
-        "Into",
         "Between",
-        "Among"
+        "Into",
+        "Among",
+        "Under"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2069,12 +2069,12 @@ window.class4Paper2Data = {
       "tagText": "Greetings",
       "question": "What do we say when meeting someone in the morning?",
       "options": [
-        "Good Morning",
         "Good Night",
-        "Good Afternoon",
-        "Good Evening"
+        "Good Evening",
+        "Good Morning",
+        "Good Afternoon"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2086,12 +2086,12 @@ window.class4Paper2Data = {
       "tagText": "Plural Rules",
       "question": "What is the plural form of 'Child'?",
       "options": [
-        "Children",
+        "Childes",
         "Childs",
-        "Childrens",
-        "Childes"
+        "Children",
+        "Childrens"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2103,9 +2103,9 @@ window.class4Paper2Data = {
       "question": "Choose the correctly spelt word:",
       "options": [
         "Beautiful",
-        "Beautifull",
+        "Beatiful",
         "Beutiful",
-        "Beatiful"
+        "Beautifull"
       ],
       "answer": 0,
       "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
@@ -2118,12 +2118,12 @@ window.class4Paper2Data = {
       "tagText": "Pronoun",
       "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
       "options": [
-        "He",
         "She",
+        "He",
         "It",
         "They"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2135,12 +2135,12 @@ window.class4Paper2Data = {
       "tagText": "Action Verb",
       "question": "Birds ____ in the sky.",
       "options": [
-        "Fly",
+        "Crawl",
         "Swim",
         "Run",
-        "Crawl"
+        "Fly"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2151,12 +2151,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "The sun rises in ____ east.",
       "options": [
-        "The",
-        "A",
         "An",
-        "One"
+        "The",
+        "One",
+        "A"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2167,12 +2167,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the feminine of 'King'?",
       "options": [
-        "Queen",
         "Princess",
-        "Lady",
-        "Duchess"
+        "Duchess",
+        "Queen",
+        "Lady"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2185,8 +2185,8 @@ window.class4Paper2Data = {
       "question": "What is the plural of 'Mango'?",
       "options": [
         "Mangoes",
-        "Mangos",
         "Mangoies",
+        "Mangos",
         "Mangi"
       ],
       "answer": 0,
@@ -2200,12 +2200,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The book is ____ the table.",
       "options": [
-        "On",
-        "In",
         "At",
-        "To"
+        "In",
+        "To",
+        "On"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2217,9 +2217,9 @@ window.class4Paper2Data = {
       "question": "Identify the exclamation mark:",
       "options": [
         "!",
+        ",",
         "?",
-        ".",
-        ","
+        "."
       ],
       "answer": 0,
       "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
@@ -2233,12 +2233,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling",
       "question": "Which word is spelt INCORRECTLY?",
       "options": [
+        "Today",
         "Tommorow",
         "Tomorrow",
-        "Today",
         "Yesterday"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2249,12 +2249,12 @@ window.class4Paper2Data = {
       "tagText": "Plural कूटप्रश्न",
       "question": "Which of the following words has the SAME form in both singular and plural?",
       "options": [
+        "Mouse",
         "Sheep",
-        "Fox",
         "Ox",
-        "Mouse"
+        "Fox"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -2266,12 +2266,12 @@ window.class4Paper2Data = {
       "tagText": "Riddle / कोडे",
       "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
       "options": [
-        "An Echo",
         "A Cloud",
         "A Shadow",
+        "An Echo",
         "A Tree"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -2282,12 +2282,12 @@ window.class4Paper2Data = {
       "tagText": "Proverb / म्हण",
       "question": "Complete the proverb: 'Practice makes a man ____.'",
       "options": [
-        "Perfect",
+        "Strong",
         "Great",
         "Rich",
-        "Strong"
+        "Perfect"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -2301,8 +2301,8 @@ window.class4Paper2Data = {
       "options": [
         "Tortoise",
         "Hare",
-        "Fox",
-        "Wolf"
+        "Wolf",
+        "Fox"
       ],
       "answer": 0,
       "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
@@ -2319,12 +2319,12 @@ window.class4Paper2Data = {
       "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
       "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 1.** What is the name of Raju's dog in the story?",
       "options": [
-        "Bruno",
         "Tommy",
-        "Max",
-        "Rocky"
+        "Bruno",
+        "Rocky",
+        "Max"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "The passage states in the first sentence: 'Raju has a lovely dog named Bruno.'",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2336,12 +2336,12 @@ window.class4Paper2Data = {
       "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
       "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 2.** What did Raju drop in the tall grass in the park?",
       "options": [
-        "His small red school badge",
         "His water bottle",
+        "His sports ball",
         "His pencil box",
-        "His sports ball"
+        "His small red school badge"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Raju dropped his small red school badge in the tall grass.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2354,9 +2354,9 @@ window.class4Paper2Data = {
       "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 3.** What is the meaning of 'FAITHFUL' in the story?",
       "options": [
         "Loyal and trustworthy (प्रामाणिक व विश्वासू)",
-        "Angry and cruel",
+        "Afraid of darkness",
         "Lazy and sleepy",
-        "Afraid of darkness"
+        "Angry and cruel"
       ],
       "answer": 0,
       "explanation": "Faithful means loyal, devoted, and dependable (विश्वासू / एकनिष्ठ).",
@@ -2370,12 +2370,12 @@ window.class4Paper2Data = {
       "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
       "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 4.** How did Bruno find the lost red badge?",
       "options": [
-        "He sniffed the grass and searched carefully",
         "He ran away to his home",
         "He called other street dogs",
+        "He sniffed the grass and searched carefully",
         "He barked at the birds"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Bruno sniffed the grass and searched everywhere until he gently picked up the badge.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2388,12 +2388,12 @@ window.class4Paper2Data = {
       "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
       "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 5.** Which is the best title for this story?",
       "options": [
-        "Bruno, the Clever and Faithful Friend",
-        "How to Lose a School Badge",
         "The Rainy Evening in Park",
-        "Buying New Slippers"
+        "Buying New Slippers",
+        "Bruno, the Clever and Faithful Friend",
+        "How to Lose a School Badge"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "The story highlights Bruno's loyalty and cleverness in helping Raju.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2406,12 +2406,12 @@ window.class4Paper2Data = {
       "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
       "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 6.** What were the little seeds doing down in the ground?",
       "options": [
+        "Running on the road",
         "Resting without making a sound",
-        "Flying high in the sky",
         "Singing loudly",
-        "Running on the road"
+        "Flying high in the sky"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "The poem says: 'Little seeds down in the ground, Resting without making a sound.'",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2423,12 +2423,12 @@ window.class4Paper2Data = {
       "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
       "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 7.** Find the rhyming pair from the poem: 'sky' rhymes with:",
       "options": [
-        "by (sky - by)",
+        "wings",
         "ground",
         "sweet",
-        "wings"
+        "by (sky - by)"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "In the poem: 'sky' rhymes with 'by', and 'make' rhymes with 'wake'.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2440,12 +2440,12 @@ window.class4Paper2Data = {
       "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
       "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 8.** What colours of flowers are mentioned in the poem?",
       "options": [
-        "Red and yellow flowers",
-        "Blue and black flowers",
+        "Silver and golden flowers",
         "Only white flowers",
-        "Silver and golden flowers"
+        "Red and yellow flowers",
+        "Blue and black flowers"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "The poem mentions: 'Red and yellow flowers sweet'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2457,12 +2457,12 @@ window.class4Paper2Data = {
       "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
       "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 9.** Which bird is heard singing in the garden?",
       "options": [
+        "Owl",
         "Robin",
         "Crow",
-        "Eagle",
-        "Owl"
+        "Eagle"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "The poem concludes with: 'Hear how the little robin sings!'",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2474,12 +2474,12 @@ window.class4Paper2Data = {
       "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
       "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 10.** What helps the little seed to wake up and grow into a plant?",
       "options": [
-        "Warm sunshine and gentle raindrops",
-        "Cold snow and freezing ice",
         "Smoke and dust",
-        "Dark night with no water"
+        "Warm sunshine and gentle raindrops",
+        "Dark night with no water",
+        "Cold snow and freezing ice"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Seeds need warm sunshine and gentle raindrops to sprout.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2493,9 +2493,9 @@ window.class4Paper2Data = {
       "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 11.** Where do honeybees live together in a big colony?",
       "options": [
         "Inside a hive",
-        "Under the deep water",
+        "In a birds' nest",
         "In a spider web",
-        "In a birds' nest"
+        "Under the deep water"
       ],
       "answer": 0,
       "explanation": "The passage states: 'Honeybees live together in a big hive called a colony.'",
@@ -2510,9 +2510,9 @@ window.class4Paper2Data = {
       "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 12.** What do honeybees collect from blossoms to make honey?",
       "options": [
         "Sweet nectar and pollen",
-        "Dry soil and sand",
         "Raindrops and ice",
-        "Grass and twigs"
+        "Grass and twigs",
+        "Dry soil and sand"
       ],
       "answer": 0,
       "explanation": "Honeybees collect sweet nectar and golden pollen from blossoms.",
@@ -2526,12 +2526,12 @@ window.class4Paper2Data = {
       "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
       "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 13.** According to the passage, how does honey help human health?",
       "options": [
-        "It gives instant energy and heals a sore throat",
-        "It makes people sleepy and weak",
         "It causes bad toothache",
-        "It has no taste at all"
+        "It makes people sleepy and weak",
+        "It has no taste at all",
+        "It gives instant energy and heals a sore throat"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "The passage mentions honey gives instant energy and heals a sore throat.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2544,9 +2544,9 @@ window.class4Paper2Data = {
       "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 14.** What is the antonym of 'SWEET' in the passage?",
       "options": [
         "Bitter",
-        "Tasty",
         "Delicious",
-        "Fresh"
+        "Fresh",
+        "Tasty"
       ],
       "answer": 0,
       "explanation": "The opposite of sweet (गोड) is bitter (कडू).",
@@ -2560,12 +2560,12 @@ window.class4Paper2Data = {
       "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
       "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 15.** What important value can students learn from worker honeybees?",
       "options": [
-        "Hard work and teamwork (कष्ट आणि एकजूट)",
         "Quarrelling with friends",
         "Wasting precious time",
-        "Sleeping all day long"
+        "Sleeping all day long",
+        "Hard work and teamwork (कष्ट आणि एकजूट)"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Worker honeybees teach us the value of hard work, discipline, and teamwork.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2578,12 +2578,12 @@ window.class4Paper2Data = {
       "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
       "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 16.** What game do Aman and Meera plan to play during lunch break?",
       "options": [
-        "Badminton",
-        "Cricket",
         "Football",
-        "Chess"
+        "Chess",
+        "Cricket",
+        "Badminton"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Meera says: 'Let's play a game of badminton before the school bell rings!'",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2595,12 +2595,12 @@ window.class4Paper2Data = {
       "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
       "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 17.** Why did Aman want to clear the court before starting the game?",
       "options": [
-        "So nobody slips on the dry leaves",
-        "Because the teacher told him to punish Meera",
         "To build a mud house",
-        "To find a hidden treasure"
+        "To find a hidden treasure",
+        "So nobody slips on the dry leaves",
+        "Because the teacher told him to punish Meera"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Aman wanted to clear the dry leaves so that nobody slips and gets hurt.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -2612,12 +2612,12 @@ window.class4Paper2Data = {
       "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
       "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 18.** According to Meera, what does true sportsmanship mean?",
       "options": [
-        "Keeping everyone safe and having fun together",
         "Winning at any cost even by cheating",
-        "Fighting with opponents",
-        "Breaking sports equipment"
+        "Keeping everyone safe and having fun together",
+        "Breaking sports equipment",
+        "Fighting with opponents"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Meera says: 'True sportsmanship means keeping everyone safe and having fun together!'",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -2629,12 +2629,12 @@ window.class4Paper2Data = {
       "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
       "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 19.** When Aman greeted Meera, which friendly greeting did he use?",
       "options": [
-        "Hello Meera!",
-        "Goodbye Meera!",
+        "Hurry up!",
         "Go away Meera!",
-        "Hurry up!"
+        "Hello Meera!",
+        "Goodbye Meera!"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Aman started the conversation with: 'Hello Meera!'.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -2647,9 +2647,9 @@ window.class4Paper2Data = {
       "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 20.** What is Aman's belief about winning or losing in a game?",
       "options": [
         "It doesn't matter as long as we play with honesty and joy",
+        "Nobody should ever play any games",
         "Winning is the only thing that matters in life",
-        "Losing players should be punished",
-        "Nobody should ever play any games"
+        "Losing players should be punished"
       ],
       "answer": 0,
       "explanation": "Aman says: 'Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.'",
@@ -2681,12 +2681,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "We use '____' before words starting with vowel sound like 'Apple':",
       "options": [
+        "No article",
         "An",
         "A",
-        "The",
-        "No article"
+        "The"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2697,12 +2697,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "Which mark is used at the end of a question?",
       "options": [
-        "Question mark (?)",
-        "Full stop (.)",
         "Comma (,)",
-        "Exclamation mark (!)"
+        "Full stop (.)",
+        "Exclamation mark (!)",
+        "Question mark (?)"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2714,12 +2714,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the feminine gender of 'Boy'?",
       "options": [
-        "Girl",
+        "Mother",
         "Woman",
         "Sister",
-        "Mother"
+        "Girl"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2730,12 +2730,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The cat is sitting ____ the table.",
       "options": [
+        "Between",
         "Under",
         "Into",
-        "Between",
         "Among"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2746,12 +2746,12 @@ window.class4Paper2Data = {
       "tagText": "Greetings",
       "question": "What do we say when meeting someone in the morning?",
       "options": [
-        "Good Morning",
-        "Good Night",
         "Good Afternoon",
-        "Good Evening"
+        "Good Evening",
+        "Good Morning",
+        "Good Night"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -2763,12 +2763,12 @@ window.class4Paper2Data = {
       "tagText": "Plural Rules",
       "question": "What is the plural form of 'Child'?",
       "options": [
-        "Children",
-        "Childs",
         "Childrens",
-        "Childes"
+        "Childes",
+        "Children",
+        "Childs"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2779,12 +2779,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling Rule",
       "question": "Choose the correctly spelt word:",
       "options": [
-        "Beautiful",
         "Beautifull",
         "Beutiful",
-        "Beatiful"
+        "Beatiful",
+        "Beautiful"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2795,12 +2795,12 @@ window.class4Paper2Data = {
       "tagText": "Pronoun",
       "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
       "options": [
-        "He",
+        "They",
         "She",
-        "It",
-        "They"
+        "He",
+        "It"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2829,9 +2829,9 @@ window.class4Paper2Data = {
       "question": "The sun rises in ____ east.",
       "options": [
         "The",
-        "A",
         "An",
-        "One"
+        "One",
+        "A"
       ],
       "answer": 0,
       "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
@@ -2844,12 +2844,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the feminine of 'King'?",
       "options": [
-        "Queen",
-        "Princess",
         "Lady",
-        "Duchess"
+        "Queen",
+        "Duchess",
+        "Princess"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2862,8 +2862,8 @@ window.class4Paper2Data = {
       "question": "What is the plural of 'Mango'?",
       "options": [
         "Mangoes",
-        "Mangos",
         "Mangoies",
+        "Mangos",
         "Mangi"
       ],
       "answer": 0,
@@ -2877,12 +2877,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The book is ____ the table.",
       "options": [
-        "On",
         "In",
-        "At",
-        "To"
+        "On",
+        "To",
+        "At"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2893,12 +2893,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "Identify the exclamation mark:",
       "options": [
-        "!",
-        "?",
         ".",
+        "?",
+        "!",
         ","
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2910,12 +2910,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling",
       "question": "Which word is spelt INCORRECTLY?",
       "options": [
-        "Tommorow",
         "Tomorrow",
         "Today",
-        "Yesterday"
+        "Yesterday",
+        "Tommorow"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -2926,12 +2926,12 @@ window.class4Paper2Data = {
       "tagText": "Plural कूटप्रश्न",
       "question": "Which of the following words has the SAME form in both singular and plural?",
       "options": [
-        "Sheep",
-        "Fox",
+        "Mouse",
         "Ox",
-        "Mouse"
+        "Sheep",
+        "Fox"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -2943,12 +2943,12 @@ window.class4Paper2Data = {
       "tagText": "Riddle / कोडे",
       "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
       "options": [
-        "An Echo",
-        "A Cloud",
+        "A Tree",
         "A Shadow",
-        "A Tree"
+        "A Cloud",
+        "An Echo"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -2960,9 +2960,9 @@ window.class4Paper2Data = {
       "question": "Complete the proverb: 'Practice makes a man ____.'",
       "options": [
         "Perfect",
+        "Strong",
         "Great",
-        "Rich",
-        "Strong"
+        "Rich"
       ],
       "answer": 0,
       "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
@@ -2976,12 +2976,12 @@ window.class4Paper2Data = {
       "tagText": "कथा आकलन",
       "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
       "options": [
-        "Tortoise",
         "Hare",
-        "Fox",
-        "Wolf"
+        "Tortoise",
+        "Wolf",
+        "Fox"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3011,12 +3011,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "We use '____' before words starting with vowel sound like 'Apple':",
       "options": [
-        "An",
         "A",
         "The",
-        "No article"
+        "No article",
+        "An"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3027,12 +3027,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "Which mark is used at the end of a question?",
       "options": [
-        "Question mark (?)",
         "Full stop (.)",
         "Comma (,)",
+        "Question mark (?)",
         "Exclamation mark (!)"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3044,12 +3044,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the feminine gender of 'Boy'?",
       "options": [
-        "Girl",
-        "Woman",
         "Sister",
-        "Mother"
+        "Mother",
+        "Woman",
+        "Girl"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3061,9 +3061,9 @@ window.class4Paper2Data = {
       "question": "The cat is sitting ____ the table.",
       "options": [
         "Under",
+        "Among",
         "Into",
-        "Between",
-        "Among"
+        "Between"
       ],
       "answer": 0,
       "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
@@ -3076,12 +3076,12 @@ window.class4Paper2Data = {
       "tagText": "Greetings",
       "question": "What do we say when meeting someone in the morning?",
       "options": [
-        "Good Morning",
-        "Good Night",
         "Good Afternoon",
-        "Good Evening"
+        "Good Evening",
+        "Good Morning",
+        "Good Night"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3093,12 +3093,12 @@ window.class4Paper2Data = {
       "tagText": "Plural Rules",
       "question": "What is the plural form of 'Child'?",
       "options": [
-        "Children",
-        "Childs",
+        "Childes",
         "Childrens",
-        "Childes"
+        "Children",
+        "Childs"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3109,12 +3109,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling Rule",
       "question": "Choose the correctly spelt word:",
       "options": [
+        "Beatiful",
         "Beautiful",
         "Beautifull",
-        "Beutiful",
-        "Beatiful"
+        "Beutiful"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3125,12 +3125,12 @@ window.class4Paper2Data = {
       "tagText": "Pronoun",
       "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
       "options": [
-        "He",
-        "She",
         "It",
-        "They"
+        "He",
+        "They",
+        "She"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3142,12 +3142,12 @@ window.class4Paper2Data = {
       "tagText": "Action Verb",
       "question": "Birds ____ in the sky.",
       "options": [
-        "Fly",
         "Swim",
         "Run",
+        "Fly",
         "Crawl"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3158,12 +3158,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "The sun rises in ____ east.",
       "options": [
-        "The",
-        "A",
         "An",
-        "One"
+        "One",
+        "A",
+        "The"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3175,9 +3175,9 @@ window.class4Paper2Data = {
       "question": "What is the feminine of 'King'?",
       "options": [
         "Queen",
+        "Duchess",
         "Princess",
-        "Lady",
-        "Duchess"
+        "Lady"
       ],
       "answer": 0,
       "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
@@ -3191,12 +3191,12 @@ window.class4Paper2Data = {
       "tagText": "Plural",
       "question": "What is the plural of 'Mango'?",
       "options": [
-        "Mangoes",
         "Mangos",
-        "Mangoies",
-        "Mangi"
+        "Mangi",
+        "Mangoes",
+        "Mangoies"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3207,12 +3207,12 @@ window.class4Paper2Data = {
       "tagText": "Prepositions",
       "question": "The book is ____ the table.",
       "options": [
-        "On",
         "In",
+        "On",
         "At",
         "To"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3223,12 +3223,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "Identify the exclamation mark:",
       "options": [
+        ".",
         "!",
         "?",
-        ".",
         ","
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3240,12 +3240,12 @@ window.class4Paper2Data = {
       "tagText": "Spelling",
       "question": "Which word is spelt INCORRECTLY?",
       "options": [
-        "Tommorow",
+        "Yesterday",
         "Tomorrow",
         "Today",
-        "Yesterday"
+        "Tommorow"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3258,8 +3258,8 @@ window.class4Paper2Data = {
       "options": [
         "Sheep",
         "Fox",
-        "Ox",
-        "Mouse"
+        "Mouse",
+        "Ox"
       ],
       "answer": 0,
       "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
@@ -3274,9 +3274,9 @@ window.class4Paper2Data = {
       "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
       "options": [
         "An Echo",
+        "A Tree",
         "A Cloud",
-        "A Shadow",
-        "A Tree"
+        "A Shadow"
       ],
       "answer": 0,
       "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
@@ -3289,12 +3289,12 @@ window.class4Paper2Data = {
       "tagText": "Proverb / म्हण",
       "question": "Complete the proverb: 'Practice makes a man ____.'",
       "options": [
-        "Perfect",
-        "Great",
         "Rich",
-        "Strong"
+        "Perfect",
+        "Strong",
+        "Great"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3306,12 +3306,12 @@ window.class4Paper2Data = {
       "tagText": "कथा आकलन",
       "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
       "options": [
-        "Tortoise",
         "Hare",
+        "Wolf",
         "Fox",
-        "Wolf"
+        "Tortoise"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3325,12 +3325,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
-        "ख",
         "घ",
-        "क"
+        "क",
+        "ख",
+        "ग"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3341,12 +3341,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
-        "६",
+        "४",
         "१०",
-        "४"
+        "८",
+        "६"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3357,12 +3357,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
+        "सफरचंद",
         "बटाटा",
-        "आंबा",
         "केळी",
-        "सफरचंद"
+        "आंबा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3374,12 +3374,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत संख्या",
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "९",
         "२",
+        "९",
         "४",
         "६"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3390,12 +3390,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "मुंबई",
         "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "नाशिक",
+        "मुंबई",
+        "नागपूर"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3406,12 +3406,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
-        "२५",
         "३०",
-        "२४",
-        "२२"
+        "२२",
+        "२५",
+        "२४"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3425,8 +3425,8 @@ window.class4Paper2Data = {
       "options": [
         "Y",
         "X",
-        "W",
-        "Z"
+        "Z",
+        "W"
       ],
       "answer": 0,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
@@ -3439,12 +3439,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
         "4-14-7",
+        "4-15-8",
         "3-15-7",
-        "4-15-8"
+        "4-15-7"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3457,8 +3457,8 @@ window.class4Paper2Data = {
       "options": [
         "उत्तर दिशा",
         "दक्षिण दिशा",
-        "पश्चिम दिशा",
-        "पूर्व दिशा"
+        "पूर्व दिशा",
+        "पश्चिम दिशा"
       ],
       "answer": 0,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
@@ -3472,12 +3472,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "आत्तेभाऊ",
+        "सख्खा भाऊ",
         "मामेभाऊ",
-        "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "आत्तेभाऊ",
+        "चुलतभाऊ"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3488,12 +3488,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
         "२०",
-        "३०",
-        "१५"
+        "२५",
+        "१५",
+        "३०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3504,12 +3504,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
-        "हात",
-        "डोळा",
         "नाक",
-        "कान"
+        "डोळा",
+        "कान",
+        "हात"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3521,12 +3521,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
-        "I",
         "K",
-        "L"
+        "I",
+        "L",
+        "J"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3539,8 +3539,8 @@ window.class4Paper2Data = {
       "options": [
         "२५",
         "२०",
-        "३६",
-        "२४"
+        "२४",
+        "३६"
       ],
       "answer": 0,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
@@ -3570,12 +3570,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
         "पिवळा",
-        "लाल",
-        "पांढरा"
+        "निळा",
+        "पांढरा",
+        "लाल"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3587,9 +3587,9 @@ window.class4Paper2Data = {
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
         "१७ मुले",
-        "१८ मुले",
+        "१६ मुले",
         "१९ मुले",
-        "१६ मुले"
+        "१८ मुले"
       ],
       "answer": 0,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
@@ -3603,12 +3603,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "३५ वर्षे",
         "३० वर्षे",
-        "४० वर्षे",
-        "२५ वर्षे"
+        "३५ वर्षे",
+        "२५ वर्षे",
+        "४० वर्षे"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3619,12 +3619,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
-        "२ त्रिकोण",
         "४ त्रिकोण",
-        "१ त्रिकोण"
+        "२ त्रिकोण",
+        "१ त्रिकोण",
+        "३ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3636,12 +3636,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
+        "रविवार",
         "गुरुवार",
-        "शनिवार",
-        "रविवार"
+        "शुक्रवार",
+        "शनिवार"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3656,9 +3656,9 @@ window.class4Paper2Data = {
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
         "ग",
-        "ख",
         "घ",
-        "क"
+        "क",
+        "ख"
       ],
       "answer": 0,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
@@ -3671,12 +3671,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
-        "६",
         "१०",
-        "४"
+        "४",
+        "८",
+        "६"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3687,12 +3687,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
         "आंबा",
         "केळी",
+        "बटाटा",
         "सफरचंद"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3704,12 +3704,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत संख्या",
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "९",
-        "२",
         "४",
-        "६"
+        "९",
+        "६",
+        "२"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3720,12 +3720,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
+        "नाशिक",
         "मुंबई",
-        "पुणे",
         "नागपूर",
-        "नाशिक"
+        "पुणे"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3736,12 +3736,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
-        "२५",
+        "२२",
         "३०",
         "२४",
-        "२२"
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -3753,12 +3753,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
+        "W",
         "Y",
         "X",
-        "W",
         "Z"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3770,9 +3770,9 @@ window.class4Paper2Data = {
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
         "4-15-7",
-        "4-14-7",
+        "4-15-8",
         "3-15-7",
-        "4-15-8"
+        "4-14-7"
       ],
       "answer": 0,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
@@ -3785,12 +3785,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "उत्तर दिशा",
         "दक्षिण दिशा",
+        "उत्तर दिशा",
         "पश्चिम दिशा",
         "पूर्व दिशा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3818,12 +3818,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
         "२०",
+        "१५",
         "३०",
-        "१५"
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3834,12 +3834,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
-        "हात",
-        "डोळा",
         "नाक",
-        "कान"
+        "हात",
+        "कान",
+        "डोळा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3851,12 +3851,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
-        "I",
         "K",
-        "L"
+        "I",
+        "L",
+        "J"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3867,12 +3867,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या मालिका",
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "२५",
         "२०",
+        "२४",
         "३६",
-        "२४"
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -3885,8 +3885,8 @@ window.class4Paper2Data = {
       "options": [
         "A",
         "B",
-        "C",
-        "D"
+        "D",
+        "C"
       ],
       "answer": 0,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
@@ -3901,9 +3901,9 @@ window.class4Paper2Data = {
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
         "निळा",
-        "पिवळा",
         "लाल",
-        "पांढरा"
+        "पांढरा",
+        "पिवळा"
       ],
       "answer": 0,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
@@ -3916,12 +3916,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
         "१८ मुले",
-        "१९ मुले",
-        "१६ मुले"
+        "१६ मुले",
+        "१७ मुले",
+        "१९ मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3933,12 +3933,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "३५ वर्षे",
         "३० वर्षे",
-        "४० वर्षे",
-        "२५ वर्षे"
+        "२५ वर्षे",
+        "३५ वर्षे",
+        "४० वर्षे"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3949,12 +3949,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
-        "२ त्रिकोण",
+        "१ त्रिकोण",
         "४ त्रिकोण",
-        "१ त्रिकोण"
+        "२ त्रिकोण",
+        "३ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3966,12 +3966,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
-        "गुरुवार",
         "शनिवार",
+        "गुरुवार",
+        "शुक्रवार",
         "रविवार"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -3985,12 +3985,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
         "ख",
+        "ग",
         "घ",
         "क"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4001,12 +4001,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
-        "६",
         "१०",
-        "४"
+        "४",
+        "८",
+        "६"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4035,8 +4035,8 @@ window.class4Paper2Data = {
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
         "९",
-        "२",
         "४",
+        "२",
         "६"
       ],
       "answer": 0,
@@ -4050,12 +4050,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "मुंबई",
+        "नाशिक",
         "पुणे",
         "नागपूर",
-        "नाशिक"
+        "मुंबई"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4066,12 +4066,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
+        "२२",
         "२५",
-        "३०",
         "२४",
-        "२२"
+        "३०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4083,12 +4083,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
-        "X",
+        "Z",
         "W",
-        "Z"
+        "X",
+        "Y"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4099,12 +4099,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
         "4-14-7",
         "3-15-7",
+        "4-15-7",
         "4-15-8"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4115,12 +4115,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "उत्तर दिशा",
         "दक्षिण दिशा",
-        "पश्चिम दिशा",
-        "पूर्व दिशा"
+        "पूर्व दिशा",
+        "उत्तर दिशा",
+        "पश्चिम दिशा"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4132,12 +4132,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "आत्तेभाऊ",
-        "मामेभाऊ",
         "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "मामेभाऊ",
+        "सख्खा भाऊ",
+        "आत्तेभाऊ"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4148,12 +4148,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
+        "१५",
         "२०",
-        "३०",
-        "१५"
+        "२५",
+        "३०"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4164,12 +4164,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
+        "कान",
         "हात",
         "डोळा",
-        "नाक",
-        "कान"
+        "नाक"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4181,12 +4181,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
+        "L",
         "I",
         "K",
-        "L"
+        "J"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4199,8 +4199,8 @@ window.class4Paper2Data = {
       "options": [
         "२५",
         "२०",
-        "३६",
-        "२४"
+        "२४",
+        "३६"
       ],
       "answer": 0,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
@@ -4230,12 +4230,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
+        "पांढरा",
         "पिवळा",
         "लाल",
-        "पांढरा"
+        "निळा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4246,12 +4246,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
         "१८ मुले",
-        "१९ मुले",
-        "१६ मुले"
+        "१६ मुले",
+        "१७ मुले",
+        "१९ मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4263,12 +4263,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
+        "२५ वर्षे",
         "३५ वर्षे",
-        "३० वर्षे",
         "४० वर्षे",
-        "२५ वर्षे"
+        "३० वर्षे"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4279,12 +4279,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
+        "४ त्रिकोण",
         "३ त्रिकोण",
         "२ त्रिकोण",
-        "४ त्रिकोण",
         "१ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4315,12 +4315,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
         "ख",
-        "घ",
-        "क"
+        "क",
+        "ग",
+        "घ"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4331,12 +4331,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
+        "४",
         "८",
         "६",
-        "१०",
-        "४"
+        "१०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4347,12 +4347,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
-        "आंबा",
         "केळी",
-        "सफरचंद"
+        "सफरचंद",
+        "बटाटा",
+        "आंबा"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4381,9 +4381,9 @@ window.class4Paper2Data = {
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
         "मुंबई",
+        "नाशिक",
         "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "नागपूर"
       ],
       "answer": 0,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
@@ -4396,12 +4396,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
+        "२२",
         "२५",
-        "३०",
         "२४",
-        "२२"
+        "३०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4413,12 +4413,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
-        "X",
         "W",
-        "Z"
+        "Z",
+        "Y",
+        "X"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4430,9 +4430,9 @@ window.class4Paper2Data = {
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
         "4-15-7",
-        "4-14-7",
+        "4-15-8",
         "3-15-7",
-        "4-15-8"
+        "4-14-7"
       ],
       "answer": 0,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
@@ -4445,12 +4445,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "उत्तर दिशा",
+        "पूर्व दिशा",
         "दक्षिण दिशा",
-        "पश्चिम दिशा",
-        "पूर्व दिशा"
+        "उत्तर दिशा",
+        "पश्चिम दिशा"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4462,12 +4462,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
+        "चुलतभाऊ",
         "आत्तेभाऊ",
         "मामेभाऊ",
-        "चुलतभाऊ",
         "सख्खा भाऊ"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4478,12 +4478,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
         "२०",
+        "१५",
         "३०",
-        "१५"
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4495,9 +4495,9 @@ window.class4Paper2Data = {
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
         "हात",
+        "कान",
         "डोळा",
-        "नाक",
-        "कान"
+        "नाक"
       ],
       "answer": 0,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
@@ -4511,12 +4511,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
-        "I",
+        "L",
         "K",
-        "L"
+        "I",
+        "J"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4527,12 +4527,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या मालिका",
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "२५",
+        "२४",
         "२०",
         "३६",
-        "२४"
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4560,12 +4560,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
-        "पिवळा",
+        "पांढरा",
         "लाल",
-        "पांढरा"
+        "पिवळा",
+        "निळा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4576,12 +4576,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
         "१८ मुले",
+        "१७ मुले",
         "१९ मुले",
         "१६ मुले"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4593,12 +4593,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
+        "२५ वर्षे",
         "३५ वर्षे",
-        "३० वर्षे",
         "४० वर्षे",
-        "२५ वर्षे"
+        "३० वर्षे"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4609,12 +4609,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
         "२ त्रिकोण",
-        "४ त्रिकोण",
-        "१ त्रिकोण"
+        "१ त्रिकोण",
+        "३ त्रिकोण",
+        "४ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4626,12 +4626,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
-        "गुरुवार",
         "शनिवार",
-        "रविवार"
+        "गुरुवार",
+        "रविवार",
+        "शुक्रवार"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4645,12 +4645,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
         "ख",
+        "ग",
         "घ",
         "क"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4661,12 +4661,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
+        "४",
         "६",
         "१०",
-        "४"
+        "८"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4677,12 +4677,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
         "आंबा",
-        "केळी",
-        "सफरचंद"
+        "बटाटा",
+        "सफरचंद",
+        "केळी"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4694,12 +4694,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत संख्या",
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "९",
+        "६",
         "२",
-        "४",
-        "६"
+        "९",
+        "४"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4710,12 +4710,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "मुंबई",
         "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "नाशिक",
+        "मुंबई",
+        "नागपूर"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4727,9 +4727,9 @@ window.class4Paper2Data = {
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
         "२५",
-        "३०",
         "२४",
-        "२२"
+        "२२",
+        "३०"
       ],
       "answer": 0,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
@@ -4743,12 +4743,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
+        "Z",
         "X",
         "W",
-        "Z"
+        "Y"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4759,12 +4759,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
+        "4-15-8",
         "4-14-7",
         "3-15-7",
-        "4-15-8"
+        "4-15-7"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4792,12 +4792,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
+        "सख्खा भाऊ",
         "आत्तेभाऊ",
-        "मामेभाऊ",
         "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "मामेभाऊ"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4808,12 +4808,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
         "२०",
         "३०",
-        "१५"
+        "१५",
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4824,12 +4824,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
-        "हात",
-        "डोळा",
         "नाक",
-        "कान"
+        "हात",
+        "कान",
+        "डोळा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4842,8 +4842,8 @@ window.class4Paper2Data = {
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
         "J",
-        "I",
         "K",
+        "I",
         "L"
       ],
       "answer": 0,
@@ -4857,12 +4857,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या मालिका",
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "२५",
-        "२०",
         "३६",
-        "२४"
+        "२५",
+        "२४",
+        "२०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4874,8 +4874,8 @@ window.class4Paper2Data = {
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
         "A",
-        "B",
         "C",
+        "B",
         "D"
       ],
       "answer": 0,
@@ -4890,12 +4890,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
         "पिवळा",
-        "लाल",
-        "पांढरा"
+        "पांढरा",
+        "निळा",
+        "लाल"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -4907,8 +4907,8 @@ window.class4Paper2Data = {
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
         "१७ मुले",
-        "१८ मुले",
         "१९ मुले",
+        "१८ मुले",
         "१६ मुले"
       ],
       "answer": 0,
@@ -4923,12 +4923,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "३५ वर्षे",
-        "३० वर्षे",
         "४० वर्षे",
-        "२५ वर्षे"
+        "३० वर्षे",
+        "२५ वर्षे",
+        "३५ वर्षे"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4939,12 +4939,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
         "२ त्रिकोण",
-        "४ त्रिकोण",
-        "१ त्रिकोण"
+        "१ त्रिकोण",
+        "३ त्रिकोण",
+        "४ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4956,12 +4956,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
         "गुरुवार",
         "शनिवार",
+        "शुक्रवार",
         "रविवार"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -4975,12 +4975,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
-        "ख",
+        "क",
         "घ",
-        "क"
+        "ग",
+        "ख"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -4991,12 +4991,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
-        "६",
         "१०",
-        "४"
+        "४",
+        "६",
+        "८"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5007,12 +5007,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
         "आंबा",
         "केळी",
+        "बटाटा",
         "सफरचंद"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5025,8 +5025,8 @@ window.class4Paper2Data = {
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
         "९",
-        "२",
         "४",
+        "२",
         "६"
       ],
       "answer": 0,
@@ -5041,9 +5041,9 @@ window.class4Paper2Data = {
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
         "मुंबई",
-        "पुणे",
         "नागपूर",
-        "नाशिक"
+        "नाशिक",
+        "पुणे"
       ],
       "answer": 0,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
@@ -5056,12 +5056,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
-        "२५",
         "३०",
+        "२२",
         "२४",
-        "२२"
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5073,12 +5073,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
-        "X",
+        "Z",
         "W",
-        "Z"
+        "Y",
+        "X"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5089,12 +5089,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
-        "4-14-7",
+        "4-15-8",
         "3-15-7",
-        "4-15-8"
+        "4-15-7",
+        "4-14-7"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5105,12 +5105,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
+        "पश्चिम दिशा",
         "उत्तर दिशा",
         "दक्षिण दिशा",
-        "पश्चिम दिशा",
         "पूर्व दिशा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5122,12 +5122,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
+        "सख्खा भाऊ",
         "आत्तेभाऊ",
         "मामेभाऊ",
-        "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "चुलतभाऊ"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5138,12 +5138,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
-        "२०",
+        "१५",
         "३०",
-        "१५"
+        "२०",
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5155,8 +5155,8 @@ window.class4Paper2Data = {
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
         "हात",
-        "डोळा",
         "नाक",
+        "डोळा",
         "कान"
       ],
       "answer": 0,
@@ -5171,12 +5171,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
         "I",
-        "K",
-        "L"
+        "J",
+        "L",
+        "K"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5188,9 +5188,9 @@ window.class4Paper2Data = {
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
         "२५",
-        "२०",
         "३६",
-        "२४"
+        "२४",
+        "२०"
       ],
       "answer": 0,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
@@ -5203,12 +5203,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
-        "A",
-        "B",
         "C",
-        "D"
+        "D",
+        "B",
+        "A"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5220,12 +5220,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
         "पिवळा",
-        "लाल",
-        "पांढरा"
+        "निळा",
+        "पांढरा",
+        "लाल"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5236,12 +5236,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
-        "१८ मुले",
         "१९ मुले",
+        "१८ मुले",
+        "१७ मुले",
         "१६ मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -5253,12 +5253,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "३५ वर्षे",
+        "२५ वर्षे",
         "३० वर्षे",
         "४० वर्षे",
-        "२५ वर्षे"
+        "३५ वर्षे"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -5270,9 +5270,9 @@ window.class4Paper2Data = {
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
         "३ त्रिकोण",
+        "१ त्रिकोण",
         "२ त्रिकोण",
-        "४ त्रिकोण",
-        "१ त्रिकोण"
+        "४ त्रिकोण"
       ],
       "answer": 0,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
@@ -5286,12 +5286,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
+        "रविवार",
         "शुक्रवार",
-        "गुरुवार",
         "शनिवार",
-        "रविवार"
+        "गुरुवार"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -5306,9 +5306,9 @@ window.class4Paper2Data = {
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
         "ग",
-        "ख",
+        "क",
         "घ",
-        "क"
+        "ख"
       ],
       "answer": 0,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
@@ -5321,12 +5321,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
         "६",
-        "१०",
-        "४"
+        "४",
+        "८",
+        "१०"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5337,12 +5337,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
+        "सफरचंद",
         "बटाटा",
         "आंबा",
-        "केळी",
-        "सफरचंद"
+        "केळी"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5354,12 +5354,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत संख्या",
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "९",
+        "६",
         "२",
         "४",
-        "६"
+        "९"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5370,12 +5370,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "मुंबई",
-        "पुणे",
         "नागपूर",
-        "नाशिक"
+        "नाशिक",
+        "पुणे",
+        "मुंबई"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5387,9 +5387,9 @@ window.class4Paper2Data = {
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
         "२५",
-        "३०",
         "२४",
-        "२२"
+        "२२",
+        "३०"
       ],
       "answer": 0,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
@@ -5403,12 +5403,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
         "X",
+        "Y",
         "W",
         "Z"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5419,12 +5419,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
         "4-14-7",
         "3-15-7",
+        "4-15-7",
         "4-15-8"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5435,12 +5435,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "उत्तर दिशा",
-        "दक्षिण दिशा",
+        "पूर्व दिशा",
         "पश्चिम दिशा",
-        "पूर्व दिशा"
+        "दक्षिण दिशा",
+        "उत्तर दिशा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5452,12 +5452,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "आत्तेभाऊ",
         "मामेभाऊ",
+        "आत्तेभाऊ",
         "चुलतभाऊ",
         "सख्खा भाऊ"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5468,12 +5468,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
         "२०",
-        "३०",
-        "१५"
+        "२५",
+        "१५",
+        "३०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5484,12 +5484,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
-        "हात",
         "डोळा",
+        "कान",
         "नाक",
-        "कान"
+        "हात"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5518,8 +5518,8 @@ window.class4Paper2Data = {
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
         "२५",
-        "२०",
         "३६",
+        "२०",
         "२४"
       ],
       "answer": 0,
@@ -5533,12 +5533,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
-        "A",
         "B",
-        "C",
-        "D"
+        "D",
+        "A",
+        "C"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5550,12 +5550,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
         "पिवळा",
         "लाल",
-        "पांढरा"
+        "पांढरा",
+        "निळा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5566,12 +5566,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
+        "१६ मुले",
         "१७ मुले",
-        "१८ मुले",
         "१९ मुले",
-        "१६ मुले"
+        "१८ मुले"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -5583,12 +5583,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "३५ वर्षे",
         "३० वर्षे",
-        "४० वर्षे",
-        "२५ वर्षे"
+        "२५ वर्षे",
+        "३५ वर्षे",
+        "४० वर्षे"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -5599,12 +5599,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
-        "२ त्रिकोण",
         "४ त्रिकोण",
+        "२ त्रिकोण",
+        "३ त्रिकोण",
         "१ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -5617,8 +5617,8 @@ window.class4Paper2Data = {
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
         "शुक्रवार",
-        "गुरुवार",
         "शनिवार",
+        "गुरुवार",
         "रविवार"
       ],
       "answer": 0,
@@ -5635,12 +5635,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
-        "ख",
         "घ",
-        "क"
+        "ख",
+        "क",
+        "ग"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5651,12 +5651,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
         "६",
-        "१०",
-        "४"
+        "८",
+        "४",
+        "१०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5667,12 +5667,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
         "आंबा",
+        "सफरचंद",
         "केळी",
-        "सफरचंद"
+        "बटाटा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5684,12 +5684,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत संख्या",
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "९",
-        "२",
         "४",
-        "६"
+        "९",
+        "६",
+        "२"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5700,12 +5700,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "मुंबई",
         "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "नाशिक",
+        "मुंबई",
+        "नागपूर"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5716,12 +5716,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
-        "२५",
-        "३०",
         "२४",
+        "३०",
+        "२५",
         "२२"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5734,8 +5734,8 @@ window.class4Paper2Data = {
       "question": "A : Z :: B : ____?",
       "options": [
         "Y",
-        "X",
         "W",
+        "X",
         "Z"
       ],
       "answer": 0,
@@ -5749,12 +5749,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
         "4-14-7",
+        "4-15-7",
         "3-15-7",
         "4-15-8"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5766,8 +5766,8 @@ window.class4Paper2Data = {
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
         "उत्तर दिशा",
-        "दक्षिण दिशा",
         "पश्चिम दिशा",
+        "दक्षिण दिशा",
         "पूर्व दिशा"
       ],
       "answer": 0,
@@ -5782,12 +5782,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "आत्तेभाऊ",
+        "सख्खा भाऊ",
         "मामेभाऊ",
         "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "आत्तेभाऊ"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5799,9 +5799,9 @@ window.class4Paper2Data = {
       "question": "४ : १६ :: ५ : ____?",
       "options": [
         "२५",
-        "२०",
+        "१५",
         "३०",
-        "१५"
+        "२०"
       ],
       "answer": 0,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
@@ -5814,12 +5814,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
-        "हात",
         "डोळा",
         "नाक",
-        "कान"
+        "कान",
+        "हात"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5832,9 +5832,9 @@ window.class4Paper2Data = {
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
         "J",
+        "L",
         "I",
-        "K",
-        "L"
+        "K"
       ],
       "answer": 0,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
@@ -5847,12 +5847,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या मालिका",
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "२५",
         "२०",
+        "२५",
         "३६",
         "२४"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5863,12 +5863,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
-        "A",
-        "B",
+        "D",
         "C",
-        "D"
+        "B",
+        "A"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5880,12 +5880,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
-        "पिवळा",
         "लाल",
-        "पांढरा"
+        "निळा",
+        "पांढरा",
+        "पिवळा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -5896,12 +5896,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
         "१८ मुले",
-        "१९ मुले",
-        "१६ मुले"
+        "१६ मुले",
+        "१७ मुले",
+        "१९ मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -5914,9 +5914,9 @@ window.class4Paper2Data = {
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
         "३५ वर्षे",
-        "३० वर्षे",
+        "२५ वर्षे",
         "४० वर्षे",
-        "२५ वर्षे"
+        "३० वर्षे"
       ],
       "answer": 0,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
@@ -5929,12 +5929,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
-        "२ त्रिकोण",
         "४ त्रिकोण",
+        "२ त्रिकोण",
+        "३ त्रिकोण",
         "१ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -5946,12 +5946,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
+        "रविवार",
         "गुरुवार",
-        "शनिवार",
-        "रविवार"
+        "शुक्रवार",
+        "शनिवार"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -5966,8 +5966,8 @@ window.class4Paper2Data = {
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
         "ग",
-        "ख",
         "घ",
+        "ख",
         "क"
       ],
       "answer": 0,
@@ -5981,12 +5981,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
         "६",
         "१०",
-        "४"
+        "४",
+        "८"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -5999,8 +5999,8 @@ window.class4Paper2Data = {
       "options": [
         "बटाटा",
         "आंबा",
-        "केळी",
-        "सफरचंद"
+        "सफरचंद",
+        "केळी"
       ],
       "answer": 0,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
@@ -6015,9 +6015,9 @@ window.class4Paper2Data = {
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
         "९",
-        "२",
+        "६",
         "४",
-        "६"
+        "२"
       ],
       "answer": 0,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
@@ -6030,12 +6030,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "मुंबई",
-        "पुणे",
         "नागपूर",
-        "नाशिक"
+        "मुंबई",
+        "नाशिक",
+        "पुणे"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6046,12 +6046,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
-        "२५",
         "३०",
         "२४",
-        "२२"
+        "२२",
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6063,12 +6063,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
         "X",
+        "Z",
         "W",
-        "Z"
+        "Y"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6079,12 +6079,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
         "4-14-7",
         "3-15-7",
+        "4-15-7",
         "4-15-8"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6112,12 +6112,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
+        "सख्खा भाऊ",
         "आत्तेभाऊ",
-        "मामेभाऊ",
         "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "मामेभाऊ"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6128,12 +6128,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
         "२०",
-        "३०",
-        "१५"
+        "१५",
+        "२५",
+        "३०"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6145,8 +6145,8 @@ window.class4Paper2Data = {
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
         "हात",
-        "डोळा",
         "नाक",
+        "डोळा",
         "कान"
       ],
       "answer": 0,
@@ -6161,12 +6161,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
         "I",
+        "J",
         "K",
         "L"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6177,12 +6177,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या मालिका",
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "२५",
+        "२४",
         "२०",
-        "३६",
-        "२४"
+        "२५",
+        "३६"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6193,12 +6193,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
+        "C",
         "A",
         "B",
-        "C",
         "D"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6210,12 +6210,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
         "पिवळा",
-        "लाल",
-        "पांढरा"
+        "निळा",
+        "पांढरा",
+        "लाल"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6226,12 +6226,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
-        "१८ मुले",
+        "१६ मुले",
         "१९ मुले",
-        "१६ मुले"
+        "१७ मुले",
+        "१८ मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6243,12 +6243,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "३५ वर्षे",
+        "२५ वर्षे",
         "३० वर्षे",
         "४० वर्षे",
-        "२५ वर्षे"
+        "३५ वर्षे"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6259,12 +6259,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
-        "२ त्रिकोण",
         "४ त्रिकोण",
+        "२ त्रिकोण",
+        "३ त्रिकोण",
         "१ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6276,12 +6276,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
-        "गुरुवार",
         "शनिवार",
-        "रविवार"
+        "गुरुवार",
+        "रविवार",
+        "शुक्रवार"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6295,12 +6295,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
         "ख",
-        "घ",
-        "क"
+        "ग",
+        "क",
+        "घ"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6311,12 +6311,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
         "६",
+        "४",
         "१०",
-        "४"
+        "८"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6329,8 +6329,8 @@ window.class4Paper2Data = {
       "options": [
         "बटाटा",
         "आंबा",
-        "केळी",
-        "सफरचंद"
+        "सफरचंद",
+        "केळी"
       ],
       "answer": 0,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
@@ -6344,12 +6344,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत संख्या",
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "९",
+        "६",
         "२",
         "४",
-        "६"
+        "९"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6360,12 +6360,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
+        "नाशिक",
         "मुंबई",
         "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "नागपूर"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6393,12 +6393,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
+        "Z",
         "X",
         "W",
-        "Z"
+        "Y"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6409,12 +6409,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
-        "4-14-7",
         "3-15-7",
-        "4-15-8"
+        "4-15-8",
+        "4-15-7",
+        "4-14-7"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6426,8 +6426,8 @@ window.class4Paper2Data = {
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
         "उत्तर दिशा",
-        "दक्षिण दिशा",
         "पश्चिम दिशा",
+        "दक्षिण दिशा",
         "पूर्व दिशा"
       ],
       "answer": 0,
@@ -6442,12 +6442,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "आत्तेभाऊ",
         "मामेभाऊ",
         "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "सख्खा भाऊ",
+        "आत्तेभाऊ"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6459,9 +6459,9 @@ window.class4Paper2Data = {
       "question": "४ : १६ :: ५ : ____?",
       "options": [
         "२५",
+        "१५",
         "२०",
-        "३०",
-        "१५"
+        "३०"
       ],
       "answer": 0,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
@@ -6474,12 +6474,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
+        "कान",
         "हात",
         "डोळा",
-        "नाक",
-        "कान"
+        "नाक"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6491,12 +6491,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
         "I",
-        "K",
-        "L"
+        "J",
+        "L",
+        "K"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6507,12 +6507,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या मालिका",
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "२५",
+        "२४",
         "२०",
-        "३६",
-        "२४"
+        "२५",
+        "३६"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6523,12 +6523,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
-        "A",
         "B",
-        "C",
-        "D"
+        "D",
+        "A",
+        "C"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6541,8 +6541,8 @@ window.class4Paper2Data = {
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
         "निळा",
-        "पिवळा",
         "लाल",
+        "पिवळा",
         "पांढरा"
       ],
       "answer": 0,
@@ -6556,12 +6556,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
         "१८ मुले",
         "१९ मुले",
+        "१७ मुले",
         "१६ मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6573,12 +6573,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "३५ वर्षे",
         "३० वर्षे",
+        "२५ वर्षे",
         "४० वर्षे",
-        "२५ वर्षे"
+        "३५ वर्षे"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6589,12 +6589,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
         "२ त्रिकोण",
-        "४ त्रिकोण",
-        "१ त्रिकोण"
+        "३ त्रिकोण",
+        "१ त्रिकोण",
+        "४ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6606,12 +6606,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
+        "रविवार",
         "गुरुवार",
-        "शनिवार",
-        "रविवार"
+        "शुक्रवार",
+        "शनिवार"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6625,12 +6625,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
-        "ख",
+        "क",
         "घ",
-        "क"
+        "ग",
+        "ख"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6641,12 +6641,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
+        "१०",
         "८",
         "६",
-        "१०",
         "४"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6657,12 +6657,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
-        "आंबा",
+        "सफरचंद",
         "केळी",
-        "सफरचंद"
+        "आंबा",
+        "बटाटा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6674,12 +6674,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत संख्या",
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "९",
         "२",
-        "४",
-        "६"
+        "६",
+        "९",
+        "४"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6691,9 +6691,9 @@ window.class4Paper2Data = {
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
         "मुंबई",
-        "पुणे",
+        "नाशिक",
         "नागपूर",
-        "नाशिक"
+        "पुणे"
       ],
       "answer": 0,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
@@ -6707,8 +6707,8 @@ window.class4Paper2Data = {
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
         "२५",
-        "३०",
         "२४",
+        "३०",
         "२२"
       ],
       "answer": 0,
@@ -6723,12 +6723,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
         "X",
-        "W",
-        "Z"
+        "Y",
+        "Z",
+        "W"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6739,12 +6739,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
-        "4-14-7",
         "3-15-7",
-        "4-15-8"
+        "4-14-7",
+        "4-15-8",
+        "4-15-7"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6755,12 +6755,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
+        "पश्चिम दिशा",
         "उत्तर दिशा",
         "दक्षिण दिशा",
-        "पश्चिम दिशा",
         "पूर्व दिशा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6772,12 +6772,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "आत्तेभाऊ",
-        "मामेभाऊ",
         "चुलतभाऊ",
+        "मामेभाऊ",
+        "आत्तेभाऊ",
         "सख्खा भाऊ"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6788,12 +6788,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
+        "१५",
         "२०",
         "३०",
-        "१५"
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6806,8 +6806,8 @@ window.class4Paper2Data = {
       "options": [
         "हात",
         "डोळा",
-        "नाक",
-        "कान"
+        "कान",
+        "नाक"
       ],
       "answer": 0,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
@@ -6821,12 +6821,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
         "I",
-        "K",
-        "L"
+        "J",
+        "L",
+        "K"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6838,9 +6838,9 @@ window.class4Paper2Data = {
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
         "२५",
+        "२४",
         "२०",
-        "३६",
-        "२४"
+        "३६"
       ],
       "answer": 0,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
@@ -6853,12 +6853,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
-        "A",
         "B",
-        "C",
-        "D"
+        "D",
+        "A",
+        "C"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6870,12 +6870,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
-        "पिवळा",
         "लाल",
-        "पांढरा"
+        "पांढरा",
+        "पिवळा",
+        "निळा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -6886,12 +6886,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
-        "१८ मुले",
         "१९ मुले",
-        "१६ मुले"
+        "१७ मुले",
+        "१६ मुले",
+        "१८ मुले"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6904,9 +6904,9 @@ window.class4Paper2Data = {
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
         "३५ वर्षे",
-        "३० वर्षे",
+        "२५ वर्षे",
         "४० वर्षे",
-        "२५ वर्षे"
+        "३० वर्षे"
       ],
       "answer": 0,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
@@ -6919,12 +6919,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
-        "२ त्रिकोण",
         "४ त्रिकोण",
+        "२ त्रिकोण",
+        "३ त्रिकोण",
         "१ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6936,12 +6936,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
-        "गुरुवार",
+        "रविवार",
         "शनिवार",
-        "रविवार"
+        "गुरुवार",
+        "शुक्रवार"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -6955,12 +6955,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
         "ख",
-        "घ",
-        "क"
+        "क",
+        "ग",
+        "घ"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -6973,8 +6973,8 @@ window.class4Paper2Data = {
       "options": [
         "८",
         "६",
-        "१०",
-        "४"
+        "४",
+        "१०"
       ],
       "answer": 0,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
@@ -6987,12 +6987,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
-        "आंबा",
         "केळी",
-        "सफरचंद"
+        "बटाटा",
+        "सफरचंद",
+        "आंबा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7004,12 +7004,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत संख्या",
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "९",
         "२",
-        "४",
-        "६"
+        "६",
+        "९",
+        "४"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7020,12 +7020,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "मुंबई",
         "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "मुंबई",
+        "नाशिक",
+        "नागपूर"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7037,9 +7037,9 @@ window.class4Paper2Data = {
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
         "२५",
+        "२२",
         "३०",
-        "२४",
-        "२२"
+        "२४"
       ],
       "answer": 0,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
@@ -7054,8 +7054,8 @@ window.class4Paper2Data = {
       "question": "A : Z :: B : ____?",
       "options": [
         "Y",
-        "X",
         "W",
+        "X",
         "Z"
       ],
       "answer": 0,
@@ -7069,12 +7069,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
-        "4-14-7",
         "3-15-7",
-        "4-15-8"
+        "4-15-8",
+        "4-15-7",
+        "4-14-7"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7085,12 +7085,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "उत्तर दिशा",
-        "दक्षिण दिशा",
+        "पूर्व दिशा",
         "पश्चिम दिशा",
-        "पूर्व दिशा"
+        "दक्षिण दिशा",
+        "उत्तर दिशा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7102,12 +7102,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
+        "चुलतभाऊ",
         "आत्तेभाऊ",
         "मामेभाऊ",
-        "चुलतभाऊ",
         "सख्खा भाऊ"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7118,12 +7118,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
-        "२५",
-        "२०",
+        "१५",
         "३०",
-        "१५"
+        "२०",
+        "२५"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7134,12 +7134,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
-        "हात",
-        "डोळा",
         "नाक",
-        "कान"
+        "हात",
+        "कान",
+        "डोळा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7151,12 +7151,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
         "I",
         "K",
-        "L"
+        "L",
+        "J"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7167,12 +7167,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या मालिका",
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
+        "३६",
         "२५",
         "२०",
-        "३६",
         "२४"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7183,12 +7183,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
-        "A",
         "B",
         "C",
-        "D"
+        "D",
+        "A"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7202,8 +7202,8 @@ window.class4Paper2Data = {
       "options": [
         "निळा",
         "पिवळा",
-        "लाल",
-        "पांढरा"
+        "पांढरा",
+        "लाल"
       ],
       "answer": 0,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
@@ -7216,12 +7216,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
-        "१८ मुले",
+        "१६ मुले",
         "१९ मुले",
-        "१६ मुले"
+        "१७ मुले",
+        "१८ मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -7233,12 +7233,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "३५ वर्षे",
         "३० वर्षे",
+        "२५ वर्षे",
         "४० वर्षे",
-        "२५ वर्षे"
+        "३५ वर्षे"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -7249,12 +7249,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
-        "२ त्रिकोण",
         "४ त्रिकोण",
+        "२ त्रिकोण",
+        "३ त्रिकोण",
         "१ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -7267,9 +7267,9 @@ window.class4Paper2Data = {
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
         "शुक्रवार",
-        "गुरुवार",
         "शनिवार",
-        "रविवार"
+        "रविवार",
+        "गुरुवार"
       ],
       "answer": 0,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
@@ -7285,12 +7285,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
         "ख",
         "घ",
-        "क"
+        "क",
+        "ग"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7301,12 +7301,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
-        "६",
         "१०",
-        "४"
+        "६",
+        "४",
+        "८"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7317,12 +7317,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
         "आंबा",
         "केळी",
+        "बटाटा",
         "सफरचंद"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7334,12 +7334,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत संख्या",
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
-        "९",
+        "६",
         "२",
         "४",
-        "६"
+        "९"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7352,8 +7352,8 @@ window.class4Paper2Data = {
       "options": [
         "मुंबई",
         "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "नाशिक",
+        "नागपूर"
       ],
       "answer": 0,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
@@ -7366,12 +7366,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
+        "२४",
         "२५",
         "३०",
-        "२४",
         "२२"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7383,12 +7383,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
         "X",
-        "W",
-        "Z"
+        "Y",
+        "Z",
+        "W"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7415,12 +7415,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
+        "पश्चिम दिशा",
         "उत्तर दिशा",
         "दक्षिण दिशा",
-        "पश्चिम दिशा",
         "पूर्व दिशा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7432,12 +7432,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "आत्तेभाऊ",
-        "मामेभाऊ",
         "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "मामेभाऊ",
+        "सख्खा भाऊ",
+        "आत्तेभाऊ"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7449,9 +7449,9 @@ window.class4Paper2Data = {
       "question": "४ : १६ :: ५ : ____?",
       "options": [
         "२५",
-        "२०",
+        "१५",
         "३०",
-        "१५"
+        "२०"
       ],
       "answer": 0,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
@@ -7464,12 +7464,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
-        "हात",
         "डोळा",
-        "नाक",
-        "कान"
+        "कान",
+        "हात",
+        "नाक"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7481,12 +7481,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
+        "L",
         "J",
         "I",
-        "K",
-        "L"
+        "K"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7497,12 +7497,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या मालिका",
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "२५",
+        "२४",
         "२०",
-        "३६",
-        "२४"
+        "२५",
+        "३६"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7513,12 +7513,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
-        "A",
-        "B",
+        "D",
         "C",
-        "D"
+        "A",
+        "B"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7530,12 +7530,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
-        "पिवळा",
         "लाल",
-        "पांढरा"
+        "पिवळा",
+        "पांढरा",
+        "निळा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7546,12 +7546,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
-        "१८ मुले",
         "१९ मुले",
-        "१६ मुले"
+        "१६ मुले",
+        "१७ मुले",
+        "१८ मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -7563,12 +7563,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
+        "४० वर्षे",
         "३५ वर्षे",
         "३० वर्षे",
-        "४० वर्षे",
         "२५ वर्षे"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -7580,9 +7580,9 @@ window.class4Paper2Data = {
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
         "३ त्रिकोण",
-        "२ त्रिकोण",
         "४ त्रिकोण",
-        "१ त्रिकोण"
+        "१ त्रिकोण",
+        "२ त्रिकोण"
       ],
       "answer": 0,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
@@ -7598,8 +7598,8 @@ window.class4Paper2Data = {
       "options": [
         "शुक्रवार",
         "गुरुवार",
-        "शनिवार",
-        "रविवार"
+        "रविवार",
+        "शनिवार"
       ],
       "answer": 0,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
@@ -7615,12 +7615,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
-        "ग",
-        "ख",
         "घ",
-        "क"
+        "क",
+        "ग",
+        "ख"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7631,12 +7631,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
-        "८",
+        "४",
         "६",
-        "१०",
-        "४"
+        "८",
+        "१०"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7647,12 +7647,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
+        "सफरचंद",
         "आंबा",
         "केळी",
-        "सफरचंद"
+        "बटाटा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7680,12 +7680,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "मुंबई",
         "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "मुंबई",
+        "नाशिक",
+        "नागपूर"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7697,9 +7697,9 @@ window.class4Paper2Data = {
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
         "२५",
-        "३०",
         "२४",
-        "२२"
+        "२२",
+        "३०"
       ],
       "answer": 0,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
@@ -7713,12 +7713,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
-        "X",
         "W",
-        "Z"
+        "Z",
+        "X",
+        "Y"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7729,12 +7729,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
-        "4-15-7",
         "4-14-7",
-        "3-15-7",
-        "4-15-8"
+        "4-15-7",
+        "4-15-8",
+        "3-15-7"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7745,12 +7745,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "उत्तर दिशा",
-        "दक्षिण दिशा",
         "पश्चिम दिशा",
+        "दक्षिण दिशा",
+        "उत्तर दिशा",
         "पूर्व दिशा"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7762,12 +7762,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "आत्तेभाऊ",
+        "सख्खा भाऊ",
         "मामेभाऊ",
         "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "आत्तेभाऊ"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7778,12 +7778,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "४ : १६ :: ५ : ____?",
       "options": [
+        "१५",
         "२५",
-        "२०",
         "३०",
-        "१५"
+        "२०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "४ चा वर्ग १६, म्हणून ५ चा वर्ग २५ (५ × ५ = २५).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7794,12 +7794,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
-        "हात",
-        "डोळा",
         "नाक",
-        "कान"
+        "डोळा",
+        "कान",
+        "हात"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7811,12 +7811,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
-        "J",
         "I",
-        "K",
-        "L"
+        "L",
+        "J",
+        "K"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7843,12 +7843,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
-        "A",
-        "B",
         "C",
-        "D"
+        "A",
+        "D",
+        "B"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -7861,8 +7861,8 @@ window.class4Paper2Data = {
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
         "निळा",
-        "पिवळा",
         "लाल",
+        "पिवळा",
         "पांढरा"
       ],
       "answer": 0,
@@ -7876,12 +7876,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
         "१८ मुले",
-        "१९ मुले",
-        "१६ मुले"
+        "१७ मुले",
+        "१६ मुले",
+        "१९ मुले"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -7895,8 +7895,8 @@ window.class4Paper2Data = {
       "options": [
         "३५ वर्षे",
         "३० वर्षे",
-        "४० वर्षे",
-        "२५ वर्षे"
+        "२५ वर्षे",
+        "४० वर्षे"
       ],
       "answer": 0,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
@@ -7909,12 +7909,12 @@ window.class4Paper2Data = {
       "tagText": "त्रिकोण मोजणे",
       "question": "एका मोठ्या त्रिकोणात शिरोबिंदूतून पायावर १ लंब टाकला असता एकूण किती त्रिकोण तयार होतात?",
       "options": [
-        "३ त्रिकोण",
-        "२ त्रिकोण",
         "४ त्रिकोण",
-        "१ त्रिकोण"
+        "२ त्रिकोण",
+        "१ त्रिकोण",
+        "३ त्रिकोण"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -7926,12 +7926,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
         "गुरुवार",
         "शनिवार",
+        "शुक्रवार",
         "रविवार"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -7945,12 +7945,12 @@ window.class4Paper2Data = {
       "tagText": "स्थान ओळखणे",
       "question": "'क, ख, ग, घ, ङ' या अक्षरांमध्ये डावीकडून तिसरे अक्षर कोणते?",
       "options": [
+        "क",
         "ग",
         "ख",
-        "घ",
-        "क"
+        "घ"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डावीकडून १: क, २: ख, ३: ग. म्हणून तिसरे अक्षर 'ग' आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7961,12 +7961,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या स्थान",
       "question": "२, ४, ६, ८, १० या संख्यांमध्ये उजवीकडून दुसरे पद कोणते?",
       "options": [
+        "१०",
         "८",
         "६",
-        "१०",
         "४"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "उजवीकडून पहिले १०, दुसरे ८ आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7977,12 +7977,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: आंबा, सफरचंद, केळी, बटाटा",
       "options": [
-        "बटाटा",
         "आंबा",
+        "सफरचंद",
         "केळी",
-        "सफरचंद"
+        "बटाटा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "बटाटा ही भाजी आहे, बाकी सर्व फळे आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -7995,9 +7995,9 @@ window.class4Paper2Data = {
       "question": "गटात न बसणारी संख्या शोधा: २, ४, ६, ९",
       "options": [
         "९",
-        "२",
         "४",
-        "६"
+        "६",
+        "२"
       ],
       "answer": 0,
       "explanation": "९ ही विषम संख्या आहे, इतर सर्व सम संख्या आहेत.",
@@ -8010,12 +8010,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "भारत : नवी दिल्ली :: महाराष्ट्र : ____?",
       "options": [
-        "मुंबई",
         "पुणे",
-        "नागपूर",
-        "नाशिक"
+        "नाशिक",
+        "मुंबई",
+        "नागपूर"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "भारताची राजधानी नवी दिल्ली, तशी महाराष्ट्राची राजधानी मुंबई आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8026,12 +8026,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "५, १०, १५, २०, ____ पुढील पद कोणते?",
       "options": [
-        "२५",
-        "३०",
         "२४",
+        "३०",
+        "२५",
         "२२"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "५ चा पाढा: २० + ५ = २५.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8043,12 +8043,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर समसंबंध",
       "question": "A : Z :: B : ____?",
       "options": [
-        "Y",
-        "X",
+        "Z",
         "W",
-        "Z"
+        "X",
+        "Y"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "सुरुवातीचे दुसरे अक्षर B, शेवटून दुसरे अक्षर Y.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8060,9 +8060,9 @@ window.class4Paper2Data = {
       "question": "एका सांकेतिक भाषेत 'CAT' = '3-1-20' असे लिहितात, तर 'DOG' कसे लिहाल?",
       "options": [
         "4-15-7",
+        "4-15-8",
         "4-14-7",
-        "3-15-7",
-        "4-15-8"
+        "3-15-7"
       ],
       "answer": 0,
       "explanation": "D=4, O=15, G=7 -> 4-15-7.",
@@ -8076,9 +8076,9 @@ window.class4Paper2Data = {
       "question": "सूर्योदयाच्या वेळी सूर्याकडे तोंड करून उभे राहिल्यास, आपल्या डाव्या हाताला कोणती दिशा असेल?",
       "options": [
         "उत्तर दिशा",
-        "दक्षिण दिशा",
         "पश्चिम दिशा",
-        "पूर्व दिशा"
+        "पूर्व दिशा",
+        "दक्षिण दिशा"
       ],
       "answer": 0,
       "explanation": "पूर्वेकडे तोंड केल्यास डाव्या हाताला उत्तर दिशा असते.",
@@ -8092,12 +8092,12 @@ window.class4Paper2Data = {
       "tagText": "नातेसंबंध",
       "question": "माझ्या वडिलांच्या बहिणीचा मुलगा माझा कोण लागेल?",
       "options": [
-        "आत्तेभाऊ",
-        "मामेभाऊ",
         "चुलतभाऊ",
-        "सख्खा भाऊ"
+        "मामेभाऊ",
+        "सख्खा भाऊ",
+        "आत्तेभाऊ"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "वडिलांची बहीण म्हणजे आत्या; आत्याचा मुलगा म्हणजे आत्तेभाऊ.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8124,12 +8124,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत शब्द",
       "question": "गटात न बसणारा शब्द ओळखा: डोळा, कान, नाक, हात",
       "options": [
+        "कान",
         "हात",
-        "डोळा",
         "नाक",
-        "कान"
+        "डोळा"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "डोळा, कान, नाक ही ज्ञानेंद्रिये आहेत; हात हे कर्मेंद्रिय आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8141,12 +8141,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर मालिका",
       "question": "B, D, F, H, ____ पुढील अक्षर कोणते?",
       "options": [
+        "L",
         "J",
-        "I",
         "K",
-        "L"
+        "I"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकाआड एक अक्षरे (+२): H नंतर J येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8157,12 +8157,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या मालिका",
       "question": "१, ४, ९, १६, ____ पुढील संख्या शोधा.",
       "options": [
-        "२५",
         "२०",
         "३६",
+        "२५",
         "२४"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१², २², ३², ४² नंतर ५² = २५.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8173,12 +8173,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "आरशात पाहिल्यास इंग्रजीतील कोणते मुळाक्षर जसेच्या तसेच दिसते?",
       "options": [
+        "D",
         "A",
-        "B",
         "C",
-        "D"
+        "B"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'A' हे मुळाक्षर आरशात सरळ व अपरिवर्तित दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8190,12 +8190,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर 'लाल' ला 'पिवळा' म्हटले, 'पिवळा' ला 'निळा' म्हटले, तर हळदीचा रंग कोणता असेल?",
       "options": [
-        "निळा",
         "पिवळा",
         "लाल",
-        "पांढरा"
+        "पांढरा",
+        "निळा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "हळदीचा मूळ रंग पिवळा असतो, आणि पिवळ्याला 'निळा' म्हटले आहे, म्हणून उत्तर 'निळा' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8206,12 +8206,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील स्थान कूटप्रश्न",
       "question": "एका रांगेत रोहनचा क्रमांक दोन्ही टोकांकडून ९ वा आहे, तर रांगेत एकूण किती मुले उभी आहेत?",
       "options": [
-        "१७ मुले",
-        "१८ मुले",
+        "१६ मुले",
         "१९ मुले",
-        "१६ मुले"
+        "१८ मुले",
+        "१७ मुले"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "एकूण मुले = (९ + ९) - १ = १८ - १ = १७ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -8223,12 +8223,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "५ वर्षांपूर्वी अजय आणि विजय यांच्या वयाची बेरीज २५ वर्षे होती. आज त्यांच्या वयाची बेरीज किती वर्षे असेल?",
       "options": [
-        "३५ वर्षे",
         "३० वर्षे",
         "४० वर्षे",
+        "३५ वर्षे",
         "२५ वर्षे"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "दोघांचेही वय ५-५ वर्षांनी वाढेल -> २५ + ५ + ५ = ३५ वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -8241,8 +8241,8 @@ window.class4Paper2Data = {
       "options": [
         "३ त्रिकोण",
         "२ त्रिकोण",
-        "४ त्रिकोण",
-        "१ त्रिकोण"
+        "१ त्रिकोण",
+        "४ त्रिकोण"
       ],
       "answer": 0,
       "explanation": "दोन लहान त्रिकोण आणि एक मूळ मोठा त्रिकोण = एकूण ३ त्रिकोण (१ + २ = ३).",
@@ -8256,12 +8256,12 @@ window.class4Paper2Data = {
       "tagText": "दिनदर्शिका कूटप्रश्न",
       "question": "आज गुरुवार असल्यास, आजपासून १५ दिवसांनी कोणता वार येईल?",
       "options": [
-        "शुक्रवार",
         "गुरुवार",
-        "शनिवार",
-        "रविवार"
+        "रविवार",
+        "शुक्रवार",
+        "शनिवार"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१५ ÷ ७ = २ आठवडे बाकी १ दिवस. गुरुवार + १ दिवस = शुक्रवार.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -8275,12 +8275,12 @@ window.class4Paper2Data = {
       "tagText": "Opposites",
       "question": "What is the opposite of 'Come'?",
       "options": [
+        "Stop",
         "Go",
         "Run",
-        "Walk",
-        "Stop"
+        "Walk"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8293,8 +8293,8 @@ window.class4Paper2Data = {
       "options": [
         "An",
         "A",
-        "The",
-        "No article"
+        "No article",
+        "The"
       ],
       "answer": 0,
       "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
@@ -8308,9 +8308,9 @@ window.class4Paper2Data = {
       "question": "What is the plural of 'Tree'?",
       "options": [
         "Trees",
-        "Treees",
+        "Treing",
         "Tries",
-        "Treing"
+        "Treees"
       ],
       "answer": 0,
       "explanation": "Tree चे अनेकवचन 'Trees' होते.",
@@ -8324,12 +8324,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
+        "वही",
         "सायकल",
         "पेन",
-        "पेन्सिल",
-        "वही"
+        "पेन्सिल"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8340,12 +8340,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
-        "करडू",
-        "पाडस",
+        "पिल्लू",
         "छावा",
-        "पिल्लू"
+        "पाडस",
+        "करडू"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8356,12 +8356,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
       "options": [
-        "५०",
+        "५५",
         "६०",
-        "४५",
-        "५५"
+        "५०",
+        "४५"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "१० चा पाढा: ४० + १० = ५०.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8373,12 +8373,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "What is missing: 'Where are you going'?",
       "options": [
-        "Question mark (?)",
-        "Full stop (.)",
         "Comma (,)",
-        "Hyphen (-)"
+        "Hyphen (-)",
+        "Full stop (.)",
+        "Question mark (?)"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8390,9 +8390,9 @@ window.class4Paper2Data = {
       "question": "What is the opposite gender of 'Tiger'?",
       "options": [
         "Tigress",
-        "Lioness",
         "Cow",
-        "Mare"
+        "Mare",
+        "Lioness"
       ],
       "answer": 0,
       "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
@@ -8405,12 +8405,12 @@ window.class4Paper2Data = {
       "tagText": "Action Word",
       "question": "Fish ____ in water.",
       "options": [
-        "Swim",
         "Fly",
+        "Swim",
         "Walk",
         "Run"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8422,12 +8422,12 @@ window.class4Paper2Data = {
       "tagText": "Rhyming Word",
       "question": "Which word rhymes with 'Cat'?",
       "options": [
-        "Bat",
-        "Dog",
         "Cow",
+        "Dog",
+        "Bat",
         "Pen"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8438,12 +8438,12 @@ window.class4Paper2Data = {
       "tagText": "Preposition",
       "question": "The apple is ____ the basket.",
       "options": [
-        "In",
         "On",
         "At",
+        "In",
         "To"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8455,12 +8455,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
-        "214",
+        "412",
         "241",
         "124",
-        "412"
+        "214"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "B=2, A=1, D=4 -> 214.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8473,8 +8473,8 @@ window.class4Paper2Data = {
       "options": [
         "३६",
         "१८",
-        "१२",
-        "३०"
+        "३०",
+        "१२"
       ],
       "answer": 0,
       "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
@@ -8487,12 +8487,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर क्रम",
       "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
       "options": [
-        "V",
         "U",
         "T",
+        "V",
         "S"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8506,8 +8506,8 @@ window.class4Paper2Data = {
       "options": [
         "उत्तर दिशा",
         "दक्षिण दिशा",
-        "पूर्व दिशा",
-        "वायव्य दिशा"
+        "वायव्य दिशा",
+        "पूर्व दिशा"
       ],
       "answer": 0,
       "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
@@ -8520,12 +8520,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "८",
         "४",
-        "५",
-        "७"
+        "८",
+        "७",
+        "५"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8536,12 +8536,12 @@ window.class4Paper2Data = {
       "tagText": "Plural कूटप्रश्न",
       "question": "What is the plural form of 'Tooth'?",
       "options": [
-        "Teeth",
-        "Tooths",
         "Toothes",
-        "Teethes"
+        "Teethes",
+        "Tooths",
+        "Teeth"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -8553,12 +8553,12 @@ window.class4Paper2Data = {
       "tagText": "Proverb",
       "question": "Complete: 'Slow and steady wins the ____.'",
       "options": [
-        "Race",
         "Game",
-        "Match",
-        "Prize"
+        "Race",
+        "Prize",
+        "Match"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -8569,12 +8569,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील कूटप्रश्न",
       "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
       "options": [
-        "२१ मुले",
         "२२ मुले",
         "२३ मुले",
-        "२० मुले"
+        "२० मुले",
+        "२१ मुले"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -8586,12 +8586,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
-        "३० वर्षे",
         "२५ वर्षे",
-        "३५ वर्षे",
-        "४० वर्षे"
+        "४० वर्षे",
+        "३० वर्षे",
+        "३५ वर्षे"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -8606,8 +8606,8 @@ window.class4Paper2Data = {
       "question": "What is the opposite of 'Come'?",
       "options": [
         "Go",
-        "Run",
         "Walk",
+        "Run",
         "Stop"
       ],
       "answer": 0,
@@ -8621,12 +8621,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "He saw ____ elephant in the zoo.",
       "options": [
-        "An",
-        "A",
         "The",
-        "No article"
+        "No article",
+        "A",
+        "An"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8637,12 +8637,12 @@ window.class4Paper2Data = {
       "tagText": "Singular-Plural",
       "question": "What is the plural of 'Tree'?",
       "options": [
-        "Trees",
         "Treees",
+        "Trees",
         "Tries",
         "Treing"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Tree चे अनेकवचन 'Trees' होते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8654,12 +8654,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
-        "सायकल",
         "पेन",
-        "पेन्सिल",
-        "वही"
+        "सायकल",
+        "वही",
+        "पेन्सिल"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8670,12 +8670,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
-        "करडू",
-        "पाडस",
         "छावा",
-        "पिल्लू"
+        "पिल्लू",
+        "करडू",
+        "पाडस"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8686,12 +8686,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
       "options": [
-        "५०",
-        "६०",
         "४५",
-        "५५"
+        "५०",
+        "५५",
+        "६०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "१० चा पाढा: ४० + १० = ५०.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8719,12 +8719,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the opposite gender of 'Tiger'?",
       "options": [
-        "Tigress",
         "Lioness",
+        "Tigress",
         "Cow",
         "Mare"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8735,12 +8735,12 @@ window.class4Paper2Data = {
       "tagText": "Action Word",
       "question": "Fish ____ in water.",
       "options": [
-        "Swim",
-        "Fly",
+        "Run",
         "Walk",
-        "Run"
+        "Fly",
+        "Swim"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8752,12 +8752,12 @@ window.class4Paper2Data = {
       "tagText": "Rhyming Word",
       "question": "Which word rhymes with 'Cat'?",
       "options": [
-        "Bat",
-        "Dog",
         "Cow",
+        "Dog",
+        "Bat",
         "Pen"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8768,12 +8768,12 @@ window.class4Paper2Data = {
       "tagText": "Preposition",
       "question": "The apple is ____ the basket.",
       "options": [
-        "In",
-        "On",
         "At",
-        "To"
+        "On",
+        "To",
+        "In"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8785,12 +8785,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
-        "214",
         "241",
         "124",
+        "214",
         "412"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "B=2, A=1, D=4 -> 214.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8802,9 +8802,9 @@ window.class4Paper2Data = {
       "question": "३ : ९ :: ६ : ____?",
       "options": [
         "३६",
+        "३०",
         "१८",
-        "१२",
-        "३०"
+        "१२"
       ],
       "answer": 0,
       "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
@@ -8817,12 +8817,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर क्रम",
       "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
       "options": [
-        "V",
-        "U",
         "T",
-        "S"
+        "U",
+        "S",
+        "V"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8834,12 +8834,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "उत्तर दिशा",
-        "दक्षिण दिशा",
+        "वायव्य दिशा",
         "पूर्व दिशा",
-        "वायव्य दिशा"
+        "दक्षिण दिशा",
+        "उत्तर दिशा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8850,12 +8850,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "८",
+        "७",
         "४",
-        "५",
-        "७"
+        "८",
+        "५"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -8868,8 +8868,8 @@ window.class4Paper2Data = {
       "options": [
         "Teeth",
         "Tooths",
-        "Toothes",
-        "Teethes"
+        "Teethes",
+        "Toothes"
       ],
       "answer": 0,
       "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
@@ -8884,9 +8884,9 @@ window.class4Paper2Data = {
       "question": "Complete: 'Slow and steady wins the ____.'",
       "options": [
         "Race",
-        "Game",
+        "Prize",
         "Match",
-        "Prize"
+        "Game"
       ],
       "answer": 0,
       "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
@@ -8899,12 +8899,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील कूटप्रश्न",
       "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
       "options": [
+        "२० मुले",
         "२१ मुले",
         "२२ मुले",
-        "२३ मुले",
-        "२० मुले"
+        "२३ मुले"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -8916,12 +8916,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
-        "३० वर्षे",
         "२५ वर्षे",
-        "३५ वर्षे",
-        "४० वर्षे"
+        "४० वर्षे",
+        "३० वर्षे",
+        "३५ वर्षे"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -8935,12 +8935,12 @@ window.class4Paper2Data = {
       "tagText": "Opposites",
       "question": "What is the opposite of 'Come'?",
       "options": [
-        "Go",
-        "Run",
         "Walk",
+        "Run",
+        "Go",
         "Stop"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8951,12 +8951,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "He saw ____ elephant in the zoo.",
       "options": [
-        "An",
-        "A",
         "The",
+        "A",
+        "An",
         "No article"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8967,12 +8967,12 @@ window.class4Paper2Data = {
       "tagText": "Singular-Plural",
       "question": "What is the plural of 'Tree'?",
       "options": [
-        "Trees",
         "Treees",
         "Tries",
-        "Treing"
+        "Treing",
+        "Trees"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Tree चे अनेकवचन 'Trees' होते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -8984,12 +8984,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
-        "सायकल",
-        "पेन",
         "पेन्सिल",
-        "वही"
+        "पेन",
+        "वही",
+        "सायकल"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9000,12 +9000,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
-        "करडू",
-        "पाडस",
         "छावा",
+        "पाडस",
+        "करडू",
         "पिल्लू"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9016,12 +9016,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
       "options": [
-        "५०",
         "६०",
-        "४५",
-        "५५"
+        "५०",
+        "५५",
+        "४५"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "१० चा पाढा: ४० + १० = ५०.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9034,9 +9034,9 @@ window.class4Paper2Data = {
       "question": "What is missing: 'Where are you going'?",
       "options": [
         "Question mark (?)",
-        "Full stop (.)",
         "Comma (,)",
-        "Hyphen (-)"
+        "Hyphen (-)",
+        "Full stop (.)"
       ],
       "answer": 0,
       "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
@@ -9049,12 +9049,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the opposite gender of 'Tiger'?",
       "options": [
-        "Tigress",
         "Lioness",
+        "Tigress",
         "Cow",
         "Mare"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9066,9 +9066,9 @@ window.class4Paper2Data = {
       "question": "Fish ____ in water.",
       "options": [
         "Swim",
-        "Fly",
+        "Run",
         "Walk",
-        "Run"
+        "Fly"
       ],
       "answer": 0,
       "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
@@ -9082,12 +9082,12 @@ window.class4Paper2Data = {
       "tagText": "Rhyming Word",
       "question": "Which word rhymes with 'Cat'?",
       "options": [
-        "Bat",
         "Dog",
+        "Bat",
         "Cow",
         "Pen"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9098,12 +9098,12 @@ window.class4Paper2Data = {
       "tagText": "Preposition",
       "question": "The apple is ____ the basket.",
       "options": [
-        "In",
-        "On",
+        "To",
         "At",
-        "To"
+        "In",
+        "On"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9115,12 +9115,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
-        "214",
         "241",
-        "124",
-        "412"
+        "214",
+        "412",
+        "124"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "B=2, A=1, D=4 -> 214.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9131,12 +9131,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "३ : ९ :: ६ : ____?",
       "options": [
-        "३६",
-        "१८",
         "१२",
-        "३०"
+        "१८",
+        "३०",
+        "३६"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9147,12 +9147,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर क्रम",
       "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
       "options": [
-        "V",
         "U",
+        "V",
         "T",
         "S"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9165,9 +9165,9 @@ window.class4Paper2Data = {
       "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
       "options": [
         "उत्तर दिशा",
+        "वायव्य दिशा",
         "दक्षिण दिशा",
-        "पूर्व दिशा",
-        "वायव्य दिशा"
+        "पूर्व दिशा"
       ],
       "answer": 0,
       "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
@@ -9180,12 +9180,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "८",
-        "४",
         "५",
-        "७"
+        "७",
+        "४",
+        "८"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9196,12 +9196,12 @@ window.class4Paper2Data = {
       "tagText": "Plural कूटप्रश्न",
       "question": "What is the plural form of 'Tooth'?",
       "options": [
-        "Teeth",
-        "Tooths",
+        "Teethes",
         "Toothes",
-        "Teethes"
+        "Teeth",
+        "Tooths"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -9214,8 +9214,8 @@ window.class4Paper2Data = {
       "question": "Complete: 'Slow and steady wins the ____.'",
       "options": [
         "Race",
-        "Game",
         "Match",
+        "Game",
         "Prize"
       ],
       "answer": 0,
@@ -9230,9 +9230,9 @@ window.class4Paper2Data = {
       "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
       "options": [
         "२१ मुले",
-        "२२ मुले",
+        "२० मुले",
         "२३ मुले",
-        "२० मुले"
+        "२२ मुले"
       ],
       "answer": 0,
       "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
@@ -9246,12 +9246,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
-        "३० वर्षे",
-        "२५ वर्षे",
         "३५ वर्षे",
-        "४० वर्षे"
+        "२५ वर्षे",
+        "४० वर्षे",
+        "३० वर्षे"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -9265,12 +9265,12 @@ window.class4Paper2Data = {
       "tagText": "Opposites",
       "question": "What is the opposite of 'Come'?",
       "options": [
-        "Go",
-        "Run",
         "Walk",
-        "Stop"
+        "Stop",
+        "Run",
+        "Go"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9297,12 +9297,12 @@ window.class4Paper2Data = {
       "tagText": "Singular-Plural",
       "question": "What is the plural of 'Tree'?",
       "options": [
-        "Trees",
         "Treees",
-        "Tries",
-        "Treing"
+        "Treing",
+        "Trees",
+        "Tries"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Tree चे अनेकवचन 'Trees' होते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9314,12 +9314,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
-        "सायकल",
-        "पेन",
         "पेन्सिल",
+        "पेन",
+        "सायकल",
         "वही"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9330,12 +9330,12 @@ window.class4Paper2Data = {
       "tagText": "समसंबंध",
       "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
-        "करडू",
         "पाडस",
+        "करडू",
         "छावा",
         "पिल्लू"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9346,12 +9346,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
       "options": [
+        "५५",
         "५०",
-        "६०",
         "४५",
-        "५५"
+        "६०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "१० चा पाढा: ४० + १० = ५०.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9363,12 +9363,12 @@ window.class4Paper2Data = {
       "tagText": "Punctuation",
       "question": "What is missing: 'Where are you going'?",
       "options": [
-        "Question mark (?)",
-        "Full stop (.)",
+        "Hyphen (-)",
         "Comma (,)",
-        "Hyphen (-)"
+        "Full stop (.)",
+        "Question mark (?)"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9381,8 +9381,8 @@ window.class4Paper2Data = {
       "options": [
         "Tigress",
         "Lioness",
-        "Cow",
-        "Mare"
+        "Mare",
+        "Cow"
       ],
       "answer": 0,
       "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
@@ -9395,12 +9395,12 @@ window.class4Paper2Data = {
       "tagText": "Action Word",
       "question": "Fish ____ in water.",
       "options": [
+        "Walk",
         "Swim",
         "Fly",
-        "Walk",
         "Run"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9412,12 +9412,12 @@ window.class4Paper2Data = {
       "tagText": "Rhyming Word",
       "question": "Which word rhymes with 'Cat'?",
       "options": [
-        "Bat",
         "Dog",
         "Cow",
-        "Pen"
+        "Pen",
+        "Bat"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9428,12 +9428,12 @@ window.class4Paper2Data = {
       "tagText": "Preposition",
       "question": "The apple is ____ the basket.",
       "options": [
-        "In",
-        "On",
+        "To",
         "At",
-        "To"
+        "In",
+        "On"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9445,12 +9445,12 @@ window.class4Paper2Data = {
       "tagText": "सांकेतिक भाषा",
       "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
+        "124",
         "214",
         "241",
-        "124",
         "412"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "B=2, A=1, D=4 -> 214.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9462,9 +9462,9 @@ window.class4Paper2Data = {
       "question": "३ : ९ :: ६ : ____?",
       "options": [
         "३६",
-        "१८",
         "१२",
-        "३०"
+        "३०",
+        "१८"
       ],
       "answer": 0,
       "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
@@ -9477,12 +9477,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर क्रम",
       "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
       "options": [
-        "V",
-        "U",
+        "S",
         "T",
-        "S"
+        "U",
+        "V"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9494,12 +9494,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "उत्तर दिशा",
         "दक्षिण दिशा",
         "पूर्व दिशा",
+        "उत्तर दिशा",
         "वायव्य दिशा"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9510,12 +9510,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "८",
-        "४",
         "५",
-        "७"
+        "८",
+        "७",
+        "४"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9544,9 +9544,9 @@ window.class4Paper2Data = {
       "question": "Complete: 'Slow and steady wins the ____.'",
       "options": [
         "Race",
+        "Prize",
         "Game",
-        "Match",
-        "Prize"
+        "Match"
       ],
       "answer": 0,
       "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
@@ -9559,12 +9559,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील कूटप्रश्न",
       "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
       "options": [
-        "२१ मुले",
+        "२० मुले",
         "२२ मुले",
-        "२३ मुले",
-        "२० मुले"
+        "२१ मुले",
+        "२३ मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -9576,12 +9576,12 @@ window.class4Paper2Data = {
       "tagText": "वय कूटप्रश्न",
       "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
-        "३० वर्षे",
         "२५ वर्षे",
+        "४० वर्षे",
         "३५ वर्षे",
-        "४० वर्षे"
+        "३० वर्षे"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -9596,9 +9596,9 @@ window.class4Paper2Data = {
       "question": "What is the opposite of 'Come'?",
       "options": [
         "Go",
-        "Run",
+        "Stop",
         "Walk",
-        "Stop"
+        "Run"
       ],
       "answer": 0,
       "explanation": "Come (येणे) चा विरुद्धार्थी शब्द Go (जाणे) आहे.",
@@ -9611,12 +9611,12 @@ window.class4Paper2Data = {
       "tagText": "Articles",
       "question": "He saw ____ elephant in the zoo.",
       "options": [
-        "An",
+        "No article",
         "A",
-        "The",
-        "No article"
+        "An",
+        "The"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'Elephant' चा उच्चार स्वरासारखा असल्याने 'An' येईल.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9627,12 +9627,12 @@ window.class4Paper2Data = {
       "tagText": "Singular-Plural",
       "question": "What is the plural of 'Tree'?",
       "options": [
-        "Trees",
-        "Treees",
+        "Treing",
         "Tries",
-        "Treing"
+        "Treees",
+        "Trees"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "Tree चे अनेकवचन 'Trees' होते.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9644,12 +9644,12 @@ window.class4Paper2Data = {
       "tagText": "विसंगत घटक",
       "question": "गटात न बसणारा शब्द ओळखा: पेन, पेन्सिल, वही, सायकल",
       "options": [
-        "सायकल",
-        "पेन",
         "पेन्सिल",
-        "वही"
+        "वही",
+        "पेन",
+        "सायकल"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "सायकल हे वाहन आहे, इतर सर्व शैक्षणिक वस्तू आहेत.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9661,9 +9661,9 @@ window.class4Paper2Data = {
       "question": "गाईचे वासरू, तसे शेळीचे काय असते?",
       "options": [
         "करडू",
-        "पाडस",
         "छावा",
-        "पिल्लू"
+        "पिल्लू",
+        "पाडस"
       ],
       "answer": 0,
       "explanation": "शेळीच्या पिल्लाला 'करडू' म्हणतात.",
@@ -9676,12 +9676,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या क्रम",
       "question": "१०, २०, ३०, ४०, ____ पुढील पद कोणते?",
       "options": [
+        "५५",
         "५०",
         "६०",
-        "४५",
-        "५५"
+        "४५"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "१० चा पाढा: ४० + १० = ५०.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
@@ -9694,9 +9694,9 @@ window.class4Paper2Data = {
       "question": "What is missing: 'Where are you going'?",
       "options": [
         "Question mark (?)",
+        "Hyphen (-)",
         "Full stop (.)",
-        "Comma (,)",
-        "Hyphen (-)"
+        "Comma (,)"
       ],
       "answer": 0,
       "explanation": "हा प्रश्न असल्याने शेवटी प्रश्नचिन्ह (?) हवे.",
@@ -9709,12 +9709,12 @@ window.class4Paper2Data = {
       "tagText": "Gender",
       "question": "What is the opposite gender of 'Tiger'?",
       "options": [
-        "Tigress",
-        "Lioness",
+        "Mare",
         "Cow",
-        "Mare"
+        "Tigress",
+        "Lioness"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "Tiger चे स्त्रीलिंगी रूप 'Tigress' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9725,12 +9725,12 @@ window.class4Paper2Data = {
       "tagText": "Action Word",
       "question": "Fish ____ in water.",
       "options": [
-        "Swim",
         "Fly",
         "Walk",
+        "Swim",
         "Run"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "मासे पाण्यात पोहतात -> Fish swim.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9742,12 +9742,12 @@ window.class4Paper2Data = {
       "tagText": "Rhyming Word",
       "question": "Which word rhymes with 'Cat'?",
       "options": [
+        "Pen",
         "Bat",
-        "Dog",
         "Cow",
-        "Pen"
+        "Dog"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "Cat शी यमक जुळणारा शब्द 'Bat' आहे.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9758,12 +9758,12 @@ window.class4Paper2Data = {
       "tagText": "Preposition",
       "question": "The apple is ____ the basket.",
       "options": [
-        "In",
+        "To",
         "On",
         "At",
-        "To"
+        "In"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "टोपलीच्या आत असल्याने 'In the basket' येईल.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9776,8 +9776,8 @@ window.class4Paper2Data = {
       "question": "जर १ = A, २ = B, ३ = C... तर 'BAD' चा सांकेतिक अंक कोणता?",
       "options": [
         "214",
-        "241",
         "124",
+        "241",
         "412"
       ],
       "answer": 0,
@@ -9791,12 +9791,12 @@ window.class4Paper2Data = {
       "tagText": "संख्या समसंबंध",
       "question": "३ : ९ :: ६ : ____?",
       "options": [
+        "१२",
         "३६",
         "१८",
-        "१२",
         "३०"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "३ चा वर्ग ९, म्हणून ६ चा वर्ग ३६ (६ × ६ = ३६).",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9807,12 +9807,12 @@ window.class4Paper2Data = {
       "tagText": "अक्षर क्रम",
       "question": "Z, Y, X, W, ____ पुढील अक्षर कोणते?",
       "options": [
-        "V",
-        "U",
         "T",
-        "S"
+        "U",
+        "S",
+        "V"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "उलटा वर्णानुक्रम: W च्या आधी V येते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9824,12 +9824,12 @@ window.class4Paper2Data = {
       "tagText": "दिशाज्ञान",
       "question": "माझे तोंड पश्चिमेकडे असल्यास माझ्या उजव्या हाताला कोणती दिशा असेल?",
       "options": [
-        "उत्तर दिशा",
         "दक्षिण दिशा",
+        "वायव्य दिशा",
         "पूर्व दिशा",
-        "वायव्य दिशा"
+        "उत्तर दिशा"
       ],
-      "answer": 0,
+      "answer": 3,
       "explanation": "पश्चिमेकडे तोंड केल्यास उजव्या हाताला उत्तर दिशा असते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9840,12 +9840,12 @@ window.class4Paper2Data = {
       "tagText": "आरशातील प्रतिमा",
       "question": "खालीलपैकी कोणत्या अंकाची आरशातील प्रतिमा मूळ अंकासारखीच दिसते?",
       "options": [
-        "८",
-        "४",
         "५",
-        "७"
+        "७",
+        "८",
+        "४"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "'८' या अंकाची प्रतिमा आरशात ८ अशीच दिसते.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
@@ -9856,12 +9856,12 @@ window.class4Paper2Data = {
       "tagText": "Plural कूटप्रश्न",
       "question": "What is the plural form of 'Tooth'?",
       "options": [
-        "Teeth",
         "Tooths",
+        "Teeth",
         "Toothes",
         "Teethes"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Tooth' चे अनियमित अनेकवचन 'Teeth' होते.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -9873,12 +9873,12 @@ window.class4Paper2Data = {
       "tagText": "Proverb",
       "question": "Complete: 'Slow and steady wins the ____.'",
       "options": [
+        "Prize",
         "Race",
         "Game",
-        "Match",
-        "Prize"
+        "Match"
       ],
-      "answer": 0,
+      "answer": 1,
       "explanation": "'Slow and steady wins the race' ही सुप्रसिद्ध म्हण आहे.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -9889,12 +9889,12 @@ window.class4Paper2Data = {
       "tagText": "रांगेतील कूटप्रश्न",
       "question": "मुलांच्या रांगेत समीर डावीकडून १० वा आणि उजवीकडून १२ वा आहे, तर रांगेत एकूण किती मुले आहेत?",
       "options": [
-        "२१ मुले",
-        "२२ मुले",
         "२३ मुले",
+        "२२ मुले",
+        "२१ मुले",
         "२० मुले"
       ],
-      "answer": 0,
+      "answer": 2,
       "explanation": "एकूण मुले = (१० + १२) - १ = २२ - १ = २१ मुले.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
@@ -9907,9 +9907,9 @@ window.class4Paper2Data = {
       "question": "आईचे वय आज मुलाच्या वयाच्या ३ पट आहे. मुलाचे वय १० वर्षे असल्यास, आईचे आजचे वय किती?",
       "options": [
         "३० वर्षे",
-        "२५ वर्षे",
         "३५ वर्षे",
-        "४० वर्षे"
+        "४० वर्षे",
+        "२५ वर्षे"
       ],
       "answer": 0,
       "explanation": "आईचे वय = १० × ३ = ३० वर्षे.",
