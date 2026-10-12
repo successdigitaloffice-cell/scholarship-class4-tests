@@ -2314,328 +2314,345 @@ window.class4Paper2Data = {
     {
       "subject": "इंग्रजी",
       "type": "PYQ",
-      "pyqYear": "MSCE 2022",
-      "tagText": "मूलभूत संकल्पना",
-      "question": "In topic 'Reading Comprehension Passages', what is the correct plural of 'Book'?",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Story Passage",
+      "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
+      "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 1.** What is the name of Raju's dog in the story?",
       "options": [
-        "Books",
-        "Bookes",
-        "Bookies",
-        "Boking"
+        "Bruno",
+        "Tommy",
+        "Max",
+        "Rocky"
       ],
       "answer": 0,
-      "explanation": "Book चे अनेकवचन 'Books' होते.",
+      "explanation": "The passage states in the first sentence: 'Raju has a lovely dog named Bruno.'",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
     },
     {
       "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Articles",
-      "question": "We use '____' before words starting with vowel sound like 'Apple':",
+      "tagText": "Story Detail",
+      "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
+      "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 2.** What did Raju drop in the tall grass in the park?",
       "options": [
-        "An",
-        "A",
-        "The",
-        "No article"
+        "His small red school badge",
+        "His water bottle",
+        "His pencil box",
+        "His sports ball"
       ],
       "answer": 0,
-      "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
+      "explanation": "Raju dropped his small red school badge in the tall grass.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
     },
     {
       "subject": "इंग्रजी",
       "type": "IMP",
-      "tagText": "Punctuation",
-      "question": "Which mark is used at the end of a question?",
+      "tagText": "Vocabulary",
+      "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
+      "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 3.** What is the meaning of 'FAITHFUL' in the story?",
       "options": [
-        "Question mark (?)",
-        "Full stop (.)",
-        "Comma (,)",
-        "Exclamation mark (!)"
+        "Loyal and trustworthy (प्रामाणिक व विश्वासू)",
+        "Angry and cruel",
+        "Lazy and sleepy",
+        "Afraid of darkness"
       ],
       "answer": 0,
-      "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
-      "difficulty": "सोपे",
-      "difficultyEn": "Easy"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "PYQ",
-      "pyqYear": "MSCE 2022",
-      "tagText": "Gender",
-      "question": "What is the feminine gender of 'Boy'?",
-      "options": [
-        "Girl",
-        "Woman",
-        "Sister",
-        "Mother"
-      ],
-      "answer": 0,
-      "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
+      "explanation": "Faithful means loyal, devoted, and dependable (विश्वासू / एकनिष्ठ).",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
     },
     {
       "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Prepositions",
-      "question": "The cat is sitting ____ the table.",
+      "tagText": "Action Sequence",
+      "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
+      "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 4.** How did Bruno find the lost red badge?",
       "options": [
-        "Under",
-        "Into",
-        "Between",
-        "Among"
+        "He sniffed the grass and searched carefully",
+        "He ran away to his home",
+        "He called other street dogs",
+        "He barked at the birds"
       ],
       "answer": 0,
-      "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
-      "difficulty": "सोपे",
-      "difficultyEn": "Easy"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "IMP",
-      "tagText": "Greetings",
-      "question": "What do we say when meeting someone in the morning?",
-      "options": [
-        "Good Morning",
-        "Good Night",
-        "Good Afternoon",
-        "Good Evening"
-      ],
-      "answer": 0,
-      "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
+      "explanation": "Bruno sniffed the grass and searched everywhere until he gently picked up the badge.",
       "difficulty": "सोपे",
       "difficultyEn": "Easy"
     },
     {
       "subject": "इंग्रजी",
       "type": "PYQ",
-      "pyqYear": "MSCE 2022",
-      "tagText": "Plural Rules",
-      "question": "What is the plural form of 'Child'?",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Story Title",
+      "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
+      "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 5.** Which is the best title for this story?",
       "options": [
-        "Children",
-        "Childs",
-        "Childrens",
-        "Childes"
+        "Bruno, the Clever and Faithful Friend",
+        "How to Lose a School Badge",
+        "The Rainy Evening in Park",
+        "Buying New Slippers"
       ],
       "answer": 0,
-      "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
+      "explanation": "The story highlights Bruno's loyalty and cleverness in helping Raju.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2024",
+      "tagText": "Poem Comprehension",
+      "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
+      "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 6.** What were the little seeds doing down in the ground?",
+      "options": [
+        "Resting without making a sound",
+        "Flying high in the sky",
+        "Singing loudly",
+        "Running on the road"
+      ],
+      "answer": 0,
+      "explanation": "The poem says: 'Little seeds down in the ground, Resting without making a sound.'",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Rhyming Words",
+      "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
+      "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 7.** Find the rhyming pair from the poem: 'sky' rhymes with:",
+      "options": [
+        "by (sky - by)",
+        "ground",
+        "sweet",
+        "wings"
+      ],
+      "answer": 0,
+      "explanation": "In the poem: 'sky' rhymes with 'by', and 'make' rhymes with 'wake'.",
+      "difficulty": "सोपे",
+      "difficultyEn": "Easy"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Poem Detail",
+      "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
+      "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 8.** What colours of flowers are mentioned in the poem?",
+      "options": [
+        "Red and yellow flowers",
+        "Blue and black flowers",
+        "Only white flowers",
+        "Silver and golden flowers"
+      ],
+      "answer": 0,
+      "explanation": "The poem mentions: 'Red and yellow flowers sweet'.",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
     },
     {
       "subject": "इंग्रजी",
       "type": "Concept",
-      "tagText": "Spelling Rule",
-      "question": "Choose the correctly spelt word:",
+      "tagText": "Nature Appreciation",
+      "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
+      "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 9.** Which bird is heard singing in the garden?",
       "options": [
-        "Beautiful",
-        "Beautifull",
-        "Beutiful",
-        "Beatiful"
+        "Robin",
+        "Crow",
+        "Eagle",
+        "Owl"
       ],
       "answer": 0,
-      "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "IMP",
-      "tagText": "Pronoun",
-      "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
-      "options": [
-        "He",
-        "She",
-        "It",
-        "They"
-      ],
-      "answer": 0,
-      "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "PYQ",
-      "pyqYear": "MSCE 2022",
-      "tagText": "Action Verb",
-      "question": "Birds ____ in the sky.",
-      "options": [
-        "Fly",
-        "Swim",
-        "Run",
-        "Crawl"
-      ],
-      "answer": 0,
-      "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "Concept",
-      "tagText": "Articles",
-      "question": "The sun rises in ____ east.",
-      "options": [
-        "The",
-        "A",
-        "An",
-        "One"
-      ],
-      "answer": 0,
-      "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "IMP",
-      "tagText": "Gender",
-      "question": "What is the feminine of 'King'?",
-      "options": [
-        "Queen",
-        "Princess",
-        "Lady",
-        "Duchess"
-      ],
-      "answer": 0,
-      "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "PYQ",
-      "pyqYear": "MSCE 2022",
-      "tagText": "Plural",
-      "question": "What is the plural of 'Mango'?",
-      "options": [
-        "Mangoes",
-        "Mangos",
-        "Mangoies",
-        "Mangi"
-      ],
-      "answer": 0,
-      "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "Concept",
-      "tagText": "Prepositions",
-      "question": "The book is ____ the table.",
-      "options": [
-        "On",
-        "In",
-        "At",
-        "To"
-      ],
-      "answer": 0,
-      "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "IMP",
-      "tagText": "Punctuation",
-      "question": "Identify the exclamation mark:",
-      "options": [
-        "!",
-        "?",
-        ".",
-        ","
-      ],
-      "answer": 0,
-      "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
-      "difficulty": "मध्यम",
-      "difficultyEn": "Medium"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "PYQ",
-      "pyqYear": "MSCE 2022",
-      "tagText": "Spelling",
-      "question": "Which word is spelt INCORRECTLY?",
-      "options": [
-        "Tommorow",
-        "Tomorrow",
-        "Today",
-        "Yesterday"
-      ],
-      "answer": 0,
-      "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
+      "explanation": "The poem concludes with: 'Hear how the little robin sings!'",
       "difficulty": "मध्यम",
       "difficultyEn": "Medium"
     },
     {
       "subject": "इंग्रजी",
       "type": "HOTS",
-      "tagText": "Plural कूटप्रश्न",
-      "question": "Which of the following words has the SAME form in both singular and plural?",
+      "tagText": "Poetic Meaning",
+      "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
+      "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 10.** What helps the little seed to wake up and grow into a plant?",
       "options": [
-        "Sheep",
-        "Fox",
-        "Ox",
-        "Mouse"
+        "Warm sunshine and gentle raindrops",
+        "Cold snow and freezing ice",
+        "Smoke and dust",
+        "Dark night with no water"
       ],
       "answer": 0,
-      "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
-      "difficulty": "कठीण",
-      "difficultyEn": "Hard"
+      "explanation": "Seeds need warm sunshine and gentle raindrops to sprout.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
     },
     {
       "subject": "इंग्रजी",
       "type": "PYQ",
       "pyqYear": "MSCE 2022",
-      "tagText": "Riddle / कोडे",
-      "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+      "tagText": "Nature Science",
+      "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
+      "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 11.** Where do honeybees live together in a big colony?",
       "options": [
-        "An Echo",
-        "A Cloud",
-        "A Shadow",
-        "A Tree"
+        "Inside a hive",
+        "Under the deep water",
+        "In a spider web",
+        "In a birds' nest"
       ],
       "answer": 0,
-      "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+      "explanation": "The passage states: 'Honeybees live together in a big hive called a colony.'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Factual Detail",
+      "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
+      "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 12.** What do honeybees collect from blossoms to make honey?",
+      "options": [
+        "Sweet nectar and pollen",
+        "Dry soil and sand",
+        "Raindrops and ice",
+        "Grass and twigs"
+      ],
+      "answer": 0,
+      "explanation": "Honeybees collect sweet nectar and golden pollen from blossoms.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Health Benefits",
+      "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
+      "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 13.** According to the passage, how does honey help human health?",
+      "options": [
+        "It gives instant energy and heals a sore throat",
+        "It makes people sleepy and weak",
+        "It causes bad toothache",
+        "It has no taste at all"
+      ],
+      "answer": 0,
+      "explanation": "The passage mentions honey gives instant energy and heals a sore throat.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Contextual Antonym",
+      "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
+      "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 14.** What is the antonym of 'SWEET' in the passage?",
+      "options": [
+        "Bitter",
+        "Tasty",
+        "Delicious",
+        "Fresh"
+      ],
+      "answer": 0,
+      "explanation": "The opposite of sweet (गोड) is bitter (कडू).",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "HOTS",
+      "tagText": "Life Lesson",
+      "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
+      "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 15.** What important value can students learn from worker honeybees?",
+      "options": [
+        "Hard work and teamwork (कष्ट आणि एकजूट)",
+        "Quarrelling with friends",
+        "Wasting precious time",
+        "Sleeping all day long"
+      ],
+      "answer": 0,
+      "explanation": "Worker honeybees teach us the value of hard work, discipline, and teamwork.",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "PYQ",
+      "pyqYear": "MSCE 2023",
+      "tagText": "Dialogue Comprehension",
+      "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
+      "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 16.** What game do Aman and Meera plan to play during lunch break?",
+      "options": [
+        "Badminton",
+        "Cricket",
+        "Football",
+        "Chess"
+      ],
+      "answer": 0,
+      "explanation": "Meera says: 'Let's play a game of badminton before the school bell rings!'",
+      "difficulty": "मध्यम",
+      "difficultyEn": "Medium"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Care & Safety",
+      "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
+      "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 17.** Why did Aman want to clear the court before starting the game?",
+      "options": [
+        "So nobody slips on the dry leaves",
+        "Because the teacher told him to punish Meera",
+        "To build a mud house",
+        "To find a hidden treasure"
+      ],
+      "answer": 0,
+      "explanation": "Aman wanted to clear the dry leaves so that nobody slips and gets hurt.",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "IMP",
+      "tagText": "Sportsmanship",
+      "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
+      "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 18.** According to Meera, what does true sportsmanship mean?",
+      "options": [
+        "Keeping everyone safe and having fun together",
+        "Winning at any cost even by cheating",
+        "Fighting with opponents",
+        "Breaking sports equipment"
+      ],
+      "answer": 0,
+      "explanation": "Meera says: 'True sportsmanship means keeping everyone safe and having fun together!'",
+      "difficulty": "कठीण",
+      "difficultyEn": "Hard"
+    },
+    {
+      "subject": "इंग्रजी",
+      "type": "Concept",
+      "tagText": "Polite Speech",
+      "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
+      "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 19.** When Aman greeted Meera, which friendly greeting did he use?",
+      "options": [
+        "Hello Meera!",
+        "Goodbye Meera!",
+        "Go away Meera!",
+        "Hurry up!"
+      ],
+      "answer": 0,
+      "explanation": "Aman started the conversation with: 'Hello Meera!'.",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
     },
     {
       "subject": "इंग्रजी",
       "type": "HOTS",
-      "tagText": "Proverb / म्हण",
-      "question": "Complete the proverb: 'Practice makes a man ____.'",
+      "tagText": "Moral Takeaway",
+      "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
+      "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 20.** What is Aman's belief about winning or losing in a game?",
       "options": [
-        "Perfect",
-        "Great",
-        "Rich",
-        "Strong"
+        "It doesn't matter as long as we play with honesty and joy",
+        "Winning is the only thing that matters in life",
+        "Losing players should be punished",
+        "Nobody should ever play any games"
       ],
       "answer": 0,
-      "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
-      "difficulty": "कठीण",
-      "difficultyEn": "Hard"
-    },
-    {
-      "subject": "इंग्रजी",
-      "type": "PYQ",
-      "pyqYear": "MSCE 2022",
-      "tagText": "कथा आकलन",
-      "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
-      "options": [
-        "Tortoise",
-        "Hare",
-        "Fox",
-        "Wolf"
-      ],
-      "answer": 0,
-      "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+      "explanation": "Aman says: 'Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.'",
       "difficulty": "कठीण",
       "difficultyEn": "Hard"
     }
