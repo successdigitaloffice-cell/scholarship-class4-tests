@@ -11,8 +11,8 @@ eval(p1File);
 eval(p2File);
 eval(metaFile);
 
-const p1 = global.window.scholarshipClass4.paper1;
-const p2 = global.window.scholarshipClass4.paper2;
+const p1 = global.window.class4Paper1Data || (global.window.scholarshipClass4 && global.window.scholarshipClass4.paper1);
+const p2 = global.window.class4Paper2Data || (global.window.scholarshipClass4 && global.window.scholarshipClass4.paper2);
 
 let errors = [];
 let totalP1Q = 0;
