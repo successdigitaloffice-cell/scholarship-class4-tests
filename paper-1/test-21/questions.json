@@ -6,12 +6,12 @@
     "tagText": "काटकोन",
     "question": "<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"150\" height=\"120\" viewBox=\"0 0 150 120\">\n            <line x1=\"25\" y1=\"95\" x2=\"135\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <line x1=\"25\" y1=\"95\" x2=\"25\" y2=\"25\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <rect x=\"25\" y=\"75\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <circle cx=\"25\" cy=\"95\" r=\"4\" fill=\"#1e3a8a\"/>\n            <text x=\"135\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">B</text>\n            <text x=\"15\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">A</text>\n        </svg>\n    </div>वरील आकृतीत दाखवलेला कोन कोणत्या प्रकारचा आहे?",
     "options": [
-      "काटकोन (Right Angle)",
-      "लघुकोन",
       "विशालकोन",
-      "सरळकोन"
+      "लघुकोन",
+      "सरळकोन",
+      "काटकोन (Right Angle)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "९० अंशाच्या कोनाला 'काटकोन' म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -23,8 +23,8 @@
     "question": "काटकोनाचे माप किती अंश असते?",
     "options": [
       "९०°",
-      "६०°",
       "१२०°",
+      "६०°",
       "१८०°"
     ],
     "answer": 0,
@@ -38,12 +38,12 @@
     "tagText": "लघुकोन",
     "question": "<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"150\" height=\"120\" viewBox=\"0 0 150 120\">\n            <line x1=\"25\" y1=\"95\" x2=\"135\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <line x1=\"25\" y1=\"95\" x2=\"95\" y2=\"40\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <path d=\"M 50 95 A 25 25 0 0 0 45 78\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <circle cx=\"25\" cy=\"95\" r=\"4\" fill=\"#1e3a8a\"/>\n            <text x=\"135\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">B</text>\n            <text x=\"15\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">A</text>\n        </svg>\n    </div>वरील आकृतीत दर्शवलेला कोन कोणत्या प्रकारचा आहे?",
     "options": [
-      "लघुकोन (Acute Angle)",
       "काटकोन",
+      "लघुकोन (Acute Angle)",
       "विशालकोन",
       "सरळकोन"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "९० अंशांपेक्षा लहान असणाऱ्या कोनाला लघुकोन म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -55,12 +55,12 @@
     "tagText": "विशालकोन",
     "question": "<div class=\"flex flex-col items-center justify-center my-3 p-3 bg-amber-50/50 rounded-xl border border-amber-200\">\n        <svg width=\"150\" height=\"120\" viewBox=\"0 0 150 120\">\n            <line x1=\"25\" y1=\"95\" x2=\"135\" y2=\"95\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <line x1=\"75\" y1=\"95\" x2=\"20\" y2=\"45\" stroke=\"#1e3a8a\" stroke-width=\"3\"/>\n            <path d=\"M 50 95 A 25 25 0 0 1 55 75\" fill=\"none\" stroke=\"#dc2626\" stroke-width=\"2\"/>\n            <circle cx=\"25\" cy=\"95\" r=\"4\" fill=\"#1e3a8a\"/>\n            <text x=\"135\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">B</text>\n            <text x=\"15\" y=\"112\" font-size=\"11\" font-weight=\"bold\" fill=\"#1e3a8a\">A</text>\n        </svg>\n    </div>वरील आकृतीतील कोन कोणत्या प्रकारचा आहे?",
     "options": [
-      "विशालकोन (Obtuse Angle)",
-      "लघुकोन",
+      "प्रविशालकोन",
       "काटकोन",
-      "प्रविशालकोन"
+      "विशालकोन (Obtuse Angle)",
+      "लघुकोन"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "९० अंशांपेक्षा मोठा व १८० अंशांपेक्षा लहान कोनाला विशालकोन म्हणतात.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -72,9 +72,9 @@
     "question": "कोन ABC मध्ये कोनाचा शिरोबिंदू कोणता आहे?",
     "options": [
       "बिंदू B",
+      "बिंदू AB",
       "बिंदू A",
-      "बिंदू C",
-      "बिंदू AB"
+      "बिंदू C"
     ],
     "answer": 0,
     "explanation": "ज्या बिंदूपाशी दोन भुजा मिळतात तो शिरोबिंदू असतो, म्हणजे बिंदू B.",
@@ -87,12 +87,12 @@
     "tagText": "कोनाच्या भुजा",
     "question": "कोन PQR च्या दोन भुजा कोणत्या आहेत?",
     "options": [
-      "भुजा QP व भुजा QR",
       "भुजा PQ व भुजा PR",
-      "भुजा QR व भुजा PR",
-      "केवळ भुजा PQ"
+      "केवळ भुजा PQ",
+      "भुजा QP व भुजा QR",
+      "भुजा QR व भुजा PR"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "शिरोबिंदू Q पासून निघणाऱ्या भुजा QP आणि भुजा QR आहेत.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -106,8 +106,8 @@
     "options": [
       "काटकोन",
       "लघुकोन",
-      "विशालकोन",
-      "सरळकोन"
+      "सरळकोन",
+      "विशालकोन"
     ],
     "answer": 0,
     "explanation": "३ वाजता दोन्ही काट्यांमध्ये बरोबर ९० अंशाचा काटकोन तयार होतो.",
@@ -120,12 +120,12 @@
     "tagText": "घड्याळातील कोन",
     "question": "घड्याळात २ वाजता तास काटा व मिनिट काटा यांमध्ये कोणता कोन होतो?",
     "options": [
+      "सरळकोन",
       "लघुकोन",
-      "काटकोन",
       "विशालकोन",
-      "सरळकोन"
+      "काटकोन"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "२ वाजता कोनाचे माप ६० अंश असते, जो ९०° पेक्षा लहान म्हणजे लघुकोन आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -153,12 +153,12 @@
     "tagText": "भौमितिक आकृती",
     "question": "आयताच्या प्रत्येक कोनाचे माप किती अंश असते?",
     "options": [
-      "९०°",
-      "६०°",
+      "१२०°",
       "४५°",
-      "१२०°"
+      "६०°",
+      "९०°"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "आयताचे सर्व चारही कोन काटकोन (९०°) असतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -169,12 +169,12 @@
     "tagText": "भौमितिक आकृती",
     "question": "चौरसात एकूण किती काटकोन असतात?",
     "options": [
-      "४",
-      "२",
       "३",
-      "१"
+      "१",
+      "४",
+      "२"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "चौरसाचे सर्व चारही कोन काटकोन असतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -185,12 +185,12 @@
     "tagText": "रेषाखंड",
     "question": "रेषाखंडाला किती अंत्यबिंदू (End points) असतात?",
     "options": [
+      "०",
       "२",
       "१",
-      "०",
       "असंख्य"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "रेषाखंड दोन्ही बाजूंनी मर्यादित असतो व त्याला २ अंत्यबिंदू असतात.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -202,12 +202,12 @@
     "tagText": "किरण",
     "question": "किरणाला किती आरंभबिंदू (Origin) असतो?",
     "options": [
-      "१",
-      "२",
       "०",
-      "अमर्याद"
+      "१",
+      "अमर्याद",
+      "२"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "किरण एका बिंदूपासून सुरू होऊन एकाच दिशेने अमर्याद वाढतो (१ आरंभबिंदू).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -218,12 +218,12 @@
     "tagText": "कोन वाचन",
     "question": "खालीलपैकी कोणत्या कोनाचे नाव 'कोन XYZ' असे वाचता येईल?",
     "options": [
-      "शिरोबिंदू Y असणारा",
-      "शिरोबिंदू X असणारा",
       "शिरोबिंदू Z असणारा",
-      "कोणताही"
+      "कोणताही",
+      "शिरोबिंदू Y असणारा",
+      "शिरोबिंदू X असणारा"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "कोनाच्या नावामध्ये शिरोबिंदू नेहमी मध्यभागी असतो (Y).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -234,12 +234,12 @@
     "tagText": "घड्याळातील कोन",
     "question": "घड्याळात ९ वाजता कोणता कोन होतो?",
     "options": [
-      "काटकोन",
       "लघुकोन",
       "विशालकोन",
+      "काटकोन",
       "सरळकोन"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "९ वाजता दोन्ही काट्यांमध्ये ९० अंशाचा काटकोन तयार होतो.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -267,12 +267,12 @@
     "tagText": "त्रिकोणातील कोन",
     "question": "एका काटकोन त्रिकोणात एक कोन काटकोन (९०°) असल्यास, उरलेले दोन कोन कोणत्या प्रकारचे असतील?",
     "options": [
-      "दोन्ही लघुकोन",
+      "दोन्ही विशालकोन",
       "एक लघुकोन व एक विशालकोन",
       "दोन्ही काटकोन",
-      "दोन्ही विशालकोन"
+      "दोन्ही लघुकोन"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "त्रिकोणाच्या तिन्ही कोनांची बेरीज १८०° असते. एक कोन ९०° असल्यास उरलेल्या दोन्हींची बेरीज ९०° असेल, म्हणून दोन्ही कोन लघुकोन असतील.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -284,12 +284,12 @@
     "tagText": "घड्याळ कोन कूटप्रश्न",
     "question": "घड्याळात ६:०० वाजता तास काटा व मिनिट काटा यांच्यामध्ये कोणता कोन तयार होतो?",
     "options": [
+      "शून्य कोन",
       "सरळकोन (१८०°)",
-      "काटकोन (९०°)",
       "लघुकोन",
-      "शून्य कोन"
+      "काटकोन (९०°)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "६ वाजता दोन्ही काटे एका सरळ रेषेत विरुद्ध दिशेला असतात, म्हणून सरळकोन (१८०°) होतो.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -300,12 +300,12 @@
     "tagText": "कोन गणना",
     "question": "इंग्रजी मुळाक्षर 'H' मध्ये एकूण किती काटकोन तयार होतात?",
     "options": [
-      "४ काटकोन",
-      "२ काटकोन",
       "० काटकोन",
-      "८ काटकोन"
+      "८ काटकोन",
+      "२ काटकोन",
+      "४ काटकोन"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "'H' अक्षराच्या मध्यभागी आडवी रेषा दोन उभ्या रेषांना छेदते तेव्हा डावीकडे २ आणि उजवीकडे २ असे एकूण ४ काटकोन बनतात.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -317,12 +317,12 @@
     "tagText": "कोन कूटप्रश्न",
     "question": "खालीलपैकी कोणत्या इंग्रजी अक्षरात केवळ एकच काटकोन असतो?",
     "options": [
-      "L",
-      "T",
       "E",
-      "H"
+      "T",
+      "H",
+      "L"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "'L' या अक्षरामध्ये बरोबर एकच काटकोन तयार होतो.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
