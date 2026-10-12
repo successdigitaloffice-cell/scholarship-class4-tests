@@ -6,12 +6,12 @@
     "tagText": "वर्णानुक्रम",
     "question": "Arrange in alphabetical order: Apple, Cat, Ball, Dog",
     "options": [
-      "Apple, Ball, Cat, Dog",
-      "Ball, Apple, Cat, Dog",
       "Dog, Cat, Ball, Apple",
-      "Apple, Cat, Ball, Dog"
+      "Apple, Cat, Ball, Dog",
+      "Apple, Ball, Cat, Dog",
+      "Ball, Apple, Cat, Dog"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "A -> B -> C -> D हा वर्णानुक्रम आहे: Apple, Ball, Cat, Dog.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -22,12 +22,12 @@
     "tagText": "अक्षरमाला",
     "question": "Which letter comes immediately after 'M' in the English alphabet?",
     "options": [
+      "P",
       "N",
-      "L",
       "O",
-      "P"
+      "L"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "M नंतर लगेच N हे अक्षर येते (L, M, N, O).",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -38,12 +38,12 @@
     "tagText": "स्वर (Vowels)",
     "question": "How many vowels are there in the English alphabet?",
     "options": [
+      "26",
       "5",
-      "7",
       "21",
-      "26"
+      "7"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "इंग्रजी वर्णमालेत A, E, I, O, U हे एकूण ५ स्वर (Vowels) आहेत.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -55,12 +55,12 @@
     "tagText": "शब्द निर्मिती",
     "question": "Which meaningful word can be formed from letters: 'E, N, P'?",
     "options": [
-      "PEN",
-      "NEP",
+      "PNE",
       "EPN",
-      "PNE"
+      "NEP",
+      "PEN"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "P-E-N या अक्षरांपासून 'PEN' (पेन) हा अर्थपूर्ण शब्द तयार होतो.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -71,12 +71,12 @@
     "tagText": "व्यंजने (Consonants)",
     "question": "Which of the following letters is a vowel?",
     "options": [
-      "E",
       "B",
-      "C",
-      "D"
+      "E",
+      "D",
+      "C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'E' हा स्वर (Vowel) आहे, बाकी सर्व व्यंजने आहेत.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -87,12 +87,12 @@
     "tagText": "पहिला शब्द",
     "question": "Which word comes first in a dictionary?",
     "options": [
-      "Ant",
       "Bat",
-      "Cow",
-      "Dog"
+      "Ant",
+      "Dog",
+      "Cow"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'Ant' हा शब्द 'A' ने सुरू होत असल्याने शब्दकोशात सर्वात प्रथम येईल.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -104,12 +104,12 @@
     "tagText": "वर्णानुक्रम",
     "question": "Arrange: Sun, Star, Sky, Sea in alphabetical order.",
     "options": [
-      "Sea, Sky, Star, Sun",
       "Sky, Sea, Star, Sun",
+      "Sun, Star, Sky, Sea",
       "Sea, Star, Sky, Sun",
-      "Sun, Star, Sky, Sea"
+      "Sea, Sky, Star, Sun"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "दुसरे व तिसरे अक्षर पाहून: Sea (Se) -> Sky (Sk) -> Star (St) -> Sun (Su).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -120,12 +120,12 @@
     "tagText": "गहाळ अक्षर",
     "question": "Complete the word: M _ N G O",
     "options": [
-      "A",
-      "E",
       "I",
+      "E",
+      "A",
       "U"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "M-A-N-G-O (Mango = आंबा). गहाळ अक्षर 'A' आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -137,8 +137,8 @@
     "question": "Which word CANNOT be formed using the letters of 'TEACHER'?",
     "options": [
       "CHAIR",
-      "TEA",
       "CAT",
+      "TEA",
       "HEAT"
     ],
     "answer": 0,
@@ -153,12 +153,12 @@
     "tagText": "वर्णानुक्रम",
     "question": "Which word comes LAST in alphabetical order: Fish, Frog, Fan, Fox?",
     "options": [
-      "Frog",
       "Fox",
-      "Fish",
-      "Fan"
+      "Fan",
+      "Frog",
+      "Fish"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "वर्णानुक्रम: Fan -> Fish -> Fox -> Frog. सर्वात शेवटी 'Frog' येईल.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -185,12 +185,12 @@
     "tagText": "अर्थपूर्ण शब्द",
     "question": "Unscramble: 'K O O B' to make a meaningful word.",
     "options": [
-      "BOOK",
-      "BOOO",
       "KOOB",
-      "OKOB"
+      "BOOK",
+      "OKOB",
+      "BOOO"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "B-O-O-K = BOOK (पुस्तक).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -202,12 +202,12 @@
     "tagText": "मध्यम अक्षर",
     "question": "Which letter is exactly in the middle between 'C' and 'G'?",
     "options": [
-      "E",
       "D",
       "F",
-      "H"
+      "H",
+      "E"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "C, D, E, F, G -> मध्यभागी 'E' हे अक्षर येते.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -219,8 +219,8 @@
     "question": "How many vowels are in the word 'BEAUTIFUL'?",
     "options": [
       "5",
-      "4",
       "3",
+      "4",
       "6"
     ],
     "answer": 0,
@@ -234,12 +234,12 @@
     "tagText": "गहाळ अक्षर",
     "question": "Complete: S C H _ _ L",
     "options": [
-      "O O",
-      "O L",
       "U L",
-      "A L"
+      "A L",
+      "O O",
+      "O L"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "S-C-H-O-O-L (School = शाळा).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -251,12 +251,12 @@
     "tagText": "वर्णानुक्रम",
     "question": "Which word comes in the second position: Mango, Orange, Banana, Apple?",
     "options": [
-      "Banana",
+      "Orange",
       "Apple",
       "Mango",
-      "Orange"
+      "Banana"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "क्रम: Apple (१) -> Banana (२) -> Mango (३) -> Orange (४).",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -267,12 +267,12 @@
     "tagText": "कूटप्रश्न वर्णमाला",
     "question": "If each letter is numbered (A=1, B=2, C=3...), what is the sum of letters in 'CAT'?",
     "options": [
-      "24",
-      "22",
+      "26",
       "20",
-      "26"
+      "22",
+      "24"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "C=3, A=1, T=20 -> 3 + 1 + 20 = 24.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -285,9 +285,9 @@
     "question": "Which letter added at the end of both 'PIN' and 'CAP' makes new meaningful words?",
     "options": [
       "E (PINE, CAPE)",
-      "T",
       "S",
-      "Y"
+      "Y",
+      "T"
     ],
     "answer": 0,
     "explanation": "PIN + E = PINE, CAP + E = CAPE. दोन्ही अर्थपूर्ण शब्द बनतात.",
@@ -301,9 +301,9 @@
     "question": "Change the first letter of 'LIGHT' to make a word that means 'जड नसलेला' (Opposite of Heavy)?",
     "options": [
       "LIGHT (Self-meaning)",
+      "SIGHT",
       "NIGHT",
-      "RIGHT",
-      "SIGHT"
+      "RIGHT"
     ],
     "answer": 0,
     "explanation": "'LIGHT' या शब्दाचाच अर्थ 'हलका' (हवेसारखा, जड नसलेला) होतो.",
@@ -317,12 +317,12 @@
     "tagText": "शब्द निर्मिती",
     "question": "Find the hidden animal name inside 'ELEPHANT' by taking the last 3 letters:",
     "options": [
-      "ANT",
-      "PAN",
       "HAT",
-      "NET"
+      "NET",
+      "ANT",
+      "PAN"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "ELEPH-ANT -> शेवटचे तीन अक्षरे 'ANT' (मुंगी) हा प्राणी/कीटक दर्शवतात.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
