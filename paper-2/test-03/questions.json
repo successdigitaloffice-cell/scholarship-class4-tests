@@ -8,8 +8,8 @@
     "options": [
       "Small",
       "Large",
-      "Huge",
-      "Tall"
+      "Tall",
+      "Huge"
     ],
     "answer": 0,
     "explanation": "Big (मोठा) चा विरुद्धार्थी शब्द Small (लहान) आहे.",
@@ -22,12 +22,12 @@
     "tagText": "विरुद्धार्थी (Opposite)",
     "question": "What is the opposite of 'Hot'?",
     "options": [
-      "Cold",
-      "Warm",
+      "Dry",
       "Cool",
-      "Dry"
+      "Warm",
+      "Cold"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Hot (गरम) चा विरुद्धार्थी शब्द Cold (थंड) आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -38,12 +38,12 @@
     "tagText": "समानार्थी (Synonym)",
     "question": "What is the synonym of 'Happy'?",
     "options": [
+      "Angry",
       "Joyful",
       "Sad",
-      "Angry",
       "Tired"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Happy चा समानार्थी शब्द Joyful (आनंदी) आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -55,12 +55,12 @@
     "tagText": "विरुद्धार्थी (Opposite)",
     "question": "The opposite of 'Fast' is ____.",
     "options": [
-      "Slow",
       "Quick",
       "Speedy",
+      "Slow",
       "Early"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Fast (जलद) चा विरुद्धार्थी शब्द Slow (हळू) आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -71,12 +71,12 @@
     "tagText": "विरुद्धार्थी (Opposite)",
     "question": "What is the opposite of 'Good'?",
     "options": [
-      "Bad",
       "Fine",
+      "Best",
       "Nice",
-      "Best"
+      "Bad"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Good (चांगला) चा विरुद्धार्थी शब्द Bad (वाईट) आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -87,12 +87,12 @@
     "tagText": "समानार्थी (Synonym)",
     "question": "What is the synonym of 'Beautiful'?",
     "options": [
+      "Dark",
       "Pretty",
       "Ugly",
-      "Dark",
       "Dirty"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Beautiful चा समानार्थी शब्द Pretty (सुंदर) आहे.",
     "difficulty": "सोपे",
     "difficultyEn": "Easy"
@@ -104,12 +104,12 @@
     "tagText": "विरुद्धार्थी (Opposite)",
     "question": "The opposite of 'Clean' is ____.",
     "options": [
-      "Dirty",
       "Neat",
       "Fresh",
-      "Pure"
+      "Pure",
+      "Dirty"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "Clean (स्वच्छ) चा विरुद्धार्थी शब्द Dirty (घाणेरडा) आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -120,12 +120,12 @@
     "tagText": "समानार्थी (Synonym)",
     "question": "What is the synonym of 'Start'?",
     "options": [
-      "Begin",
       "Stop",
       "End",
+      "Begin",
       "Finish"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Start चा समानार्थी शब्द Begin (सुरू करणे) आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -136,12 +136,12 @@
     "tagText": "विरुद्धार्थी (Opposite)",
     "question": "What is the opposite of 'Rich'?",
     "options": [
-      "Poor",
-      "Wealthy",
       "Kind",
+      "Wealthy",
+      "Poor",
       "Strong"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Rich (श्रीमंत) चा विरुद्धार्थी शब्द Poor (गरीब) आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -153,12 +153,12 @@
     "tagText": "विरुद्धार्थी (Opposite)",
     "question": "The opposite of 'Day' is ____.",
     "options": [
-      "Night",
       "Evening",
+      "Night",
       "Morning",
       "Afternoon"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Day चा विरुद्धार्थी शब्द Night आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -170,9 +170,9 @@
     "question": "What is the synonym of 'Small'?",
     "options": [
       "Little",
+      "Giant",
       "Huge",
-      "Big",
-      "Giant"
+      "Big"
     ],
     "answer": 0,
     "explanation": "Small चा समानार्थी शब्द Little आहे.",
@@ -202,12 +202,12 @@
     "tagText": "समानार्थी (Synonym)",
     "question": "What is the synonym of 'Gift'?",
     "options": [
-      "Present",
-      "Box",
       "Toy",
+      "Box",
+      "Present",
       "Prize"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Gift चा समानार्थी शब्द Present (भेटवस्तू) आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -218,12 +218,12 @@
     "tagText": "विरुद्धार्थी (Opposite)",
     "question": "The opposite of 'True' is ____.",
     "options": [
-      "False",
-      "Right",
       "Correct",
-      "Real"
+      "Right",
+      "Real",
+      "False"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "True चा विरुद्धार्थी शब्द False (खोटे) आहे.",
     "difficulty": "मध्यम",
     "difficultyEn": "Medium"
@@ -235,9 +235,9 @@
     "question": "What is the opposite of 'Up'?",
     "options": [
       "Down",
-      "Above",
       "Over",
-      "Top"
+      "Top",
+      "Above"
     ],
     "answer": 0,
     "explanation": "Up (वर) चा विरुद्धार्थी शब्द Down (खाली) आहे.",
@@ -252,9 +252,9 @@
     "question": "What is the synonym of 'Difficult'?",
     "options": [
       "Hard",
+      "Soft",
       "Easy",
-      "Simple",
-      "Soft"
+      "Simple"
     ],
     "answer": 0,
     "explanation": "Difficult चा समानार्थी शब्द Hard (कठीण) आहे.",
@@ -267,12 +267,12 @@
     "tagText": "विरुद्धार्थी उपसर्ग",
     "question": "Which prefix can be added to 'HAPPY' to make its opposite?",
     "options": [
-      "Un- (Unhappy)",
       "Dis-",
       "In-",
-      "Mis-"
+      "Mis-",
+      "Un- (Unhappy)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation": "'Un' हा उपसर्ग जोडून Unhappy (दुःखी) हा विरुद्धार्थी शब्द बनतो.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -284,12 +284,12 @@
     "tagText": "जोडी शोधणे",
     "question": "Find the INCORRECT pair of Opposites:",
     "options": [
-      "Wise - Intelligent",
-      "Near - Far",
+      "Open - Close",
       "Hard - Soft",
-      "Open - Close"
+      "Wise - Intelligent",
+      "Near - Far"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "Wise आणि Intelligent हे समानार्थी आहेत, विरुद्धार्थी नाहीत.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -300,12 +300,12 @@
     "tagText": "समानार्थी कूटप्रश्न",
     "question": "Find the word which means both 'A season' and 'To jump':",
     "options": [
-      "Spring",
       "Fall",
-      "Summer",
-      "Winter"
+      "Spring",
+      "Winter",
+      "Summer"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "'Spring' चा अर्थ 'वसंत ऋतू' आणि 'उडी मारणे' असा दोन्ही होतो.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
@@ -317,12 +317,12 @@
     "tagText": "विरुद्धार्थी वाक्य",
     "question": "Complete the sentence with opposite of the underlined word: 'The box is HEAVY, but the feather is ____.'",
     "options": [
+      "Thin",
       "Light",
-      "Soft",
       "Small",
-      "Thin"
+      "Soft"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "Heavy चा योग्य विरुद्धार्थी शब्द Light (हलके) आहे.",
     "difficulty": "कठीण",
     "difficultyEn": "Hard"
