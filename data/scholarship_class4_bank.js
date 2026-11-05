@@ -80,8 +80,10 @@ window.scholarshipClass4Meta = {
 };
 
 window.getTestQuestions = function(paper, testNum) {
-    var pKey = (paper === 'paper1' || paper === '1') ? 'paper1' : 'paper2';
-    var num = parseInt(testNum, 10);
+    var s = String(paper || 'paper1').toLowerCase();
+    var pKey = (s.indexOf('2') !== -1 || s.indexOf('ii') !== -1 || s === 'p2') ? 'paper2' : 'paper1';
+    var num = parseInt(String(testNum).replace(/\D+/g, ''), 10);
+    if (isNaN(num) || num < 1) num = 1;
     if (pKey === 'paper1') {
         if (window.class4Paper1Data && window.class4Paper1Data[num]) {
             return window.class4Paper1Data[num];
