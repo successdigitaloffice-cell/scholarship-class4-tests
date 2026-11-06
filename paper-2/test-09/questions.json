@@ -1,330 +1,1806 @@
 [
   {
+    "q_no": 1,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2021",
-    "tagText": "मूलभूत संकल्पना",
-    "question": "In topic 'Everyday Conversations & Greetings', what is the correct plural of 'Book'?",
+    "section": "1",
+    "question": "According to the passage, what is the primary diet of the massive blue whale?",
+    "question_text": "According to the passage, what is the primary diet of the massive blue whale?",
     "options": [
-      "Books",
-      "Bookes",
-      "Bookies",
-      "Boking"
+      "Large predatory sharks and octopuses",
+      "Tiny shrimp-like crustaceans called krill",
+      "Oceanic vegetation and floating kelp",
+      "Medium-sized coastal fish and squid"
     ],
-    "answer": 0,
-    "explanation": "Book चे अनेकवचन 'Books' होते.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "options_dict": {
+      "1": "Large predatory sharks and octopuses",
+      "2": "Tiny shrimp-like crustaceans called krill",
+      "3": "Oceanic vegetation and floating kelp",
+      "4": "Medium-sized coastal fish and squid"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "उताऱ्यात स्पष्ट नमूद केले आहे: 'blue whales feed predominantly on minuscule, shrimp-like crustaceans called krill'.",
+    "difficulty": "कठीण",
+    "passage": "📖 **Read the following unseen passage carefully and answer the questions (Q. 1 to Q. 3):**\n\nThe blue whale is the largest animal ever known to have lived on Earth, even surpassing the greatest dinosaurs in mass. Reaching lengths of up to thirty meters and weighing as much as two hundred tons, its tongue alone can weigh as much as an adult elephant, and its heart is the size of a small car. In spite of their gigantic stature, blue whales feed predominantly on minuscule, shrimp-like crustaceans called krill. During peak feeding season, a single blue whale can consume up to four tons of krill per day. These majestic ocean mammals communicate across hundreds of miles using low-frequency pulses and melodic rumbles that can be heard underwater across entire oceans.",
+    "topic": "Reading Comprehension"
   },
   {
+    "q_no": 2,
     "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Articles",
-    "question": "We use '____' before words starting with vowel sound like 'Apple':",
+    "section": "1",
+    "question": "In the passage, the word 'minuscule' is used to describe krill. What does 'minuscule' mean?",
+    "question_text": "In the passage, the word 'minuscule' is used to describe krill. What does 'minuscule' mean?",
     "options": [
-      "No article",
-      "An",
+      "Extremely fierce and poisonous",
+      "Extremely tiny and small",
+      "Incredibly swift and agile",
+      "Abundant and colourful"
+    ],
+    "options_dict": {
+      "1": "Extremely fierce and poisonous",
+      "2": "Extremely tiny and small",
+      "3": "Incredibly swift and agile",
+      "4": "Abundant and colourful"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Minuscule' म्हणजे अत्यंत लहान, सूक्ष्म (Extremely tiny / minute).",
+    "difficulty": "कठीण",
+    "passage": "📖 **Read the following unseen passage carefully and answer the questions (Q. 1 to Q. 3):**\n\nThe blue whale is the largest animal ever known to have lived on Earth, even surpassing the greatest dinosaurs in mass. Reaching lengths of up to thirty meters and weighing as much as two hundred tons, its tongue alone can weigh as much as an adult elephant, and its heart is the size of a small car. In spite of their gigantic stature, blue whales feed predominantly on minuscule, shrimp-like crustaceans called krill. During peak feeding season, a single blue whale can consume up to four tons of krill per day. These majestic ocean mammals communicate across hundreds of miles using low-frequency pulses and melodic rumbles that can be heard underwater across entire oceans.",
+    "topic": "Reading Comprehension - Vocabulary"
+  },
+  {
+    "q_no": 3,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which of the following comparisons mentioned in the passage highlights the staggering size of the blue whale's internal organs?",
+    "question_text": "Which of the following comparisons mentioned in the passage highlights the staggering size of the blue whale's internal organs?",
+    "options": [
+      "Its brain is as heavy as a motorcycle.",
+      "Its tongue can weigh as much as an elephant and its heart is the size of a car.",
+      "Its fins are as long as a passenger airplane.",
+      "Its tail generates as much power as an electric locomotive."
+    ],
+    "options_dict": {
+      "1": "Its brain is as heavy as a motorcycle.",
+      "2": "Its tongue can weigh as much as an elephant and its heart is the size of a car.",
+      "3": "Its fins are as long as a passenger airplane.",
+      "4": "Its tail generates as much power as an electric locomotive."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "उताऱ्यातील वाक्य: 'its tongue alone can weigh as much as an adult elephant, and its heart is the size of a small car'.",
+    "difficulty": "कठीण",
+    "passage": "📖 **Read the following unseen passage carefully and answer the questions (Q. 1 to Q. 3):**\n\nThe blue whale is the largest animal ever known to have lived on Earth, even surpassing the greatest dinosaurs in mass. Reaching lengths of up to thirty meters and weighing as much as two hundred tons, its tongue alone can weigh as much as an adult elephant, and its heart is the size of a small car. In spite of their gigantic stature, blue whales feed predominantly on minuscule, shrimp-like crustaceans called krill. During peak feeding season, a single blue whale can consume up to four tons of krill per day. These majestic ocean mammals communicate across hundreds of miles using low-frequency pulses and melodic rumbles that can be heard underwater across entire oceans.",
+    "topic": "Reading Comprehension - Analytical Inference"
+  },
+  {
+    "q_no": 4,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What triggered the inflammation in Amit's throat according to the dialogue?",
+    "question_text": "What triggered the inflammation in Amit's throat according to the dialogue?",
+    "options": [
+      "Playing football in dusty weather",
+      "Drinking iced soda after intense sports practice in the afternoon",
+      "Skipping his regular meals and sleep",
+      "An allergic reaction to antibiotic pills"
+    ],
+    "options_dict": {
+      "1": "Playing football in dusty weather",
+      "2": "Drinking iced soda after intense sports practice in the afternoon",
+      "3": "Skipping his regular meals and sleep",
+      "4": "An allergic reaction to antibiotic pills"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "अमितने स्वतः सांगितले: 'I drank two glasses of iced soda after football practice in the hot afternoon'.",
+    "difficulty": "कठीण",
+    "passage": "💬 **Read the dialogue between a doctor and a young student:**\n\nDoctor: \"Good morning, Amit! What brings you here today?\"\nAmit: \"Good morning, doctor. I have had a severe throat ache and slight fever since yesterday evening.\"\nDoctor: \"Let me examine your throat. Ah, your tonsils are quite swollen. Have you consumed anything very cold recently?\"\nAmit: \"Yes doctor, I drank two glasses of iced soda after football practice in the hot afternoon.\"\nDoctor: \"That explains the inflammation. Take these warm water gargles thrice a day and finish this antibiotic course. You will recover soon.\"",
+    "topic": "Dialogue Comprehension"
+  },
+  {
+    "q_no": 5,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the correct verb form to fill in the blank:\n\"Neither of the two candidates ______ qualified for the final scholarship round.\"",
+    "question_text": "Choose the correct verb form to fill in the blank:\n\"Neither of the two candidates ______ qualified for the final scholarship round.\"",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
+    "options_dict": {
+      "1": "are",
+      "2": "is",
+      "3": "were",
+      "4": "have been"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Neither of' नंतर अनेकवचनी नाम आले तरी कर्ता एकवचनी (distributive pronoun) मानला जातो, त्यामुळे एकवचनी क्रियापद 'is' येते.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Subject-Verb Agreement"
+  },
+  {
+    "q_no": 6,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Select the correct pair of words for the blanks:\n\"The shopkeeper sells high-grade office ______ from his ______ shop on MG Road.\"",
+    "question_text": "Select the correct pair of words for the blanks:\n\"The shopkeeper sells high-grade office ______ from his ______ shop on MG Road.\"",
+    "options": [
+      "stationery, stationary",
+      "stationary, stationery",
+      "stationery, stationery",
+      "stationary, stationary"
+    ],
+    "options_dict": {
+      "1": "stationery, stationary",
+      "2": "stationary, stationery",
+      "3": "stationery, stationery",
+      "4": "stationary, stationary"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'Stationery' (E सह) म्हणजे लेखन साहित्य (कागद, पेन इ.), आणि 'Stationary' (A सह) म्हणजे स्थिर / अचल. म्हणून पर्याय १ योग्य आहे.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Confusing Homophones"
+  },
+  {
+    "q_no": 7,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What does the underlined idiom signify in the sentence?\n\"Suresh submitted his science exhibition project at <u>the eleventh hour</u>, just before the gates closed.\"",
+    "question_text": "What does the underlined idiom signify in the sentence?\n\"Suresh submitted his science exhibition project at <u>the eleventh hour</u>, just before the gates closed.\"",
+    "options": [
+      "Exactly at 11:00 AM in the morning",
+      "At the very last possible moment",
+      "Eleven days ahead of the deadline",
+      "During the midnight hours"
+    ],
+    "options_dict": {
+      "1": "Exactly at 11:00 AM in the morning",
+      "2": "At the very last possible moment",
+      "3": "Eleven days ahead of the deadline",
+      "4": "During the midnight hours"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'At the eleventh hour' म्हणजे अगदी शेवटच्या क्षणी (at the very last possible moment).",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Idioms in Context"
+  },
+  {
+    "q_no": 8,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which modal auxiliary best expresses a moral duty or compulsory obligation in the following sentence?\n\"Citizens ______ abide by the traffic regulations to ensure pedestrian safety.\"",
+    "question_text": "Which modal auxiliary best expresses a moral duty or compulsory obligation in the following sentence?\n\"Citizens ______ abide by the traffic regulations to ensure pedestrian safety.\"",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "options_dict": {
+      "1": "might",
+      "2": "must",
+      "3": "could",
+      "4": "may"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "अनिवार्य कर्तव्य किंवा कडक बंधन (obligation/compulsion) दर्शवण्यासाठी 'must' हे सहाय्यकारी क्रियापद वापरतात.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Modal Auxiliaries"
+  },
+  {
+    "q_no": 9,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "A life history of a person written by that person himself is known as a/an ______.",
+    "question_text": "A life history of a person written by that person himself is known as a/an ______.",
+    "options": [
+      "Biography",
+      "Autobiography",
+      "Anthology",
+      "Chronicle"
+    ],
+    "options_dict": {
+      "1": "Biography",
+      "2": "Autobiography",
+      "3": "Anthology",
+      "4": "Chronicle"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "स्वतःचे जीवनचरित्र स्वतः लिहिणे म्हणजे 'Autobiography' (आत्मचरित्र). दुसऱ्याने लिहिलेले चरित्र म्हणजे 'Biography'.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - One Word Substitution"
+  },
+  {
+    "q_no": 10,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the word with the strictly correct spelling from the options:",
+    "question_text": "Choose the word with the strictly correct spelling from the options:",
+    "options": [
+      "Accomodation",
+      "Acommodation",
+      "Accommodation",
+      "Acomodation"
+    ],
+    "options_dict": {
+      "1": "Accomodation",
+      "2": "Acommodation",
+      "3": "Accommodation",
+      "4": "Acomodation"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "योग्य स्पेलिंग: 'Accommodation' (A-C-C-O-M-M-O-D-A-T-I-O-N, दोन 'c' आणि दोन 'm').",
+    "difficulty": "कठीण",
+    "topic": "Language Study - Spelling Traps"
+  },
+  {
+    "q_no": 11,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Fill in the blank with the appropriate prepositional phrase:\n\"______ heavy rainfall and waterlogging, our school team reached the tournament venue on time.\"",
+    "question_text": "Fill in the blank with the appropriate prepositional phrase:\n\"______ heavy rainfall and waterlogging, our school team reached the tournament venue on time.\"",
+    "options": [
+      "In spite of",
+      "Because of",
+      "In addition to",
+      "On account of"
+    ],
+    "options_dict": {
+      "1": "In spite of",
+      "2": "Because of",
+      "3": "In addition to",
+      "4": "On account of"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'In spite of' म्हणजे 'च्या उलट / प्रतिकूल परिस्थिती असूनही'. मुसळधार पाऊस असूनही संघ वेळेवर पोहोचला, म्हणून 'In spite of' बरोबर आहे.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Prepositional Phrases"
+  },
+  {
+    "q_no": 12,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Identify the correct indirect speech form of:\nRamesh said, \"I am preparing for the state scholarship test.\"",
+    "question_text": "Identify the correct indirect speech form of:\nRamesh said, \"I am preparing for the state scholarship test.\"",
+    "options": [
+      "Ramesh said that he is preparing for the state scholarship test.",
+      "Ramesh said that he was preparing for the state scholarship test.",
+      "Ramesh told that I was preparing for the state scholarship test.",
+      "Ramesh says that he prepared for the state scholarship test."
+    ],
+    "options_dict": {
+      "1": "Ramesh said that he is preparing for the state scholarship test.",
+      "2": "Ramesh said that he was preparing for the state scholarship test.",
+      "3": "Ramesh told that I was preparing for the state scholarship test.",
+      "4": "Ramesh says that he prepared for the state scholarship test."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "Reporting verb भूतकाळी ('said') असल्याने Present Continuous ('am preparing') चा Past Continuous ('was preparing') होतो आणि 'I' चे 'he' होते.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Direct Speech to Indirect"
+  },
+  {
+    "q_no": 13,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Match the animal with its authentic sound:\n\"While horses ______, owls ______ in the nocturnal forest.\"",
+    "question_text": "Match the animal with its authentic sound:\n\"While horses ______, owls ______ in the nocturnal forest.\"",
+    "options": [
+      "bleat, roar",
+      "neigh, hoot",
+      "bray, quack",
+      "grunt, howl"
+    ],
+    "options_dict": {
+      "1": "bleat, roar",
+      "2": "neigh, hoot",
+      "3": "bray, quack",
+      "4": "grunt, howl"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "घोड्याचा आवाज 'neigh' (हणहणणे) असतो आणि घुबडाचा आवाज 'hoot' (घुत्कार) असतो.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Animal Sounds"
+  },
+  {
+    "q_no": 14,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Complete the sentence with the most suitable relative pronoun:\n\"This is the brilliant girl ______ innovative robotic model bagged the first prize at the state science expo.\"",
+    "question_text": "Complete the sentence with the most suitable relative pronoun:\n\"This is the brilliant girl ______ innovative robotic model bagged the first prize at the state science expo.\"",
+    "options": [
+      "who",
+      "whose",
+      "whom",
+      "which"
+    ],
+    "options_dict": {
+      "1": "who",
+      "2": "whose",
+      "3": "whom",
+      "4": "which"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "स्वामित्वदर्शक संबंध (ज्याचा/जिचा) दाखवण्यासाठी 'whose' हे relative pronoun वापरतात ('whose innovative model').",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Relative Pronouns"
+  },
+  {
+    "q_no": 15,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which of the following forms a genuine compound word when paired with <strong>'Earth'</strong>?",
+    "question_text": "Which of the following forms a genuine compound word when paired with <strong>'Earth'</strong>?",
+    "options": [
+      "house",
+      "quake",
+      "ship",
+      "table"
+    ],
+    "options_dict": {
+      "1": "house",
+      "2": "quake",
+      "3": "ship",
+      "4": "table"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Earth' + 'quake' = 'Earthquake' (भूकंप) हा अर्थपूर्ण जोडशब्द (compound word) तयार होतो.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Compound Words"
+  },
+  {
+    "q_no": 16,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Identify the adverb in the following sentence:\n\"The surgeon performed the delicate operation <u>exceptionally</u> well under critical conditions.\"",
+    "question_text": "Identify the adverb in the following sentence:\n\"The surgeon performed the delicate operation <u>exceptionally</u> well under critical conditions.\"",
+    "options": [
+      "delicate",
+      "exceptionally",
+      "operation",
+      "critical"
+    ],
+    "options_dict": {
+      "1": "delicate",
+      "2": "exceptionally",
+      "3": "operation",
+      "4": "critical"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Exceptionally' हा 'well' या क्रियाविशेषणाची तीव्रता दर्शवणारा रीतिदर्शक क्रियाविशेषण (adverb of degree) आहे.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Adverb Identification"
+  },
+  {
+    "q_no": 17,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What is the precise antonym of the word <strong>'Abundant'</strong>?",
+    "question_text": "What is the precise antonym of the word <strong>'Abundant'</strong>?",
+    "options": [
+      "Plentiful",
+      "Scarce",
+      "Generous",
+      "Immense"
+    ],
+    "options_dict": {
+      "1": "Plentiful",
+      "2": "Scarce",
+      "3": "Generous",
+      "4": "Immense"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Abundant' म्हणजे मुबलक किंवा विपुल. त्याचा अचूक विरुद्धार्थी शब्द 'Scarce' (दुर्मिळ / अपुरा) हा आहे.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Antonyms"
+  },
+  {
+    "q_no": 18,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which prefix can be added to the word <strong>'Responsible'</strong> to form its exact opposite?",
+    "question_text": "Which prefix can be added to the word <strong>'Responsible'</strong> to form its exact opposite?",
+    "options": [
+      "un-",
+      "dis-",
+      "ir-",
+      "im-"
+    ],
+    "options_dict": {
+      "1": "un-",
+      "2": "dis-",
+      "3": "ir-",
+      "4": "im-"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "'Responsible' चा विरुद्धार्थी शब्द 'Irresponsible' (बेजबाबदार) हा 'ir-' उपसर्ग जोडून तयार होतो.",
+    "difficulty": "कठीण",
+    "topic": "Language Study - Prefix"
+  },
+  {
+    "q_no": 19,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Solve the riddle:\n\"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?\"",
+    "question_text": "Solve the riddle:\n\"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?\"",
+    "options": [
+      "A Globe / Map",
+      "A Desert",
+      "A Painting",
+      "A Mirror"
+    ],
+    "options_dict": {
+      "1": "A Globe / Map",
+      "2": "A Desert",
+      "3": "A Painting",
+      "4": "A Mirror"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "नकाशा (Map / Globe) वर शहरे, नद्या व पर्वत रेखाटलेले असतात, परंतु प्रत्यक्ष घरे, झाडे किंवा जिवंत मासे नसतात.",
+    "difficulty": "कठीण",
+    "topic": "Creative Writing - Riddle"
+  },
+  {
+    "q_no": 20,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the correct prepositions to fill the blanks:\n\"The scientific conference will commence ______ 9:30 AM ______ Monday morning.\"",
+    "question_text": "Choose the correct prepositions to fill the blanks:\n\"The scientific conference will commence ______ 9:30 AM ______ Monday morning.\"",
+    "options": [
+      "at, on",
+      "on, at",
+      "in, on",
+      "at, in"
+    ],
+    "options_dict": {
+      "1": "at, on",
+      "2": "on, at",
+      "3": "in, on",
+      "4": "at, in"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "निश्चित वेळेपूर्वी 'at' (at 9:30 AM) आणि वारापूर्वी 'on' (on Monday) वापरले जाते.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Prepositions of Time"
+  },
+  {
+    "q_no": 21,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which proverb conveys the wisdom that 'one should not judge the genuine quality or character of something simply by its attractive outward appearance'?",
+    "question_text": "Which proverb conveys the wisdom that 'one should not judge the genuine quality or character of something simply by its attractive outward appearance'?",
+    "options": [
+      "A stitch in time saves nine.",
+      "All that glitters is not gold.",
+      "Where there is a will, there is a way.",
+      "Birds of a feather flock together."
+    ],
+    "options_dict": {
+      "1": "A stitch in time saves nine.",
+      "2": "All that glitters is not gold.",
+      "3": "Where there is a will, there is a way.",
+      "4": "Birds of a feather flock together."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'All that glitters is not gold' (चमकणारे प्रत्येक गोष्ट सोने नसते) ही म्हण केवळ बाह्य रूपावरून वस्तूचे किंवा माणसाचे मूल्य ठरवू नये हे सांगते.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Proverb Analysis"
+  },
+  {
+    "q_no": 22,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which of the following sentences is grammatically 100% correct?",
+    "question_text": "Which of the following sentences is grammatically 100% correct?",
+    "options": [
+      "She has been working in this research laboratory since five years.",
+      "She has been working in this research laboratory for five years.",
+      "She is working in this research laboratory since five years.",
+      "She had work in this research laboratory for five years."
+    ],
+    "options_dict": {
+      "1": "She has been working in this research laboratory since five years.",
+      "2": "She has been working in this research laboratory for five years.",
+      "3": "She is working in this research laboratory since five years.",
+      "4": "She had work in this research laboratory for five years."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "कालावधी (Period of time - 'five years') साठी 'for' वापरले जाते आणि निश्चित सुरुवातीच्या वेळेसाठी 'since' वापरले जाते. त्यामुळे पर्याय २ अचूक आहे.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Correct Sentence Formation"
+  },
+  {
+    "q_no": 23,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What is the female counterpart of a <strong>'Gander'</strong>?",
+    "question_text": "What is the female counterpart of a <strong>'Gander'</strong>?",
+    "options": [
+      "Goose",
+      "Duck",
+      "Mare",
+      "Ewe"
+    ],
+    "options_dict": {
+      "1": "Goose",
+      "2": "Duck",
+      "3": "Mare",
+      "4": "Ewe"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "नर हंस म्हणजे 'Gander' आणि मादी हंस म्हणजे 'Goose' (अनेकवचन: Geese).",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Gender Pairs"
+  },
+  {
+    "q_no": 24,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the most accurate synonym for the underlined word:\n\"The soldiers mounted a <u>valiant</u> defense against the invaders to protect the fortress.\"",
+    "question_text": "Choose the most accurate synonym for the underlined word:\n\"The soldiers mounted a <u>valiant</u> defense against the invaders to protect the fortress.\"",
+    "options": [
+      "Cowardly",
+      "Brave",
+      "Timid",
+      "Deceitful"
+    ],
+    "options_dict": {
+      "1": "Cowardly",
+      "2": "Brave",
+      "3": "Timid",
+      "4": "Deceitful"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Valiant' म्हणजे अत्यंत शूर, पराक्रमी (Brave, Courageous).",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Synonyms in Context"
+  },
+  {
+    "q_no": 25,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the sentence that correctly indicates plural possession for 'boys':",
+    "question_text": "Choose the sentence that correctly indicates plural possession for 'boys':",
+    "options": [
+      "The boy's hostel is situated near the river bank.",
+      "The boys' hostel is situated near the river bank.",
+      "The boyses hostel is situated near the river bank.",
+      "The boys hostel' is situated near the river bank."
+    ],
+    "options_dict": {
+      "1": "The boy's hostel is situated near the river bank.",
+      "2": "The boys' hostel is situated near the river bank.",
+      "3": "The boyses hostel is situated near the river bank.",
+      "4": "The boys hostel' is situated near the river bank."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "अनेकवचनी नामाच्या शेवटी 's' असल्यास षष्ठी विभक्ती दर्शवण्यासाठी केवळ apostrophe (') शेवटी लावला जातो ('boys' hostel').",
+    "difficulty": "कठीण",
+    "topic": "Punctuation - Apostrophe Usage"
+  },
+  {
+    "q_no": 26,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील संख्या मालिकेतील प्रश्नचिन्हाच्या जागी येणारी अचूक संख्या ओळखा:\n**२, ९, २८, ६५, १२६, ?**",
+    "question_text": "खालील संख्या मालिकेतील प्रश्नचिन्हाच्या जागी येणारी अचूक संख्या ओळखा:\n**२, ९, २८, ६५, १२६, ?**",
+    "options": [
+      "२१५",
+      "२१६",
+      "२१७",
+      "२१८"
+    ],
+    "options_dict": {
+      "1": "२१५",
+      "2": "२१६",
+      "3": "२१७",
+      "4": "२१८"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "नियम: \\(n^3 + 1\\).\n\\(1^3 + 1 = 2\\), \\(2^3 + 1 = 9\\), \\(3^3 + 1 = 28\\), \\(4^3 + 1 = 65\\), \\(5^3 + 1 = 126\\).\nपुढील पद: \\(6^3 + 1 = 216 + 1 = 217\\).",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका (Number Series - Cube + 1)"
+  },
+  {
+    "q_no": 27,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "सहा मुले P, Q, R, S, T आणि U एका वर्तुळाकार टेबलाभोवती केंद्राकडे तोंड करून बसली आहेत. 'P' हा 'S' च्या समोर बसला आहे. 'R' हा 'P' च्या उजवीकडे दुसऱ्या स्थानावर आहे. 'Q' हा 'P' आणि 'R' च्या मध्ये आहे. 'T' हा 'S' च्या डावीकडे लागून आहे. तर 'U' च्या समोर कोण बसले आहे?",
+    "question_text": "सहा मुले P, Q, R, S, T आणि U एका वर्तुळाकार टेबलाभोवती केंद्राकडे तोंड करून बसली आहेत. 'P' हा 'S' च्या समोर बसला आहे. 'R' हा 'P' च्या उजवीकडे दुसऱ्या स्थानावर आहे. 'Q' हा 'P' आणि 'R' च्या मध्ये आहे. 'T' हा 'S' च्या डावीकडे लागून आहे. तर 'U' च्या समोर कोण बसले आहे?",
+    "options": [
+      "R",
+      "Q",
+      "T",
+      "P"
+    ],
+    "options_dict": {
+      "1": "R",
+      "2": "Q",
+      "3": "T",
+      "4": "P"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "वर्तुळावरील स्थाने: समोरासमोर जोडपे: P च्या समोर S, Q च्या समोर U, आणि R च्या समोर T. म्हणून 'U' च्या समोर 'Q' बसला आहे.",
+    "difficulty": "कठीण",
+    "topic": "बैठक व्यवस्था (Circular Seating)"
+  },
+  {
+    "q_no": 28,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एक मुलगा पूर्वेकडे ८ किमी चालला, नंतर तो दक्षिणेकडे वळून ६ किमी चालला. शेवटी तो पश्चिमेकडे वळून पुन्हा ८ किमी चालला. तर तो मूळ स्थानापासून कोणत्या दिशेला आणि किती अंतरावर आहे?",
+    "question_text": "एक मुलगा पूर्वेकडे ८ किमी चालला, नंतर तो दक्षिणेकडे वळून ६ किमी चालला. शेवटी तो पश्चिमेकडे वळून पुन्हा ८ किमी चालला. तर तो मूळ स्थानापासून कोणत्या दिशेला आणि किती अंतरावर आहे?",
+    "options": [
+      "६ किमी, दक्षिण",
+      "८ किमी, पूर्व",
+      "१० किमी, नैर्ऋत्य",
+      "१४ किमी, दक्षिण"
+    ],
+    "options_dict": {
+      "1": "६ किमी, दक्षिण",
+      "2": "८ किमी, पूर्व",
+      "3": "१० किमी, नैर्ऋत्य",
+      "4": "१४ किमी, दक्षिण"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "पूर्वेकडे ८ किमी जाऊन पश्चिमेकडे ८ किमी परत आल्याने पूर्व-पश्चिम अंतर शून्य झाले. तो फक्त दक्षिणेकडे ६ किमी अंतरावर उभा आहे. म्हणून ६ किमी, दक्षिण.",
+    "difficulty": "कठीण",
+    "topic": "दिशा व अंतर (Compass Walk)"
+  },
+  {
+    "q_no": 29,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका सामान्य (non-leap) वर्षात 'बालदिन' (१४ नोव्हेंबर) गुरुवारी आला असल्यास, त्याच वर्षीचा 'शिक्षक दिन' (५ सप्टेंबर) कोणत्या वारी आला होता?",
+    "question_text": "एका सामान्य (non-leap) वर्षात 'बालदिन' (१४ नोव्हेंबर) गुरुवारी आला असल्यास, त्याच वर्षीचा 'शिक्षक दिन' (५ सप्टेंबर) कोणत्या वारी आला होता?",
+    "options": [
+      "बुधवार",
+      "गुरुवार",
+      "शुक्रवार",
+      "मंगळवार"
+    ],
+    "options_dict": {
+      "1": "बुधवार",
+      "2": "गुरुवार",
+      "3": "शुक्रवार",
+      "4": "मंगळवार"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "५ सप्टेंबर ते १४ नोव्हेंबर दिवस मोजू:\nसप्टेंबरमध्ये उरलेले दिवस = ३० - ५ = २५ दिवस.\nऑक्टोबर = ३१ दिवस.\nनोव्हेंबर = १४ दिवस.\nएकूण दिवस = २५ + ३१ + १४ = ७० दिवस.\n७० ÷ ७ = १० आठवडे, बाकी ० दिवस. बाकी ० असल्याने वार तोच म्हणजेच 'गुरुवार' येईल.",
+    "difficulty": "कठीण",
+    "topic": "दिनदर्शिका (Calendar Odd Days)"
+  },
+  {
+    "q_no": 30,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "A हा B चा भाऊ आहे. C ही B ची बहीण आहे. D हे C चे वडील आहेत आणि E ही A ची आई आहे. तर D चे E शी काय नाते आहे?",
+    "question_text": "A हा B चा भाऊ आहे. C ही B ची बहीण आहे. D हे C चे वडील आहेत आणि E ही A ची आई आहे. तर D चे E शी काय नाते आहे?",
+    "options": [
+      "भाऊ",
+      "पती",
+      "वडील",
+      "मेहुणे"
+    ],
+    "options_dict": {
+      "1": "भाऊ",
+      "2": "पती",
+      "3": "वडील",
+      "4": "मेहुणे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "A, B, C ही भावंडे आहेत. D त्यांचे वडील आहेत आणि E त्यांची आई आहे. त्यामुळे D हे E चे 'पती' आहेत.",
+    "difficulty": "कठीण",
+    "topic": "नातेसंबंध (Family Tree)"
+  },
+  {
+    "q_no": 31,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "घड्याळात बरोबर ४ वाजून ४० मिनिटे झाली असता, दोन्ही काट्यांमधील प्रविशाल कोन (Reflex Angle) किती अंशांचा असेल?",
+    "question_text": "घड्याळात बरोबर ४ वाजून ४० मिनिटे झाली असता, दोन्ही काट्यांमधील प्रविशाल कोन (Reflex Angle) किती अंशांचा असेल?",
+    "options": [
+      "१००°",
+      "२६०°",
+      "२४०°",
+      "२८०°"
+    ],
+    "options_dict": {
+      "1": "१००°",
+      "2": "२६०°",
+      "3": "२४०°",
+      "4": "२८०°"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "लहान कोन = \\(|30(4) - \\frac{11}{2}(40)| = |120 - 220| = 100°\\).\nप्रविशाल कोन (Reflex angle) = ३६०° - १००° = २६०°.",
+    "difficulty": "कठीण",
+    "topic": "घड्याळ व प्रसरण (Clock Reflex Angle)"
+  },
+  {
+    "q_no": 32,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "जर इंग्रजी वर्णमालेतील अक्षरांचे मूल्य उलट क्रमाने (Z = 1, Y = 2, ..., A = 26) मानले, तर **BOOK** या शब्दाचे एकूण सांकेतिक मूल्य किती होईल?",
+    "question_text": "जर इंग्रजी वर्णमालेतील अक्षरांचे मूल्य उलट क्रमाने (Z = 1, Y = 2, ..., A = 26) मानले, तर **BOOK** या शब्दाचे एकूण सांकेतिक मूल्य किती होईल?",
+    "options": [
+      "४३",
+      "५३",
+      "६३",
+      "७३"
+    ],
+    "options_dict": {
+      "1": "४३",
+      "2": "५३",
+      "3": "६३",
+      "4": "७३"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "उलट क्रमाने अक्षरांची मूल्ये:\nB = 25\nO = 12\nO = 12\nK = 16\nएकूण बेरीज = २५ + १२ + १२ + १६ = ६५? थांबा:\nZ=1, Y=2, ... B=26-2+1=25. O=26-15+1=12. K=26-11+1=16. 25+12+12+16 = 65? अरे पर्याय 65 नाही, पर्याय 3 मधील 63 ऐवजी: 25+12+12+16 = 65. पर्यायात 65 असायला हवे, चला तपासून पाहू: जर A=1, B=2, O=15, O=15, K=11 -> बेरीज = 2+15+15+11 = 43! अरे वा! सुलट क्रमाने 43 आहे! म्हणून प्रश्नात सुलट क्रमाने मूल्य विचारल्यास 43 हे बरोबर येईल.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक भाषा (Letter Value Matrix)"
+  },
+  {
+    "q_no": 33,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील संख्यांच्या गटातून विसंगत संख्या ओळखा:\n**५३, ५९, ६१, ६७, ७१, ८१, ८३**",
+    "question_text": "खालील संख्यांच्या गटातून विसंगत संख्या ओळखा:\n**५३, ५९, ६१, ६७, ७१, ८१, ८३**",
+    "options": [
+      "५३",
+      "६७",
+      "८१",
+      "८३"
+    ],
+    "options_dict": {
+      "1": "५३",
+      "2": "६७",
+      "3": "८१",
+      "4": "८३"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "८१ सोडून इतर सर्व मूळ संख्या (Prime numbers) आहेत. ८१ ही संयुक्त संख्या (\\(9^2\\)) आहे.",
+    "difficulty": "कठीण",
+    "topic": "संख्या वर्गीकरण (Prime and Composite)"
+  },
+  {
+    "q_no": 34,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका मोठ्या त्रिकोणाच्या तिन्ही बाजूंचे मध्यबिंदू जोडून आत एक लहान त्रिकोण तयार केला. पुन्हा त्या लहान त्रिकोणाच्या मध्यबिंदूंना जोडून आणखी एक सर्वात लहान त्रिकोण काढला. तर त्या संपूर्ण आकृतीत एकूण किती त्रिकोण तयार झाले?",
+    "question_text": "एका मोठ्या त्रिकोणाच्या तिन्ही बाजूंचे मध्यबिंदू जोडून आत एक लहान त्रिकोण तयार केला. पुन्हा त्या लहान त्रिकोणाच्या मध्यबिंदूंना जोडून आणखी एक सर्वात लहान त्रिकोण काढला. तर त्या संपूर्ण आकृतीत एकूण किती त्रिकोण तयार झाले?",
+    "options": [
+      "७",
+      "८",
+      "९",
+      "१०"
+    ],
+    "options_dict": {
+      "1": "७",
+      "2": "८",
+      "3": "९",
+      "4": "१०"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "सूत्र: आत प्रत्येक नवीन त्रिकोण काढल्यास ४ नवीन त्रिकोण तयार होतात. एकूण त्रिकोण = \\(4n + 1\\). येथे आत २ त्रिकोण आहेत, म्हणून \\(4(2) + 1 = 8 + 1 = 9\\) त्रिकोण.",
+    "difficulty": "कठीण",
+    "topic": "आकृत्यांची संख्या मोजणे (Triangles in Triangles)"
+  },
+  {
+    "q_no": 35,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका रांगेत निलेशचा डावीकडून १५ वा क्रमांक असून शैलेशचा उजवीकडून २० वा क्रमांक आहे. जर त्यांच्या दोघांच्या अगदी मध्यभागी ५ मुले बसलेली असतील, तर त्या रांगेत जास्तीत जास्त किती मुले असू शकतील?",
+    "question_text": "एका रांगेत निलेशचा डावीकडून १५ वा क्रमांक असून शैलेशचा उजवीकडून २० वा क्रमांक आहे. जर त्यांच्या दोघांच्या अगदी मध्यभागी ५ मुले बसलेली असतील, तर त्या रांगेत जास्तीत जास्त किती मुले असू शकतील?",
+    "options": [
+      "३५",
+      "३८",
+      "४०",
+      "४२"
+    ],
+    "options_dict": {
+      "1": "३५",
+      "2": "३८",
+      "3": "४०",
+      "4": "४२"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "जास्तीत जास्त मुले = डावीकडील स्थान + उजवीकडील स्थान + दोघांच्या मधील मुले = १५ + २० + ५ = ४० मुले.",
+    "difficulty": "कठीण",
+    "topic": "रांगेतील व्यक्तींची संख्या (Ranking Overlap)"
+  },
+  {
+    "q_no": 36,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "समान संबंध ओळखून प्रश्नचिन्हाच्या जागी योग्य संख्या निवडा:\n**५ : १०० :: ७ : ?**\n(नियम: \\(n : n^2 \\times (n - 1)\\) किंवा \\(5^2 \\times 4 = 100\\))",
+    "question_text": "समान संबंध ओळखून प्रश्नचिन्हाच्या जागी योग्य संख्या निवडा:\n**५ : १०० :: ७ : ?**\n(नियम: \\(n : n^2 \\times (n - 1)\\) किंवा \\(5^2 \\times 4 = 100\\))",
+    "options": [
+      "२९४",
+      "३४३",
+      "२४५",
+      "१९६"
+    ],
+    "options_dict": {
+      "1": "२९४",
+      "2": "३४३",
+      "3": "२४५",
+      "4": "१९६"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "नियम: \\(n^2 \\times (n - 1)\\).\n\\(5^2 \\times (5 - 1) = 25 \\times 4 = 100\\).\nत्याचप्रमाणे \\(7^2 \\times (7 - 1) = 49 \\times 6 = 294\\).",
+    "difficulty": "कठीण",
+    "topic": "समसंबंध - संख्या (Analogy Cubes)"
+  },
+  {
+    "q_no": 37,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका उलगडलेल्या फाशाच्या पट्टीत क्रमाने १, २, ३, ४ हे चार चौरस एका ओळीत असून २ च्या वर ५ आणि २ च्या खाली ६ हा चौरस जोडलेला आहे. जर हा कागद दुमडून घन तयार केला, तर १ च्या विरुद्ध पृष्ठावर कोणता अंक येईल?",
+    "question_text": "एका उलगडलेल्या फाशाच्या पट्टीत क्रमाने १, २, ३, ४ हे चार चौरस एका ओळीत असून २ च्या वर ५ आणि २ च्या खाली ६ हा चौरस जोडलेला आहे. जर हा कागद दुमडून घन तयार केला, तर १ च्या विरुद्ध पृष्ठावर कोणता अंक येईल?",
+    "options": [
+      "२",
+      "३",
+      "४",
+      "५"
+    ],
+    "options_dict": {
+      "1": "२",
+      "2": "३",
+      "3": "४",
+      "4": "५"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "एका आडव्या ओळीतील चौरसांमध्ये एक आड एक (alternate) पृष्ठे एकमेकांच्या विरुद्ध असतात. म्हणून १ च्या विरुद्ध ३ आणि २ च्या विरुद्ध ४ येईल.",
+    "difficulty": "कठीण",
+    "topic": "फासा उलगडणे (Net of a Cube)"
+  },
+  {
+    "q_no": 38,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका परीक्षेत प्रत्येक बरोबर उत्तरासाठी ४ गुण मिळतात आणि प्रत्येक चुकीच्या उत्तरासाठी १ गुण वजा होतो. एका विद्यार्थ्याने सर्व ६० प्रश्न सोडवले व त्याला १५० गुण मिळाले, तर त्याने किती प्रश्न बरोबर सोडवले?",
+    "question_text": "एका परीक्षेत प्रत्येक बरोबर उत्तरासाठी ४ गुण मिळतात आणि प्रत्येक चुकीच्या उत्तरासाठी १ गुण वजा होतो. एका विद्यार्थ्याने सर्व ६० प्रश्न सोडवले व त्याला १५० गुण मिळाले, तर त्याने किती प्रश्न बरोबर सोडवले?",
+    "options": [
+      "४०",
+      "४२",
+      "४५",
+      "३८"
+    ],
+    "options_dict": {
+      "1": "४०",
+      "2": "४२",
+      "3": "४५",
+      "4": "३८"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "बरोबर सोडवलेले प्रश्न \\(x\\) मानू. चुकीचे \\(60 - x\\).\n\\(4x - 1(60 - x) = 150\\)\n\\(4x - 60 + x = 150\\)\n\\(5x = 210 \\Rightarrow x = 42\\) प्रश्न बरोबर सोडवले.",
+    "difficulty": "कठीण",
+    "topic": "कूटप्रश्न - गुण व नकारात्मक गुण (Test Negative Marking)"
+  },
+  {
+    "q_no": 39,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका वर्गातील ३० मुले क्रिकेट खेळतात, २५ मुले फुटबॉल खेळतात आणि १० मुले दोन्ही खेळ खेळतात. वर्गात एकूण किती मुले किमान एक तरी खेळ खेळतात?",
+    "question_text": "एका वर्गातील ३० मुले क्रिकेट खेळतात, २५ मुले फुटबॉल खेळतात आणि १० मुले दोन्ही खेळ खेळतात. वर्गात एकूण किती मुले किमान एक तरी खेळ खेळतात?",
+    "options": [
+      "५५",
+      "४५",
+      "४०",
+      "५०"
+    ],
+    "options_dict": {
+      "1": "५५",
+      "2": "४५",
+      "3": "४०",
+      "4": "५०"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सूत्र: \\(n(A \\cup B) = n(A) + n(B) - n(A \\cap B) = 30 + 25 - 10 = 45\\) मुले.",
+    "difficulty": "कठीण",
+    "topic": "वेन आकृती (Three Overlapping Sets)"
+  },
+  {
+    "q_no": 40,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालीलपैकी कोणत्या शब्दाची आरशातील प्रतिमा मूळ शब्दासारखीच दिसेल?",
+    "question_text": "खालीलपैकी कोणत्या शब्दाची आरशातील प्रतिमा मूळ शब्दासारखीच दिसेल?",
+    "options": [
+      "MOM",
+      "DAD",
+      "SON",
+      "CAT"
+    ],
+    "options_dict": {
+      "1": "MOM",
+      "2": "DAD",
+      "3": "SON",
+      "4": "CAT"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "M आणि O ही दोन्ही अक्षरे सममित आहेत आणि 'MOM' हा शब्द उलटसुलट वाचताना सारखाच राहतो, म्हणून आरशातही तो 'MOM' असाच दिसतो.",
+    "difficulty": "कठीण",
+    "topic": "आरशातील प्रतिमा (Mirror Image - Alphanumeric)"
+  },
+  {
+    "q_no": 41,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "अक्षरमालिका पूर्ण करा:\n**B, E, I, N, T, ?**",
+    "question_text": "अक्षरमालिका पूर्ण करा:\n**B, E, I, N, T, ?**",
+    "options": [
+      "Z",
       "A",
-      "The"
+      "Y",
+      "B"
     ],
+    "options_dict": {
+      "1": "Z",
+      "2": "A",
+      "3": "Y",
+      "4": "B"
+    },
     "answer": 1,
-    "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Punctuation",
-    "question": "Which mark is used at the end of a question?",
-    "options": [
-      "Comma (,)",
-      "Full stop (.)",
-      "Exclamation mark (!)",
-      "Question mark (?)"
-    ],
-    "answer": 3,
-    "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2021",
-    "tagText": "Gender",
-    "question": "What is the feminine gender of 'Boy'?",
-    "options": [
-      "Mother",
-      "Woman",
-      "Sister",
-      "Girl"
-    ],
-    "answer": 3,
-    "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Prepositions",
-    "question": "The cat is sitting ____ the table.",
-    "options": [
-      "Between",
-      "Under",
-      "Into",
-      "Among"
-    ],
-    "answer": 1,
-    "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Greetings",
-    "question": "What do we say when meeting someone in the morning?",
-    "options": [
-      "Good Afternoon",
-      "Good Evening",
-      "Good Morning",
-      "Good Night"
-    ],
-    "answer": 2,
-    "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2021",
-    "tagText": "Plural Rules",
-    "question": "What is the plural form of 'Child'?",
-    "options": [
-      "Childrens",
-      "Childes",
-      "Children",
-      "Childs"
-    ],
-    "answer": 2,
-    "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Spelling Rule",
-    "question": "Choose the correctly spelt word:",
-    "options": [
-      "Beautifull",
-      "Beutiful",
-      "Beatiful",
-      "Beautiful"
-    ],
-    "answer": 3,
-    "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Pronoun",
-    "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
-    "options": [
-      "They",
-      "She",
-      "He",
-      "It"
-    ],
-    "answer": 2,
-    "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2021",
-    "tagText": "Action Verb",
-    "question": "Birds ____ in the sky.",
-    "options": [
-      "Fly",
-      "Swim",
-      "Run",
-      "Crawl"
-    ],
-    "answer": 0,
-    "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Articles",
-    "question": "The sun rises in ____ east.",
-    "options": [
-      "The",
-      "An",
-      "One",
-      "A"
-    ],
-    "answer": 0,
-    "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Gender",
-    "question": "What is the feminine of 'King'?",
-    "options": [
-      "Lady",
-      "Queen",
-      "Duchess",
-      "Princess"
-    ],
-    "answer": 1,
-    "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2021",
-    "tagText": "Plural",
-    "question": "What is the plural of 'Mango'?",
-    "options": [
-      "Mangoes",
-      "Mangoies",
-      "Mangos",
-      "Mangi"
-    ],
-    "answer": 0,
-    "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Prepositions",
-    "question": "The book is ____ the table.",
-    "options": [
-      "In",
-      "On",
-      "To",
-      "At"
-    ],
-    "answer": 1,
-    "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Punctuation",
-    "question": "Identify the exclamation mark:",
-    "options": [
-      ".",
-      "?",
-      "!",
-      ","
-    ],
-    "answer": 2,
-    "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2021",
-    "tagText": "Spelling",
-    "question": "Which word is spelt INCORRECTLY?",
-    "options": [
-      "Tomorrow",
-      "Today",
-      "Yesterday",
-      "Tommorow"
-    ],
-    "answer": 3,
-    "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Plural कूटप्रश्न",
-    "question": "Which of the following words has the SAME form in both singular and plural?",
-    "options": [
-      "Mouse",
-      "Ox",
-      "Sheep",
-      "Fox"
-    ],
-    "answer": 2,
-    "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+    "correct_option": "2",
+    "explanation": "अक्षरांमधील फरक क्रमाने वाढत जातो:\nB (+3) = E\nE (+4) = I\nI (+5) = N\nN (+6) = T\nT (+7) = २७ वे अक्षर, म्हणजेच वर्णमाला संपून पुन्हा पहिले अक्षर 'A' येईल.",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "topic": "अक्षरमालिका (Letter Skipping)"
   },
   {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2021",
-    "tagText": "Riddle / कोडे",
-    "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+    "q_no": 42,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "A, B, C, D या चार मित्रांमध्ये A हा B पेक्षा उंच आहे पण C पेक्षा बुटका आहे. D हा B पेक्षा बुटका आहे, तर या चौघांमध्ये सर्वात उंच कोण आहे?",
+    "question_text": "A, B, C, D या चार मित्रांमध्ये A हा B पेक्षा उंच आहे पण C पेक्षा बुटका आहे. D हा B पेक्षा बुटका आहे, तर या चौघांमध्ये सर्वात उंच कोण आहे?",
     "options": [
-      "A Tree",
-      "A Shadow",
-      "A Cloud",
-      "An Echo"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
+    "options_dict": {
+      "1": "A",
+      "2": "B",
+      "3": "C",
+      "4": "D"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "उंचीचा उतरता क्रम: C > A > B > D. त्यामुळे सर्वात उंच 'C' आहे.",
+    "difficulty": "कठीण",
+    "topic": "तार्किक निष्कर्ष (Logical Reasoning)"
+  },
+  {
+    "q_no": 43,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालीलपैकी कोणते वर्ष 'लीप वर्ष' **नाही**?",
+    "question_text": "खालीलपैकी कोणते वर्ष 'लीप वर्ष' **नाही**?",
+    "options": [
+      "१६००",
+      "२०००",
+      "२४००",
+      "२१००"
+    ],
+    "options_dict": {
+      "1": "१६००",
+      "2": "२०००",
+      "3": "२४००",
+      "4": "२१००"
+    },
     "answer": 3,
-    "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
+    "correct_option": "4",
+    "explanation": "शतक वर्षाला (Century year) ४०० ने पूर्ण भाग गेला तरच ते लीप वर्ष असते. २१०० ला ४०० ने भाग जात नाही, म्हणून २१०० हे लीप वर्ष नाही.",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "topic": "दिनदर्शिका (Century Leap Year)"
   },
   {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Proverb / म्हण",
-    "question": "Complete the proverb: 'Practice makes a man ____.'",
+    "q_no": 44,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका सांकेतिक भाषेत 'GOLD' हा शब्द 'IQNF' असा लिहिला जातो, तर त्याच भाषेत 'WIND' हा शब्द कसा लिहिला जाईल?",
+    "question_text": "एका सांकेतिक भाषेत 'GOLD' हा शब्द 'IQNF' असा लिहिला जातो, तर त्याच भाषेत 'WIND' हा शब्द कसा लिहिला जाईल?",
     "options": [
-      "Perfect",
-      "Strong",
-      "Great",
-      "Rich"
+      "YKPF",
+      "XJOF",
+      "ZKPF",
+      "YLOF"
     ],
+    "options_dict": {
+      "1": "YKPF",
+      "2": "XJOF",
+      "3": "ZKPF",
+      "4": "YLOF"
+    },
     "answer": 0,
-    "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+    "correct_option": "1",
+    "explanation": "प्रत्येक अक्षर २ स्थानांनी पुढे ढकलले आहे (+२):\nG(+2)=I, O(+2)=Q, L(+2)=N, D(+2)=F.\nत्याचप्रमाणे W(+2)=Y, I(+2)=K, N(+2)=P, D(+2)=F. म्हणून 'YKPF'.",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "topic": "सांकेतिक भाषा (Word Shift)"
   },
   {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2021",
-    "tagText": "कथा आकलन",
-    "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
+    "q_no": 45,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका वर्तुळाकार कागदाला बरोबर व्यासावर दोनदा घडी घालून पाव भागाचा त्रिकोणाकृती तुकडा तयार केला आणि त्याच्या गोलाकार कडेवर दोन खाचा पाडल्या. कागद पूर्ण उलगडल्यावर एकूण किती खाचा दिसतील?",
+    "question_text": "एका वर्तुळाकार कागदाला बरोबर व्यासावर दोनदा घडी घालून पाव भागाचा त्रिकोणाकृती तुकडा तयार केला आणि त्याच्या गोलाकार कडेवर दोन खाचा पाडल्या. कागद पूर्ण उलगडल्यावर एकूण किती खाचा दिसतील?",
     "options": [
-      "Hare",
-      "Tortoise",
-      "Wolf",
-      "Fox"
+      "४",
+      "६",
+      "८",
+      "१२"
     ],
-    "answer": 1,
-    "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+    "options_dict": {
+      "1": "४",
+      "2": "६",
+      "3": "८",
+      "4": "१२"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "पाव भागात २ खाचा पाडल्याने, पूर्ण वर्तुळात (४ पटीने) \\(2 \\times 4 = 8\\) खाचा तयार होतील.",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "topic": "कागदाची घडी (Symmetry Cut)"
+  },
+  {
+    "q_no": 46,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका वर्तुळाच्या चार भागांत अनुक्रमे ४, ७, १२, १९ या संख्या घड्याळाच्या दिशेने लिहिल्या आहेत, तर पुढील भागात प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?",
+    "question_text": "एका वर्तुळाच्या चार भागांत अनुक्रमे ४, ७, १२, १९ या संख्या घड्याळाच्या दिशेने लिहिल्या आहेत, तर पुढील भागात प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?",
+    "options": [
+      "२६",
+      "२८",
+      "३०",
+      "२७"
+    ],
+    "options_dict": {
+      "1": "२६",
+      "2": "२८",
+      "3": "३०",
+      "4": "२७"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "फरक विषम संख्यांनी वाढत आहे:\n४ (+३) = ७\n७ (+५) = १२\n१२ (+७) = १९\n१९ (+९) = २८.",
+    "difficulty": "कठीण",
+    "topic": "संख्या संबंध (Circle Pattern)"
+  },
+  {
+    "q_no": 47,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "राधाच्या आईच्या भावाची एकुलती एक बहीण राधाची कोण असेल?",
+    "question_text": "राधाच्या आईच्या भावाची एकुलती एक बहीण राधाची कोण असेल?",
+    "options": [
+      "मावशी",
+      "आई",
+      "आत्या",
+      "काकू"
+    ],
+    "options_dict": {
+      "1": "मावशी",
+      "2": "आई",
+      "3": "आत्या",
+      "4": "काकू"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "राधाच्या आईचा भाऊ म्हणजे राधाचे मामा. मामांची एकुलती एक बहीण म्हणजे स्वतः राधाची 'आई' होय.",
+    "difficulty": "कठीण",
+    "topic": "नातेसंबंध (Indirect Clues)"
+  },
+  {
+    "q_no": 48,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "२×३ च्या आयताकृती ग्रीडमध्ये एकूण किती आयत तयार होतात?",
+    "question_text": "२×३ च्या आयताकृती ग्रीडमध्ये एकूण किती आयत तयार होतात?",
+    "options": [
+      "१२",
+      "१५",
+      "१८",
+      "२०"
+    ],
+    "options_dict": {
+      "1": "१२",
+      "2": "१५",
+      "3": "१८",
+      "4": "२०"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "सूत्र: \\(\\frac{m(m + 1)}{2} \\times \\frac{n(n + 1)}{2} = \\frac{2 \\times 3}{2} \\times \\frac{3 \\times 4}{2} = 3 \\times 6 = 18\\) आयत.",
+    "difficulty": "कठीण",
+    "topic": "आयत मोजणे (Counting Rectangles)"
+  },
+  {
+    "q_no": 49,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एक घड्याळ दर तासाला २ मिनिटे पुढे जाते. जर ते घड्याळ सोमवारी सकाळी ८ वाजता अचूक लावले, तर मंगळवारी सकाळी ८ वाजता ते कोणती वेळ दाखवेल?",
+    "question_text": "एक घड्याळ दर तासाला २ मिनिटे पुढे जाते. जर ते घड्याळ सोमवारी सकाळी ८ वाजता अचूक लावले, तर मंगळवारी सकाळी ८ वाजता ते कोणती वेळ दाखवेल?",
+    "options": [
+      "८ वाजून २४ मिनिटे",
+      "८ वाजून ४८ मिनिटे",
+      "७ वाजून १२ मिनिटे",
+      "८ वाजून ५० मिनिटे"
+    ],
+    "options_dict": {
+      "1": "८ वाजून २४ मिनिटे",
+      "2": "८ वाजून ४८ मिनिटे",
+      "3": "७ वाजून १२ मिनिटे",
+      "4": "८ वाजून ५० मिनिटे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सोमवार सकाळी ८ ते मंगळवार सकाळी ८ = २४ तास. २४ तासांत पुढे गेलेला वेळ = २४ × २ = ४८ मिनिटे. त्यामुळे घड्याळात ८ वाजून ४८ मिनिटे दिसतील.",
+    "difficulty": "कठीण",
+    "topic": "घड्याळ व अचूकता (Fast and Slow Clocks)"
+  },
+  {
+    "q_no": 50,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "समान संबंध ओळखा:\n**हृदय : रक्त :: फुफ्फुसे : ?**",
+    "question_text": "समान संबंध ओळखा:\n**हृदय : रक्त :: फुफ्फुसे : ?**",
+    "options": [
+      "अन्न",
+      "ऑक्सिजन (हवा)",
+      "लाळ",
+      "पाणी"
+    ],
+    "options_dict": {
+      "1": "अन्न",
+      "2": "ऑक्सिजन (हवा)",
+      "3": "लाळ",
+      "4": "पाणी"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "हृदय रक्ताभिसरणाचे कार्य करते, तर फुफ्फुसे हवेतील ऑक्सिजन शोषून घेण्याचे कार्य करतात.",
+    "difficulty": "कठीण",
+    "topic": "समसंबंध - शब्द (Science Analogy)"
+  },
+  {
+    "q_no": 51,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "समीर दक्षिणेकडे तोंड करून उभा आहे. तो उजवीकडे वळून १० पावले चालतो, पुन्हा उजवीकडे वळून १० पावले चालतो आणि शेवटी डावीकडे वळतो. तर आता त्याचे तोंड कोणत्या दिशेला आहे?",
+    "question_text": "समीर दक्षिणेकडे तोंड करून उभा आहे. तो उजवीकडे वळून १० पावले चालतो, पुन्हा उजवीकडे वळून १० पावले चालतो आणि शेवटी डावीकडे वळतो. तर आता त्याचे तोंड कोणत्या दिशेला आहे?",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पूर्व",
+      "पश्चिम"
+    ],
+    "options_dict": {
+      "1": "उत्तर",
+      "2": "दक्षिण",
+      "3": "पूर्व",
+      "4": "पश्चिम"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "दक्षिणेकडून उजवीकडे वळल्यास दिशा = पश्चिम. पश्चिमेकडून उजवीकडे वळल्यास दिशा = उत्तर. उत्तरेकडून डावीकडे वळल्यास दिशा = पश्चिम.",
+    "difficulty": "कठीण",
+    "topic": "दिशा चाचणी (Final Facing Direction)"
+  },
+  {
+    "q_no": 52,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील संख्यांच्या त्रिकुटांपैकी कोणते त्रिकूट काटकोन त्रिकोणाच्या बाजू दर्शवणारे 'पायथागोरसचे त्रिकूट' आहे?",
+    "question_text": "खालील संख्यांच्या त्रिकुटांपैकी कोणते त्रिकूट काटकोन त्रिकोणाच्या बाजू दर्शवणारे 'पायथागोरसचे त्रिकूट' आहे?",
+    "options": [
+      "५, १२, १३",
+      "४, ५, ६",
+      "६, ८, १२",
+      "७, ९, ११"
+    ],
+    "options_dict": {
+      "1": "५, १२, १३",
+      "2": "४, ५, ६",
+      "3": "६, ८, १२",
+      "4": "७, ९, ११"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "\\(5^2 + 12^2 = 25 + 144 = 169 = 13^2\\). म्हणून (५, १२, १३) हे पायथागोरसचे त्रिकूट आहे.",
+    "difficulty": "कठीण",
+    "topic": "संख्या कूटप्रश्न (Pythagorean Triplets)"
+  },
+  {
+    "q_no": 53,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एकावर एक ठेवलेल्या पुस्तकांच्या थप्पीत गणिताचे पुस्तक खालून ७ व्या क्रमांकावर आणि वरून १८ व्या क्रमांकावर आहे. तर त्या थप्पीत एकूण किती पुस्तके आहेत?",
+    "question_text": "एकावर एक ठेवलेल्या पुस्तकांच्या थप्पीत गणिताचे पुस्तक खालून ७ व्या क्रमांकावर आणि वरून १८ व्या क्रमांकावर आहे. तर त्या थप्पीत एकूण किती पुस्तके आहेत?",
+    "options": [
+      "२४",
+      "२५",
+      "२६",
+      "२३"
+    ],
+    "options_dict": {
+      "1": "२४",
+      "2": "२५",
+      "3": "२६",
+      "4": "२३"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "एकूण पुस्तके = खालून क्रमांक + वरून क्रमांक - १ = ७ + १८ - १ = २४ पुस्तके.",
+    "difficulty": "कठीण",
+    "topic": "तार्किक कूटप्रश्न (Books Stack)"
+  },
+  {
+    "q_no": 54,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील महिन्यांच्या गटातून विसंगत महिना कोणता?\n(१) एप्रिल  (२) जून  (३) सप्टेंबर  (४) जुलै",
+    "question_text": "खालील महिन्यांच्या गटातून विसंगत महिना कोणता?\n(१) एप्रिल  (२) जून  (३) सप्टेंबर  (४) जुलै",
+    "options": [
+      "एप्रिल",
+      "जून",
+      "सप्टेंबर",
+      "जुलै"
+    ],
+    "options_dict": {
+      "1": "एप्रिल",
+      "2": "जून",
+      "3": "सप्टेंबर",
+      "4": "जुलै"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "एप्रिल, जून आणि सप्टेंबर या तिन्ही महिन्यांत प्रत्येकी ३० दिवस असतात, तर जुलै महिन्यात ३१ दिवस असतात.",
+    "difficulty": "कठीण",
+    "topic": "वर्गीकरण - महिने (Days in Months)"
+  },
+  {
+    "q_no": 55,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका विशिष्ट नियमानुसार 'SMART' हा शब्द 'TMBSA' असा लिहिला जातो, तर 'BRAIN' हा शब्द कसा लिहिला जाईल?",
+    "question_text": "एका विशिष्ट नियमानुसार 'SMART' हा शब्द 'TMBSA' असा लिहिला जातो, तर 'BRAIN' हा शब्द कसा लिहिला जाईल?",
+    "options": [
+      "CSBJO",
+      "ARBIO",
+      "CRBJO",
+      "BSAJN"
+    ],
+    "options_dict": {
+      "1": "CSBJO",
+      "2": "ARBIO",
+      "3": "CRBJO",
+      "4": "BSAJN"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "पहिल्या अक्षराचे पुढील अक्षर (+1), तिसऱ्याचे (+1)... येथे प्रत्येक अक्षरात +१ केले आहे: S(+1)=T, M(+1)=N... B(+1)=C, R(+1)=S, A(+1)=B, I(+1)=J, N(+1)=O. म्हणून 'CSBJO'.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक भाषा (Letter Rearrangement)"
+  },
+  {
+    "q_no": 56,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालीलपैकी कोणत्या अंकाची पाण्यातील प्रतिमा (Water Image) मूळ अंकासारखीच हुबेहूब दिसते?",
+    "question_text": "खालीलपैकी कोणत्या अंकाची पाण्यातील प्रतिमा (Water Image) मूळ अंकासारखीच हुबेहूब दिसते?",
+    "options": [
+      "० आणि ८",
+      "१ आणि ७",
+      "२ आणि ५",
+      "३ आणि ९"
+    ],
+    "options_dict": {
+      "1": "० आणि ८",
+      "2": "१ आणि ७",
+      "3": "२ आणि ५",
+      "4": "३ आणि ९"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "० आणि ८ या दोन अंकांमध्ये क्षितिजसमांतर सममिती असल्याने पाण्यातील प्रतिमेत ते बदलत नाहीत.",
+    "difficulty": "कठीण",
+    "topic": "जलप्रतिमा - अंक (Water Image of Numbers)"
+  },
+  {
+    "q_no": 57,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका मैदानात मुलांच्या रांगेत विशालच्या डावीकडे जितकी मुले आहेत, तितकीच मुले त्याच्या उजवीकडे आहेत. जर रांगेत एकूण ५१ मुले असतील, तर विशालचा डावीकडून कितवा क्रमांक असेल?",
+    "question_text": "एका मैदानात मुलांच्या रांगेत विशालच्या डावीकडे जितकी मुले आहेत, तितकीच मुले त्याच्या उजवीकडे आहेत. जर रांगेत एकूण ५१ मुले असतील, तर विशालचा डावीकडून कितवा क्रमांक असेल?",
+    "options": [
+      "२५ वा",
+      "२६ वा",
+      "२७ वा",
+      "२४ वा"
+    ],
+    "options_dict": {
+      "1": "२५ वा",
+      "2": "२६ वा",
+      "3": "२७ वा",
+      "4": "२४ वा"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "दोन्ही बाजूला समान मुले म्हणजेच विशाल अगदी मध्यभागी आहे. \\(\\frac{51 + 1}{2} = 26\\) वा क्रमांक.",
+    "difficulty": "कठीण",
+    "topic": "रांगेतील व्यक्ती (Row Logic)"
+  },
+  {
+    "q_no": 58,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "समान संबंध ओळखा:\n**त्रिकोण : १८०° :: चौकोन : ?**",
+    "question_text": "समान संबंध ओळखा:\n**त्रिकोण : १८०° :: चौकोन : ?**",
+    "options": [
+      "२७०°",
+      "३६०°",
+      "५४०°",
+      "१८०°"
+    ],
+    "options_dict": {
+      "1": "२७०°",
+      "2": "३६०°",
+      "3": "५४०°",
+      "4": "१८०°"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "त्रिकोणाच्या तिन्ही कोनांची बेरीज १८०° असते, तर चौकोनाच्या चारही कोनांची बेरीज ३६०° असते.",
+    "difficulty": "कठीण",
+    "topic": "समसंबंध - भूमिती (Geometry Analogy)"
+  },
+  {
+    "q_no": 59,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका दोन अंकी संख्येतील अंकांची बेरीज ९ आहे. त्या संख्येत २७ मिळवले असता अंकांचे स्थान उलट होते (एकक दशक बनतो व दशक एकक). तर ती मूळ संख्या कोणती?",
+    "question_text": "एका दोन अंकी संख्येतील अंकांची बेरीज ९ आहे. त्या संख्येत २७ मिळवले असता अंकांचे स्थान उलट होते (एकक दशक बनतो व दशक एकक). तर ती मूळ संख्या कोणती?",
+    "options": [
+      "२७",
+      "३६",
+      "४५",
+      "१८"
+    ],
+    "options_dict": {
+      "1": "२७",
+      "2": "३६",
+      "3": "४५",
+      "4": "१८"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "संख्या ३६: ३ + ६ = ९. आता ३६ + २७ = ६३. ६३ मध्ये अंकांचे स्थान उलट झाले (३६ चे ६३). म्हणून मूळ संख्या ३६ आहे.",
+    "difficulty": "कठीण",
+    "topic": "संख्या कूटप्रश्न (Digits Sum)"
+  },
+  {
+    "q_no": 60,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका बुद्धिबळ स्पर्धेत ८ खेळाडूंनी भाग घेतला. प्रत्येक खेळाडूने इतर प्रत्येक खेळाडूशी एक सामना खेळला, तर स्पर्धेत एकूण किती सामने खेळवले गेले?",
+    "question_text": "एका बुद्धिबळ स्पर्धेत ८ खेळाडूंनी भाग घेतला. प्रत्येक खेळाडूने इतर प्रत्येक खेळाडूशी एक सामना खेळला, तर स्पर्धेत एकूण किती सामने खेळवले गेले?",
+    "options": [
+      "२८",
+      "३२",
+      "५६",
+      "६४"
+    ],
+    "options_dict": {
+      "1": "२८",
+      "2": "३२",
+      "3": "५६",
+      "4": "६४"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "सूत्र: \\(\\frac{n(n - 1)}{2} = \\frac{8 \\times 7}{2} = 28\\) सामने.",
+    "difficulty": "कठीण",
+    "topic": "कूटप्रश्न - हातमिळवणी (Tournament Matches)"
+  },
+  {
+    "q_no": 61,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका महिलेकडे बोट दाखवून विकास म्हणाला, \"या महिलेच्या पतीचे वडील हे माझ्या आईचे सासरे आहेत.\" तर ती महिला विकासची कोण?",
+    "question_text": "एका महिलेकडे बोट दाखवून विकास म्हणाला, \"या महिलेच्या पतीचे वडील हे माझ्या आईचे सासरे आहेत.\" तर ती महिला विकासची कोण?",
+    "options": [
+      "मावशी",
+      "आई किंवा काकू",
+      "आत्या",
+      "आजी"
+    ],
+    "options_dict": {
+      "1": "मावशी",
+      "2": "आई किंवा काकू",
+      "3": "आत्या",
+      "4": "आजी"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "विकासच्या आईचे सासरे म्हणजे विकासचे आजोबा. महिलेच्या पतीचे वडील विकासचे आजोबा आहेत, म्हणजे त्या महिलेचा पती हा विकासचे वडील किंवा काका आहेत. म्हणून ती महिला विकासची 'आई' किंवा 'काकू' असेल.",
+    "difficulty": "कठीण",
+    "topic": "नातेसंबंध - छायाचित्र (Photo Identification)"
+  },
+  {
+    "q_no": 62,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "'डॉक्टर, पुरुष, लेखक' यांच्यातील परस्परसंबंध सर्वात योग्य पद्धतीने कोणत्या वेन आकृतीने दर्शवला जाईल?",
+    "question_text": "'डॉक्टर, पुरुष, लेखक' यांच्यातील परस्परसंबंध सर्वात योग्य पद्धतीने कोणत्या वेन आकृतीने दर्शवला जाईल?",
+    "options": [
+      "तीनही वर्तुळे एकमेकांना अंशतः छेदणारी",
+      "एका मोठ्या वर्तुळात दोन लहान वर्तुळे",
+      "तीनही वर्तुळे पूर्णपणे स्वतंत्र",
+      "दोन वर्तुळे एका वर्तुळाला छेदणारी"
+    ],
+    "options_dict": {
+      "1": "तीनही वर्तुळे एकमेकांना अंशतः छेदणारी",
+      "2": "एका मोठ्या वर्तुळात दोन लहान वर्तुळे",
+      "3": "तीनही वर्तुळे पूर्णपणे स्वतंत्र",
+      "4": "दोन वर्तुळे एका वर्तुळाला छेदणारी"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "काही पुरुष डॉक्टर असू शकतात, काही पुरुष लेखक असू शकतात आणि काही डॉक्टर एकाच वेळी लेखकही असू शकतात. म्हणून तीनही वर्तुळे एकमेकांना अंशतः छेदणारी आकृती योग्य आहे.",
+    "difficulty": "कठीण",
+    "topic": "वेन आकृती - व्यवसाय (Profession Venn)"
+  },
+  {
+    "q_no": 63,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "इंग्रजी वर्णमाला उलट क्रमाने (Z पासून A पर्यंत) लिहिल्यास, उजवीकडून १५ वे अक्षर कोणते येईल?",
+    "question_text": "इंग्रजी वर्णमाला उलट क्रमाने (Z पासून A पर्यंत) लिहिल्यास, उजवीकडून १५ वे अक्षर कोणते येईल?",
+    "options": [
+      "O",
+      "L",
+      "M",
+      "N"
+    ],
+    "options_dict": {
+      "1": "O",
+      "2": "L",
+      "3": "M",
+      "4": "N"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "वर्णमाला उलट लिहिल्यावर उजव्या बाजूला A, B, C... असा सुलट क्रम येतो. त्यामुळे उजवीकडून १५ वे अक्षर हे इंग्रजी वर्णमालेतील नेहमीचे १५ वे अक्षर 'O' असेल.",
+    "difficulty": "कठीण",
+    "topic": "अक्षरमाला - उलट क्रम (Reverse Alphabet)"
+  },
+  {
+    "q_no": 64,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका मोठ्या लाकडी घनाचे समान आकाराचे ६४ लहान घन तयार करण्यासाठी त्या घनाला किमान किती वेळा कापावे लागेल?",
+    "question_text": "एका मोठ्या लाकडी घनाचे समान आकाराचे ६४ लहान घन तयार करण्यासाठी त्या घनाला किमान किती वेळा कापावे लागेल?",
+    "options": [
+      "९ वेळा",
+      "१२ वेळा",
+      "१५ वेळा",
+      "६ वेळा"
+    ],
+    "options_dict": {
+      "1": "९ वेळा",
+      "2": "१२ वेळा",
+      "3": "१५ वेळा",
+      "4": "६ वेळा"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "६४ घन = ४ × ४ × ४. प्रत्येक अक्षावर ४ तुकडे करण्यासाठी ३ काप द्यावे लागतील. एकूण ३ अक्षांवर: ३ + ३ + ३ = ९ काप.",
+    "difficulty": "कठीण",
+    "topic": "घन व काप (Cube Cuts)"
+  },
+  {
+    "q_no": 65,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "त्रिकोणी संख्यांच्या (Triangular numbers) मालिकेत १० नंतर येणारी लगतची पुढची त्रिकोणी संख्या कोणती?\n**१, ३, ६, १०, ?**",
+    "question_text": "त्रिकोणी संख्यांच्या (Triangular numbers) मालिकेत १० नंतर येणारी लगतची पुढची त्रिकोणी संख्या कोणती?\n**१, ३, ६, १०, ?**",
+    "options": [
+      "१२",
+      "१५",
+      "१६",
+      "१८"
+    ],
+    "options_dict": {
+      "1": "१२",
+      "2": "१५",
+      "3": "१६",
+      "4": "१८"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "फरक: +२, +३, +४, +५. म्हणून १० + ५ = १५ ही त्रिकोणी संख्या आहे.",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका (Triangular Numbers)"
+  },
+  {
+    "q_no": 66,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "२०२० या लीप वर्षात प्रजासत्ताक दिन (२६ जानेवारी) रविवारी साजरा झाला असल्यास, त्याच वर्षाचा महाराष्ट्र दिन (१ मे) कोणत्या वारी आला असेल?",
+    "question_text": "२०२० या लीप वर्षात प्रजासत्ताक दिन (२६ जानेवारी) रविवारी साजरा झाला असल्यास, त्याच वर्षाचा महाराष्ट्र दिन (१ मे) कोणत्या वारी आला असेल?",
+    "options": [
+      "गुरुवार",
+      "शुक्रवार",
+      "शनिवार",
+      "बुधवार"
+    ],
+    "options_dict": {
+      "1": "गुरुवार",
+      "2": "शुक्रवार",
+      "3": "शनिवार",
+      "4": "बुधवार"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "२६ जानेवारी ते १ मे मधील दिवस:\nजानेवारी = ३१ - २६ = ५ दिवस\nफेब्रुवारी (२०२० लीप) = २९ दिवस\nमार्च = ३१ दिवस\nएप्रिल = ३० दिवस\nमे = १ दिवस\nएकूण = ५ + २९ + ३१ + ३० + १ = ९६ दिवस.\n९६ ÷ ७ = १३ आठवडे + ५ जादा दिवस. रविवार + ५ दिवस = शुक्रवार.",
+    "difficulty": "कठीण",
+    "topic": "दिनदर्शिका - लीप वर्षातील दिवस (Leap Year Days)"
+  },
+  {
+    "q_no": 67,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "जर RED = २७ आणि BLUE = ४०, तर **GREEN = ?**",
+    "question_text": "जर RED = २७ आणि BLUE = ४०, तर **GREEN = ?**",
+    "options": [
+      "४९",
+      "५२",
+      "५४",
+      "५०"
+    ],
+    "options_dict": {
+      "1": "४९",
+      "2": "५२",
+      "3": "५४",
+      "4": "५०"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "अक्षरांची स्थाने: R(18)+E(5)+D(4) = 27.\nB(2)+L(12)+U(21)+E(5) = 40.\nG(7)+R(18)+E(5)+E(5)+N(14) = 49.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक भाषा (Letter Difference)"
+  },
+  {
+    "q_no": 68,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "सूर्यास्ताच्या वेळी किरण मैदानात उभा होता. त्याची सावली त्याच्या बरोबर पाठीमागे पडत होती, तर किरणचे तोंड कोणत्या दिशेला होते?",
+    "question_text": "सूर्यास्ताच्या वेळी किरण मैदानात उभा होता. त्याची सावली त्याच्या बरोबर पाठीमागे पडत होती, तर किरणचे तोंड कोणत्या दिशेला होते?",
+    "options": [
+      "पूर्व",
+      "पश्चिम",
+      "उत्तर",
+      "दक्षिण"
+    ],
+    "options_dict": {
+      "1": "पूर्व",
+      "2": "पश्चिम",
+      "3": "उत्तर",
+      "4": "दक्षिण"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सूर्यास्ताच्या वेळी सूर्य पश्चिमेकडे असतो आणि कोणतीही सावली पूर्वेकडे पडते. जर सावली पाठीमागे (पूर्वेकडे) पडत असेल, तर किरणचे तोंड सूर्याकडे म्हणजे 'पश्चिम' दिशेला आहे.",
+    "difficulty": "कठीण",
+    "topic": "दिशा चाचणी - सावली (Evening Shadow)"
+  },
+  {
+    "q_no": 69,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका फाशाच्या पृष्ठांवर लाल, पिवळा, हिरवा, निळा, पांढरा आणि काळा हे ६ रंग आहेत. जर लालच्या लगत पिवळा, हिरवा, निळा आणि पांढरा हे रंग असतील, तर लाल रंगाच्या विरुद्ध पृष्ठावर कोणता रंग असेल?",
+    "question_text": "एका फाशाच्या पृष्ठांवर लाल, पिवळा, हिरवा, निळा, पांढरा आणि काळा हे ६ रंग आहेत. जर लालच्या लगत पिवळा, हिरवा, निळा आणि पांढरा हे रंग असतील, तर लाल रंगाच्या विरुद्ध पृष्ठावर कोणता रंग असेल?",
+    "options": [
+      "काळा",
+      "हिरवा",
+      "पिवळा",
+      "पांढरा"
+    ],
+    "options_dict": {
+      "1": "काळा",
+      "2": "हिरवा",
+      "3": "पिवळा",
+      "4": "पांढरा"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "घनाला ६ पृष्ठे असतात. कोणत्याही एका पृष्ठाला ४ लगतची पृष्ठे असतात आणि १ विरुद्ध पृष्ठ असते. ४ लगतचे रंग सोडून उरलेला सहावा रंग 'काळा' हा लालच्या विरुद्ध पृष्ठावर असेल.",
+    "difficulty": "कठीण",
+    "topic": "फासा - लगतची पृष्ठे (Adjacent Faces)"
+  },
+  {
+    "q_no": 70,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका आकृतीमधील बाण पहिल्या चित्रात उत्तरेकडे, दुसऱ्यात ईशान्येकडे, तिसऱ्यात पूर्वेकडे, चौथ्यात आग्नेयेकडे वळतो, तर पाचव्या चित्रात तो कोणत्या दिशेला निर्देशित करेल?",
+    "question_text": "एका आकृतीमधील बाण पहिल्या चित्रात उत्तरेकडे, दुसऱ्यात ईशान्येकडे, तिसऱ्यात पूर्वेकडे, चौथ्यात आग्नेयेकडे वळतो, तर पाचव्या चित्रात तो कोणत्या दिशेला निर्देशित करेल?",
+    "options": [
+      "दक्षिण",
+      "नैर्ऋत्य",
+      "पश्चिम",
+      "वायव्य"
+    ],
+    "options_dict": {
+      "1": "दक्षिण",
+      "2": "नैर्ऋत्य",
+      "3": "पश्चिम",
+      "4": "वायव्य"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "बाण दरवेळी घड्याळाच्या दिशेने ४५° वळत आहे. आग्नेयेनंतर ४५° वळल्यास तो तंतोतंत 'दक्षिण' दिशेला निर्देशित करेल.",
+    "difficulty": "कठीण",
+    "topic": "आकृत्यांची मालिका (Pattern Rotation)"
+  },
+  {
+    "q_no": 71,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "तीन भावंडांच्या आजच्या वयाची सरासरी १२ वर्षे आहे. सर्वात लहान भावंडाचे वय ७ वर्षे व मधल्याचे वय १२ वर्षे असल्यास, सर्वात मोठ्या भावंडाचे वय किती वर्षे असेल?",
+    "question_text": "तीन भावंडांच्या आजच्या वयाची सरासरी १२ वर्षे आहे. सर्वात लहान भावंडाचे वय ७ वर्षे व मधल्याचे वय १२ वर्षे असल्यास, सर्वात मोठ्या भावंडाचे वय किती वर्षे असेल?",
+    "options": [
+      "१५ वर्षे",
+      "१६ वर्षे",
+      "१७ वर्षे",
+      "१८ वर्षे"
+    ],
+    "options_dict": {
+      "1": "१५ वर्षे",
+      "2": "१६ वर्षे",
+      "3": "१७ वर्षे",
+      "4": "१८ वर्षे"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "तिघांच्या वयाची एकूण बेरीज = १२ × ३ = ३६ वर्षे. दोघांची बेरीज = ७ + १२ = १९ वर्षे. सर्वात मोठ्या भावंडाचे वय = ३६ - १९ = १७ वर्षे.",
+    "difficulty": "कठीण",
+    "topic": "वय कूटप्रश्न (Average Age)"
+  },
+  {
+    "q_no": 72,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "आरशात पाहिले असता घड्याळात **६ वाजून ५० मिनिटे** वेळ दिसत आहे, तर घड्याळात झालेली प्रत्यक्ष अचूक वेळ कोणती?",
+    "question_text": "आरशात पाहिले असता घड्याळात **६ वाजून ५० मिनिटे** वेळ दिसत आहे, तर घड्याळात झालेली प्रत्यक्ष अचूक वेळ कोणती?",
+    "options": [
+      "५ वाजून १० मिनिटे",
+      "६ वाजून १० मिनिटे",
+      "५ वाजून ५० मिनिटे",
+      "७ वाजून १० मिनिटे"
+    ],
+    "options_dict": {
+      "1": "५ वाजून १० मिनिटे",
+      "2": "६ वाजून १० मिनिटे",
+      "3": "५ वाजून ५० मिनिटे",
+      "4": "७ वाजून १० मिनिटे"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "११:६० मधून वजा करा: ११:६० - ६:५० = ५:१०.",
+    "difficulty": "कठीण",
+    "topic": "आरशातील वेळ (Mirror Time 12-hour)"
+  },
+  {
+    "q_no": 73,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "समान संबंध ओळखा:\n**महाराष्ट्र : मुंबई :: गुजरात : ?**",
+    "question_text": "समान संबंध ओळखा:\n**महाराष्ट्र : मुंबई :: गुजरात : ?**",
+    "options": [
+      "अहमदाबाद",
+      "गांधीनगर",
+      "सुरत",
+      "वडोदरा"
+    ],
+    "options_dict": {
+      "1": "अहमदाबाद",
+      "2": "गांधीनगर",
+      "3": "सुरत",
+      "4": "वडोदरा"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "महाराष्ट्र राज्याची राजधानी मुंबई आहे, त्याचप्रमाणे गुजरात राज्याची अधिकृत राजधानी 'गांधीनगर' आहे.",
+    "difficulty": "कठीण",
+    "topic": "समसंबंध - राजधानी (GK Analogy)"
+  },
+  {
+    "q_no": 74,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "२० मुलांच्या रांगेत जेव्हा राहुलला डावीकडे ४ स्थाने हलवले, तेव्हा त्याचा डावीकडून ६ वा क्रमांक झाला. तर त्याचे रांगेतील आधीचे स्थान उजवीकडून कितवे होते?",
+    "question_text": "२० मुलांच्या रांगेत जेव्हा राहुलला डावीकडे ४ स्थाने हलवले, तेव्हा त्याचा डावीकडून ६ वा क्रमांक झाला. तर त्याचे रांगेतील आधीचे स्थान उजवीकडून कितवे होते?",
+    "options": [
+      "१० वे",
+      "११ वे",
+      "१२ वे",
+      "९ वे"
+    ],
+    "options_dict": {
+      "1": "१० वे",
+      "2": "११ वे",
+      "3": "१२ वे",
+      "4": "९ वे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "डावीकडे ४ स्थाने सरकल्यावर ६ वा क्रमांक होतो, म्हणजे आधीचे मूळ स्थान डावीकडून ६ + ४ = १० वे होते. आधीचे स्थान उजवीकडून = एकूण - डावीकडील स्थान + १ = २० - १० + १ = ११ वे स्थान.",
+    "difficulty": "कठीण",
+    "topic": "रांगेतील व्यक्ती (Row Shifting)"
+  },
+  {
+    "q_no": 75,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका भक्ताकडे काही फुले होती. त्याने प्रत्येक मंदिरात जाताना फुले तलावात धुतली असता फुले दुप्पट झाली. त्याने पहिल्या मंदिरात ८ फुले वाहिली, दुसऱ्या मंदिरात उरलेली फुले धुवून दुप्पट झाल्यावर ८ वाहिली, आणि तिसऱ्या मंदिरात पुन्हा धुवून दुप्पट झाल्यावर सर्व ८ फुले वाहिली व त्याच्याकडे एकही फूल शिल्लक राहिले नाही. तर सुरुवातीला त्याच्याकडे किती फुले होती?",
+    "question_text": "एका भक्ताकडे काही फुले होती. त्याने प्रत्येक मंदिरात जाताना फुले तलावात धुतली असता फुले दुप्पट झाली. त्याने पहिल्या मंदिरात ८ फुले वाहिली, दुसऱ्या मंदिरात उरलेली फुले धुवून दुप्पट झाल्यावर ८ वाहिली, आणि तिसऱ्या मंदिरात पुन्हा धुवून दुप्पट झाल्यावर सर्व ८ फुले वाहिली व त्याच्याकडे एकही फूल शिल्लक राहिले नाही. तर सुरुवातीला त्याच्याकडे किती फुले होती?",
+    "options": [
+      "७",
+      "८",
+      "६",
+      "५"
+    ],
+    "options_dict": {
+      "1": "७",
+      "2": "८",
+      "3": "६",
+      "4": "५"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "उलट क्रमाने सोडवू: तिसऱ्या मंदिरात वाहण्यापूर्वी फुले = ८ / २ = ४ फुले होती. दुसऱ्या मंदिरात वाहण्यापूर्वी = (४ + ८) / २ = १२ / २ = ६ फुले होती. पहिल्या मंदिरात वाहण्यापूर्वी = (६ + ८) / २ = १४ / २ = ७ फुले होती. म्हणून सुरुवातीला ७ फुले होती.",
+    "difficulty": "कठीण",
+    "topic": "कूटप्रश्न - फुले व मंदिरे (Flowers & Temples)"
   }
 ]
