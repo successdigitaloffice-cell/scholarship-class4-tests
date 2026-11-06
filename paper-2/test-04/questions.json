@@ -1,330 +1,1727 @@
 [
   {
+    "q_no": 1,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "मूलभूत संकल्पना",
-    "question": "In topic 'Spelling Rules & Punctuation', what is the correct plural of 'Book'?",
+    "section": "1",
+    "question": "<p>How many consonants are there in the English alphabet?</p>",
+    "question_text": "<p>How many consonants are there in the English alphabet?</p>",
     "options": [
-      "Boking",
-      "Bookies",
-      "Books",
-      "Bookes"
+      "20",
+      "21",
+      "26",
+      "5"
     ],
+    "options_dict": {
+      "1": "20",
+      "2": "21",
+      "3": "26",
+      "4": "5"
+    },
     "answer": 2,
-    "explanation": "Book चे अनेकवचन 'Books' होते.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "correct_option": "3",
+    "explanation": "Out of 26 letters, 5 are vowels and 21 are consonants.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 2,
     "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Articles",
-    "question": "We use '____' before words starting with vowel sound like 'Apple':",
+    "section": "1",
+    "question": "<p>What is the young one (baby) of a <strong>Hen</strong> called?</p>",
+    "question_text": "<p>What is the young one (baby) of a <strong>Hen</strong> called?</p>",
     "options": [
-      "A",
-      "No article",
-      "The",
-      "An"
+      "Cub",
+      "Chick",
+      "Calf",
+      "Puppy"
     ],
-    "answer": 3,
-    "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "options_dict": {
+      "1": "Cub",
+      "2": "Chick",
+      "3": "Calf",
+      "4": "Puppy"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "A baby hen is called a chick.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 3,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Punctuation",
-    "question": "Which mark is used at the end of a question?",
+    "section": "1",
+    "question": "<p>Choose the word that rhymes with <strong>'Ring'</strong>:</p>",
+    "question_text": "<p>Choose the word that rhymes with <strong>'Ring'</strong>:</p>",
     "options": [
-      "Comma (,)",
+      "Wing",
+      "Roar",
+      "Singing",
+      "Tail"
+    ],
+    "options_dict": {
+      "1": "Wing",
+      "2": "Roar",
+      "3": "Singing",
+      "4": "Tail"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Wing' rhymes with 'Ring'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 4,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Find the opposite of the word <strong>'Big'</strong>:</p>",
+    "question_text": "<p>Find the opposite of the word <strong>'Big'</strong>:</p>",
+    "options": [
+      "Huge",
+      "Small",
+      "Tall",
+      "Heavy"
+    ],
+    "options_dict": {
+      "1": "Huge",
+      "2": "Small",
+      "3": "Tall",
+      "4": "Heavy"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "The opposite of 'Big' is 'Small'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 5,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Where does a <strong>Lion</strong> live?</p>",
+    "question_text": "<p>Where does a <strong>Lion</strong> live?</p>",
+    "options": [
+      "Stable",
+      "Den",
+      "Coop",
+      "Kennel"
+    ],
+    "options_dict": {
+      "1": "Stable",
+      "2": "Den",
+      "3": "Coop",
+      "4": "Kennel"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "A lion lives in a den.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 6,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Find the option with the correct spelling of the word 'Friend':</p>",
+    "question_text": "<p>Find the option with the correct spelling of the word 'Friend':</p>",
+    "options": [
+      "Freind",
+      "Friend",
+      "Frind",
+      "Frend"
+    ],
+    "options_dict": {
+      "1": "Freind",
+      "2": "Friend",
+      "3": "Frind",
+      "4": "Frend"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "The correct spelling is 'Friend'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 7,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>What sound does a <strong>Cat</strong> make?</p>",
+    "question_text": "<p>What sound does a <strong>Cat</strong> make?</p>",
+    "options": [
+      "Bark",
+      "Meow",
+      "Roar",
+      "Moo"
+    ],
+    "options_dict": {
+      "1": "Bark",
+      "2": "Meow",
+      "3": "Roar",
+      "4": "Moo"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "A cat meows.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 8,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Which punctuation mark is missing: <em>'Where do you live'</em></p>",
+    "question_text": "<p>Which punctuation mark is missing: <em>'Where do you live'</em></p>",
+    "options": [
       "Full stop (.)",
       "Question mark (?)",
+      "Comma (,)",
       "Exclamation mark (!)"
     ],
+    "options_dict": {
+      "1": "Full stop (.)",
+      "2": "Question mark (?)",
+      "3": "Comma (,)",
+      "4": "Exclamation mark (!)"
+    },
     "answer": 2,
-    "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "correct_option": "3",
+    "explanation": "It is a question, so it requires a question mark (?).",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 9,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Gender",
-    "question": "What is the feminine gender of 'Boy'?",
+    "section": "1",
+    "question": "<p>Select the correct sentence with proper capital letters for the month:</p>",
+    "question_text": "<p>Select the correct sentence with proper capital letters for the month:</p>",
     "options": [
-      "Girl",
-      "Woman",
-      "Mother",
-      "Sister"
+      "reena was born in march.",
+      "Reena was born in March.",
+      "reena Was born in march.",
+      "Reena was born in march."
     ],
-    "answer": 0,
-    "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "options_dict": {
+      "1": "reena was born in march.",
+      "2": "Reena was born in March.",
+      "3": "reena Was born in march.",
+      "4": "Reena was born in march."
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "'March' is a proper noun (month) and must begin with capital 'M'.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 10,
     "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Prepositions",
-    "question": "The cat is sitting ____ the table.",
+    "section": "1",
+    "question": "<p>Choose the sentence with correct commas: <em>'I like apples mangoes and bananas.'</em></p>",
+    "question_text": "<p>Choose the sentence with correct commas: <em>'I like apples mangoes and bananas.'</em></p>",
     "options": [
-      "Between",
-      "Under",
-      "Into",
-      "Among"
+      "I like apples, mangoes, and bananas.",
+      "I like apples mangoes, and bananas.",
+      "I like, apples mangoes and bananas.",
+      "I, like apples mangoes and bananas."
     ],
+    "options_dict": {
+      "1": "I like apples, mangoes, and bananas.",
+      "2": "I like apples mangoes, and bananas.",
+      "3": "I like, apples mangoes and bananas.",
+      "4": "I, like apples mangoes and bananas."
+    },
     "answer": 1,
-    "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
+    "correct_option": "2",
+    "explanation": "Items in a list are separated by commas.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 11,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Greetings",
-    "question": "What do we say when meeting someone in the morning?",
+    "section": "1",
+    "question": "<p>Which month is the <strong>third</strong> month of the year?</p>",
+    "question_text": "<p>Which month is the <strong>third</strong> month of the year?</p>",
     "options": [
-      "Good Afternoon",
-      "Good Morning",
-      "Good Evening",
-      "Good Night"
+      "January",
+      "February",
+      "March",
+      "April"
     ],
-    "answer": 1,
-    "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Plural Rules",
-    "question": "What is the plural form of 'Child'?",
-    "options": [
-      "Children",
-      "Childs",
-      "Childrens",
-      "Childes"
-    ],
-    "answer": 0,
-    "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Spelling Rule",
-    "question": "Choose the correctly spelt word:",
-    "options": [
-      "Beautifull",
-      "Beatiful",
-      "Beutiful",
-      "Beautiful"
-    ],
+    "options_dict": {
+      "1": "January",
+      "2": "February",
+      "3": "March",
+      "4": "April"
+    },
     "answer": 3,
-    "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "4",
+    "explanation": "March is the 3rd month.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 12,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Pronoun",
-    "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
+    "section": "1",
+    "question": "<p>How many days are there in February in a leap year?</p>",
+    "question_text": "<p>How many days are there in February in a leap year?</p>",
     "options": [
-      "They",
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "options_dict": {
+      "1": "28",
+      "2": "29",
+      "3": "30",
+      "4": "31"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "In a leap year, February has 29 days.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 13,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>If the hour hand is at 9 and the minute hand is at 12, what time is it?</p>",
+    "question_text": "<p>If the hour hand is at 9 and the minute hand is at 12, what time is it?</p>",
+    "options": [
+      "9 o'clock",
+      "12 o'clock",
+      "3 o'clock",
+      "6 o'clock"
+    ],
+    "options_dict": {
+      "1": "9 o'clock",
+      "2": "12 o'clock",
+      "3": "3 o'clock",
+      "4": "6 o'clock"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "It is 9 o'clock.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 14,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Solve the riddle: <em>'I have a face and two hands, but no arms or legs. I tell you the time. Who am I?'</em></p>",
+    "question_text": "<p>Solve the riddle: <em>'I have a face and two hands, but no arms or legs. I tell you the time. Who am I?'</em></p>",
+    "options": [
+      "Mirror",
+      "Clock",
+      "Book",
+      "Chair"
+    ],
+    "options_dict": {
+      "1": "Mirror",
+      "2": "Clock",
+      "3": "Book",
+      "4": "Chair"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "A clock has a face and hands to tell time.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 15,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Which meaningful word can be formed from letters <strong>B-O-O-K</strong>?</p>",
+    "question_text": "<p>Which meaningful word can be formed from letters <strong>B-O-O-K</strong>?</p>",
+    "options": [
+      "KOOB",
+      "BOOK",
+      "OOKB",
+      "BOOX"
+    ],
+    "options_dict": {
+      "1": "KOOB",
+      "2": "BOOK",
+      "3": "OOKB",
+      "4": "BOOX"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "'BOOK' is a meaningful word.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 16,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Complete the slogan: <strong>'Save trees, save ________.'</strong></p>",
+    "question_text": "<p>Complete the slogan: <strong>'Save trees, save ________.'</strong></p>",
+    "options": [
+      "money",
+      "earth",
+      "time",
+      "food"
+    ],
+    "options_dict": {
+      "1": "money",
+      "2": "earth",
+      "3": "time",
+      "4": "food"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "The slogan is 'Save trees, save earth'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 17,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>What do you say when you make a mistake?</p>",
+    "question_text": "<p>What do you say when you make a mistake?</p>",
+    "options": [
+      "Thank you",
+      "I am sorry",
+      "Good morning",
+      "Excuse me"
+    ],
+    "options_dict": {
+      "1": "Thank you",
+      "2": "I am sorry",
+      "3": "Good morning",
+      "4": "Excuse me"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "We apologize by saying 'I am sorry'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 18,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>When someone says 'Thank you', what should you reply politely?</p>",
+    "question_text": "<p>When someone says 'Thank you', what should you reply politely?</p>",
+    "options": [
+      "You are welcome",
+      "No problem",
+      "Go away",
+      "Sorry"
+    ],
+    "options_dict": {
+      "1": "You are welcome",
+      "2": "No problem",
+      "3": "Go away",
+      "4": "Sorry"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "The standard polite response is 'You are welcome'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 19,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Find the common noun: <em>'The bird is sitting on a tree.'</em></p>",
+    "question_text": "<p>Find the common noun: <em>'The bird is sitting on a tree.'</em></p>",
+    "options": [
+      "sitting",
+      "is",
+      "tree",
+      "on"
+    ],
+    "options_dict": {
+      "1": "sitting",
+      "2": "is",
+      "3": "tree",
+      "4": "on"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "'Tree' is a common noun.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 20,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p>Choose the correct pronoun: <em>'The cat is small. ________ drinks milk.'</em></p>",
+    "question_text": "<p>Choose the correct pronoun: <em>'The cat is small. ________ drinks milk.'</em></p>",
+    "options": [
       "He",
       "She",
-      "It"
+      "It",
+      "They"
     ],
-    "answer": 1,
-    "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Action Verb",
-    "question": "Birds ____ in the sky.",
-    "options": [
-      "Run",
-      "Fly",
-      "Swim",
-      "Crawl"
-    ],
-    "answer": 1,
-    "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Articles",
-    "question": "The sun rises in ____ east.",
-    "options": [
-      "An",
-      "One",
-      "A",
-      "The"
-    ],
+    "options_dict": {
+      "1": "He",
+      "2": "She",
+      "3": "It",
+      "4": "They"
+    },
     "answer": 3,
-    "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "4",
+    "explanation": "For an animal, 'It' is the suitable singular pronoun.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 21,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Gender",
-    "question": "What is the feminine of 'King'?",
+    "section": "1",
+    "question": "<p>Choose the correct article: <em>'Look at ________ moon in the night sky.'</em></p>",
+    "question_text": "<p>Choose the correct article: <em>'Look at ________ moon in the night sky.'</em></p>",
     "options": [
-      "Queen",
-      "Lady",
-      "Duchess",
-      "Princess"
+      "a",
+      "an",
+      "the",
+      "no article"
     ],
-    "answer": 0,
-    "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Plural",
-    "question": "What is the plural of 'Mango'?",
-    "options": [
-      "Mangi",
-      "Mangoies",
-      "Mangos",
-      "Mangoes"
-    ],
+    "options_dict": {
+      "1": "a",
+      "2": "an",
+      "3": "the",
+      "4": "no article"
+    },
     "answer": 3,
-    "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "4",
+    "explanation": "Because there is only one unique moon, we use 'the'.",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 22,
     "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Prepositions",
-    "question": "The book is ____ the table.",
+    "section": "1",
+    "question": "<p>Identify the verb in: <em>'Children play in the garden.'</em></p>",
+    "question_text": "<p>Identify the verb in: <em>'Children play in the garden.'</em></p>",
     "options": [
-      "In",
-      "At",
-      "On",
-      "To"
+      "Children",
+      "play",
+      "garden",
+      "the"
     ],
+    "options_dict": {
+      "1": "Children",
+      "2": "play",
+      "3": "garden",
+      "4": "the"
+    },
     "answer": 2,
-    "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "3",
+    "explanation": "'Play' is the action word (verb).",
+    "difficulty": "कठीण"
   },
   {
+    "q_no": 23,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Punctuation",
-    "question": "Identify the exclamation mark:",
+    "section": "1",
+    "question": "<p>Fill in the blank: <em>'The fish is swimming ________ the water.'</em></p>",
+    "question_text": "<p>Fill in the blank: <em>'The fish is swimming ________ the water.'</em></p>",
     "options": [
-      "!",
-      ",",
-      "?",
-      "."
+      "in",
+      "on",
+      "at",
+      "underneath"
     ],
-    "answer": 0,
-    "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Spelling",
-    "question": "Which word is spelt INCORRECTLY?",
-    "options": [
-      "Tommorow",
-      "Today",
-      "Tomorrow",
-      "Yesterday"
-    ],
-    "answer": 0,
-    "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Plural कूटप्रश्न",
-    "question": "Which of the following words has the SAME form in both singular and plural?",
-    "options": [
-      "Ox",
-      "Fox",
-      "Sheep",
-      "Mouse"
-    ],
-    "answer": 2,
-    "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Riddle / कोडे",
-    "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
-    "options": [
-      "A Shadow",
-      "A Cloud",
-      "A Tree",
-      "An Echo"
-    ],
-    "answer": 3,
-    "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Proverb / म्हण",
-    "question": "Complete the proverb: 'Practice makes a man ____.'",
-    "options": [
-      "Strong",
-      "Rich",
-      "Perfect",
-      "Great"
-    ],
-    "answer": 2,
-    "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "कथा आकलन",
-    "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
-    "options": [
-      "Hare",
-      "Tortoise",
-      "Fox",
-      "Wolf"
-    ],
+    "options_dict": {
+      "1": "in",
+      "2": "on",
+      "3": "at",
+      "4": "underneath"
+    },
     "answer": 1,
-    "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "correct_option": "2",
+    "explanation": "Fish swim 'in' the water.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 24,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<div class='passage-box'>\n<p><strong>Read the short passage and answer questions 24 and 25:</strong></p>\n<p>The Banyan tree is the national tree of India. It has huge spreading branches and large roots that hang down from its limbs to support the tree. Birds and monkeys love to live in the Banyan tree. Travellers and animals sit under its cool shade to rest on hot sunny afternoons. It can live for hundreds of years.</p>\n</div><p>Which tree is the national tree of India?</p>",
+    "question_text": "<div class='passage-box'>\n<p><strong>Read the short passage and answer questions 24 and 25:</strong></p>\n<p>The Banyan tree is the national tree of India. It has huge spreading branches and large roots that hang down from its limbs to support the tree. Birds and monkeys love to live in the Banyan tree. Travellers and animals sit under its cool shade to rest on hot sunny afternoons. It can live for hundreds of years.</p>\n</div><p>Which tree is the national tree of India?</p>",
+    "options": [
+      "Mango tree",
+      "Banyan tree",
+      "Neem tree",
+      "Peepal tree"
+    ],
+    "options_dict": {
+      "1": "Mango tree",
+      "2": "Banyan tree",
+      "3": "Neem tree",
+      "4": "Peepal tree"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "The Banyan tree is India's national tree.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 25,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<div class='passage-box'>\n<p><strong>Read the short passage and answer questions 24 and 25:</strong></p>\n<p>The Banyan tree is the national tree of India. It has huge spreading branches and large roots that hang down from its limbs to support the tree. Birds and monkeys love to live in the Banyan tree. Travellers and animals sit under its cool shade to rest on hot sunny afternoons. It can live for hundreds of years.</p>\n</div><p>Why do travellers sit under the Banyan tree?</p>",
+    "question_text": "<div class='passage-box'>\n<p><strong>Read the short passage and answer questions 24 and 25:</strong></p>\n<p>The Banyan tree is the national tree of India. It has huge spreading branches and large roots that hang down from its limbs to support the tree. Birds and monkeys love to live in the Banyan tree. Travellers and animals sit under its cool shade to rest on hot sunny afternoons. It can live for hundreds of years.</p>\n</div><p>Why do travellers sit under the Banyan tree?</p>",
+    "options": [
+      "To cut wood",
+      "To rest under its cool shade",
+      "To climb up",
+      "To hide"
+    ],
+    "options_dict": {
+      "1": "To cut wood",
+      "2": "To rest under its cool shade",
+      "3": "To climb up",
+      "4": "To hide"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "Travellers rest under its cool shade on hot afternoons.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 26,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>‘अ, क, च, ट, त, प’ या अक्षरांमध्ये डावीकडून पाचवे अक्षर कोणते?</p>",
+    "question_text": "<p>‘अ, क, च, ट, त, प’ या अक्षरांमध्ये डावीकडून पाचवे अक्षर कोणते?</p>",
+    "options": [
+      "च",
+      "ट",
+      "त",
+      "प"
+    ],
+    "options_dict": {
+      "1": "च",
+      "2": "ट",
+      "3": "त",
+      "4": "प"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "१:अ, २:क, ३:च, ४:ट, ५:त. पाचवे अक्षर 'त' आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 27,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>‘शक्यतो’ या शब्दात एकूण किती अक्षरे आहेत?</p>",
+    "question_text": "<p>‘शक्यतो’ या शब्दात एकूण किती अक्षरे आहेत?</p>",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "options_dict": {
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "1"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "श-क्य-तो = ३ अक्षरे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 28,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>‘१०, २०, ३०, ४०, ५०’ या संख्येत उजवीकडून दुसरे पद कोणते?</p>",
+    "question_text": "<p>‘१०, २०, ३०, ४०, ५०’ या संख्येत उजवीकडून दुसरे पद कोणते?</p>",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "options_dict": {
+      "1": "20",
+      "2": "30",
+      "3": "40",
+      "4": "50"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "उजवीकडून ५० (१), ४० (२). दुसरे पद '४०'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 29,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पुढील वाक्यात ‘म’ हे अक्षर किती वेळा आले आहे?<br>‘मामा मला मिठाई आणि मका दे.’</p>",
+    "question_text": "<p>पुढील वाक्यात ‘म’ हे अक्षर किती वेळा आले आहे?<br>‘मामा मला मिठाई आणि मका दे.’</p>",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "options_dict": {
+      "1": "3",
+      "2": "4",
+      "3": "5",
+      "4": "2"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "मामा(२) + मला(१) + मिठाई(१) + मका(१) = ५ वेळा.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 30,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>गटात न बसणारे वाहन ओळखा:<br><strong>बस, कार, ट्रक, विमान</strong></p>",
+    "question_text": "<p>गटात न बसणारे वाहन ओळखा:<br><strong>बस, कार, ट्रक, विमान</strong></p>",
+    "options": [
+      "बस",
+      "कार",
+      "ट्रक",
+      "विमान"
+    ],
+    "options_dict": {
+      "1": "बस",
+      "2": "कार",
+      "3": "ट्रक",
+      "4": "विमान"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "विमान आकाशात उडते, बाकी सर्व रस्त्यावरून धावणारी वाहने आहेत.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 31,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>गटात न बसणारी संख्या शोधा:<br><strong>१४, १८, २२, २७</strong></p>",
+    "question_text": "<p>गटात न बसणारी संख्या शोधा:<br><strong>१४, १८, २२, २७</strong></p>",
+    "options": [
+      "14",
+      "18",
+      "22",
+      "27"
+    ],
+    "options_dict": {
+      "1": "14",
+      "2": "18",
+      "3": "22",
+      "4": "27"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "२७ ही विषम संख्या आहे, बाकी सर्व सम संख्या आहेत.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 32,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>विसंगत दिशा ओळखा:<br><strong>पूर्व, पश्चिम, उत्तर, लाल</strong></p>",
+    "question_text": "<p>विसंगत दिशा ओळखा:<br><strong>पूर्व, पश्चिम, उत्तर, लाल</strong></p>",
+    "options": [
+      "पूर्व",
+      "पश्चिम",
+      "उत्तर",
+      "लाल"
+    ],
+    "options_dict": {
+      "1": "पूर्व",
+      "2": "पश्चिम",
+      "3": "उत्तर",
+      "4": "लाल"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "लाल हा रंग आहे, बाकी मुख्य दिशा आहेत.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 33,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>गटात न बसणारा धातू/घटक ओळखा:<br><strong>लोखंड, तांबे, सोने, लाकूड</strong></p>",
+    "question_text": "<p>गटात न बसणारा धातू/घटक ओळखा:<br><strong>लोखंड, तांबे, सोने, लाकूड</strong></p>",
+    "options": [
+      "लोखंड",
+      "तांबे",
+      "सोने",
+      "लाकूड"
+    ],
+    "options_dict": {
+      "1": "लोखंड",
+      "2": "तांबे",
+      "3": "सोने",
+      "4": "लाकूड"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "लाकूड हा धातू नाही, बाकी सर्व धातू आहेत.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 34,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>गटात न बसणारा ऋतू ओळखा:<br><strong>उन्हाळा, पावसाळा, हिवाळा, सोमवार</strong></p>",
+    "question_text": "<p>गटात न बसणारा ऋतू ओळखा:<br><strong>उन्हाळा, पावसाळा, हिवाळा, सोमवार</strong></p>",
+    "options": [
+      "उन्हाळा",
+      "पावसाळा",
+      "हिवाळा",
+      "सोमवार"
+    ],
+    "options_dict": {
+      "1": "उन्हाळा",
+      "2": "पावसाळा",
+      "3": "हिवाळा",
+      "4": "सोमवार"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "सोमवार हा वार आहे, बाकी मुख्य ऋतू आहेत.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 35,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा:<br><strong>भारत : रुपया :: अमेरिका : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा:<br><strong>भारत : रुपया :: अमेरिका : ?</strong></p>",
+    "options": [
+      "पाउंड",
+      "डॉलर",
+      "येन",
+      "युरो"
+    ],
+    "options_dict": {
+      "1": "पाउंड",
+      "2": "डॉलर",
+      "3": "येन",
+      "4": "युरो"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "भारताचे चलन रुपया, अमेरिकेचे चलन डॉलर.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 36,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा:<br><strong>४ : ८ :: ५ : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा:<br><strong>४ : ८ :: ५ : ?</strong></p>",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "options_dict": {
+      "1": "10",
+      "2": "15",
+      "3": "20",
+      "4": "25"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "४ ची दुप्पट ८, ५ ची दुप्पट १०.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 37,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध पूर्ण करा:<br><strong>हात : हाताची बोटे :: पाय : ?</strong></p>",
+    "question_text": "<p>समसंबंध पूर्ण करा:<br><strong>हात : हाताची बोटे :: पाय : ?</strong></p>",
+    "options": [
+      "पायाची बोटे",
+      "हात",
+      "डोळे",
+      "नाक"
+    ],
+    "options_dict": {
+      "1": "पायाची बोटे",
+      "2": "हात",
+      "3": "डोळे",
+      "4": "नाक"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "हाताला बोटे, पायाला पायाची बोटे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 38,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा:<br><strong>६ : ३६ :: ७ : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा:<br><strong>६ : ३६ :: ७ : ?</strong></p>",
+    "options": [
+      "42",
+      "49",
+      "56",
+      "35"
+    ],
+    "options_dict": {
+      "1": "42",
+      "2": "49",
+      "3": "56",
+      "4": "35"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "६ चा वर्ग ३६, ७ चा वर्ग ४९.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 39,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समसंबंध ओळखा:<br><strong>पुस्तक : वाचन :: अन्न : ?</strong></p>",
+    "question_text": "<p>समसंबंध ओळखा:<br><strong>पुस्तक : वाचन :: अन्न : ?</strong></p>",
+    "options": [
+      "जेवण (खाणे)",
+      "खेळणे",
+      "झोपणे",
+      "पळणे"
+    ],
+    "options_dict": {
+      "1": "जेवण (खाणे)",
+      "2": "खेळणे",
+      "3": "झोपणे",
+      "4": "पळणे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "पुस्तकाचे वाचन करतात, अन्नाचे सेवन (जेवण) करतात.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 40,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पुढील संख्यामालिकेतील प्रश्नचिन्हाच्या जागी काय येईल?<br><strong>४, ८, १२, १६, ?</strong></p>",
+    "question_text": "<p>पुढील संख्यामालिकेतील प्रश्नचिन्हाच्या जागी काय येईल?<br><strong>४, ८, १२, १६, ?</strong></p>",
+    "options": [
+      "18",
+      "20",
+      "24",
+      "22"
+    ],
+    "options_dict": {
+      "1": "18",
+      "2": "20",
+      "3": "24",
+      "4": "22"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "४ चा पाढा: १६ + ४ = २०.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 41,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पुढील अक्षरमालिकेत पुढील पद ओळखा:<br><strong>C, F, I, L, ?</strong></p>",
+    "question_text": "<p>पुढील अक्षरमालिकेत पुढील पद ओळखा:<br><strong>C, F, I, L, ?</strong></p>",
+    "options": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "options_dict": {
+      "1": "M",
+      "2": "N",
+      "3": "O",
+      "4": "P"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "तीन तीनचा फरक: C(+3) F(+3) I(+3) L(+3) O.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 42,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संख्यामालिकेतील पुढील पद ओळखा:<br><strong>५०, ४०, ३०, २०, ?</strong></p>",
+    "question_text": "<p>संख्यामालिकेतील पुढील पद ओळखा:<br><strong>५०, ४०, ३०, २०, ?</strong></p>",
+    "options": [
+      "15",
+      "10",
+      "5",
+      "0"
+    ],
+    "options_dict": {
+      "1": "15",
+      "2": "10",
+      "3": "5",
+      "4": "0"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "१० ने कमी होत आहे: २० - १० = १०.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 43,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पुढील संख्यामालिकेत पुढील संख्या कोणती?<br><strong>२, ४, ६, ८, ?</strong></p>",
+    "question_text": "<p>पुढील संख्यामालिकेत पुढील संख्या कोणती?<br><strong>२, ४, ६, ८, ?</strong></p>",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "options_dict": {
+      "1": "9",
+      "2": "10",
+      "3": "11",
+      "4": "12"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "सम संख्यांचा क्रम: ८ नंतर १० येतो.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 44,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>अक्षरमालिकेत पुढील पद ओळखा:<br><strong>P, Q, R, S, ?</strong></p>",
+    "question_text": "<p>अक्षरमालिकेत पुढील पद ओळखा:<br><strong>P, Q, R, S, ?</strong></p>",
+    "options": [
+      "T",
+      "U",
+      "V",
+      "W"
+    ],
+    "options_dict": {
+      "1": "T",
+      "2": "U",
+      "3": "V",
+      "4": "W"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "S नंतर T येतो.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 45,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पुढील गटाशी जुळणारा शब्द शोधा:<br><strong>चिमणी, कावळा, पोपट, [ ? ]</strong></p>",
+    "question_text": "<p>पुढील गटाशी जुळणारा शब्द शोधा:<br><strong>चिमणी, कावळा, पोपट, [ ? ]</strong></p>",
+    "options": [
+      "गाय",
+      "कबुतर",
+      "मांजर",
+      "शेळी"
+    ],
+    "options_dict": {
+      "1": "गाय",
+      "2": "कबुतर",
+      "3": "मांजर",
+      "4": "शेळी"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "पक्ष्यांच्या गटात 'कबुतर' येतो.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 46,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पुढील संख्यागटाशी जुळणारी संख्या कोणती?<br><strong>८, १६, २४, [ ? ]</strong></p>",
+    "question_text": "<p>पुढील संख्यागटाशी जुळणारी संख्या कोणती?<br><strong>८, १६, २४, [ ? ]</strong></p>",
+    "options": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "options_dict": {
+      "1": "30",
+      "2": "32",
+      "3": "34",
+      "4": "36"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "८ चा पाढा: ३२.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 47,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पुढील गटाशी जुळणारे पद शोधा:<br><strong>रविवार, मंगळवार, गुरुवार, [ ? ]</strong></p>",
+    "question_text": "<p>पुढील गटाशी जुळणारे पद शोधा:<br><strong>रविवार, मंगळवार, गुरुवार, [ ? ]</strong></p>",
+    "options": [
+      "शनिवार",
+      "जानेवारी",
+      "सकाळ",
+      "दुपार"
+    ],
+    "options_dict": {
+      "1": "शनिवार",
+      "2": "जानेवारी",
+      "3": "सकाळ",
+      "4": "दुपार"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "वारांच्या गटात 'शनिवार' येतो.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 48,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पुढील गटाशी जुळणारी संख्या ओळखा:<br><strong>१, ४, ९, [ ? ]</strong></p>",
+    "question_text": "<p>पुढील गटाशी जुळणारी संख्या ओळखा:<br><strong>१, ४, ९, [ ? ]</strong></p>",
+    "options": [
+      "12",
+      "16",
+      "18",
+      "20"
+    ],
+    "options_dict": {
+      "1": "12",
+      "2": "16",
+      "3": "18",
+      "4": "20"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "पूर्ण वर्ग संख्या: ४ चा वर्ग = १६.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 49,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>पुढीलपैकी कोणते इंग्रजी अक्षर आरशात पाहिले असता डावी-उजवी बाजू बदलून उलटे भासते?</p>",
+    "question_text": "<p>पुढीलपैकी कोणते इंग्रजी अक्षर आरशात पाहिले असता डावी-उजवी बाजू बदलून उलटे भासते?</p>",
+    "options": [
+      "H",
+      "I",
+      "C",
+      "X"
+    ],
+    "options_dict": {
+      "1": "H",
+      "2": "I",
+      "3": "C",
+      "4": "X"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "'C' हे अक्षर आरशात उलट्या बाजूला तोंड करून दिसते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 50,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>‘X’ हे अक्षर पाण्यात कसे दिसेल?</p>",
+    "question_text": "<p>‘X’ हे अक्षर पाण्यात कसे दिसेल?</p>",
+    "options": [
+      "X असेच",
+      "उलटे",
+      "बदललेले",
+      "चौकोन"
+    ],
+    "options_dict": {
+      "1": "X असेच",
+      "2": "उलटे",
+      "3": "बदललेले",
+      "4": "चौकोन"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'X' हे सममित असल्याने पाण्यात 'X' असेच दिसते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 51,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>‘E’ या अक्षराचे जलप्रतिबिंब कसे दिसेल?</p>",
+    "question_text": "<p>‘E’ या अक्षराचे जलप्रतिबिंब कसे दिसेल?</p>",
+    "options": [
+      "E असेच",
+      "3 असे",
+      "उलटे",
+      "खाली"
+    ],
+    "options_dict": {
+      "1": "E असेच",
+      "2": "3 असे",
+      "3": "उलटे",
+      "4": "खाली"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'E' चे क्षितिजसमांतर जलप्रतिबिंब 'E' असेच दिसते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 52,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>‘U’ या अक्षराचे जलप्रतिबिंब कसे दिसते?</p>",
+    "question_text": "<p>‘U’ या अक्षराचे जलप्रतिबिंब कसे दिसते?</p>",
+    "options": [
+      "∩ (उलटा U)",
+      "U",
+      "V",
+      "O"
+    ],
+    "options_dict": {
+      "1": "∩ (उलटा U)",
+      "2": "U",
+      "3": "V",
+      "4": "O"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "U चे पाण्यात उलटे प्रतिबिंब '∩' सारखे दिसते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 53,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>‘७४१’ या संख्येशी हुबेहूब समान असणारी संख्या शोधा:</p>",
+    "question_text": "<p>‘७४१’ या संख्येशी हुबेहूब समान असणारी संख्या शोधा:</p>",
+    "options": [
+      "714",
+      "741",
+      "147",
+      "471"
+    ],
+    "options_dict": {
+      "1": "714",
+      "2": "741",
+      "3": "147",
+      "4": "471"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "हुबेहूब समान पद '741' आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 54,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>‘ENGLISH’ या शब्दाशी हुबेहूब जुळणारा शब्द पर्यायांतून ओळखा:</p>",
+    "question_text": "<p>‘ENGLISH’ या शब्दाशी हुबेहूब जुळणारा शब्द पर्यायांतून ओळखा:</p>",
+    "options": [
+      "ENGILSH",
+      "ENGLISH",
+      "ENGLSIH",
+      "ENGLLSH"
+    ],
+    "options_dict": {
+      "1": "ENGILSH",
+      "2": "ENGLISH",
+      "3": "ENGLSIH",
+      "4": "ENGLLSH"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "'ENGLISH' हा तंतोतंत जुळणारा शब्द आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 55,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>प्रवीणचे वय आज १२ वर्षे आहे. ३ वर्षांपूर्वी त्याचे वय किती होते?</p>",
+    "question_text": "<p>प्रवीणचे वय आज १२ वर्षे आहे. ३ वर्षांपूर्वी त्याचे वय किती होते?</p>",
+    "options": [
+      "9 वर्षे",
+      "10 वर्षे",
+      "15 वर्षे",
+      "8 वर्षे"
+    ],
+    "options_dict": {
+      "1": "9 वर्षे",
+      "2": "10 वर्षे",
+      "3": "15 वर्षे",
+      "4": "8 वर्षे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "१२ - ३ = ९ वर्षे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 56,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>समीर हा सचिनचा भाऊ आहे आणि सचिनचे वडील प्रकाशराव आहेत, तर प्रकाशराव हे समीरचे कोण?</p>",
+    "question_text": "<p>समीर हा सचिनचा भाऊ आहे आणि सचिनचे वडील प्रकाशराव आहेत, तर प्रकाशराव हे समीरचे कोण?</p>",
+    "options": [
+      "काका",
+      "वडील",
+      "मामा",
+      "आजोबा"
+    ],
+    "options_dict": {
+      "1": "काका",
+      "2": "वडील",
+      "3": "मामा",
+      "4": "आजोबा"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "समीर व सचिन भाऊ असल्याने प्रकाशराव हे समीरचे देखील 'वडील' आहेत.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 57,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>कमल ही विमलापेक्षा उंच आहे आणि विमला ही सरलापेक्षा उंच आहे, तर सर्वात ठेंगणी कोण?</p>",
+    "question_text": "<p>कमल ही विमलापेक्षा उंच आहे आणि विमला ही सरलापेक्षा उंच आहे, तर सर्वात ठेंगणी कोण?</p>",
+    "options": [
+      "कमल",
+      "विमला",
+      "सरला",
+      "दोघी समान"
+    ],
+    "options_dict": {
+      "1": "कमल",
+      "2": "विमला",
+      "3": "सरला",
+      "4": "दोघी समान"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "कमल > विमला > सरला, म्हणून सर्वात ठेंगणी सरला आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 58,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका बागेत २ आंब्याची व ३ पेरूची झाडे आहेत, तर एकूण किती झाडे आहेत?</p>",
+    "question_text": "<p>एका बागेत २ आंब्याची व ३ पेरूची झाडे आहेत, तर एकूण किती झाडे आहेत?</p>",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "options_dict": {
+      "1": "4",
+      "2": "5",
+      "3": "6",
+      "4": "7"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "२ + ३ = ५ झाडे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 59,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>जर काल शनिवार होता, तर उद्या कोणता वार असेल?</p>",
+    "question_text": "<p>जर काल शनिवार होता, तर उद्या कोणता वार असेल?</p>",
+    "options": [
+      "रविवार",
+      "सोमवार",
+      "मंगळवार",
+      "शुक्रवार"
+    ],
+    "options_dict": {
+      "1": "रविवार",
+      "2": "सोमवार",
+      "3": "मंगळवार",
+      "4": "शुक्रवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "काल शनिवार, आज रविवार, उद्या सोमवार येईल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 60,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>वडिलांच्या बहिणीला आपण नात्याने काय म्हणतो?</p>",
+    "question_text": "<p>वडिलांच्या बहिणीला आपण नात्याने काय म्हणतो?</p>",
+    "options": [
+      "मावशी",
+      "आत्या",
+      "काकू",
+      "आजी"
+    ],
+    "options_dict": {
+      "1": "मावशी",
+      "2": "आत्या",
+      "3": "काकू",
+      "4": "आजी"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "वडिलांची बहीण म्हणजे 'आत्या'.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 61,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>संजयचे वजन ३० किलो आहे व अजयचे वजन २८ किलो आहे, तर संजय अजयपेक्षा कितीने जड आहे?</p>",
+    "question_text": "<p>संजयचे वजन ३० किलो आहे व अजयचे वजन २८ किलो आहे, तर संजय अजयपेक्षा कितीने जड आहे?</p>",
+    "options": [
+      "2 किलो",
+      "3 किलो",
+      "4 किलो",
+      "5 किलो"
+    ],
+    "options_dict": {
+      "1": "2 किलो",
+      "2": "3 किलो",
+      "3": "4 किलो",
+      "4": "5 किलो"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "३० - २८ = २ किलोग्रॅम.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 62,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका रांगेत मध्यभागी उभा असणारा विद्यार्थी दोन्ही बाजूंनी ६ व्या क्रमांकावर आहे, तर रांगेत एकूण किती विद्यार्थी आहेत?</p>",
+    "question_text": "<p>एका रांगेत मध्यभागी उभा असणारा विद्यार्थी दोन्ही बाजूंनी ६ व्या क्रमांकावर आहे, तर रांगेत एकूण किती विद्यार्थी आहेत?</p>",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "options_dict": {
+      "1": "10",
+      "2": "11",
+      "3": "12",
+      "4": "13"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "एकूण विद्यार्थी = (६ + ६) - १ = १२ - १ = ११.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 63,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>दुपारी १२ वाजता सूर्याकडे तोंड करून उभे राहिल्यास तुमची सावली कोणत्या बाजूला पडेल?</p>",
+    "question_text": "<p>दुपारी १२ वाजता सूर्याकडे तोंड करून उभे राहिल्यास तुमची सावली कोणत्या बाजूला पडेल?</p>",
+    "options": [
+      "पावलांखाली (अगदी जवळ)",
+      "लांब पुढे",
+      "लांब मागे",
+      "उजवीकडे"
+    ],
+    "options_dict": {
+      "1": "पावलांखाली (अगदी जवळ)",
+      "2": "लांब पुढे",
+      "3": "लांब मागे",
+      "4": "उजवीकडे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "दुपारी १२ वाजता सूर्य माथ्यावर असतो, सावली पावलांखाली पडते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 64,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>जर ३ ऑगस्टला सोमवार असेल, तर १० ऑगस्टला कोणता वार येईल?</p>",
+    "question_text": "<p>जर ३ ऑगस्टला सोमवार असेल, तर १० ऑगस्टला कोणता वार येईल?</p>",
+    "options": [
+      "रविवार",
+      "सोमवार",
+      "मंगळवार",
+      "बुधवार"
+    ],
+    "options_dict": {
+      "1": "रविवार",
+      "2": "सोमवार",
+      "3": "मंगळवार",
+      "4": "बुधवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "३ + ७ = १० ऑगस्टला 'सोमवार'च येईल.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 65,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका बास्केटमध्ये ८ आंबे होते. त्यातील ४ आंबे खाल्ले, तर किती आंबे शिल्लक राहिले?</p>",
+    "question_text": "<p>एका बास्केटमध्ये ८ आंबे होते. त्यातील ४ आंबे खाल्ले, तर किती आंबे शिल्लक राहिले?</p>",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "options_dict": {
+      "1": "2",
+      "2": "4",
+      "3": "6",
+      "4": "8"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "८ - ४ = ४ आंबे शिल्लक.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 66,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका चौकात ४ रस्ते एकत्र येतात. प्रत्येक रस्त्याने २ गाड्या आल्या, तर चौकात एकूण किती गाड्या आल्या?</p>",
+    "question_text": "<p>एका चौकात ४ रस्ते एकत्र येतात. प्रत्येक रस्त्याने २ गाड्या आल्या, तर चौकात एकूण किती गाड्या आल्या?</p>",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "4"
+    ],
+    "options_dict": {
+      "1": "6",
+      "2": "8",
+      "3": "10",
+      "4": "4"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "४ × २ = ८ गाड्या.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 67,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका वर्षात एकूण किती दिवस असतात (सामान्य वर्षात)?</p>",
+    "question_text": "<p>एका वर्षात एकूण किती दिवस असतात (सामान्य वर्षात)?</p>",
+    "options": [
+      "360",
+      "365",
+      "366",
+      "350"
+    ],
+    "options_dict": {
+      "1": "360",
+      "2": "365",
+      "3": "366",
+      "4": "350"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "सामान्य वर्षात ३६५ दिवस असतात.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 68,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>घड्याळात बरोबर ६:०० वाजता तासकाटा कोणत्या अंकावर असतो?</p>",
+    "question_text": "<p>घड्याळात बरोबर ६:०० वाजता तासकाटा कोणत्या अंकावर असतो?</p>",
+    "options": [
+      "12 वर",
+      "6 वर",
+      "3 वर",
+      "9 वर"
+    ],
+    "options_dict": {
+      "1": "12 वर",
+      "2": "6 वर",
+      "3": "3 वर",
+      "4": "9 वर"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "तासकाटा ६ वर असतो.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 69,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>दक्षिण दिशेच्या अगदी समोरासमोर (विरुद्ध) कोणती दिशा असते?</p>",
+    "question_text": "<p>दक्षिण दिशेच्या अगदी समोरासमोर (विरुद्ध) कोणती दिशा असते?</p>",
+    "options": [
+      "पूर्व",
+      "पश्चिम",
+      "उत्तर",
+      "नैऋत्य"
+    ],
+    "options_dict": {
+      "1": "पूर्व",
+      "2": "पश्चिम",
+      "3": "उत्तर",
+      "4": "नैऋत्य"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "दक्षिणेच्या विरुद्ध उत्तर दिशा असते.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 70,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका रांगेत १५ मुले आहेत. सोहमचा पुढून ५ वा क्रमांक असल्यास मागून कितवा क्रमांक येईल?</p>",
+    "question_text": "<p>एका रांगेत १५ मुले आहेत. सोहमचा पुढून ५ वा क्रमांक असल्यास मागून कितवा क्रमांक येईल?</p>",
+    "options": [
+      "10 वा",
+      "11 वा",
+      "12 वा",
+      "9 वा"
+    ],
+    "options_dict": {
+      "1": "10 वा",
+      "2": "11 वा",
+      "3": "12 वा",
+      "4": "9 वा"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "(१५ - ५) + १ = १० + १ = ११ वा.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 71,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'PEN' = '16-5-14' (P=16, E=5, N=14), तर 'CUP' कसा लिहिला जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'PEN' = '16-5-14' (P=16, E=5, N=14), तर 'CUP' कसा लिहिला जाईल?</p>",
+    "options": [
+      "3-21-16",
+      "3-20-16",
+      "4-21-16",
+      "3-21-15"
+    ],
+    "options_dict": {
+      "1": "3-21-16",
+      "2": "3-20-16",
+      "3": "4-21-16",
+      "4": "3-21-15"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "C=3, U=21, P=16 = 3-21-16.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 72,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 'मोर' = '१-२', 'पोपट' = '३-४-५' असल्यास 'पोमोर' कसा लिहिला जाईल?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 'मोर' = '१-२', 'पोपट' = '३-४-५' असल्यास 'पोमोर' कसा लिहिला जाईल?</p>",
+    "options": [
+      "३-१-२",
+      "४-१-२",
+      "३-२-१",
+      "५-१-२"
+    ],
+    "options_dict": {
+      "1": "३-१-२",
+      "2": "४-१-२",
+      "3": "३-२-१",
+      "4": "५-१-२"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "पो=३, मो=१, र=२ = ३-१-२.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 73,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत कावळ्याला 'चिमणी' म्हटले, चिमणीला 'पोपट' म्हटले व पोपटाला 'मयूर' म्हटले, तर गोड गाणारा हिरवा पक्षी कोणता?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत कावळ्याला 'चिमणी' म्हटले, चिमणीला 'पोपट' म्हटले व पोपटाला 'मयूर' म्हटले, तर गोड गाणारा हिरवा पक्षी कोणता?</p>",
+    "options": [
+      "पोपट",
+      "मयूर",
+      "चिमणी",
+      "कावळा"
+    ],
+    "options_dict": {
+      "1": "पोपट",
+      "2": "मयूर",
+      "3": "चिमणी",
+      "4": "कावळा"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "हिरवा पक्षी पोपट असतो, आणि पोपटाला 'मयूर' म्हटले आहे.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 74,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका सांकेतिक भाषेत 15 = 6 (1+5), 23 = 5 (2+3), तर 42 = किती?</p>",
+    "question_text": "<p>एका सांकेतिक भाषेत 15 = 6 (1+5), 23 = 5 (2+3), तर 42 = किती?</p>",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "options_dict": {
+      "1": "5",
+      "2": "6",
+      "3": "7",
+      "4": "8"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "४ + २ = ६.",
+    "difficulty": "कठीण"
+  },
+  {
+    "q_no": 75,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p>एका मोठ्या आयताचे मधोमध १ उभी रेघ ओढून २ भाग केले, तर त्या आकृतीत एकूण किती आयत तयार होतात?</p>",
+    "question_text": "<p>एका मोठ्या आयताचे मधोमध १ उभी रेघ ओढून २ भाग केले, तर त्या आकृतीत एकूण किती आयत तयार होतात?</p>",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "options_dict": {
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "5"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "२ लहान आयत + १ मूळ मोठा आयत = एकूण ३ आयत तयार होतात.",
+    "difficulty": "कठीण"
   }
 ]
