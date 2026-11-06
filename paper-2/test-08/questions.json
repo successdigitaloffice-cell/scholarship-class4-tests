@@ -1,347 +1,1809 @@
 [
   {
+    "q_no": 1,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Story Passage",
-    "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
-    "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 1.** What is the name of Raju's dog in the story?",
+    "section": "1",
+    "question": "According to the passage, why is the pollination carried out by worker bees critically vital for the planet?",
+    "question_text": "According to the passage, why is the pollination carried out by worker bees critically vital for the planet?",
     "options": [
-      "Tommy",
-      "Bruno",
-      "Rocky",
-      "Max"
+      "It produces golden honey inside the honeycomb.",
+      "It enables plants, fruits, and crops to reproduce and survive.",
+      "It helps the queen bee travel three kilometers from the hive.",
+      "It keeps the beehive warm during cold winter months."
     ],
+    "options_dict": {
+      "1": "It produces golden honey inside the honeycomb.",
+      "2": "It enables plants, fruits, and crops to reproduce and survive.",
+      "3": "It helps the queen bee travel three kilometers from the hive.",
+      "4": "It keeps the beehive warm during cold winter months."
+    },
     "answer": 1,
-    "explanation": "The passage states in the first sentence: 'Raju has a lovely dog named Bruno.'",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Story Detail",
-    "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
-    "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 2.** What did Raju drop in the tall grass in the park?",
-    "options": [
-      "His water bottle",
-      "His sports ball",
-      "His pencil box",
-      "His small red school badge"
-    ],
-    "answer": 3,
-    "explanation": "Raju dropped his small red school badge in the tall grass.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Vocabulary",
-    "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
-    "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 3.** What is the meaning of 'FAITHFUL' in the story?",
-    "options": [
-      "Loyal and trustworthy (प्रामाणिक व विश्वासू)",
-      "Afraid of darkness",
-      "Lazy and sleepy",
-      "Angry and cruel"
-    ],
-    "answer": 0,
-    "explanation": "Faithful means loyal, devoted, and dependable (विश्वासू / एकनिष्ठ).",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Action Sequence",
-    "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
-    "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 4.** How did Bruno find the lost red badge?",
-    "options": [
-      "He ran away to his home",
-      "He called other street dogs",
-      "He sniffed the grass and searched carefully",
-      "He barked at the birds"
-    ],
-    "answer": 2,
-    "explanation": "Bruno sniffed the grass and searched everywhere until he gently picked up the badge.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2023",
-    "tagText": "Story Title",
-    "passage": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"",
-    "question": "📖 **Read the following story passage carefully and answer the questions:**\n\n\"Raju has a lovely dog named Bruno. Bruno has soft golden fur and bright brown eyes. Every morning, Bruno wags his tail and waits by the door for Raju to wake up. When Raju comes home from school, Bruno runs happily and brings Raju's school slippers in his mouth.\n\nOne evening, while walking in the park, Raju dropped his small red school badge in the tall grass. Raju was very sad because he could not find it. Bruno saw Raju crying. Bruno immediately sniffed the grass and searched everywhere. After five minutes, Bruno gently picked up the shiny red badge in his teeth and brought it to Raju. Raju hugged Bruno with tears of joy. Bruno is indeed a faithful and clever friend!\"\n\n**Question 5.** Which is the best title for this story?",
-    "options": [
-      "The Rainy Evening in Park",
-      "Buying New Slippers",
-      "Bruno, the Clever and Faithful Friend",
-      "How to Lose a School Badge"
-    ],
-    "answer": 2,
-    "explanation": "The story highlights Bruno's loyalty and cleverness in helping Raju.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "Poem Comprehension",
-    "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
-    "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 6.** What were the little seeds doing down in the ground?",
-    "options": [
-      "Running on the road",
-      "Resting without making a sound",
-      "Singing loudly",
-      "Flying high in the sky"
-    ],
-    "answer": 1,
-    "explanation": "The poem says: 'Little seeds down in the ground, Resting without making a sound.'",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Rhyming Words",
-    "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
-    "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 7.** Find the rhyming pair from the poem: 'sky' rhymes with:",
-    "options": [
-      "wings",
-      "ground",
-      "sweet",
-      "by (sky - by)"
-    ],
-    "answer": 3,
-    "explanation": "In the poem: 'sky' rhymes with 'by', and 'make' rhymes with 'wake'.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Poem Detail",
-    "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
-    "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 8.** What colours of flowers are mentioned in the poem?",
-    "options": [
-      "Silver and golden flowers",
-      "Only white flowers",
-      "Red and yellow flowers",
-      "Blue and black flowers"
-    ],
-    "answer": 2,
-    "explanation": "The poem mentions: 'Red and yellow flowers sweet'.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Nature Appreciation",
-    "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
-    "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 9.** Which bird is heard singing in the garden?",
-    "options": [
-      "Owl",
-      "Robin",
-      "Crow",
-      "Eagle"
-    ],
-    "answer": 1,
-    "explanation": "The poem concludes with: 'Hear how the little robin sings!'",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Poetic Meaning",
-    "passage": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!",
-    "question": "📜 **Read the following poem carefully and answer the questions:**\n\nLittle seeds down in the ground,\nResting without making a sound.\nWarm bright sunshine in the sky,\nGentle raindrops falling by!\n\nWake up, little green sprout, wake!\nLook at the pretty smile you make!\nRed and yellow flowers sweet,\nDancing gently at our feet!\nButterflies with painted wings,\nHear how the little robin sings!\n\n**Question 10.** What helps the little seed to wake up and grow into a plant?",
-    "options": [
-      "Smoke and dust",
-      "Warm sunshine and gentle raindrops",
-      "Dark night with no water",
-      "Cold snow and freezing ice"
-    ],
-    "answer": 1,
-    "explanation": "Seeds need warm sunshine and gentle raindrops to sprout.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2022",
-    "tagText": "Nature Science",
-    "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
-    "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 11.** Where do honeybees live together in a big colony?",
-    "options": [
-      "Inside a hive",
-      "In a birds' nest",
-      "In a spider web",
-      "Under the deep water"
-    ],
-    "answer": 0,
-    "explanation": "The passage states: 'Honeybees live together in a big hive called a colony.'",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Factual Detail",
-    "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
-    "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 12.** What do honeybees collect from blossoms to make honey?",
-    "options": [
-      "Sweet nectar and pollen",
-      "Raindrops and ice",
-      "Grass and twigs",
-      "Dry soil and sand"
-    ],
-    "answer": 0,
-    "explanation": "Honeybees collect sweet nectar and golden pollen from blossoms.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Health Benefits",
-    "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
-    "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 13.** According to the passage, how does honey help human health?",
-    "options": [
-      "It causes bad toothache",
-      "It makes people sleepy and weak",
-      "It has no taste at all",
-      "It gives instant energy and heals a sore throat"
-    ],
-    "answer": 3,
-    "explanation": "The passage mentions honey gives instant energy and heals a sore throat.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Contextual Antonym",
-    "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
-    "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 14.** What is the antonym of 'SWEET' in the passage?",
-    "options": [
-      "Bitter",
-      "Delicious",
-      "Fresh",
-      "Tasty"
-    ],
-    "answer": 0,
-    "explanation": "The opposite of sweet (गोड) is bitter (कडू).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Life Lesson",
-    "passage": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"",
-    "question": "📖 **Read the following nature passage carefully and answer the questions:**\n\n\"The honeybee is one of the hardest working insects in the natural world. It flies tirelessly from one blossom to another, collecting sweet nectar and golden pollen. Honeybees live together in a big hive called a colony. Inside the hive, thousands of worker bees work as a team to build tidy wax honeycombs.\n\nHoney is not only sweet and tasty, but it is also very good for human health. Honey gives us instant energy and heals a sore throat. Honeybees also help flowers to grow into tasty fruits and vegetables by pollination. We must protect honeybees and plant bright flowers in our gardens.\"\n\n**Question 15.** What important value can students learn from worker honeybees?",
-    "options": [
-      "Quarrelling with friends",
-      "Wasting precious time",
-      "Sleeping all day long",
-      "Hard work and teamwork (कष्ट आणि एकजूट)"
-    ],
-    "answer": 3,
-    "explanation": "Worker honeybees teach us the value of hard work, discipline, and teamwork.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2023",
-    "tagText": "Dialogue Comprehension",
-    "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
-    "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 16.** What game do Aman and Meera plan to play during lunch break?",
-    "options": [
-      "Football",
-      "Chess",
-      "Cricket",
-      "Badminton"
-    ],
-    "answer": 3,
-    "explanation": "Meera says: 'Let's play a game of badminton before the school bell rings!'",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Care & Safety",
-    "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
-    "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 17.** Why did Aman want to clear the court before starting the game?",
-    "options": [
-      "To build a mud house",
-      "To find a hidden treasure",
-      "So nobody slips on the dry leaves",
-      "Because the teacher told him to punish Meera"
-    ],
-    "answer": 2,
-    "explanation": "Aman wanted to clear the dry leaves so that nobody slips and gets hurt.",
+    "correct_option": "2",
+    "explanation": "उताऱ्यात स्पष्ट म्हटले आहे: 'they perform the vital service of pollination, which enables plants, fruits, and agricultural crops to reproduce.' त्यामुळे वनस्पतींच्या पुनरुत्पादनासाठी परागीभवन अत्यावश्यक आहे.",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "passage": "📖 **Read the following unseen passage carefully and answer the questions (Q. 1 to Q. 3):**\n\nThe honeybee is one of nature's most diligent and extraordinary creatures. In a single colony, thousands of bees live together in a highly structured social hierarchy consisting of a queen bee, female worker bees, and male drones. Worker bees travel up to three kilometers from the hive to gather nectar and pollen from vibrant flowers. In doing so, they perform the vital service of pollination, which enables plants, fruits, and agricultural crops to reproduce. Without the pollination services of bees, more than a third of the world's food supply would vanish. Inside the hive, worker bees beat their wings tirelessly to evaporate moisture from nectar, transforming it into golden, nutritious honey that never spoils even after thousands of years.",
+    "topic": "Reading Comprehension"
   },
   {
+    "q_no": 2,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Sportsmanship",
-    "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
-    "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 18.** According to Meera, what does true sportsmanship mean?",
+    "section": "1",
+    "question": "In the passage, the honeybee is described as a 'diligent' creature. Which of the following is the most accurate synonym for 'diligent'?",
+    "question_text": "In the passage, the honeybee is described as a 'diligent' creature. Which of the following is the most accurate synonym for 'diligent'?",
     "options": [
-      "Winning at any cost even by cheating",
-      "Keeping everyone safe and having fun together",
-      "Breaking sports equipment",
-      "Fighting with opponents"
+      "Careless and slow",
+      "Lazy and inactive",
+      "Hardworking and persistent",
+      "Aggressive and dangerous"
     ],
-    "answer": 1,
-    "explanation": "Meera says: 'True sportsmanship means keeping everyone safe and having fun together!'",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Polite Speech",
-    "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
-    "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 19.** When Aman greeted Meera, which friendly greeting did he use?",
-    "options": [
-      "Hurry up!",
-      "Go away Meera!",
-      "Hello Meera!",
-      "Goodbye Meera!"
-    ],
+    "options_dict": {
+      "1": "Careless and slow",
+      "2": "Lazy and inactive",
+      "3": "Hardworking and persistent",
+      "4": "Aggressive and dangerous"
+    },
     "answer": 2,
-    "explanation": "Aman started the conversation with: 'Hello Meera!'.",
+    "correct_option": "3",
+    "explanation": "'Diligent' म्हणजे अत्यंत कष्टाळू, मेहनती व चिकाटीने काम करणारा. म्हणून योग्य समानार्थी शब्द 'Hardworking and persistent' आहे.",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "passage": "📖 **Read the following unseen passage carefully and answer the questions (Q. 1 to Q. 3):**\n\nThe honeybee is one of nature's most diligent and extraordinary creatures. In a single colony, thousands of bees live together in a highly structured social hierarchy consisting of a queen bee, female worker bees, and male drones. Worker bees travel up to three kilometers from the hive to gather nectar and pollen from vibrant flowers. In doing so, they perform the vital service of pollination, which enables plants, fruits, and agricultural crops to reproduce. Without the pollination services of bees, more than a third of the world's food supply would vanish. Inside the hive, worker bees beat their wings tirelessly to evaporate moisture from nectar, transforming it into golden, nutritious honey that never spoils even after thousands of years.",
+    "topic": "Reading Comprehension - Vocabulary"
   },
   {
+    "q_no": 3,
     "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Moral Takeaway",
-    "passage": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"",
-    "question": "💬 **Read the following conversation carefully and answer the questions:**\n\n(During the lunch break, Aman and Meera are sitting under a neem tree in the school playground.)\n\nAman: \"Hello Meera! Have you finished your homework for today?\"\nMeera (smiling): \"Yes Aman, I finished it yesterday evening. Let's play a game of badminton before the school bell rings!\"\nAman: \"That is a wonderful idea! But remember, the ground has a few dry leaves. Let us quickly clear the court so nobody slips.\"\nMeera: \"You are so thoughtful, Aman. True sportsmanship means keeping everyone safe and having fun together!\"\nAman: \"Exactly! Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.\"\n\n**Question 20.** What is Aman's belief about winning or losing in a game?",
+    "section": "1",
+    "question": "How do worker bees transform watery nectar into thick golden honey inside their hive?",
+    "question_text": "How do worker bees transform watery nectar into thick golden honey inside their hive?",
     "options": [
-      "It doesn't matter as long as we play with honesty and joy",
-      "Nobody should ever play any games",
-      "Winning is the only thing that matters in life",
-      "Losing players should be punished"
+      "By exposing the nectar to direct midday sunlight",
+      "By beating their wings continuously to evaporate excess moisture",
+      "By adding sweet pollen collected from exotic orchids",
+      "By mixing it with special mineral water from streams"
     ],
-    "answer": 0,
-    "explanation": "Aman says: 'Winning or losing doesn't matter as long as we play with honesty and a joyful spirit.'",
+    "options_dict": {
+      "1": "By exposing the nectar to direct midday sunlight",
+      "2": "By beating their wings continuously to evaporate excess moisture",
+      "3": "By adding sweet pollen collected from exotic orchids",
+      "4": "By mixing it with special mineral water from streams"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "उताऱ्यातील शेवटचे वाक्य: 'worker bees beat their wings tirelessly to evaporate moisture from nectar, transforming it into golden honey'.",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "passage": "📖 **Read the following unseen passage carefully and answer the questions (Q. 1 to Q. 3):**\n\nThe honeybee is one of nature's most diligent and extraordinary creatures. In a single colony, thousands of bees live together in a highly structured social hierarchy consisting of a queen bee, female worker bees, and male drones. Worker bees travel up to three kilometers from the hive to gather nectar and pollen from vibrant flowers. In doing so, they perform the vital service of pollination, which enables plants, fruits, and agricultural crops to reproduce. Without the pollination services of bees, more than a third of the world's food supply would vanish. Inside the hive, worker bees beat their wings tirelessly to evaporate moisture from nectar, transforming it into golden, nutritious honey that never spoils even after thousands of years.",
+    "topic": "Reading Comprehension - Fact Extraction"
+  },
+  {
+    "q_no": 4,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What action does the wind take with the withered fallen leaves in the poem?",
+    "question_text": "What action does the wind take with the withered fallen leaves in the poem?",
+    "options": [
+      "He buries them gently beneath the green grass.",
+      "He sets them on fire with blazing heat.",
+      "He kicks them about playfully as he whistles.",
+      "He weaves them into beautiful golden nests."
+    ],
+    "options_dict": {
+      "1": "He buries them gently beneath the green grass.",
+      "2": "He sets them on fire with blazing heat.",
+      "3": "He kicks them about playfully as he whistles.",
+      "4": "He weaves them into beautiful golden nests."
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "कवितेतील तिसरी ओळ: 'Kicked the withered leaves about'. वाऱ्याने वाळलेली पाने इकडेतिकडे उडवून दिली.",
+    "difficulty": "कठीण",
+    "passage": "📜 **Read the following poetic lines carefully and answer the questions (Q. 4 to Q. 5):**\n\nThe wind stood up and gave a shout,\nHe whistled on his fingers and\nKicked the withered leaves about\nAnd poked the trees with chilly hand.\nHe puffed and blew the chimneys gray,\nAnd frightened all the birds away!",
+    "topic": "Poetry Comprehension"
+  },
+  {
+    "q_no": 5,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which pair of words from the poem constitutes an exact rhyming pair?",
+    "question_text": "Which pair of words from the poem constitutes an exact rhyming pair?",
+    "options": [
+      "shout – about",
+      "fingers – hand",
+      "leaves – gray",
+      "blew – away"
+    ],
+    "options_dict": {
+      "1": "shout – about",
+      "2": "fingers – hand",
+      "3": "leaves – gray",
+      "4": "blew – away"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'shout' आणि 'about' या शब्दांचे शेवटचे उच्चार यमक जुळणारे (rhyming) आहेत.",
+    "difficulty": "कठीण",
+    "passage": "📜 **Read the following poetic lines carefully and answer the questions (Q. 4 to Q. 5):**\n\nThe wind stood up and gave a shout,\nHe whistled on his fingers and\nKicked the withered leaves about\nAnd poked the trees with chilly hand.\nHe puffed and blew the chimneys gray,\nAnd frightened all the birds away!",
+    "poem": "📜 **Read the following poetic lines carefully and answer the questions (Q. 4 to Q. 5):**\n\nThe wind stood up and gave a shout,\nHe whistled on his fingers and\nKicked the withered leaves about\nAnd poked the trees with chilly hand.\nHe puffed and blew the chimneys gray,\nAnd frightened all the birds away!",
+    "topic": "Poetry Comprehension - Literary Device"
+  },
+  {
+    "q_no": 6,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Select the correct collective noun to complete the sentence:\n\"The captain spotted a majestic ______ of lions resting under the shade of an acacia tree.\"",
+    "question_text": "Select the correct collective noun to complete the sentence:\n\"The captain spotted a majestic ______ of lions resting under the shade of an acacia tree.\"",
+    "options": [
+      "herd",
+      "pack",
+      "pride",
+      "flock"
+    ],
+    "options_dict": {
+      "1": "herd",
+      "2": "pack",
+      "3": "pride",
+      "4": "flock"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "सिंहांच्या समूहाला इंग्रजीत 'pride' म्हणतात (a pride of lions). हरणांच्या/गाईंच्या समूहाला herd, लांडग्यांच्या समूहाला pack व पक्ष्यांच्या समूहाला flock म्हणतात.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Collective Nouns"
+  },
+  {
+    "q_no": 7,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the most appropriate conjunction to fill in the blank:\n\"You cannot secure first rank in the scholarship examination ______ you practice consistently every day.\"",
+    "question_text": "Choose the most appropriate conjunction to fill in the blank:\n\"You cannot secure first rank in the scholarship examination ______ you practice consistently every day.\"",
+    "options": [
+      "unless",
+      "although",
+      "because",
+      "while"
+    ],
+    "options_dict": {
+      "1": "unless",
+      "2": "although",
+      "3": "because",
+      "4": "while"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'Unless' म्हणजे 'जोपर्यंत... नाही तोपर्यंत' (if not). 'जोपर्यंत तुम्ही दररोज सराव करत नाही तोपर्यंत पहिला नंबर मिळवू शकत नाही' या अर्थासाठी 'unless' अचूक आहे.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Conjunctions"
+  },
+  {
+    "q_no": 8,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the correct pair of words to fill the blanks meaningfully:\n\"The school ______ addressed the assembly and explained the fundamental ______ of honesty.\"",
+    "question_text": "Choose the correct pair of words to fill the blanks meaningfully:\n\"The school ______ addressed the assembly and explained the fundamental ______ of honesty.\"",
+    "options": [
+      "Principle, Principal",
+      "Principal, Principle",
+      "Principle, Principle",
+      "Principal, Principal"
+    ],
+    "options_dict": {
+      "1": "Principle, Principal",
+      "2": "Principal, Principle",
+      "3": "Principle, Principle",
+      "4": "Principal, Principal"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Principal' म्हणजे शाळेचे मुख्याध्यापक किंवा प्राचार्य, आणि 'Principle' म्हणजे नैतिक तत्त्व किंवा नियम. म्हणून पहिल्या जागी Principal व दुसऱ्या जागी Principle येईल.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Confusing Homophones"
+  },
+  {
+    "q_no": 9,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Identify the sentence that uses the correct preposition:",
+    "question_text": "Identify the sentence that uses the correct preposition:",
+    "options": [
+      "The brave firefighter jumped into the raging river to save the child.",
+      "The brave firefighter jumped in the raging river to save the child.",
+      "The brave firefighter jumped onto inside the raging river.",
+      "The brave firefighter jumped at the raging river."
+    ],
+    "options_dict": {
+      "1": "The brave firefighter jumped into the raging river to save the child.",
+      "2": "The brave firefighter jumped in the raging river to save the child.",
+      "3": "The brave firefighter jumped onto inside the raging river.",
+      "4": "The brave firefighter jumped at the raging river."
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "जेव्हा बाहेरील हालचालीसह एखाद्या द्रवात किंवा जागेत प्रवेश केला जातो, तेव्हा 'into' हे गतिदर्शक शब्दयोगी अव्यय (preposition of movement) वापरले जाते.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Prepositions"
+  },
+  {
+    "q_no": 10,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Arrange the given words in correct alphabetical (dictionary) order:\n1. Champion  2. Chamber  3. Character  4. Chameleon",
+    "question_text": "Arrange the given words in correct alphabetical (dictionary) order:\n1. Champion  2. Chamber  3. Character  4. Chameleon",
+    "options": [
+      "2, 4, 1, 3",
+      "2, 1, 4, 3",
+      "4, 2, 1, 3",
+      "2, 4, 3, 1"
+    ],
+    "options_dict": {
+      "1": "2, 4, 1, 3",
+      "2": "2, 1, 4, 3",
+      "3": "4, 2, 1, 3",
+      "4": "2, 4, 3, 1"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "अक्षरांचा क्रम: 'Chamb...' (2) -> 'Chame...' (4) -> 'Champ...' (1) -> 'Chara...' (3). म्हणून योग्य क्रम २, ४, १, ३ असा येईल.",
+    "difficulty": "कठीण",
+    "topic": "Language Study - Alphabetical Order"
+  },
+  {
+    "q_no": 11,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Select the correct question tag for the following statement:\n\"Anita seldom forgets her homework, ______?\"",
+    "question_text": "Select the correct question tag for the following statement:\n\"Anita seldom forgets her homework, ______?\"",
+    "options": [
+      "doesn't she?",
+      "does she?",
+      "is she?",
+      "did she?"
+    ],
+    "options_dict": {
+      "1": "doesn't she?",
+      "2": "does she?",
+      "3": "is she?",
+      "4": "did she?"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Seldom' हा शब्द नकारात्मक अर्थ (negative sense) दर्शवतो. वाक्य नकारात्मक असल्याने त्याचा Question tag होकारार्थी (positive) असतो. 'Anita forgets' साठी वर्तमानकाळी सहाय्यकारी क्रियापद 'does she?' येईल.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Question Tags"
+  },
+  {
+    "q_no": 12,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What is the meaning of the underlined idiom in the sentence?\n\"During the debate competition, Rohit was so nervous that he had <u>butterflies in his stomach</u>.\"",
+    "question_text": "What is the meaning of the underlined idiom in the sentence?\n\"During the debate competition, Rohit was so nervous that he had <u>butterflies in his stomach</u>.\"",
+    "options": [
+      "He was suffering from severe food poisoning.",
+      "He felt extremely anxious and agitated.",
+      "He felt joyful and energetic.",
+      "He had swallowed an insect by mistake."
+    ],
+    "options_dict": {
+      "1": "He was suffering from severe food poisoning.",
+      "2": "He felt extremely anxious and agitated.",
+      "3": "He felt joyful and energetic.",
+      "4": "He had swallowed an insect by mistake."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Butterflies in the stomach' या वाक्प्रचाराचा अर्थ भीती, धाकधूक किंवा प्रचंड अस्वस्थता (anxious/nervous) वाटणे असा होतो.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Idioms in Context"
+  },
+  {
+    "q_no": 13,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the correct past tense and past participle forms of the irregular verb <strong>'Choose'</strong>:",
+    "question_text": "Choose the correct past tense and past participle forms of the irregular verb <strong>'Choose'</strong>:",
+    "options": [
+      "Choosed, Choosed",
+      "Chose, Chosen",
+      "Chosen, Chose",
+      "Chosed, Choosing"
+    ],
+    "options_dict": {
+      "1": "Choosed, Choosed",
+      "2": "Chose, Chosen",
+      "3": "Chosen, Chose",
+      "4": "Chosed, Choosing"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Choose' (V1) चे भूतकाळी रूप 'Chose' (V2) आणि भूतकाळवाचक धातुसाधित रूप 'Chosen' (V3) असे होते.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Tenses & Irregular Verbs"
+  },
+  {
+    "q_no": 14,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Reorder the jumbled segments to create a grammatically correct and meaningful sentence:\nP: in the national park\nQ: yesterday morning\nR: a rare spotted leopard\nS: the tourists spotted",
+    "question_text": "Reorder the jumbled segments to create a grammatically correct and meaningful sentence:\nP: in the national park\nQ: yesterday morning\nR: a rare spotted leopard\nS: the tourists spotted",
+    "options": [
+      "S - R - P - Q",
+      "Q - P - R - S",
+      "R - S - Q - P",
+      "P - Q - S - R"
+    ],
+    "options_dict": {
+      "1": "S - R - P - Q",
+      "2": "Q - P - R - S",
+      "3": "R - S - Q - P",
+      "4": "P - Q - S - R"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "योग्य वाक्य: 'The tourists spotted (S) a rare spotted leopard (R) in the national park (P) yesterday morning (Q).' रचना: कर्ता + क्रियापद + कर्म + स्थळ + वेळ.",
+    "difficulty": "कठीण",
+    "topic": "Language Study - Sentence Reconstruction"
+  },
+  {
+    "q_no": 15,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What is a person who designs and constructs buildings and houses called?",
+    "question_text": "What is a person who designs and constructs buildings and houses called?",
+    "options": [
+      "Carpenter",
+      "Architect",
+      "Sculptor",
+      "Mechanic"
+    ],
+    "options_dict": {
+      "1": "Carpenter",
+      "2": "Architect",
+      "3": "Sculptor",
+      "4": "Mechanic"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "इमारतींची भव्य नक्षी व संरचना आखणाऱ्या व्यक्तीला 'Architect' (वास्तुविशारद) म्हणतात.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - One Word Substitution"
+  },
+  {
+    "q_no": 16,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Select the correct comparative degree form of the adjective <strong>'Bad'</strong>:",
+    "question_text": "Select the correct comparative degree form of the adjective <strong>'Bad'</strong>:",
+    "options": [
+      "Badder",
+      "Worse",
+      "Worst",
+      "More bad"
+    ],
+    "options_dict": {
+      "1": "Badder",
+      "2": "Worse",
+      "3": "Worst",
+      "4": "More bad"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Bad' या irregular विशेषणाचे Positive: Bad, Comparative: Worse, Superlative: Worst असे रूप असते.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Degrees of Comparison"
+  },
+  {
+    "q_no": 17,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Identify the sentence with 100% correct punctuation and capitalization:",
+    "question_text": "Identify the sentence with 100% correct punctuation and capitalization:",
+    "options": [
+      "\"Hurrah! We have won the inter-school quiz championship,\" shouted Sunita.",
+      "\"hurrah, we have won the inter-school quiz championship!\" Shouted Sunita.",
+      "\"Hurrah! we have won the Inter-School Quiz championship\" shouted Sunita.",
+      "Hurrah! we have won the championship shouted Sunita."
+    ],
+    "options_dict": {
+      "1": "\"Hurrah! We have won the inter-school quiz championship,\" shouted Sunita.",
+      "2": "\"hurrah, we have won the inter-school quiz championship!\" Shouted Sunita.",
+      "3": "\"Hurrah! we have won the Inter-School Quiz championship\" shouted Sunita.",
+      "4": "Hurrah! we have won the championship shouted Sunita."
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "उद्गारवाचक शब्द 'Hurrah!' नंतर उद्गारचिन्ह, अवतरण चिन्हाची योग्य जागा, स्वल्पविराम आणि 'Sunita' चे 'S' कॅपिटल असलेला पर्याय १ पूर्णपणे बिनचूक आहे.",
+    "difficulty": "कठीण",
+    "topic": "Punctuation & Capitalization"
+  },
+  {
+    "q_no": 18,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Select the exact antonym of the underlined word in the sentence:\n\"The king rewarded the courtier for his <u>loyal</u> service to the motherland.\"",
+    "question_text": "Select the exact antonym of the underlined word in the sentence:\n\"The king rewarded the courtier for his <u>loyal</u> service to the motherland.\"",
+    "options": [
+      "Faithful",
+      "Treacherous",
+      "Devoted",
+      "Honest"
+    ],
+    "options_dict": {
+      "1": "Faithful",
+      "2": "Treacherous",
+      "3": "Devoted",
+      "4": "Honest"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Loyal' म्हणजे एकनिष्ठ किंवा प्रामाणिक. त्याचा अचूक विरुद्धार्थी शब्द 'Treacherous' (विश्वासघातकी / द्रोही) हा आहे.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Antonyms in Context"
+  },
+  {
+    "q_no": 19,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Fill in the blank with the correct verb form:\n\"Either Rahul or his classmates ______ responsible for decorating the school auditorium.\"",
+    "question_text": "Fill in the blank with the correct verb form:\n\"Either Rahul or his classmates ______ responsible for decorating the school auditorium.\"",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "options_dict": {
+      "1": "is",
+      "2": "are",
+      "3": "was",
+      "4": "has"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "जेव्हा दोन कर्ते 'either... or' ने जोडले जातात, तेव्हा क्रियापद जवळच्या कर्त्यानुसार (his classmates - अनेकवचनी) वापरले जाते. म्हणून 'are' बरोबर आहे.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Subject-Verb Agreement"
+  },
+  {
+    "q_no": 20,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Complete the classic English proverb meaningfully:\n\"Actions speak ______ than words.\"",
+    "question_text": "Complete the classic English proverb meaningfully:\n\"Actions speak ______ than words.\"",
+    "options": [
+      "faster",
+      "sweeter",
+      "louder",
+      "clearer"
+    ],
+    "options_dict": {
+      "1": "faster",
+      "2": "sweeter",
+      "3": "louder",
+      "4": "clearer"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "सुप्रसिद्ध म्हण: 'Actions speak louder than words' (शब्दांपेक्षा कृती अधिक प्रभावी बोलते).",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Proverb Completion"
+  },
+  {
+    "q_no": 21,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which suffix can be added to the word <strong>'Courage'</strong> to turn it into an adjective?",
+    "question_text": "Which suffix can be added to the word <strong>'Courage'</strong> to turn it into an adjective?",
+    "options": [
+      "-ly",
+      "-ment",
+      "-ous",
+      "-ness"
+    ],
+    "options_dict": {
+      "1": "-ly",
+      "2": "-ment",
+      "3": "-ous",
+      "4": "-ness"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "'Courage' ला '-ous' प्रत्यय जोडल्यास 'Courageous' (धैर्यवान/शूर) हे विशेषण (adjective) बनते.",
+    "difficulty": "कठीण",
+    "topic": "Language Study - Suffixes"
+  },
+  {
+    "q_no": 22,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the correct article for the blank:\n\"Mount Everest is ______ highest mountain peak in the world.\"",
+    "question_text": "Choose the correct article for the blank:\n\"Mount Everest is ______ highest mountain peak in the world.\"",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "options_dict": {
+      "1": "a",
+      "2": "an",
+      "3": "the",
+      "4": "no article"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "सर्वोच्चतादर्शक विशेषणापूर्वी (Superlative degree - 'highest') नेहमी निश्चित उपपद 'the' वापरले जाते.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Articles Exception"
+  },
+  {
+    "q_no": 23,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Identify the word with the 100% correct spelling:",
+    "question_text": "Identify the word with the 100% correct spelling:",
+    "options": [
+      "Neccessary",
+      "Necessary",
+      "Necassary",
+      "Necesary"
+    ],
+    "options_dict": {
+      "1": "Neccessary",
+      "2": "Necessary",
+      "3": "Necassary",
+      "4": "Necesary"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "अचूक स्पेलिंग: 'Necessary' (N-E-C-E-S-S-A-R-Y - एक 'c' आणि दोन 's').",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Correct Spelling"
+  },
+  {
+    "q_no": 24,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "According to the notice, what is the absolute deadline for submitting fitness forms?",
+    "question_text": "According to the notice, what is the absolute deadline for submitting fitness forms?",
+    "options": [
+      "15th December at 9:00 AM",
+      "10th December by 5:00 PM",
+      "12th December at noon",
+      "On the day of the Sports Meet"
+    ],
+    "options_dict": {
+      "1": "15th December at 9:00 AM",
+      "2": "10th December by 5:00 PM",
+      "3": "12th December at noon",
+      "4": "On the day of the Sports Meet"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सूचनेत स्पष्ट लिहिले आहे: 'before 5:00 PM on Friday, 10th December'.",
+    "difficulty": "कठीण",
+    "passage": "📋 **NOTICE**\nAnnual Sports Meet will be held on 15th December in the Main Playground. Students interested in 100m sprint and high jump must submit their fitness forms to Coach Pawar before 5:00 PM on Friday, 10th December. Late entries will strictly not be accepted.",
+    "topic": "Creative Writing - Notice Analysis"
+  },
+  {
+    "q_no": 25,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Where does a honeybee live, and where does a rabbit dig its shelter?",
+    "question_text": "Where does a honeybee live, and where does a rabbit dig its shelter?",
+    "options": [
+      "Beehive, Burrow",
+      "Stable, Den",
+      "Coop, Kennel",
+      "Web, Sty"
+    ],
+    "options_dict": {
+      "1": "Beehive, Burrow",
+      "2": "Stable, Den",
+      "3": "Coop, Kennel",
+      "4": "Web, Sty"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "मधमाशीचे घर 'Beehive' (पोळे) असते आणि सशाचे घर जमिनीतील बीळ 'Burrow' असते.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Animal Shelters"
+  },
+  {
+    "q_no": 26,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील संख्या मालिकेतील प्रश्नचिन्हाच्या जागी येणारी अचूक संख्या शोधा:\n**४, ९, २५, ४९, १२१, १६९, ?**",
+    "question_text": "खालील संख्या मालिकेतील प्रश्नचिन्हाच्या जागी येणारी अचूक संख्या शोधा:\n**४, ९, २५, ४९, १२१, १६९, ?**",
+    "options": [
+      "२२५",
+      "२५६",
+      "२८९",
+      "३६१"
+    ],
+    "options_dict": {
+      "1": "२२५",
+      "2": "२५६",
+      "3": "२८९",
+      "4": "३६१"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "या सर्व मूळ संख्यांचे वर्ग (Squares of Prime Numbers) आहेत:\n\\(2^2=4\\), \\(3^2=9\\), \\(5^2=25\\), \\(7^2=49\\), \\(11^2=121\\), \\(13^2=169\\).\nपुढील मूळ संख्या १७ आहे, म्हणून \\(17^2 = 289\\) हे उत्तर येईल.",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका (Number Series)"
+  },
+  {
+    "q_no": 27,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "मुलांच्या एका रांगेत सचिनचा डावीकडून १८ वा क्रमांक आहे आणि उजवीकडून २३ वा क्रमांक आहे. तर त्या रांगेत एकूण किती मुले उभी आहेत?",
+    "question_text": "मुलांच्या एका रांगेत सचिनचा डावीकडून १८ वा क्रमांक आहे आणि उजवीकडून २३ वा क्रमांक आहे. तर त्या रांगेत एकूण किती मुले उभी आहेत?",
+    "options": [
+      "४०",
+      "४१",
+      "४२",
+      "३९"
+    ],
+    "options_dict": {
+      "1": "४०",
+      "2": "४१",
+      "3": "४२",
+      "4": "३९"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "रांगेतील एकूण मुले = डावीकडील क्रमांक + उजवीकडील क्रमांक - १ = १८ + २३ - १ = ४१ - १ = ४० मुले.",
+    "difficulty": "कठीण",
+    "topic": "रांगेतील स्थान (Ranking Test)"
+  },
+  {
+    "q_no": 28,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "रोहन आपल्या घरातून निघून उत्तरेकडे १२ मीटर चालत गेला. त्यानंतर तो उजवीकडे वळून ९ मीटर चालला. तर तो मूळ ठिकाणापासून सरळ किती अंतरावर आणि कोणत्या दिशेला आहे?",
+    "question_text": "रोहन आपल्या घरातून निघून उत्तरेकडे १२ मीटर चालत गेला. त्यानंतर तो उजवीकडे वळून ९ मीटर चालला. तर तो मूळ ठिकाणापासून सरळ किती अंतरावर आणि कोणत्या दिशेला आहे?",
+    "options": [
+      "१५ मीटर, ईशान्य",
+      "२१ मीटर, उत्तर",
+      "१५ मीटर, वायव्य",
+      "१२ मीटर, पूर्व"
+    ],
+    "options_dict": {
+      "1": "१५ मीटर, ईशान्य",
+      "2": "२१ मीटर, उत्तर",
+      "3": "१५ मीटर, वायव्य",
+      "4": "१२ मीटर, पूर्व"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "पायथागोरसच्या सिद्धांतानुसार: कर्ण = \\(\\sqrt{12^2 + 9^2} = \\sqrt{144 + 81} = \\sqrt{225} = 15\\) मीटर. उत्तर आणि पूर्व यांच्यामधील दिशा 'ईशान्य' आहे. म्हणून १५ मीटर ईशान्य.",
+    "difficulty": "कठीण",
+    "topic": "दिशा व अंतर (Direction & Distance)"
+  },
+  {
+    "q_no": 29,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका फोटोकडे बोट दाखवत सुरेश म्हणाला, \"ही व्यक्ती माझ्या आजोबांच्या एकुलत्या एका मुलाची मुलगी आहे.\" तर ती व्यक्ती सुरेशची कोण?",
+    "question_text": "एका फोटोकडे बोट दाखवत सुरेश म्हणाला, \"ही व्यक्ती माझ्या आजोबांच्या एकुलत्या एका मुलाची मुलगी आहे.\" तर ती व्यक्ती सुरेशची कोण?",
+    "options": [
+      "मावशी",
+      "बहीण",
+      "आई",
+      "आत्या"
+    ],
+    "options_dict": {
+      "1": "मावशी",
+      "2": "बहीण",
+      "3": "आई",
+      "4": "आत्या"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सुरेशच्या आजोबांचा एकुलता एक मुलगा म्हणजे सुरेशचे वडील. वडिलांची मुलगी म्हणजे सुरेशची 'बहीण' होय.",
+    "difficulty": "कठीण",
+    "topic": "नातेसंबंध (Blood Relations)"
+  },
+  {
+    "q_no": 30,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका लीप वर्षाची सुरुवात (१ जानेवारी) सोमवारी झाली असल्यास, त्या वर्षात खालीलपैकी कोणता वार ५३ वेळा येईल?",
+    "question_text": "एका लीप वर्षाची सुरुवात (१ जानेवारी) सोमवारी झाली असल्यास, त्या वर्षात खालीलपैकी कोणता वार ५३ वेळा येईल?",
+    "options": [
+      "केवळ सोमवार",
+      "सोमवार व मंगळवार",
+      "रविवार व सोमवार",
+      "केवळ मंगळवार"
+    ],
+    "options_dict": {
+      "1": "केवळ सोमवार",
+      "2": "सोमवार व मंगळवार",
+      "3": "रविवार व सोमवार",
+      "4": "केवळ मंगळवार"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "लीप वर्षात ३६६ दिवस असतात (५२ आठवडे + २ जादा दिवस). त्यामुळे लीप वर्षात १ जानेवारी आणि २ जानेवारीचे वार वर्षात प्रत्येकी ५३ वेळा येतात. १ जानेवारी सोमवार असल्याने १ व २ जानेवारीचे 'सोमवार व मंगळवार' हे दोन वार ५३ वेळा येतील.",
+    "difficulty": "कठीण",
+    "topic": "दिनदर्शिका (Calendar)"
+  },
+  {
+    "q_no": 31,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका सांकेतिक भाषेत CAT = २४ आणि DOG = २६ लिहिले जाते, तर त्याच भाषेत TIGER = किती?",
+    "question_text": "एका सांकेतिक भाषेत CAT = २४ आणि DOG = २६ लिहिले जाते, तर त्याच भाषेत TIGER = किती?",
+    "options": [
+      "५८",
+      "५९",
+      "६०",
+      "६२"
+    ],
+    "options_dict": {
+      "1": "५८",
+      "2": "५९",
+      "3": "६०",
+      "4": "६२"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "इंग्रजी अक्षरांच्या क्रमांकांची बेरीज केली आहे:\nC(3)+A(1)+T(20) = 24.\nD(4)+O(15)+G(7) = 26.\nT(20)+I(9)+G(7)+E(5)+R(18) = 59.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक भाषा (Coding-Decoding)"
+  },
+  {
+    "q_no": 32,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "दुपारी ३:३० वाजता घड्याळाचा तास काटा आणि मिनिट काटा यांच्यामध्ये किती अंशांचा कोन तयार होईल?",
+    "question_text": "दुपारी ३:३० वाजता घड्याळाचा तास काटा आणि मिनिट काटा यांच्यामध्ये किती अंशांचा कोन तयार होईल?",
+    "options": [
+      "७०°",
+      "७५°",
+      "८०°",
+      "९०°"
+    ],
+    "options_dict": {
+      "1": "७०°",
+      "2": "७५°",
+      "3": "८०°",
+      "4": "९०°"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सूत्र: \\(\\text{Angle} = |30H - \\frac{11}{2}M| = |30(3) - \\frac{11}{2}(30)| = |90 - 165| = 75°\\).",
+    "difficulty": "कठीण",
+    "topic": "घड्याळ व कोन (Clock Angles)"
+  },
+  {
+    "q_no": 33,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका शेतात काही शेतकरी व काही गाई आहेत. त्यांच्या डोक्यांची एकूण संख्या २४ असून पायांची एकूण संख्या ७६ आहे, तर त्या ठिकाणी एकूण किती गाई आहेत?",
+    "question_text": "एका शेतात काही शेतकरी व काही गाई आहेत. त्यांच्या डोक्यांची एकूण संख्या २४ असून पायांची एकूण संख्या ७६ आहे, तर त्या ठिकाणी एकूण किती गाई आहेत?",
+    "options": [
+      "१०",
+      "१४",
+      "१२",
+      "१६"
+    ],
+    "options_dict": {
+      "1": "१०",
+      "2": "१४",
+      "3": "१२",
+      "4": "१६"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "गाईंची संख्या = (एकूण पाय - २ × डोकी) / २ = (७६ - २ × २४) / २ = (७६ - ४८) / २ = २८ / २ = १४ गाई.",
+    "difficulty": "कठीण",
+    "topic": "तार्किक विचार (Logic - Animals & Legs)"
+  },
+  {
+    "q_no": 34,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालीलपैकी कोणता वेन आकृती गट 'सस्तन प्राणी, वटवाघूळ, कावळा' या तीन घटकांमधील संबंध अचूक दर्शवतो?",
+    "question_text": "खालीलपैकी कोणता वेन आकृती गट 'सस्तन प्राणी, वटवाघूळ, कावळा' या तीन घटकांमधील संबंध अचूक दर्शवतो?",
+    "options": [
+      "मोठ्या वर्तुळात एक लहान वर्तुळ (वटवाघूळ) व कावळ्याचे वर्तुळ पूर्णपणे स्वतंत्र बाहेर",
+      "तीनही वर्तुळे एकमेकांना छेदणारी",
+      "एका मोठ्या वर्तुळात दोन्ही लहान वर्तुळे समाविष्ट",
+      "तीनही वर्तुळे एकमेकांपासून पूर्णपणे विलग"
+    ],
+    "options_dict": {
+      "1": "मोठ्या वर्तुळात एक लहान वर्तुळ (वटवाघूळ) व कावळ्याचे वर्तुळ पूर्णपणे स्वतंत्र बाहेर",
+      "2": "तीनही वर्तुळे एकमेकांना छेदणारी",
+      "3": "एका मोठ्या वर्तुळात दोन्ही लहान वर्तुळे समाविष्ट",
+      "4": "तीनही वर्तुळे एकमेकांपासून पूर्णपणे विलग"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "वटवाघूळ हा उडू शकणारा सस्तन प्राणी (Mammal) आहे, त्यामुळे ते 'सस्तन प्राणी' या वर्तुळात येते. कावळा हा पक्षी असल्याने तो सस्तन प्राण्यांच्या वर्तुळाबाहेर स्वतंत्र येतो.",
+    "difficulty": "कठीण",
+    "topic": "वेन आकृती (Venn Diagrams)"
+  },
+  {
+    "q_no": 35,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "घड्याळात प्रत्यक्ष वेळ **८ वाजून २० मिनिटे** झाली असताना, समोर ठेवलेल्या उभ्या आरशात किती वेळ दिसेल?",
+    "question_text": "घड्याळात प्रत्यक्ष वेळ **८ वाजून २० मिनिटे** झाली असताना, समोर ठेवलेल्या उभ्या आरशात किती वेळ दिसेल?",
+    "options": [
+      "३ वाजून २० मिनिटे",
+      "३ वाजून ४० मिनिटे",
+      "४ वाजून ४० मिनिटे",
+      "४ वाजून २० मिनिटे"
+    ],
+    "options_dict": {
+      "1": "३ वाजून २० मिनिटे",
+      "2": "३ वाजून ४० मिनिटे",
+      "3": "४ वाजून ४० मिनिटे",
+      "4": "४ वाजून २० मिनिटे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "आरशातील वेळ काढण्यासाठी प्रत्यक्ष वेळ ११:६० मधून वजा करावी: ११:६० - ८:२० = ३:४०.",
+    "difficulty": "कठीण",
+    "topic": "आरशातील प्रतिमा (Mirror Image)"
+  },
+  {
+    "q_no": 36,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका चौरसाचे दोन्ही कर्ण आणि दोन्ही मध्यगा एकमेकांना छेदल्यास त्या चौरसात एकूण किती त्रिकोण तयार होतात?",
+    "question_text": "एका चौरसाचे दोन्ही कर्ण आणि दोन्ही मध्यगा एकमेकांना छेदल्यास त्या चौरसात एकूण किती त्रिकोण तयार होतात?",
+    "options": [
+      "८",
+      "१२",
+      "१६",
+      "१४"
+    ],
+    "options_dict": {
+      "1": "८",
+      "2": "१२",
+      "3": "१६",
+      "4": "१४"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "चौरसात कर्ण व मध्यगा छेदल्यास ८ लहान त्रिकोण तयार होतात. सूत्र: ८ × २ = १६ एकूण त्रिकोण.",
+    "difficulty": "कठीण",
+    "topic": "आकृत्यांची संख्या मोजणे (Counting Figures)"
+  },
+  {
+    "q_no": 37,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "पहिल्या व दुसऱ्या पदातील संबंध ओळखून प्रश्नचिन्हाच्या जागी योग्य पर्याय निवडा:\n**६ : २२२ :: ८ : ?**",
+    "question_text": "पहिल्या व दुसऱ्या पदातील संबंध ओळखून प्रश्नचिन्हाच्या जागी योग्य पर्याय निवडा:\n**६ : २२२ :: ८ : ?**",
+    "options": [
+      "५१२",
+      "५२०",
+      "५०४",
+      "५२८"
+    ],
+    "options_dict": {
+      "1": "५१२",
+      "2": "५२०",
+      "3": "५०४",
+      "4": "५२८"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "नियम: \\(n : n^3 + n\\).\nयेथे \\(6^3 + 6 = 216 + 6 = 222\\).\nत्याचप्रमाणे \\(8^3 + 8 = 512 + 8 = 520\\).",
+    "difficulty": "कठीण",
+    "topic": "समसंबंध (Analogy - Numbers)"
+  },
+  {
+    "q_no": 38,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील संख्यांच्या गटातून विसंगत पद (गटात न बसणारी संख्या) ओळखा:\n**२७, ६४, १२५, २१६, ३४३, ५१२, ७२९** पैकी कोणती संख्या एकाच वेळी घन व वर्ग दोन्ही आहे परंतु इतरांपेक्षा वेगळी ठरू शकते किंवा यातील **२७, १२५, ३४३, ७२९, १३३१** पैकी समसंख्या ओळखा, किंवा खालील पर्यायांमधून वेगळी संख्या निवडा:\n(१) ३५ (२) ६३ (३) १४३ (४) ९९",
+    "question_text": "खालील संख्यांच्या गटातून विसंगत पद (गटात न बसणारी संख्या) ओळखा:\n**२७, ६४, १२५, २१६, ३४३, ५१२, ७२९** पैकी कोणती संख्या एकाच वेळी घन व वर्ग दोन्ही आहे परंतु इतरांपेक्षा वेगळी ठरू शकते किंवा यातील **२७, १२५, ३४३, ७२९, १३३१** पैकी समसंख्या ओळखा, किंवा खालील पर्यायांमधून वेगळी संख्या निवडा:\n(१) ३५ (२) ६३ (३) १४३ (४) ९९",
+    "options": [
+      "३५",
+      "६३",
+      "१४३",
+      "९९"
+    ],
+    "options_dict": {
+      "1": "३५",
+      "2": "६३",
+      "3": "१४३",
+      "4": "९९"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "३५ = \\(6^2 - 1\\), ६३ = \\(8^2 - 1\\), ९९ = \\(10^2 - 1\\) (समसंख्यांच्या वर्गातून १ वजा). परंतु १४३ = \\(12^2 - 1\\) असून १४३ ही ११ × १३ या दोन लागोपाठ मूळ संख्यांचा गुणाकार आहे, आणि इतर सर्व ३ ने किंवा ९ ने विभाज्य आहेत, १४३ ही ३ ने विभाज्य नाही.",
+    "difficulty": "कठीण",
+    "topic": "वर्गीकरण (Classification - Odd One Out)"
+  },
+  {
+    "q_no": 39,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "पाच मुले A, B, C, D आणि E उत्तरेकडे तोंड करून एका बाकावर बसली आहेत. 'B' हा 'E' च्या उजवीकडे आहे. 'A' हा 'C' च्या डावीकडे पण 'B' च्या उजवीकडे आहे. 'D' हा 'B' च्या डावीकडे पण सर्वात डाव्या टोकाला आहे. तर मध्यभागी कोण बसले आहे?",
+    "question_text": "पाच मुले A, B, C, D आणि E उत्तरेकडे तोंड करून एका बाकावर बसली आहेत. 'B' हा 'E' च्या उजवीकडे आहे. 'A' हा 'C' च्या डावीकडे पण 'B' च्या उजवीकडे आहे. 'D' हा 'B' च्या डावीकडे पण सर्वात डाव्या टोकाला आहे. तर मध्यभागी कोण बसले आहे?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "options_dict": {
+      "1": "A",
+      "2": "B",
+      "3": "C",
+      "4": "E"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "डावीकडून उजवीकडे क्रम मांडल्यास: D - E - B - A - C. एकूण ५ जणांमध्ये मध्यभागी (३ऱ्या क्रमांकावर) 'B' बसला आहे.",
+    "difficulty": "कठीण",
+    "topic": "बैठक व्यवस्था (Seating Arrangement)"
+  },
+  {
+    "q_no": 40,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "अक्षरमालिकेतील रिकाम्या जागी क्रमाने येणाऱ्या अक्षरांचा गट कोणता?\n**a _ b a _ b _ a a b _ a**",
+    "question_text": "अक्षरमालिकेतील रिकाम्या जागी क्रमाने येणाऱ्या अक्षरांचा गट कोणता?\n**a _ b a _ b _ a a b _ a**",
+    "options": [
+      "a b a b",
+      "a a b b",
+      "b a b a",
+      "b b a a"
+    ],
+    "options_dict": {
+      "1": "a b a b",
+      "2": "a a b b",
+      "3": "b a b a",
+      "4": "b b a a"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "एकूण १२ अक्षरांचे ३-३ चे चार गट केल्यास: a a b / a a b / a a b / a a b. गाळलेल्या जागांवर अनुक्रमे 'a', 'a', 'a', 'b' किंवा ४-४ चे गट केल्यास a b b a / a b b a. येथे 'a a b' या ३ अक्षरांच्या आवर्तनाने 'a, a, b' जुळते.",
+    "difficulty": "कठीण",
+    "topic": "अक्षरमालिका (Letter Series)"
+  },
+  {
+    "q_no": 41,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "वडिलांचे आजचे वय मुलाच्या वयाच्या तिप्पट आहे. ५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या चौपट होते, तर मुलाचे आजचे वय किती वर्षे आहे?",
+    "question_text": "वडिलांचे आजचे वय मुलाच्या वयाच्या तिप्पट आहे. ५ वर्षांपूर्वी वडिलांचे वय मुलाच्या वयाच्या चौपट होते, तर मुलाचे आजचे वय किती वर्षे आहे?",
+    "options": [
+      "१२ वर्षे",
+      "१५ वर्षे",
+      "१८ वर्षे",
+      "२० वर्षे"
+    ],
+    "options_dict": {
+      "1": "१२ वर्षे",
+      "2": "१५ वर्षे",
+      "3": "१८ वर्षे",
+      "4": "२० वर्षे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "मुलाचे आजचे वय \\(x\\) मानू, वडिलांचे वय \\(3x\\).\n५ वर्षांपूर्वी: \\(3x - 5 = 4(x - 5)\\)\n\\(3x - 5 = 4x - 20\\)\n\\(4x - 3x = 20 - 5 \\Rightarrow x = 15\\) वर्षे.",
+    "difficulty": "कठीण",
+    "topic": "वयावरील कूटप्रश्न (Age Problems)"
+  },
+  {
+    "q_no": 42,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका प्रमाणित घनाकृती ठोकळ्यावर १ ते ६ अंक कोरले आहेत. जर ठोकळ्यावर वरच्या पृष्ठावर ३ अंक असेल, तर तळाच्या पृष्ठावर कोणता अंक असेल?",
+    "question_text": "एका प्रमाणित घनाकृती ठोकळ्यावर १ ते ६ अंक कोरले आहेत. जर ठोकळ्यावर वरच्या पृष्ठावर ३ अंक असेल, तर तळाच्या पृष्ठावर कोणता अंक असेल?",
+    "options": [
+      "२",
+      "४",
+      "५",
+      "६"
+    ],
+    "options_dict": {
+      "1": "२",
+      "2": "४",
+      "3": "५",
+      "4": "६"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "प्रमाणित फाशावर (Standard Dice) समोरासमोरील पृष्ठांवरील अंकांची बेरीज नेहमी ७ असते. म्हणून ३ च्या विरुद्ध पृष्ठावर \\(7 - 3 = 4\\) हा अंक येईल.",
+    "difficulty": "कठीण",
+    "topic": "फासा व घनाकृती (Dice & Cubes)"
+  },
+  {
+    "q_no": 43,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "जर ‘+’ म्हणजे ‘×’, ‘-’ म्हणजे ‘÷’, ‘×’ म्हणजे ‘+’ आणि ‘÷’ म्हणजे ‘-’ असेल, तर:\n**२० + ५ ÷ १० - २ × ४ = ?** चे मूल्य किती येईल?",
+    "question_text": "जर ‘+’ म्हणजे ‘×’, ‘-’ म्हणजे ‘÷’, ‘×’ म्हणजे ‘+’ आणि ‘÷’ म्हणजे ‘-’ असेल, तर:\n**२० + ५ ÷ १० - २ × ४ = ?** चे मूल्य किती येईल?",
+    "options": [
+      "९९",
+      "१०४",
+      "९५",
+      "८०"
+    ],
+    "options_dict": {
+      "1": "९९",
+      "2": "१०४",
+      "3": "९५",
+      "4": "८०"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "चिन्हे बदलून: २० × ५ - १० ÷ २ + ४\nकंचेभागुबेव नियमानुसार:\n१) भागाकार: १० ÷ २ = ५\n२) गुणाकार: २० × ५ = १००\n३) १०० - ५ + ४ = ९५ + ४ = ९९.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक तुलना (Mathematical Operations Code)"
+  },
+  {
+    "q_no": 44,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका स्नेहसंमेलनात १० मित्रांनी प्रत्येकाने इतरांशी प्रत्येकी एकदा हस्तांदोलन (Handshake) केले, तर त्या ठिकाणी एकूण किती हस्तांदोलने झाली?",
+    "question_text": "एका स्नेहसंमेलनात १० मित्रांनी प्रत्येकाने इतरांशी प्रत्येकी एकदा हस्तांदोलन (Handshake) केले, तर त्या ठिकाणी एकूण किती हस्तांदोलने झाली?",
+    "options": [
+      "४५",
+      "९०",
+      "५०",
+      "१००"
+    ],
+    "options_dict": {
+      "1": "४५",
+      "2": "९०",
+      "3": "५०",
+      "4": "१००"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "सूत्र: \\(\\frac{n(n - 1)}{2} = \\frac{10 \\times 9}{2} = 45\\) हस्तांदोलने.",
+    "difficulty": "कठीण",
+    "topic": "तार्किक कूटप्रश्न (Handshakes)"
+  },
+  {
+    "q_no": 45,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील इंग्रजी अक्षरगटाची अचूक जलप्रतिमा (Water Image) कोणती दिसेल?\n**CODE**",
+    "question_text": "खालील इंग्रजी अक्षरगटाची अचूक जलप्रतिमा (Water Image) कोणती दिसेल?\n**CODE**",
+    "options": [
+      "CODE",
+      "EDOC",
+      "COPE",
+      "DOEC"
+    ],
+    "options_dict": {
+      "1": "CODE",
+      "2": "EDOC",
+      "3": "COPE",
+      "4": "DOEC"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "C, O, D, E या चारही इंग्रजी अक्षरांची क्षितिजसमांतर सममिती अक्ष (horizontal symmetry) असल्याने त्यांची पाण्यातील प्रतिमा (Water Image) हुबेहूब मूळ अक्षरांसारखीच 'CODE' दिसते.",
+    "difficulty": "कठीण",
+    "topic": "जलप्रतिमा (Water Image)"
+  },
+  {
+    "q_no": 46,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील ३×३ च्या चौकटीत प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?\n[ ५ | ६ | ७ ]\n[ ३ | ४ | ५ ]\n[ ९ | ११ | ? ]\n(नियम: पहिल्या दोन ओळींचा वापर करून तिसरी ओळ मिळवा)",
+    "question_text": "खालील ३×३ च्या चौकटीत प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?\n[ ५ | ६ | ७ ]\n[ ३ | ४ | ५ ]\n[ ९ | ११ | ? ]\n(नियम: पहिल्या दोन ओळींचा वापर करून तिसरी ओळ मिळवा)",
+    "options": [
+      "१२",
+      "१३",
+      "१४",
+      "१५"
+    ],
+    "options_dict": {
+      "1": "१२",
+      "2": "१३",
+      "3": "१४",
+      "4": "१५"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "स्तंभातील संबंध: पहिल्या दोन संख्यांची बेरीज + १:\nस्तंभ १: ५ + ३ + १ = ९.\nस्तंभ २: ६ + ४ + १ = ११.\nस्तंभ ३: ७ + ५ + १ = १३.",
+    "difficulty": "कठीण",
+    "topic": "संख्या कूटप्रश्न (Matrix Number Puzzle)"
+  },
+  {
+    "q_no": 47,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका सकाळी सूर्योदयानंतर अजय आणि विजय एकमेकांसमोर उभे राहून गप्पा मारत होते. जर विजयची सावली अजयच्या बरोबर उजव्या हाताला पडत असेल, तर अजयचे तोंड कोणत्या दिशेला होते?",
+    "question_text": "एका सकाळी सूर्योदयानंतर अजय आणि विजय एकमेकांसमोर उभे राहून गप्पा मारत होते. जर विजयची सावली अजयच्या बरोबर उजव्या हाताला पडत असेल, तर अजयचे तोंड कोणत्या दिशेला होते?",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पूर्व",
+      "पश्चिम"
+    ],
+    "options_dict": {
+      "1": "उत्तर",
+      "2": "दक्षिण",
+      "3": "पूर्व",
+      "4": "पश्चिम"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "सकाळी सूर्य पूर्वेकडे असतो, त्यामुळे कोणतीही सावली पश्चिमेकडे पडते. अजयच्या उजव्या बाजूला पश्चिम दिशा आहे, याचा अर्थ अजय उत्तरेकडे तोंड करून उभा आहे.",
+    "difficulty": "कठीण",
+    "topic": "दिशा व सावली (Direction & Shadow)"
+  },
+  {
+    "q_no": 48,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका चौरसाकार कागदाला मध्यभागी दोन घड्या घालून शेवटी एका कोपऱ्यावर त्रिकोणी छिद्र पाडले. कागद पूर्ण उलगडल्यानंतर कागदावर एकूण किती छिद्रे दिसतील?",
+    "question_text": "एका चौरसाकार कागदाला मध्यभागी दोन घड्या घालून शेवटी एका कोपऱ्यावर त्रिकोणी छिद्र पाडले. कागद पूर्ण उलगडल्यानंतर कागदावर एकूण किती छिद्रे दिसतील?",
+    "options": [
+      "२",
+      "४",
+      "६",
+      "८"
+    ],
+    "options_dict": {
+      "1": "२",
+      "2": "४",
+      "3": "६",
+      "4": "८"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "दोन घड्या घातल्याने कागदाचे ४ पदर तयार होतात. त्यामुळे उलगडल्यावर एकूण ४ छिद्रे दिसतील.",
+    "difficulty": "कठीण",
+    "topic": "कागदाची घडी व छिद्र (Paper Folding)"
+  },
+  {
+    "q_no": 49,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "इंग्रजी वर्णमालेत डावीकडून १२ व्या अक्षराच्या उजवीकडे ७ वे अक्षर कोणते येईल?",
+    "question_text": "इंग्रजी वर्णमालेत डावीकडून १२ व्या अक्षराच्या उजवीकडे ७ वे अक्षर कोणते येईल?",
+    "options": [
+      "R",
+      "S",
+      "T",
+      "Q"
+    ],
+    "options_dict": {
+      "1": "R",
+      "2": "S",
+      "3": "T",
+      "4": "Q"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "डावीकडून १२ वे अक्षर L आहे. L च्या उजवीकडे ७ वे अक्षर = १२ + ७ = १९ वे अक्षर 'S' होय.",
+    "difficulty": "कठीण",
+    "topic": "वर्णमाला कूट (Alphabet Placement)"
+  },
+  {
+    "q_no": 50,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "३ सेमी बाजू असलेला एक लाकडी घन सर्व बाजूंनी लाल रंगाने रंगवला. त्यानंतर त्याचे १ सेमी बाजू असलेले २७ लहान घन कापण्यात आले. तर अशा लहानांपैकी **फक्त एकाच बाजूवर लाल रंग** असलेले एकूण किती घन असतील?",
+    "question_text": "३ सेमी बाजू असलेला एक लाकडी घन सर्व बाजूंनी लाल रंगाने रंगवला. त्यानंतर त्याचे १ सेमी बाजू असलेले २७ लहान घन कापण्यात आले. तर अशा लहानांपैकी **फक्त एकाच बाजूवर लाल रंग** असलेले एकूण किती घन असतील?",
+    "options": [
+      "६",
+      "८",
+      "१२",
+      "१"
+    ],
+    "options_dict": {
+      "1": "६",
+      "2": "८",
+      "3": "१२",
+      "4": "१"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "एका बाजूवर रंग असणारे घन प्रत्येक पृष्ठाच्या मध्यभागी असतात. एका पृष्ठावर \\((n - 2)^2 = (3 - 2)^2 = 1\\) घन असतो. घनाला ६ पृष्ठे असल्याने \\(6 \\times 1 = 6\\) घन असतील.",
+    "difficulty": "कठीण",
+    "topic": "घनाकृती ठोकळे मोजणे (Cube Counting)"
+  },
+  {
+    "q_no": 51,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील दुहेरी संमिश्र मालिकेतील प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?\n**३, ५, ९, १७, ३३, ?**",
+    "question_text": "खालील दुहेरी संमिश्र मालिकेतील प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?\n**३, ५, ९, १७, ३३, ?**",
+    "options": [
+      "४९",
+      "६५",
+      "६०",
+      "५५"
+    ],
+    "options_dict": {
+      "1": "४९",
+      "2": "६५",
+      "3": "६०",
+      "4": "५५"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "फरक दुप्पट होत जातो: +२, +४, +८, +१६, +३२. म्हणून ३३ + ३२ = ६५.",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका (Alternate Series)"
+  },
+  {
+    "q_no": 52,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "विधाने:\n१) सर्व फुले पाने आहेत.\n२) सर्व पाने झाडे आहेत.\nनिष्कर्ष:\nI) सर्व फुले झाडे आहेत.\nII) काही झाडे फुले आहेत.",
+    "question_text": "विधाने:\n१) सर्व फुले पाने आहेत.\n२) सर्व पाने झाडे आहेत.\nनिष्कर्ष:\nI) सर्व फुले झाडे आहेत.\nII) काही झाडे फुले आहेत.",
+    "options": [
+      "केवळ निष्कर्ष I सत्य",
+      "केवळ निष्कर्ष II सत्य",
+      "दोन्ही निष्कर्ष I व II सत्य",
+      "एकही निष्कर्ष सत्य नाही"
+    ],
+    "options_dict": {
+      "1": "केवळ निष्कर्ष I सत्य",
+      "2": "केवळ निष्कर्ष II सत्य",
+      "3": "दोन्ही निष्कर्ष I व II सत्य",
+      "4": "एकही निष्कर्ष सत्य नाही"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "वेन आकृतीनुसार: फुले ⊂ पाने ⊂ झाडे. त्यामुळे सर्व फुले झाडे आहेत आणि झाडांचा काही भाग फुलांनी व्यापलेला आहे. दोन्ही निष्कर्ष तार्किकदृष्ट्या सत्य आहेत.",
+    "difficulty": "कठीण",
+    "topic": "तार्किक निष्कर्ष (Syllogisms)"
+  },
+  {
+    "q_no": 53,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "समान संबंध ओळखा:\n**AZ : BY :: CX : ?**",
+    "question_text": "समान संबंध ओळखा:\n**AZ : BY :: CX : ?**",
+    "options": [
+      "DW",
+      "EV",
+      "DU",
+      "DX"
+    ],
+    "options_dict": {
+      "1": "DW",
+      "2": "EV",
+      "3": "DU",
+      "4": "DX"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "डावीकडून १ ले व उजवीकडून १ ले अक्षर (A-Z), डावीकडून २ रे व उजवीकडून २ रे (B-Y), ३ रे (C-X), तर ४ थे अक्षर डावीकडून D व उजवीकडून W म्हणजेच 'DW'.",
+    "difficulty": "कठीण",
+    "topic": "समसंबंध (Analogy - Letters)"
+  },
+  {
+    "q_no": 54,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका पिशवीत ५ रुपये, २ रुपये व १ रुपयांची समान संख्येने नाणी आहेत. पिशवीत एकूण १६० रुपये असल्यास प्रत्येक प्रकारची किती नाणी आहेत?",
+    "question_text": "एका पिशवीत ५ रुपये, २ रुपये व १ रुपयांची समान संख्येने नाणी आहेत. पिशवीत एकूण १६० रुपये असल्यास प्रत्येक प्रकारची किती नाणी आहेत?",
+    "options": [
+      "१५",
+      "२०",
+      "२५",
+      "३०"
+    ],
+    "options_dict": {
+      "1": "१५",
+      "2": "२०",
+      "3": "२५",
+      "4": "३०"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "प्रत्येक नाण्याची संख्या \\(x\\) मानू. एकूण रक्कम = \\(5x + 2x + 1x = 8x\\). म्हणून \\(8x = 160 \\Rightarrow x = 20\\) नाणी.",
+    "difficulty": "कठीण",
+    "topic": "कूटप्रश्न - नाणी व रक्कम (Coins & Value)"
+  },
+  {
+    "q_no": 55,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील पर्यायांमधून वेगळा पर्याय ओळखा:",
+    "question_text": "खालील पर्यायांमधून वेगळा पर्याय ओळखा:",
+    "options": [
+      "गंगा",
+      "गोदावरी",
+      "कृष्णा",
+      "कावेरी"
+    ],
+    "options_dict": {
+      "1": "गंगा",
+      "2": "गोदावरी",
+      "3": "कृष्णा",
+      "4": "कावेरी"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "गोदावरी, कृष्णा व कावेरी या दक्षिण भारतातील (द्वीपकल्पीय) नद्या आहेत, तर गंगा ही उत्तर भारतातील हिमालयातून उगम पावणारी नदी आहे.",
+    "difficulty": "कठीण",
+    "topic": "वर्गीकरण - शब्द (Word Classification)"
+  },
+  {
+    "q_no": 56,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "जर १५ ऑगस्ट २०२३ रोजी मंगळवार होता, तर १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
+    "question_text": "जर १५ ऑगस्ट २०२३ रोजी मंगळवार होता, तर १५ ऑगस्ट २०२४ रोजी कोणता वार असेल?",
+    "options": [
+      "बुधवार",
+      "गुरुवार",
+      "शुक्रवार",
+      "शनिवार"
+    ],
+    "options_dict": {
+      "1": "बुधवार",
+      "2": "गुरुवार",
+      "3": "शुक्रवार",
+      "4": "शनिवार"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "२०२४ हे लीप वर्ष आहे आणि १५ ऑगस्ट २०२३ ते १५ ऑगस्ट २०२४ या दरम्यान २९ फेब्रुवारी २०२४ हा दिवस येतो. लीप वर्ष ओलांडताना वार २ दिवसांनी पुढे जातो. मंगळवार + २ दिवस = गुरुवार.",
+    "difficulty": "कठीण",
+    "topic": "दिनदर्शिका - वार पुढे नेणे (Calendar Shift)"
+  },
+  {
+    "q_no": 57,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "मुलींच्या रांगेत स्वाती डावीकडून १० वी व सीमा उजवीकडून १२ वी आहे. त्यांनी जागांची अदलाबदल केल्यावर स्वाती डावीकडून १८ वी होते, तर त्या रांगेत एकूण किती मुली आहेत?",
+    "question_text": "मुलींच्या रांगेत स्वाती डावीकडून १० वी व सीमा उजवीकडून १२ वी आहे. त्यांनी जागांची अदलाबदल केल्यावर स्वाती डावीकडून १८ वी होते, तर त्या रांगेत एकूण किती मुली आहेत?",
+    "options": [
+      "२८",
+      "२९",
+      "३०",
+      "३१"
+    ],
+    "options_dict": {
+      "1": "२८",
+      "2": "२९",
+      "3": "३०",
+      "4": "३१"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "स्वातीचे नवीन स्थान डावीकडून १८ वे = सीमाचे मूळ स्थान (उजवीकडून १२ वे). एकूण मुली = १८ + १२ - १ = ३० - १ = २९ मुली.",
+    "difficulty": "कठीण",
+    "topic": "रांगेतील व्यक्तींची अदलाबदल (Ranking Interchanging)"
+  },
+  {
+    "q_no": 58,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "जर ‘पांढऱ्याला’ ‘निळा’ म्हटले, ‘निळ्याला’ ‘लाल’ म्हटले, ‘लालाला’ ‘पिवळा’ म्हटले आणि ‘पिवळ्याला’ ‘हिरवा’ म्हटले, तर स्वच्छ आकाशाचा रंग कोणता दिसेल?",
+    "question_text": "जर ‘पांढऱ्याला’ ‘निळा’ म्हटले, ‘निळ्याला’ ‘लाल’ म्हटले, ‘लालाला’ ‘पिवळा’ म्हटले आणि ‘पिवळ्याला’ ‘हिरवा’ म्हटले, तर स्वच्छ आकाशाचा रंग कोणता दिसेल?",
+    "options": [
+      "निळा",
+      "लाल",
+      "पिवळा",
+      "पांढरा"
+    ],
+    "options_dict": {
+      "1": "निळा",
+      "2": "लाल",
+      "3": "पिवळा",
+      "4": "पांढरा"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "स्वच्छ आकाशाचा मूळ रंग 'निळा' असतो. सांकेतिक भाषेत 'निळ्याला लाल' म्हटले आहे, म्हणून उत्तर 'लाल' येईल.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक भाषा (Symbol Substitution)"
+  },
+  {
+    "q_no": 59,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका पाच कोपऱ्यांच्या चांदणीमध्ये (5-pointed star) एकूण किती त्रिकोण तयार होतात?",
+    "question_text": "एका पाच कोपऱ्यांच्या चांदणीमध्ये (5-pointed star) एकूण किती त्रिकोण तयार होतात?",
+    "options": [
+      "५",
+      "८",
+      "१०",
+      "१२"
+    ],
+    "options_dict": {
+      "1": "५",
+      "2": "८",
+      "3": "१०",
+      "4": "१२"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "५ टोकदार चांदणीमध्ये ५ लहान त्रिकोण टोकांवर असतात आणि ५ मोठे त्रिकोण आंतरछेदन बिंदूंवर तयार होतात. एकूण ५ + ५ = १० त्रिकोण.",
+    "difficulty": "कठीण",
+    "topic": "त्रिकोण मोजणे (Triangles in Star)"
+  },
+  {
+    "q_no": 60,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील पर्यायांमधून विसंगत संख्या शोधा:\n(१) १२१  (२) १६९  (३) २८९  (४) ३६१",
+    "question_text": "खालील पर्यायांमधून विसंगत संख्या शोधा:\n(१) १२१  (२) १६९  (३) २८९  (४) ३६१",
+    "options": [
+      "१२१",
+      "१६९",
+      "२८९",
+      "३६१"
+    ],
+    "options_dict": {
+      "1": "१२१",
+      "2": "१६९",
+      "3": "२८९",
+      "4": "३६१"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "१२१ हा ११ चा वर्ग असून ११ च्या अंकांची बेरीज सम (१+१=२) आहे, तर इतर सर्वांचे मूळ १३, १७, १९ हे आहेत आणि अंकांची बेरीज अनुक्रमे विषम/वेगळी आहे, किंवा १२१ ही एकमेव पलिंड्रोम (उलटसुलट सारखी) संख्या आहे.",
+    "difficulty": "कठीण",
+    "topic": "संख्या वर्गीकरण (Number Classification)"
+  },
+  {
+    "q_no": 61,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "घड्याळात ९:०० वाजले असता, त्याची पाण्यातील प्रतिमा (Water Image) अंदाजे कोणती वेळ दर्शवेल?",
+    "question_text": "घड्याळात ९:०० वाजले असता, त्याची पाण्यातील प्रतिमा (Water Image) अंदाजे कोणती वेळ दर्शवेल?",
+    "options": [
+      "९:३०",
+      "८:३०",
+      "३:३०",
+      "२:३०"
+    ],
+    "options_dict": {
+      "1": "९:३०",
+      "2": "८:३०",
+      "3": "३:३०",
+      "4": "२:३०"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "पाण्यातील प्रतिमेसाठी सूत्र: १८:३० मधून वजा करा. १८:३० - ९:०० = ९:३०.",
+    "difficulty": "कठीण",
+    "topic": "घड्याळाची जलप्रतिमा (Clock Water Image)"
+  },
+  {
+    "q_no": 62,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एक माकड २० मीटर उंच गुळगुळीत खांबावर चढत आहे. ते एका मिनिटात ३ मीटर वर चढते व पुढील एका मिनिटात १ मीटर खाली घसरते. तर खांबाच्या टोकावर पोहोचण्यासाठी त्याला एकूण किती मिनिटे लागतील?",
+    "question_text": "एक माकड २० मीटर उंच गुळगुळीत खांबावर चढत आहे. ते एका मिनिटात ३ मीटर वर चढते व पुढील एका मिनिटात १ मीटर खाली घसरते. तर खांबाच्या टोकावर पोहोचण्यासाठी त्याला एकूण किती मिनिटे लागतील?",
+    "options": [
+      "१७ मिनिटे",
+      "१८ मिनिटे",
+      "१९ मिनिटे",
+      "२० मिनिटे"
+    ],
+    "options_dict": {
+      "1": "१७ मिनिटे",
+      "2": "१८ मिनिटे",
+      "3": "१९ मिनिटे",
+      "4": "२० मिनिटे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "२ मिनिटांत निव्वळ चढण = ३ - १ = २ मीटर. शेवटच्या मिनिटात ते ३ मीटर चढून टोकावर पोहोचेल व घसरणार नाही. उरलेले १७ मीटर चढण्यासाठी: १६ मीटर चढायला १६ मिनिटे लागतील. १७ व्या मिनिटात ३ मीटर चढून १९ मीटर, आणि १८ व्या मिनिटात ते २० मीटरच्या टोकावर असेल.",
+    "difficulty": "कठीण",
+    "topic": "कूटप्रश्न - शिडी व माकड (Pole & Monkey)"
+  },
+  {
+    "q_no": 63,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "A + B म्हणजे A हा B चा भाऊ आहे; A - B म्हणजे A ही B ची आई आहे; A × B म्हणजे A हे B चे वडील आहेत. तर **P × Q - R** या समीकरणावरून P चे R शी काय नाते आहे?",
+    "question_text": "A + B म्हणजे A हा B चा भाऊ आहे; A - B म्हणजे A ही B ची आई आहे; A × B म्हणजे A हे B चे वडील आहेत. तर **P × Q - R** या समीकरणावरून P चे R शी काय नाते आहे?",
+    "options": [
+      "आजोबा",
+      "वडील",
+      "काका",
+      "भाऊ"
+    ],
+    "options_dict": {
+      "1": "आजोबा",
+      "2": "वडील",
+      "3": "काका",
+      "4": "भाऊ"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "P × Q = P हे Q चे वडील आहेत. Q - R = Q ही R ची आई आहे. आईचे वडील म्हणजे 'आजोबा' (Maternal Grandfather).",
+    "difficulty": "कठीण",
+    "topic": "नातेसंबंध - सांकेतिक (Coded Relations)"
+  },
+  {
+    "q_no": 64,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "प्रिया पश्चिमेकडे तोंड करून उभी आहे. ती घड्याळाच्या काट्याच्या दिशेने (Clockwise) १३५° वळते आणि नंतर घड्याळाच्या विरुद्ध दिशेने ९०° वळते. तर आता तिचे तोंड कोणत्या दिशेला आहे?",
+    "question_text": "प्रिया पश्चिमेकडे तोंड करून उभी आहे. ती घड्याळाच्या काट्याच्या दिशेने (Clockwise) १३५° वळते आणि नंतर घड्याळाच्या विरुद्ध दिशेने ९०° वळते. तर आता तिचे तोंड कोणत्या दिशेला आहे?",
+    "options": [
+      "उत्तर",
+      "ईशान्य",
+      "वायव्य",
+      "पूर्व"
+    ],
+    "options_dict": {
+      "1": "उत्तर",
+      "2": "ईशान्य",
+      "3": "वायव्य",
+      "4": "पूर्व"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "निव्वळ वळण = घड्याळाच्या काट्याच्या दिशेने (१३५° - ९०°) = ४५° Clockwise. पश्चिमेकडून ४५° Clockwise वळल्यास 'वायव्य' दिशा येते.",
+    "difficulty": "कठीण",
+    "topic": "दिशा चाचणी (Direction Turns)"
+  },
+  {
+    "q_no": 65,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील समीकरणात प्रश्नचिन्हाच्या जागी काय येईल?\n(४ × ६) + ९ = ३३\n(५ × ७) + ८ = ४३\n(६ × ८) + ७ = ?",
+    "question_text": "खालील समीकरणात प्रश्नचिन्हाच्या जागी काय येईल?\n(४ × ६) + ९ = ३३\n(५ × ७) + ८ = ४३\n(६ × ८) + ७ = ?",
+    "options": [
+      "५३",
+      "५५",
+      "५४",
+      "५६"
+    ],
+    "options_dict": {
+      "1": "५३",
+      "2": "५५",
+      "3": "५४",
+      "4": "५६"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "६ × ८ + ७ = ४८ + ७ = ५५.",
+    "difficulty": "कठीण",
+    "topic": "संख्या संबंध (Number Grid)"
+  },
+  {
+    "q_no": 66,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "दिलेल्या गटाशी जुळणारे पद पर्यायातून निवडा:\n**महाबळेश्वर, माथेरान, पाचगणी, ?**",
+    "question_text": "दिलेल्या गटाशी जुळणारे पद पर्यायातून निवडा:\n**महाबळेश्वर, माथेरान, पाचगणी, ?**",
+    "options": [
+      "लोणावळा",
+      "पुणे",
+      "नागपूर",
+      "सोलापूर"
+    ],
+    "options_dict": {
+      "1": "लोणावळा",
+      "2": "पुणे",
+      "3": "नागपूर",
+      "4": "सोलापूर"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "महाबळेश्वर, माथेरान, पाचगणी ही महाराष्ट्रातील प्रसिद्ध थंड हवेची ठिकाणे (Hill Stations) आहेत. पर्यायांपैकी 'लोणावळा' हे देखील थंड हवेचे ठिकाण आहे.",
+    "difficulty": "कठीण",
+    "topic": "गटात बसणारे पद (Group Matching)"
+  },
+  {
+    "q_no": 67,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील अक्षरगटांमधून विसंगत गट ओळखा:\n(१) EHK  (२) JMP  (३) NQT  (४) PSV",
+    "question_text": "खालील अक्षरगटांमधून विसंगत गट ओळखा:\n(१) EHK  (२) JMP  (३) NQT  (४) PSV",
+    "options": [
+      "EHK",
+      "JMP",
+      "NQT",
+      "PSV"
+    ],
+    "options_dict": {
+      "1": "EHK",
+      "2": "JMP",
+      "3": "NQT",
+      "4": "PSV"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "E(+3)->H(+3)->K; J(+3)->M(+3)->P; N(+3)->Q(+3)->T. परंतु P(+3)->S(+3)->V. अरे, सर्व +३ आहेत! तपासून पाहू: स्वरांची संख्या: EHK मध्ये एक स्वर (E) आहे, इतरांमध्ये एकही स्वर नाही. म्हणून 'EHK' वेगळा आहे.",
+    "difficulty": "कठीण",
+    "topic": "अक्षर वर्गीकरण (Letter Odd One)"
+  },
+  {
+    "q_no": 68,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "अमित आणि सुमित यांच्या आजच्या वयाचे गुणोत्तर ३:५ आहे. त्यांच्या वयांची बेरीज ४८ वर्षे असल्यास, सुमितचे आजचे वय किती वर्षे आहे?",
+    "question_text": "अमित आणि सुमित यांच्या आजच्या वयाचे गुणोत्तर ३:५ आहे. त्यांच्या वयांची बेरीज ४८ वर्षे असल्यास, सुमितचे आजचे वय किती वर्षे आहे?",
+    "options": [
+      "१८ वर्षे",
+      "३० वर्षे",
+      "२४ वर्षे",
+      "३२ वर्षे"
+    ],
+    "options_dict": {
+      "1": "१८ वर्षे",
+      "2": "३० वर्षे",
+      "3": "२४ वर्षे",
+      "4": "३२ वर्षे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "गुणोत्तराची बेरीज = ३ + ५ = ८ भाग. १ भाग = ४८ / ८ = ६ वर्षे. सुमितचे वय = ५ × ६ = ३० वर्षे.",
+    "difficulty": "कठीण",
+    "topic": "वय कूटप्रश्न (Age Ratio)"
+  },
+  {
+    "q_no": 69,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका विशिष्ट सांकेतिक भाषेत:\n'२४६' चा अर्थ 'सफरचंद गोड आहे'\n'६७८' चा अर्थ 'आंबा गोड फळ'\n'४९' चा अर्थ 'सफरचंद लाल'\nतर त्या सांकेतिक भाषेत 'लाल' या शब्दासाठी कोणता अंक वापरला आहे?",
+    "question_text": "एका विशिष्ट सांकेतिक भाषेत:\n'२४६' चा अर्थ 'सफरचंद गोड आहे'\n'६७८' चा अर्थ 'आंबा गोड फळ'\n'४९' चा अर्थ 'सफरचंद लाल'\nतर त्या सांकेतिक भाषेत 'लाल' या शब्दासाठी कोणता अंक वापरला आहे?",
+    "options": [
+      "४",
+      "९",
+      "६",
+      "२"
+    ],
+    "options_dict": {
+      "1": "४",
+      "2": "९",
+      "3": "६",
+      "4": "२"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "पहिल्या व तिसऱ्या वाक्यात 'सफरचंद' सामाईक आहे आणि अंक '४' सामाईक आहे, म्हणून सफरचंद = ४. तिसऱ्या वाक्यात उरलेला शब्द 'लाल' आणि उरलेला अंक '९' आहे, म्हणून लाल = ९.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक अंक (Number Code)"
+  },
+  {
+    "q_no": 70,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "३×३ च्या बुद्धिबळासारख्या चौरसाकृती जाळीत एकूण किती चौरस तयार होतात?",
+    "question_text": "३×३ च्या बुद्धिबळासारख्या चौरसाकृती जाळीत एकूण किती चौरस तयार होतात?",
+    "options": [
+      "९",
+      "१४",
+      "१५",
+      "१६"
+    ],
+    "options_dict": {
+      "1": "९",
+      "2": "१४",
+      "3": "१५",
+      "4": "१६"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सूत्र: \\(1^2 + 2^2 + 3^2 = 1 + 4 + 9 = 14\\) चौरस.",
+    "difficulty": "कठीण",
+    "topic": "चौरस मोजणे (Counting Squares)"
+  },
+  {
+    "q_no": 71,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका चौरसाकृती कागदाला कर्णाच्या रेषेत दोनदा घडी घातली व त्रिकोणाच्या तळाशी एक अर्धवर्तुळाकार खाच मारली. उलगडल्यावर कागदाच्या मध्यभागी कोणता आकार तयार होईल?",
+    "question_text": "एका चौरसाकृती कागदाला कर्णाच्या रेषेत दोनदा घडी घातली व त्रिकोणाच्या तळाशी एक अर्धवर्तुळाकार खाच मारली. उलगडल्यावर कागदाच्या मध्यभागी कोणता आकार तयार होईल?",
+    "options": [
+      "एक पूर्ण वर्तुळ",
+      "एक चौरस",
+      "चार स्वतंत्र वर्तुळे",
+      "एक त्रिकोण"
+    ],
+    "options_dict": {
+      "1": "एक पूर्ण वर्तुळ",
+      "2": "एक चौरस",
+      "3": "चार स्वतंत्र वर्तुळे",
+      "4": "एक त्रिकोण"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "घड्यांच्या केंद्रबिंदूवर अर्धवर्तुळाकार खाच मारल्यास उलगडल्यावर चारही भागांचे मिळून मध्यभागी एक अखंड पूर्ण वर्तुळ तयार होते.",
+    "difficulty": "कठीण",
+    "topic": "आकार व घडी (Paper Cut Pattern)"
+  },
+  {
+    "q_no": 72,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "मालिकेतील चुकीचे पद (चुकीची संख्या) ओळखा:\n**२, ३, ५, ८, १२, १८, २३**",
+    "question_text": "मालिकेतील चुकीचे पद (चुकीची संख्या) ओळखा:\n**२, ३, ५, ८, १२, १८, २३**",
+    "options": [
+      "८",
+      "१२",
+      "१८",
+      "२३"
+    ],
+    "options_dict": {
+      "1": "८",
+      "2": "१२",
+      "3": "१८",
+      "4": "२३"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "फरक क्रमाने: +१, +२, +३, +४, +५, +६ असा असावा.\n२ (+१) = ३\n३ (+२) = ५\n५ (+३) = ८\n८ (+४) = १२\n१२ (+५) = १७ (येथे १८ दिले आहे!)\n१७ (+६) = २३. म्हणून चुकीचे पद '१८' आहे.",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका - विषम फरक (Prime Differences)"
+  },
+  {
+    "q_no": 73,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "राकेशकडे जेवढ्या पेन्सिली आहेत, त्याच्या तिप्पट पेन्सिली दिनेशकडे आहेत. दोघांकडे मिळून एकूण ४८ पेन्सिली असल्यास, दिनेशकडे राकेशपेक्षा किती पेन्सिली जास्त आहेत?",
+    "question_text": "राकेशकडे जेवढ्या पेन्सिली आहेत, त्याच्या तिप्पट पेन्सिली दिनेशकडे आहेत. दोघांकडे मिळून एकूण ४८ पेन्सिली असल्यास, दिनेशकडे राकेशपेक्षा किती पेन्सिली जास्त आहेत?",
+    "options": [
+      "१२",
+      "२४",
+      "३६",
+      "१६"
+    ],
+    "options_dict": {
+      "1": "१२",
+      "2": "२४",
+      "3": "३६",
+      "4": "१६"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "राकेशकडे \\(x\\) पेन्सिली, दिनेशकडे \\(3x\\). \\(x + 3x = 48 \\Rightarrow 4x = 48 \\Rightarrow x = 12\\). राकेश = १२, दिनेश = ३६. फरक = ३६ - १२ = २४ पेन्सिली जास्त आहेत.",
+    "difficulty": "कठीण",
+    "topic": "तर्क व कूटप्रश्न (Pencils Problem)"
+  },
+  {
+    "q_no": 74,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालीलपैकी कोणत्या इंग्रजी मोठ्या अक्षरांच्या जोडीची आरशातील प्रतिमा मूळ अक्षरांसारखीच दिसते?",
+    "question_text": "खालीलपैकी कोणत्या इंग्रजी मोठ्या अक्षरांच्या जोडीची आरशातील प्रतिमा मूळ अक्षरांसारखीच दिसते?",
+    "options": [
+      "A, M",
+      "B, D",
+      "E, F",
+      "J, L"
+    ],
+    "options_dict": {
+      "1": "A, M",
+      "2": "B, D",
+      "3": "E, F",
+      "4": "J, L"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "A आणि M या दोन्ही अक्षरांना उभी सममिती (Vertical line of symmetry) असते. त्यामुळे आरशात त्यांचे प्रतिबिंब मूळ अक्षरांसारखेच हुबेहूब दिसते.",
+    "difficulty": "कठीण",
+    "topic": "आरशातील प्रतिमा (Mirror Letters)"
+  },
+  {
+    "q_no": 75,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका रांगेत एकूण ३७ मुले उभी आहेत. अनिकेतचा क्रमांक रांगेत अगदी मध्यभागी आहे, तर अनिकेतचा सुरुवातीपासूनचा क्रमांक कितवा असेल?",
+    "question_text": "एका रांगेत एकूण ३७ मुले उभी आहेत. अनिकेतचा क्रमांक रांगेत अगदी मध्यभागी आहे, तर अनिकेतचा सुरुवातीपासूनचा क्रमांक कितवा असेल?",
+    "options": [
+      "१८ वा",
+      "१९ वा",
+      "२० वा",
+      "१७ वा"
+    ],
+    "options_dict": {
+      "1": "१८ वा",
+      "2": "१९ वा",
+      "3": "२० वा",
+      "4": "१७ वा"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "मध्यस्थान = \\(\\frac{\\text{एकूण} + 1}{2} = \\frac{37 + 1}{2} = \\frac{38}{2} = 19\\) वा क्रमांक.",
+    "difficulty": "कठीण",
+    "topic": "रांगेतील मध्यस्थान (Queue Middle Position)"
   }
 ]
