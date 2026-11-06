@@ -1,330 +1,1802 @@
 [
   {
+    "q_no": 1,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "वर्णानुक्रम",
-    "question": "Arrange in alphabetical order: Apple, Cat, Ball, Dog",
+    "section": "1",
+    "question": "<p><strong>Q.01) Choose the correct sentence.</strong></p>",
+    "question_text": "<p><strong>Q.01) Choose the correct sentence.</strong></p>",
     "options": [
-      "Dog, Cat, Ball, Apple",
-      "Apple, Cat, Ball, Dog",
-      "Apple, Ball, Cat, Dog",
-      "Ball, Apple, Cat, Dog"
+      "I am Raju.",
+      "I am raju.",
+      "i am Raju.",
+      "i am raju."
     ],
-    "answer": 2,
-    "explanation": "A -> B -> C -> D हा वर्णानुक्रम आहे: Apple, Ball, Cat, Dog.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "अक्षरमाला",
-    "question": "Which letter comes immediately after 'M' in the English alphabet?",
-    "options": [
-      "P",
-      "N",
-      "O",
-      "L"
-    ],
-    "answer": 1,
-    "explanation": "M नंतर लगेच N हे अक्षर येते (L, M, N, O).",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "स्वर (Vowels)",
-    "question": "How many vowels are there in the English alphabet?",
-    "options": [
-      "26",
-      "5",
-      "21",
-      "7"
-    ],
-    "answer": 1,
-    "explanation": "इंग्रजी वर्णमालेत A, E, I, O, U हे एकूण ५ स्वर (Vowels) आहेत.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2023",
-    "tagText": "शब्द निर्मिती",
-    "question": "Which meaningful word can be formed from letters: 'E, N, P'?",
-    "options": [
-      "PNE",
-      "EPN",
-      "NEP",
-      "PEN"
-    ],
-    "answer": 3,
-    "explanation": "P-E-N या अक्षरांपासून 'PEN' (पेन) हा अर्थपूर्ण शब्द तयार होतो.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "व्यंजने (Consonants)",
-    "question": "Which of the following letters is a vowel?",
-    "options": [
-      "B",
-      "E",
-      "D",
-      "C"
-    ],
-    "answer": 1,
-    "explanation": "'E' हा स्वर (Vowel) आहे, बाकी सर्व व्यंजने आहेत.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "पहिला शब्द",
-    "question": "Which word comes first in a dictionary?",
-    "options": [
-      "Bat",
-      "Ant",
-      "Dog",
-      "Cow"
-    ],
-    "answer": 1,
-    "explanation": "'Ant' हा शब्द 'A' ने सुरू होत असल्याने शब्दकोशात सर्वात प्रथम येईल.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2022",
-    "tagText": "वर्णानुक्रम",
-    "question": "Arrange: Sun, Star, Sky, Sea in alphabetical order.",
-    "options": [
-      "Sky, Sea, Star, Sun",
-      "Sun, Star, Sky, Sea",
-      "Sea, Star, Sky, Sun",
-      "Sea, Sky, Star, Sun"
-    ],
-    "answer": 3,
-    "explanation": "दुसरे व तिसरे अक्षर पाहून: Sea (Se) -> Sky (Sk) -> Star (St) -> Sun (Su).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "गहाळ अक्षर",
-    "question": "Complete the word: M _ N G O",
-    "options": [
-      "I",
-      "E",
-      "A",
-      "U"
-    ],
-    "answer": 2,
-    "explanation": "M-A-N-G-O (Mango = आंबा). गहाळ अक्षर 'A' आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "शब्द तयार करणे",
-    "question": "Which word CANNOT be formed using the letters of 'TEACHER'?",
-    "options": [
-      "CHAIR",
-      "CAT",
-      "TEA",
-      "HEAT"
-    ],
+    "options_dict": {
+      "1": "I am Raju.",
+      "2": "I am raju.",
+      "3": "i am Raju.",
+      "4": "i am raju."
+    },
     "answer": 0,
-    "explanation": "'TEACHER' या शब्दात 'I' हे अक्षर नाही, म्हणून 'CHAIR' हा शब्द बनू शकत नाही.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> वाक्याची सुरुवात नेहमी कॅपिटल अक्षराने ('I') होते आणि कोणत्याही व्यक्तीचे नाव (विशेषनाम - Proper Noun) कॅपिटल अक्षराने ('Raju') सुरू होते. त्यामुळे <strong>'I am Raju.'</strong> हा योग्य पर्याय आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "Sentence Formation & Capitalization"
   },
   {
+    "q_no": 2,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2021",
-    "tagText": "वर्णानुक्रम",
-    "question": "Which word comes LAST in alphabetical order: Fish, Frog, Fan, Fox?",
+    "section": "1",
+    "question": "<p><strong>Q.02) Solve the riddle:</strong><br><em>I look like a horse.<br>I have black and white stripes.<br>Who am I?</em></p>",
+    "question_text": "<p><strong>Q.02) Solve the riddle:</strong><br><em>I look like a horse.<br>I have black and white stripes.<br>Who am I?</em></p>",
     "options": [
-      "Fox",
-      "Fan",
-      "Frog",
-      "Fish"
+      "Zebra",
+      "Horse",
+      "Tiger",
+      "Giraffe"
     ],
-    "answer": 2,
-    "explanation": "वर्णानुक्रम: Fan -> Fish -> Fox -> Frog. सर्वात शेवटी 'Frog' येईल.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "लहान अक्षरे",
-    "question": "What is the small letter for capital 'G'?",
-    "options": [
-      "g",
-      "q",
-      "j",
-      "p"
-    ],
+    "options_dict": {
+      "1": "Zebra",
+      "2": "Horse",
+      "3": "Tiger",
+      "4": "Giraffe"
+    },
     "answer": 0,
-    "explanation": "कॅपिटल 'G' चे लहान (small) अक्षर 'g' असते.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> घोड्यासारखा दिसणारा आणि अंगावर काळे-पांढरे पट्टे असणारा प्राणी म्हणजे <strong>झिब्रा (Zebra)</strong> होय.</p>",
+    "difficulty": "Easy",
+    "topic": "Riddles & Animals"
   },
   {
+    "q_no": 3,
     "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "अर्थपूर्ण शब्द",
-    "question": "Unscramble: 'K O O B' to make a meaningful word.",
+    "section": "1",
+    "question": "<p><strong>Q.03) Find the face which does not match with the expression:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"420\" height=\"120\" viewBox=\"0 0 420 120\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Box 1: Happy -->\n  <rect x=\"5\" y=\"5\" width=\"95\" height=\"110\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"52\" cy=\"50\" r=\"32\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"2\"/>\n  <circle cx=\"42\" cy=\"42\" r=\"4\" fill=\"#333\"/><circle cx=\"62\" cy=\"42\" r=\"4\" fill=\"#333\"/>\n  <path d=\"M 38 56 Q 52 74 66 56 Z\" fill=\"#333\"/>\n  <text x=\"52\" y=\"102\" font-weight=\"bold\">happy (1)</text>\n\n  <!-- Box 2: Angry? (Actual: fearful/sweating) -->\n  <rect x=\"110\" y=\"5\" width=\"95\" height=\"110\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"157\" cy=\"50\" r=\"32\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"2\"/>\n  <circle cx=\"147\" cy=\"42\" r=\"4\" fill=\"#333\"/><circle cx=\"167\" cy=\"40\" r=\"5\" fill=\"#333\"/>\n  <path d=\"M 144 65 Q 157 58 170 65\" stroke=\"#333\" stroke-width=\"3\" fill=\"none\"/>\n  <ellipse cx=\"178\" cy=\"48\" rx=\"3\" ry=\"5\" fill=\"#666\"/>\n  <text x=\"157\" y=\"102\" font-weight=\"bold\">angry (2)</text>\n\n  <!-- Box 3: Sad -->\n  <rect x=\"215\" y=\"5\" width=\"95\" height=\"110\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"262\" cy=\"50\" r=\"32\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"2\"/>\n  <ellipse cx=\"252\" cy=\"44\" rx=\"4\" ry=\"5\" fill=\"#333\"/><ellipse cx=\"272\" cy=\"44\" rx=\"4\" ry=\"5\" fill=\"#333\"/>\n  <path d=\"M 248 68 Q 262 55 276 68\" stroke=\"#333\" stroke-width=\"3\" fill=\"none\"/>\n  <text x=\"262\" y=\"102\" font-weight=\"bold\">sad (3)</text>\n\n  <!-- Box 4: Sleepy -->\n  <rect x=\"320\" y=\"5\" width=\"95\" height=\"110\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"367\" cy=\"50\" r=\"32\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"2\"/>\n  <line x1=\"352\" y1=\"45\" x2=\"362\" y2=\"45\" stroke=\"#333\" stroke-width=\"3\"/>\n  <line x1=\"372\" y1=\"45\" x2=\"382\" y2=\"45\" stroke=\"#333\" stroke-width=\"3\"/>\n  <circle cx=\"367\" cy=\"62\" r=\"5\" fill=\"#333\"/>\n  <text x=\"388\" y=\"32\" font-size=\"11px\" font-weight=\"bold\">z z</text>\n  <text x=\"367\" y=\"102\" font-weight=\"bold\">sleepy (4)</text>\n</svg></div>",
+    "question_text": "<p><strong>Q.03) Find the face which does not match with the expression:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"420\" height=\"120\" viewBox=\"0 0 420 120\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Box 1: Happy -->\n  <rect x=\"5\" y=\"5\" width=\"95\" height=\"110\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"52\" cy=\"50\" r=\"32\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"2\"/>\n  <circle cx=\"42\" cy=\"42\" r=\"4\" fill=\"#333\"/><circle cx=\"62\" cy=\"42\" r=\"4\" fill=\"#333\"/>\n  <path d=\"M 38 56 Q 52 74 66 56 Z\" fill=\"#333\"/>\n  <text x=\"52\" y=\"102\" font-weight=\"bold\">happy (1)</text>\n\n  <!-- Box 2: Angry? (Actual: fearful/sweating) -->\n  <rect x=\"110\" y=\"5\" width=\"95\" height=\"110\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"157\" cy=\"50\" r=\"32\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"2\"/>\n  <circle cx=\"147\" cy=\"42\" r=\"4\" fill=\"#333\"/><circle cx=\"167\" cy=\"40\" r=\"5\" fill=\"#333\"/>\n  <path d=\"M 144 65 Q 157 58 170 65\" stroke=\"#333\" stroke-width=\"3\" fill=\"none\"/>\n  <ellipse cx=\"178\" cy=\"48\" rx=\"3\" ry=\"5\" fill=\"#666\"/>\n  <text x=\"157\" y=\"102\" font-weight=\"bold\">angry (2)</text>\n\n  <!-- Box 3: Sad -->\n  <rect x=\"215\" y=\"5\" width=\"95\" height=\"110\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"262\" cy=\"50\" r=\"32\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"2\"/>\n  <ellipse cx=\"252\" cy=\"44\" rx=\"4\" ry=\"5\" fill=\"#333\"/><ellipse cx=\"272\" cy=\"44\" rx=\"4\" ry=\"5\" fill=\"#333\"/>\n  <path d=\"M 248 68 Q 262 55 276 68\" stroke=\"#333\" stroke-width=\"3\" fill=\"none\"/>\n  <text x=\"262\" y=\"102\" font-weight=\"bold\">sad (3)</text>\n\n  <!-- Box 4: Sleepy -->\n  <rect x=\"320\" y=\"5\" width=\"95\" height=\"110\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"367\" cy=\"50\" r=\"32\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"2\"/>\n  <line x1=\"352\" y1=\"45\" x2=\"362\" y2=\"45\" stroke=\"#333\" stroke-width=\"3\"/>\n  <line x1=\"372\" y1=\"45\" x2=\"382\" y2=\"45\" stroke=\"#333\" stroke-width=\"3\"/>\n  <circle cx=\"367\" cy=\"62\" r=\"5\" fill=\"#333\"/>\n  <text x=\"388\" y=\"32\" font-size=\"11px\" font-weight=\"bold\">z z</text>\n  <text x=\"367\" y=\"102\" font-weight=\"bold\">sleepy (4)</text>\n</svg></div>",
     "options": [
-      "KOOB",
-      "BOOK",
-      "OKOB",
-      "BOOO"
+      "happy",
+      "angry",
+      "sad",
+      "sleepy"
     ],
+    "options_dict": {
+      "1": "happy",
+      "2": "angry",
+      "3": "sad",
+      "4": "sleepy"
+    },
     "answer": 1,
-    "explanation": "B-O-O-K = BOOK (पुस्तक).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> पर्याय (२) मधील चेहरा 'angry' (रागीट) नसून 'fearful/worried' (घाबरलेला/काळजीयुक्त) आहे. म्हणून पर्याय (२) हा जुळत नाही.</p>",
+    "difficulty": "Medium",
+    "topic": "Emotions & Expressions"
   },
   {
+    "q_no": 4,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "मध्यम अक्षर",
-    "question": "Which letter is exactly in the middle between 'C' and 'G'?",
+    "section": "1",
+    "question": "<p><strong>Q.04) Choose the correct alternative to make a meaningful sentence:</strong><br><em>I will _________ big golden earrings.</em></p>",
+    "question_text": "<p><strong>Q.04) Choose the correct alternative to make a meaningful sentence:</strong><br><em>I will _________ big golden earrings.</em></p>",
     "options": [
-      "D",
-      "F",
-      "H",
-      "E"
+      "sold",
+      "gave",
+      "buy",
+      "paid"
     ],
-    "answer": 3,
-    "explanation": "C, D, E, F, G -> मध्यभागी 'E' हे अक्षर येते.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "options_dict": {
+      "1": "sold",
+      "2": "gave",
+      "3": "buy",
+      "4": "paid"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'will' या सहाय्यकारी क्रियापदानंतर नेहमी क्रियापदाचे मूळ रूप (Base form / V1) येते. 'sold', 'gave', 'paid' ही भूतकाळी रूपे आहेत, तर <strong>'buy'</strong> हे मूळ रूप आहे. (I will buy big golden earrings.)</p>",
+    "difficulty": "Medium",
+    "topic": "Tenses & Modals"
   },
   {
+    "q_no": 5,
     "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "स्वर मोजणे",
-    "question": "How many vowels are in the word 'BEAUTIFUL'?",
+    "section": "1",
+    "question": "<p><strong>Q.05) Observe the given picture and select the wrong message:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"180\" height=\"150\" viewBox=\"0 0 180 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"90\" cy=\"75\" r=\"65\" fill=\"#f4fbf4\" stroke=\"#2e7d32\" stroke-width=\"3\"/>\n  <path d=\"M 60 95 C 45 65 65 40 75 35 C 75 55 65 80 60 95 Z\" fill=\"#4caf50\" stroke=\"#2e7d32\" stroke-width=\"1.5\"/>\n  <path d=\"M 62 95 C 55 70 75 50 82 45 C 80 65 70 85 62 95 Z\" fill=\"#81c784\" stroke=\"#2e7d32\" stroke-width=\"1.5\"/>\n  <text x=\"120\" y=\"55\" font-family=\"sans-serif\" font-size=\"18px\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">Go</text>\n  <text x=\"120\" y=\"78\" font-family=\"sans-serif\" font-size=\"18px\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">Green</text>\n  <text x=\"120\" y=\"101\" font-family=\"sans-serif\" font-size=\"18px\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">Club</text>\n</svg></div>",
+    "question_text": "<p><strong>Q.05) Observe the given picture and select the wrong message:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"180\" height=\"150\" viewBox=\"0 0 180 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"90\" cy=\"75\" r=\"65\" fill=\"#f4fbf4\" stroke=\"#2e7d32\" stroke-width=\"3\"/>\n  <path d=\"M 60 95 C 45 65 65 40 75 35 C 75 55 65 80 60 95 Z\" fill=\"#4caf50\" stroke=\"#2e7d32\" stroke-width=\"1.5\"/>\n  <path d=\"M 62 95 C 55 70 75 50 82 45 C 80 65 70 85 62 95 Z\" fill=\"#81c784\" stroke=\"#2e7d32\" stroke-width=\"1.5\"/>\n  <text x=\"120\" y=\"55\" font-family=\"sans-serif\" font-size=\"18px\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">Go</text>\n  <text x=\"120\" y=\"78\" font-family=\"sans-serif\" font-size=\"18px\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">Green</text>\n  <text x=\"120\" y=\"101\" font-family=\"sans-serif\" font-size=\"18px\" font-weight=\"bold\" fill=\"#1b5e20\" text-anchor=\"middle\">Club</text>\n</svg></div>",
     "options": [
-      "5",
-      "3",
+      "Save the plants.",
+      "Protect the plants.",
+      "Care for plants.",
+      "Cut the plants."
+    ],
+    "options_dict": {
+      "1": "Save the plants.",
+      "2": "Protect the plants.",
+      "3": "Care for plants.",
+      "4": "Cut the plants."
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'Go Green Club' चा उद्देश वनस्पतींचे रक्षण करणे, जपणे हा आहे. 'Cut the plants' (झाडे तोडा) हा चुकीचा संदेश (wrong message) आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "Picture Reading & Messages"
+  },
+  {
+    "q_no": 6,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.06) Fill in the blanks with correct option:</strong><br><em>A pet hen is _________ a net.</em></p><div style='text-align:center;margin:10px 0;'><svg width=\"220\" height=\"120\" viewBox=\"0 0 220 120\" xmlns=\"http://www.w3.org/2000/svg\">\n  <!-- Net/Trap -->\n  <path d=\"M 20 100 Q 110 20 200 100 Z\" fill=\"none\" stroke=\"#555\" stroke-width=\"2\"/>\n  <path d=\"M 40 90 Q 110 35 180 90\" fill=\"none\" stroke=\"#888\" stroke-width=\"1.5\"/>\n  <path d=\"M 60 80 Q 110 50 160 80\" fill=\"none\" stroke=\"#888\" stroke-width=\"1.5\"/>\n  <!-- Cross lines for net mesh -->\n  <line x1=\"50\" y1=\"95\" x2=\"130\" y2=\"40\" stroke=\"#aaa\" stroke-width=\"1\"/>\n  <line x1=\"80\" y1=\"95\" x2=\"150\" y2=\"50\" stroke=\"#aaa\" stroke-width=\"1\"/>\n  <line x1=\"170\" y1=\"95\" x2=\"90\" y2=\"40\" stroke=\"#aaa\" stroke-width=\"1\"/>\n  <line x1=\"140\" y1=\"95\" x2=\"70\" y2=\"50\" stroke=\"#aaa\" stroke-width=\"1\"/>\n  <!-- Hen inside -->\n  <ellipse cx=\"110\" cy=\"75\" rx=\"25\" ry=\"16\" fill=\"#ffecb3\" stroke=\"#d7ccc8\" stroke-width=\"1.5\"/>\n  <circle cx=\"128\" cy=\"62\" r=\"10\" fill=\"#ffecb3\" stroke=\"#d7ccc8\" stroke-width=\"1.5\"/>\n  <polygon points=\"138,62 146,65 138,68\" fill=\"#ff9800\"/>\n  <polygon points=\"128,52 133,56 125,56\" fill=\"#f44336\"/>\n  <circle cx=\"132\" cy=\"60\" r=\"2\" fill=\"#333\"/>\n  <line x1=\"10\" y1=\"102\" x2=\"210\" y2=\"102\" stroke=\"#333\" stroke-width=\"2\"/>\n</svg></div>",
+    "question_text": "<p><strong>Q.06) Fill in the blanks with correct option:</strong><br><em>A pet hen is _________ a net.</em></p><div style='text-align:center;margin:10px 0;'><svg width=\"220\" height=\"120\" viewBox=\"0 0 220 120\" xmlns=\"http://www.w3.org/2000/svg\">\n  <!-- Net/Trap -->\n  <path d=\"M 20 100 Q 110 20 200 100 Z\" fill=\"none\" stroke=\"#555\" stroke-width=\"2\"/>\n  <path d=\"M 40 90 Q 110 35 180 90\" fill=\"none\" stroke=\"#888\" stroke-width=\"1.5\"/>\n  <path d=\"M 60 80 Q 110 50 160 80\" fill=\"none\" stroke=\"#888\" stroke-width=\"1.5\"/>\n  <!-- Cross lines for net mesh -->\n  <line x1=\"50\" y1=\"95\" x2=\"130\" y2=\"40\" stroke=\"#aaa\" stroke-width=\"1\"/>\n  <line x1=\"80\" y1=\"95\" x2=\"150\" y2=\"50\" stroke=\"#aaa\" stroke-width=\"1\"/>\n  <line x1=\"170\" y1=\"95\" x2=\"90\" y2=\"40\" stroke=\"#aaa\" stroke-width=\"1\"/>\n  <line x1=\"140\" y1=\"95\" x2=\"70\" y2=\"50\" stroke=\"#aaa\" stroke-width=\"1\"/>\n  <!-- Hen inside -->\n  <ellipse cx=\"110\" cy=\"75\" rx=\"25\" ry=\"16\" fill=\"#ffecb3\" stroke=\"#d7ccc8\" stroke-width=\"1.5\"/>\n  <circle cx=\"128\" cy=\"62\" r=\"10\" fill=\"#ffecb3\" stroke=\"#d7ccc8\" stroke-width=\"1.5\"/>\n  <polygon points=\"138,62 146,65 138,68\" fill=\"#ff9800\"/>\n  <polygon points=\"128,52 133,56 125,56\" fill=\"#f44336\"/>\n  <circle cx=\"132\" cy=\"60\" r=\"2\" fill=\"#333\"/>\n  <line x1=\"10\" y1=\"102\" x2=\"210\" y2=\"102\" stroke=\"#333\" stroke-width=\"2\"/>\n</svg></div>",
+    "options": [
+      "in",
+      "on",
+      "over",
+      "across"
+    ],
+    "options_dict": {
+      "1": "in",
+      "2": "on",
+      "3": "over",
+      "4": "across"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> कोंबडी जाळ्याच्या आत आहे. आत असणे दर्शवण्यासाठी <strong>'in'</strong> हे शब्दयोगी अव्यय (preposition) वापरतात. (A pet hen is in a net.)</p>",
+    "difficulty": "Easy",
+    "topic": "Prepositions"
+  },
+  {
+    "q_no": 7,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.07) Which group of letters make meaningful words when joined with 'all'?</strong><br>[ ___ ] &rarr; all</p>",
+    "question_text": "<p><strong>Q.07) Which group of letters make meaningful words when joined with 'all'?</strong><br>[ ___ ] &rarr; all</p>",
+    "options": [
+      "w, b, t, s",
+      "w, t, n, b",
+      "w, b, c, t",
+      "b, c, t, k"
+    ],
+    "options_dict": {
+      "1": "w, b, t, s",
+      "2": "w, t, n, b",
+      "3": "w, b, c, t",
+      "4": "b, c, t, k"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'w, b, c, t' ही अक्षरे 'all' शी जोडल्यास wall (भिंत), ball (चेंडू), call (हाक मारणे), tall (उंच) हे सर्व अर्थपूर्ण शब्द तयार होतात.</p>",
+    "difficulty": "Easy",
+    "topic": "Word Families"
+  },
+  {
+    "q_no": 8,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.08) Find the odd man out:</strong></p>",
+    "question_text": "<p><strong>Q.08) Find the odd man out:</strong></p>",
+    "options": [
+      "he",
+      "the",
+      "she",
+      "it"
+    ],
+    "options_dict": {
+      "1": "he",
+      "2": "the",
+      "3": "she",
+      "4": "it"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'he', 'she', 'it' ही सर्व सर्वनामे (Pronouns) आहेत, तर <strong>'the'</strong> हे उपपद (Article) आहे. म्हणून 'the' हा वेगळा शब्द आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "Parts of Speech - Odd Man Out"
+  },
+  {
+    "q_no": 9,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.09) Which group of meaningful words can be made from 'Vegetable'?</strong></p>",
+    "question_text": "<p><strong>Q.09) Which group of meaningful words can be made from 'Vegetable'?</strong></p>",
+    "options": [
+      "eat, able, tab, eagle",
+      "veg, edge, get, tale",
+      "ate, gate, ege, late",
+      "let, table, elb, bet"
+    ],
+    "options_dict": {
+      "1": "eat, able, tab, eagle",
+      "2": "veg, edge, get, tale",
+      "3": "ate, gate, ege, late",
+      "4": "let, table, elb, bet"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'Vegetable' (v, e, g, e, t, a, b, l, e) या अक्षरांपासून eat, able, tab, eagle हे चारही अर्थपूर्ण इंग्रजी शब्द तयार करता येतात.</p>",
+    "difficulty": "Medium",
+    "topic": "Word Formation"
+  },
+  {
+    "q_no": 10,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.10) In which direction the school is?</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"240\" height=\"180\" viewBox=\"0 0 240 180\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"160\" stroke=\"#333\" stroke-width=\"2\"/>\n  <line x1=\"30\" y1=\"90\" x2=\"210\" y2=\"90\" stroke=\"#333\" stroke-width=\"2\"/>\n  <!-- North Arrow -->\n  <line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"15\" stroke=\"#d32f2f\" stroke-width=\"2\"/>\n  <polygon points=\"200,10 196,20 204,20\" fill=\"#d32f2f\"/>\n  <text x=\"215\" y=\"25\" fill=\"#d32f2f\" font-weight=\"bold\">N</text>\n  <!-- Labels -->\n  <text x=\"120\" y=\"15\" font-weight=\"bold\">temple</text>\n  <text x=\"120\" y=\"175\" font-weight=\"bold\">park</text>\n  <text x=\"25\" y=\"95\" font-weight=\"bold\">home</text>\n  <text x=\"215\" y=\"95\" font-weight=\"bold\">school</text>\n</svg></div>",
+    "question_text": "<p><strong>Q.10) In which direction the school is?</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"240\" height=\"180\" viewBox=\"0 0 240 180\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"160\" stroke=\"#333\" stroke-width=\"2\"/>\n  <line x1=\"30\" y1=\"90\" x2=\"210\" y2=\"90\" stroke=\"#333\" stroke-width=\"2\"/>\n  <!-- North Arrow -->\n  <line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"15\" stroke=\"#d32f2f\" stroke-width=\"2\"/>\n  <polygon points=\"200,10 196,20 204,20\" fill=\"#d32f2f\"/>\n  <text x=\"215\" y=\"25\" fill=\"#d32f2f\" font-weight=\"bold\">N</text>\n  <!-- Labels -->\n  <text x=\"120\" y=\"15\" font-weight=\"bold\">temple</text>\n  <text x=\"120\" y=\"175\" font-weight=\"bold\">park</text>\n  <text x=\"25\" y=\"95\" font-weight=\"bold\">home</text>\n  <text x=\"215\" y=\"95\" font-weight=\"bold\">school</text>\n</svg></div>",
+    "options": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "options_dict": {
+      "1": "East",
+      "2": "West",
+      "3": "North",
+      "4": "South"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> नकाशामध्ये वरची दिशा उत्तर (North) असते. त्यानुसार उजवी बाजू पूर्व (East) दिशा दर्शवते. शाळेचे स्थान उजव्या बाजूस असल्याने शाळा <strong>पूर्व (East)</strong> दिशेला आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "Directions"
+  },
+  {
+    "q_no": 11,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.11) If did not : didn’t<br>then I will : ?</strong></p>",
+    "question_text": "<p><strong>Q.11) If did not : didn’t<br>then I will : ?</strong></p>",
+    "options": [
+      "I wi’l",
+      "I’ll",
+      "I wi’ll",
+      "I’wl"
+    ],
+    "options_dict": {
+      "1": "I wi’l",
+      "2": "I’ll",
+      "3": "I wi’ll",
+      "4": "I’wl"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'I will' चे संक्षिप्त रूप (contraction) <strong>'I'll'</strong> असे लिहिले जाते.</p>",
+    "difficulty": "Easy",
+    "topic": "Contractions"
+  },
+  {
+    "q_no": 12,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<div style='background:#f1f8e9;padding:12px;border-left:4px solid #8bc34a;margin-bottom:12px;'><strong>Read the following passage carefully and answer the questions (Q.12 &amp; Q.13):</strong><br><em>A fish lives in the pond. It swims fast and eats small insects. The water in the pond is clean.</em></div><p><strong>Q.12) Choose the incorrect option:</strong><br><em>A fish _________</em></p>",
+    "question_text": "<div style='background:#f1f8e9;padding:12px;border-left:4px solid #8bc34a;margin-bottom:12px;'><strong>Read the following passage carefully and answer the questions (Q.12 &amp; Q.13):</strong><br><em>A fish lives in the pond. It swims fast and eats small insects. The water in the pond is clean.</em></div><p><strong>Q.12) Choose the incorrect option:</strong><br><em>A fish _________</em></p>",
+    "options": [
+      "lives in the pond.",
+      "swims fast.",
+      "walks slowly.",
+      "eats small insects."
+    ],
+    "options_dict": {
+      "1": "lives in the pond.",
+      "2": "swims fast.",
+      "3": "walks slowly.",
+      "4": "eats small insects."
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> उताऱ्यात दिले आहे: मासा तलावात राहतो, वेगाने पोहतो आणि किडे खातो. मासा हळू चालतो ('walks slowly') हा पर्याय चुकीचा (incorrect) आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "q_no": 13,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<div style='background:#f1f8e9;padding:12px;border-left:4px solid #8bc34a;margin-bottom:12px;'><strong>Read the following passage carefully and answer the questions (Q.12 &amp; Q.13):</strong><br><em>A fish lives in the pond. It swims fast and eats small insects. The water in the pond is clean.</em></div><p><strong>Q.13) Find the opposite word from the given passage:</strong><br><em>dirty &times; _________</em></p>",
+    "question_text": "<div style='background:#f1f8e9;padding:12px;border-left:4px solid #8bc34a;margin-bottom:12px;'><strong>Read the following passage carefully and answer the questions (Q.12 &amp; Q.13):</strong><br><em>A fish lives in the pond. It swims fast and eats small insects. The water in the pond is clean.</em></div><p><strong>Q.13) Find the opposite word from the given passage:</strong><br><em>dirty &times; _________</em></p>",
+    "options": [
+      "pond",
+      "fast",
+      "small",
+      "clean"
+    ],
+    "options_dict": {
+      "1": "pond",
+      "2": "fast",
+      "3": "small",
+      "4": "clean"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'dirty' (घाणेरडे) चा विरुद्धार्थी शब्द उताऱ्यात <strong>'clean'</strong> (स्वच्छ) असा आला आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "Reading Comprehension - Antonyms"
+  },
+  {
+    "q_no": 14,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.14) In which of the following words 'C' has a different sound?</strong></p>",
+    "question_text": "<p><strong>Q.14) In which of the following words 'C' has a different sound?</strong></p>",
+    "options": [
+      "Cat",
+      "Circle",
+      "Cold",
+      "Cap"
+    ],
+    "options_dict": {
+      "1": "Cat",
+      "2": "Circle",
+      "3": "Cold",
+      "4": "Cap"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> Cat, Cold, Cap या शब्दांत 'C' चा उच्चार 'क' (/k/) असा होतो, तर <strong>Circle</strong> मध्ये 'C' चा उच्चार 'स' (/s/) असा होतो. म्हणून 'Circle' चा ध्वनी वेगळा आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "Phonetics & Pronunciation"
+  },
+  {
+    "q_no": 15,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.15) Choose the correct instruction for the given picture:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"150\" height=\"150\" viewBox=\"0 0 150 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"75\" cy=\"40\" r=\"22\" fill=\"#ffecb3\" stroke=\"#5d4037\" stroke-width=\"2\"/>\n  <!-- Glasses -->\n  <rect x=\"60\" y=\"34\" width=\"12\" height=\"10\" rx=\"2\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <rect x=\"78\" y=\"34\" width=\"12\" height=\"10\" rx=\"2\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"72\" y1=\"39\" x2=\"78\" y2=\"39\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <!-- Body & Hands in Namaste -->\n  <path d=\"M 50 75 L 100 75 L 95 120 L 55 120 Z\" fill=\"#e0f2f1\" stroke=\"#004d40\" stroke-width=\"2\"/>\n  <!-- Hands joined together in front of chest -->\n  <path d=\"M 70 85 C 72 75 78 75 80 85 C 80 95 70 95 70 85 Z\" fill=\"#ffecb3\" stroke=\"#5d4037\" stroke-width=\"2\"/>\n  <line x1=\"75\" y1=\"75\" x2=\"75\" y2=\"92\" stroke=\"#5d4037\" stroke-width=\"1.5\"/>\n</svg></div>",
+    "question_text": "<p><strong>Q.15) Choose the correct instruction for the given picture:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"150\" height=\"150\" viewBox=\"0 0 150 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  <circle cx=\"75\" cy=\"40\" r=\"22\" fill=\"#ffecb3\" stroke=\"#5d4037\" stroke-width=\"2\"/>\n  <!-- Glasses -->\n  <rect x=\"60\" y=\"34\" width=\"12\" height=\"10\" rx=\"2\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <rect x=\"78\" y=\"34\" width=\"12\" height=\"10\" rx=\"2\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"72\" y1=\"39\" x2=\"78\" y2=\"39\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <!-- Body & Hands in Namaste -->\n  <path d=\"M 50 75 L 100 75 L 95 120 L 55 120 Z\" fill=\"#e0f2f1\" stroke=\"#004d40\" stroke-width=\"2\"/>\n  <!-- Hands joined together in front of chest -->\n  <path d=\"M 70 85 C 72 75 78 75 80 85 C 80 95 70 95 70 85 Z\" fill=\"#ffecb3\" stroke=\"#5d4037\" stroke-width=\"2\"/>\n  <line x1=\"75\" y1=\"75\" x2=\"75\" y2=\"92\" stroke=\"#5d4037\" stroke-width=\"1.5\"/>\n</svg></div>",
+    "options": [
+      "Raise your hands.",
+      "Fold your hands.",
+      "Join your hands.",
+      "Wave your hands."
+    ],
+    "options_dict": {
+      "1": "Raise your hands.",
+      "2": "Fold your hands.",
+      "3": "Join your hands.",
+      "4": "Wave your hands."
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> चित्रात मुलगा हात जोडून नमस्कार करत आहे. हात जोडण्यासाठी <strong>'Join your hands'</strong> ही योग्य सूचना आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "Classroom Instructions & Actions"
+  },
+  {
+    "q_no": 16,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.16) Observe the picture and choose the correct shape:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"150\" height=\"150\" viewBox=\"0 0 150 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"15\" y=\"15\" width=\"120\" height=\"120\" rx=\"5\" fill=\"#f5deb3\" stroke=\"#5c2c16\" stroke-width=\"8\"/>\n  <rect x=\"25\" y=\"25\" width=\"100\" height=\"100\" fill=\"#fffde7\" stroke=\"#333\" stroke-width=\"1\"/>\n  <circle cx=\"75\" cy=\"75\" r=\"16\" fill=\"none\" stroke=\"#d32f2f\" stroke-width=\"2\"/>\n  <circle cx=\"35\" cy=\"35\" r=\"6\" fill=\"#333\"/><circle cx=\"115\" cy=\"35\" r=\"6\" fill=\"#333\"/>\n  <circle cx=\"35\" cy=\"115\" r=\"6\" fill=\"#333\"/><circle cx=\"115\" cy=\"115\" r=\"6\" fill=\"#333\"/>\n</svg></div>",
+    "question_text": "<p><strong>Q.16) Observe the picture and choose the correct shape:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"150\" height=\"150\" viewBox=\"0 0 150 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"15\" y=\"15\" width=\"120\" height=\"120\" rx=\"5\" fill=\"#f5deb3\" stroke=\"#5c2c16\" stroke-width=\"8\"/>\n  <rect x=\"25\" y=\"25\" width=\"100\" height=\"100\" fill=\"#fffde7\" stroke=\"#333\" stroke-width=\"1\"/>\n  <circle cx=\"75\" cy=\"75\" r=\"16\" fill=\"none\" stroke=\"#d32f2f\" stroke-width=\"2\"/>\n  <circle cx=\"35\" cy=\"35\" r=\"6\" fill=\"#333\"/><circle cx=\"115\" cy=\"35\" r=\"6\" fill=\"#333\"/>\n  <circle cx=\"35\" cy=\"115\" r=\"6\" fill=\"#333\"/><circle cx=\"115\" cy=\"115\" r=\"6\" fill=\"#333\"/>\n</svg></div>",
+    "options": [
+      "rectangle",
+      "square",
+      "circle",
+      "triangle"
+    ],
+    "options_dict": {
+      "1": "rectangle",
+      "2": "square",
+      "3": "circle",
+      "4": "triangle"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> कॅरम बोर्डाचा आकार चौरसाकृती (Square) असतो.</p>",
+    "difficulty": "Easy",
+    "topic": "Shapes & Geometry"
+  },
+  {
+    "q_no": 17,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.17) Select the correct punctuation mark:</strong><br><em>Are you happy [ &nbsp; ]</em></p>",
+    "question_text": "<p><strong>Q.17) Select the correct punctuation mark:</strong><br><em>Are you happy [ &nbsp; ]</em></p>",
+    "options": [
+      "!",
+      "?",
+      ".",
+      ":"
+    ],
+    "options_dict": {
+      "1": "!",
+      "2": "?",
+      "3": ".",
+      "4": ":"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'Are you happy?' हा प्रश्न असल्याने वाक्याच्या शेवटी प्रश्नचिन्ह <strong>(?)</strong> येईल.</p>",
+    "difficulty": "Easy",
+    "topic": "Punctuation Marks"
+  },
+  {
+    "q_no": 18,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.18) Fill in the blank with the correct option:</strong><br><em>February is the _________ month of the year.</em></p>",
+    "question_text": "<p><strong>Q.18) Fill in the blank with the correct option:</strong><br><em>February is the _________ month of the year.</em></p>",
+    "options": [
+      "two",
+      "too",
+      "second",
+      "2"
+    ],
+    "options_dict": {
+      "1": "two",
+      "2": "too",
+      "3": "second",
+      "4": "2"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> महिन्याचा क्रम दर्शवण्यासाठी क्रमवाचक संख्याविशेषण (Ordinal number) <strong>'second'</strong> वापरले जाते. (February is the second month of the year.)</p>",
+    "difficulty": "Easy",
+    "topic": "Ordinal Numbers"
+  },
+  {
+    "q_no": 19,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.19) Choose the correct option that belongs to the given group:</strong><br><em>moss, grass, bush, herb, _________</em></p>",
+    "question_text": "<p><strong>Q.19) Choose the correct option that belongs to the given group:</strong><br><em>moss, grass, bush, herb, _________</em></p>",
+    "options": [
+      "climber",
+      "flower",
+      "leaf",
+      "branch"
+    ],
+    "options_dict": {
+      "1": "climber",
+      "2": "flower",
+      "3": "leaf",
+      "4": "branch"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> moss, grass, bush, herb हे सर्व वनस्पतींचे प्रकार आहेत. पर्याय (१) मधील <strong>climber</strong> (वेल) हा देखील वनस्पतीचाच एक प्रकार आहे. बाकीचे पर्याय वनस्पतींचे अवयव आहेत.</p>",
+    "difficulty": "Medium",
+    "topic": "Vocabulary - Plant Categories"
+  },
+  {
+    "q_no": 20,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.20) Find the odd man out:</strong></p>",
+    "question_text": "<p><strong>Q.20) Find the odd man out:</strong></p>",
+    "options": [
+      "orange",
+      "cabbage",
+      "mango",
+      "apple"
+    ],
+    "options_dict": {
+      "1": "orange",
+      "2": "cabbage",
+      "3": "mango",
+      "4": "apple"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> orange, mango, apple ही फळे (Fruits) आहेत, तर <strong>cabbage</strong> (कोबी) ही भाजी (Vegetable) आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "Odd Man Out - Food"
+  },
+  {
+    "q_no": 21,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.21) Select the correct option:</strong><br><em>If mouse - mice<br>then leaf - ?</em></p>",
+    "question_text": "<p><strong>Q.21) Select the correct option:</strong><br><em>If mouse - mice<br>then leaf - ?</em></p>",
+    "options": [
+      "lives",
+      "leafs",
+      "lice",
+      "leaves"
+    ],
+    "options_dict": {
+      "1": "lives",
+      "2": "leafs",
+      "3": "lice",
+      "4": "leaves"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'leaf' चे अनेकवचन <strong>'leaves'</strong> होते.</p>",
+    "difficulty": "Easy",
+    "topic": "Singular and Plural"
+  },
+  {
+    "q_no": 22,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.22) Choose the correct opposite pair:</strong><br>(A) Old &times; New<br>(B) Old &times; Young</p>",
+    "question_text": "<p><strong>Q.22) Choose the correct opposite pair:</strong><br>(A) Old &times; New<br>(B) Old &times; Young</p>",
+    "options": [
+      "Only 'A' is correct.",
+      "Only 'B' is correct.",
+      "'A' and 'B' both are wrong.",
+      "'A' and 'B' both are correct."
+    ],
+    "options_dict": {
+      "1": "Only 'A' is correct.",
+      "2": "Only 'B' is correct.",
+      "3": "'A' and 'B' both are wrong.",
+      "4": "'A' and 'B' both are correct."
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'Old' चा विरुद्धार्थी शब्द वस्तूसाठी 'New' (जुने &times; नवे) आणि वयासाठी 'Young' (म्हातारा &times; तरुण) असा दोन्ही प्रकारे होतो. म्हणून (A) आणि (B) दोन्ही जोड्या बरोबर आहेत.</p>",
+    "difficulty": "Medium",
+    "topic": "Antonyms"
+  },
+  {
+    "q_no": 23,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.23) How many months have 31 days in a year?</strong></p>",
+    "question_text": "<p><strong>Q.23) How many months have 31 days in a year?</strong></p>",
+    "options": [
       "4",
+      "5",
+      "7",
       "6"
     ],
-    "answer": 0,
-    "explanation": "E, A, U, I, U अशी एकूण ५ स्वर अक्षरे आहेत.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "गहाळ अक्षर",
-    "question": "Complete: S C H _ _ L",
-    "options": [
-      "U L",
-      "A L",
-      "O O",
-      "O L"
-    ],
+    "options_dict": {
+      "1": "4",
+      "2": "5",
+      "3": "7",
+      "4": "6"
+    },
     "answer": 2,
-    "explanation": "S-C-H-O-O-L (School = शाळा).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> वर्षातील जानेवारी, मार्च, मे, जुलै, ऑगस्ट, ऑक्टोबर आणि डिसेंबर या <strong>७ महिन्यांत ३१ दिवस</strong> असतात.</p>",
+    "difficulty": "Easy",
+    "topic": "Calendar & General Knowledge"
   },
   {
+    "q_no": 24,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2019",
-    "tagText": "वर्णानुक्रम",
-    "question": "Which word comes in the second position: Mango, Orange, Banana, Apple?",
+    "section": "1",
+    "question": "<p><strong>Q.24) Choose the correct punctuation marks for the given sentence:</strong><br><em>Hello How are you</em></p>",
+    "question_text": "<p><strong>Q.24) Choose the correct punctuation marks for the given sentence:</strong><br><em>Hello How are you</em></p>",
     "options": [
-      "Orange",
-      "Apple",
-      "Mango",
-      "Banana"
+      "! after Hello and . after you",
+      ": after Hello and ? after you",
+      "! after Hello and ? after you",
+      ": after Hello and . after you"
     ],
-    "answer": 3,
-    "explanation": "क्रम: Apple (१) -> Banana (२) -> Mango (३) -> Orange (४).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "कूटप्रश्न वर्णमाला",
-    "question": "If each letter is numbered (A=1, B=2, C=3...), what is the sum of letters in 'CAT'?",
-    "options": [
-      "26",
-      "20",
-      "22",
-      "24"
-    ],
-    "answer": 3,
-    "explanation": "C=3, A=1, T=20 -> 3 + 1 + 20 = 24.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2024",
-    "tagText": "शब्द कोडे",
-    "question": "Which letter added at the end of both 'PIN' and 'CAP' makes new meaningful words?",
-    "options": [
-      "E (PINE, CAPE)",
-      "S",
-      "Y",
-      "T"
-    ],
-    "answer": 0,
-    "explanation": "PIN + E = PINE, CAP + E = CAPE. दोन्ही अर्थपूर्ण शब्द बनतात.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "अक्षर फेरफार",
-    "question": "Change the first letter of 'LIGHT' to make a word that means 'जड नसलेला' (Opposite of Heavy)?",
-    "options": [
-      "LIGHT (Self-meaning)",
-      "SIGHT",
-      "NIGHT",
-      "RIGHT"
-    ],
-    "answer": 0,
-    "explanation": "'LIGHT' या शब्दाचाच अर्थ 'हलका' (हवेसारखा, जड नसलेला) होतो.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2023",
-    "tagText": "शब्द निर्मिती",
-    "question": "Find the hidden animal name inside 'ELEPHANT' by taking the last 3 letters:",
-    "options": [
-      "HAT",
-      "NET",
-      "ANT",
-      "PAN"
-    ],
+    "options_dict": {
+      "1": "! after Hello and . after you",
+      "2": ": after Hello and ? after you",
+      "3": "! after Hello and ? after you",
+      "4": ": after Hello and . after you"
+    },
     "answer": 2,
-    "explanation": "ELEPH-ANT -> शेवटचे तीन अक्षरे 'ANT' (मुंगी) हा प्राणी/कीटक दर्शवतात.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> उद्गारवाचक शब्द 'Hello' नंतर उद्गारचिन्ह (!) आणि प्रश्नार्थक वाक्य 'How are you' नंतर प्रश्नचिन्ह (?) येईल. (Hello! How are you?)</p>",
+    "difficulty": "Medium",
+    "topic": "Punctuation Marks"
+  },
+  {
+    "q_no": 25,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "<p><strong>Q.25) Which is not a rhyming pair from the following?</strong></p>",
+    "question_text": "<p><strong>Q.25) Which is not a rhyming pair from the following?</strong></p>",
+    "options": [
+      "town - down",
+      "go - to",
+      "map - cap",
+      "and - sand"
+    ],
+    "options_dict": {
+      "1": "town - down",
+      "2": "go - to",
+      "3": "map - cap",
+      "4": "and - sand"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'go' (/ɡoʊ/) आणि 'to' (/tuː/) यांचा उच्चार आणि नाद यमक जुळत नाही. बाकीच्या जोड्यांचे यमक जुळते.</p>",
+    "difficulty": "Medium",
+    "topic": "Rhyming Words"
+  },
+  {
+    "q_no": 26,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक २६ ते २९ साठी सूचना:</strong> प्रश्नाच्या सुरुवातीला काही पदे दिलेली आहेत. त्यांचा एका समान वैशिष्ट्यानुसार एक गट तयार होतो, हे लक्षात घेऊन गटात बसणारे पद पर्यायांतून निवडा.</p><p><strong>प्र.२६) बेडूक, मगर, खेकडा, ______ ?</strong><br><em>(Frog, Crocodile, Crab, ______ ?)</em></p>",
+    "question_text": "<p><strong>प्रश्न क्रमांक २६ ते २९ साठी सूचना:</strong> प्रश्नाच्या सुरुवातीला काही पदे दिलेली आहेत. त्यांचा एका समान वैशिष्ट्यानुसार एक गट तयार होतो, हे लक्षात घेऊन गटात बसणारे पद पर्यायांतून निवडा.</p><p><strong>प्र.२६) बेडूक, मगर, खेकडा, ______ ?</strong><br><em>(Frog, Crocodile, Crab, ______ ?)</em></p>",
+    "options": [
+      "मासा (Fish)",
+      "बगळा (Egret)",
+      "मांजर (Cat)",
+      "कासव (Tortoise)"
+    ],
+    "options_dict": {
+      "1": "मासा (Fish)",
+      "2": "बगळा (Egret)",
+      "3": "मांजर (Cat)",
+      "4": "कासव (Tortoise)"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> बेडूक, मगर, खेकडा हे सर्व प्राणी जमीन आणि पाणी अशा दोन्ही ठिकाणी राहणारे (उभयचर प्राणी) आहेत. पर्यायांमधील <strong>कासव (Tortoise)</strong> हा देखील उभयचर प्राणी आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "समान संबंध / गटात बसणारे पद (Classification)"
+  },
+  {
+    "q_no": 27,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.२७) १६९, ११७, ६५, ______ ?</strong><br><em>(169, 117, 65, ______ ?)</em></p>",
+    "question_text": "<p><strong>प्र.२७) १६९, ११७, ६५, ______ ?</strong><br><em>(169, 117, 65, ______ ?)</em></p>",
+    "options": [
+      "१६५ (165)",
+      "१०३ (103)",
+      "१४३ (143)",
+      "१२१ (121)"
+    ],
+    "options_dict": {
+      "1": "१६५ (165)",
+      "2": "१०३ (103)",
+      "3": "१४३ (143)",
+      "4": "१२१ (121)"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> दिलेल्या सर्व संख्या १३ च्या पटीतील (१३ ने पूर्ण भाग जाणाऱ्या) आहेत:<br>१३ &times; १३ = १६९<br>१३ &times; ९ = ११७<br>१३ &times; ५ = ६५<br>पर्यायांमधील <strong>१४३</strong> ही संख्या १३ ने विभाज्य आहे (१३ &times; ११ = १४३).</p>",
+    "difficulty": "Medium",
+    "topic": "संख्यांचे गट (Number Classification)"
+  },
+  {
+    "q_no": 28,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.२८) QS, LN, VX, ______ ?</strong></p>",
+    "question_text": "<p><strong>प्र.२८) QS, LN, VX, ______ ?</strong></p>",
+    "options": [
+      "FI",
+      "UX",
+      "GI",
+      "BE"
+    ],
+    "options_dict": {
+      "1": "FI",
+      "2": "UX",
+      "3": "GI",
+      "4": "BE"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> प्रत्येक गटातील दोन अक्षरांमध्ये १ अक्षराचा फरक आहे (किंवा स्थानांकात +२ चा फरक आहे):<br>Q (१७) &rarr; S (१९) [+२]<br>L (१२) &rarr; N (१४) [+२]<br>V (२२) &rarr; X (२४) [+२]<br>पर्याय (३) मध्ये G (७) &rarr; <strong>I</strong> (९) [+२] असा समान फरक आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "अक्षरमाला गट (Letter Classification)"
+  },
+  {
+    "q_no": 29,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.२९) प्रश्नातील आकृत्यांच्या गटात बसणारी उत्तर आकृती पर्यायांतून निवडा:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"450\" height=\"150\" viewBox=\"0 0 450 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Question Figures Group -->\n  <rect x=\"5\" y=\"10\" width=\"70\" height=\"70\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <polygon points=\"40,20 60,28 65,48 55,68 25,68 15,48 20,28\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"40\" cy=\"45\" r=\"16\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n\n  <rect x=\"85\" y=\"10\" width=\"70\" height=\"70\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <rect x=\"95\" y=\"20\" width=\"50\" height=\"50\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"120\" cy=\"45\" r=\"18\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n\n  <rect x=\"165\" y=\"10\" width=\"70\" height=\"70\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <polygon points=\"200,18 225,65 175,65\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <polygon points=\"200,32 215,60 185,60\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n\n  <text x=\"260\" y=\"52\" font-size=\"24px\" font-weight=\"bold\">?</text>\n\n  <!-- Options Divider -->\n  <line x1=\"5\" y1=\"95\" x2=\"445\" y2=\"95\" stroke=\"#ccc\" stroke-dasharray=\"4\"/>\n\n  <!-- Answer Figures -->\n  <text x=\"35\" y=\"112\" font-weight=\"bold\">(1)</text>\n  <rect x=\"10\" y=\"118\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#333\"/>\n  <text x=\"125\" y=\"112\" font-weight=\"bold\">(2)</text>\n  <rect x=\"100\" y=\"118\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#333\"/>\n  <text x=\"215\" y=\"112\" font-weight=\"bold\">(3)</text>\n  <rect x=\"190\" y=\"118\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#333\"/>\n  <text x=\"305\" y=\"112\" font-weight=\"bold\">(4) [योग्य]</text>\n  <rect x=\"280\" y=\"118\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#2e7d32\" stroke-width=\"2\"/>\n</svg></div>",
+    "question_text": "<p><strong>प्र.२९) प्रश्नातील आकृत्यांच्या गटात बसणारी उत्तर आकृती पर्यायांतून निवडा:</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"450\" height=\"150\" viewBox=\"0 0 450 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Question Figures Group -->\n  <rect x=\"5\" y=\"10\" width=\"70\" height=\"70\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <polygon points=\"40,20 60,28 65,48 55,68 25,68 15,48 20,28\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"40\" cy=\"45\" r=\"16\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n\n  <rect x=\"85\" y=\"10\" width=\"70\" height=\"70\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <rect x=\"95\" y=\"20\" width=\"50\" height=\"50\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <circle cx=\"120\" cy=\"45\" r=\"18\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n\n  <rect x=\"165\" y=\"10\" width=\"70\" height=\"70\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <polygon points=\"200,18 225,65 175,65\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <polygon points=\"200,32 215,60 185,60\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n\n  <text x=\"260\" y=\"52\" font-size=\"24px\" font-weight=\"bold\">?</text>\n\n  <!-- Options Divider -->\n  <line x1=\"5\" y1=\"95\" x2=\"445\" y2=\"95\" stroke=\"#ccc\" stroke-dasharray=\"4\"/>\n\n  <!-- Answer Figures -->\n  <text x=\"35\" y=\"112\" font-weight=\"bold\">(1)</text>\n  <rect x=\"10\" y=\"118\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#333\"/>\n  <text x=\"125\" y=\"112\" font-weight=\"bold\">(2)</text>\n  <rect x=\"100\" y=\"118\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#333\"/>\n  <text x=\"215\" y=\"112\" font-weight=\"bold\">(3)</text>\n  <rect x=\"190\" y=\"118\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#333\"/>\n  <text x=\"305\" y=\"112\" font-weight=\"bold\">(4) [योग्य]</text>\n  <rect x=\"280\" y=\"118\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"#2e7d32\" stroke-width=\"2\"/>\n</svg></div>",
+    "options": [
+      "पर्याय आकृती (१)",
+      "पर्याय आकृती (२)",
+      "पर्याय आकृती (३)",
+      "पर्याय आकृती (४)"
+    ],
+    "options_dict": {
+      "1": "पर्याय आकृती (१)",
+      "2": "पर्याय आकृती (२)",
+      "3": "पर्याय आकृती (३)",
+      "4": "पर्याय आकृती (४)"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> प्रश्न आकृत्यांमधील रचना आणि प्रतलांच्या वैशिष्ट्यानुसार पर्याय (४) ची आकृती गटाशी तंतोतंत जुळते.</p>",
+    "difficulty": "Hard",
+    "topic": "आकृत्यांची मालिका (Figure Classification)"
+  },
+  {
+    "q_no": 30,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक ३० व ३१ साठी सूचना:</strong> खालील प्रश्नाकृतीची आरशातील प्रतिमा कशी दिसेल ते पर्यायी उत्तर आकृत्यांमधून निश्चित करा.</p><p><strong>प्र.३०)</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"420\" height=\"130\" viewBox=\"0 0 420 130\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Question Figure -->\n  <rect x=\"10\" y=\"10\" width=\"80\" height=\"90\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <path d=\"M 40 25 C 20 40 20 70 40 85 C 30 70 30 40 40 25 Z\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/>\n  <path d=\"M 45 45 C 65 35 75 55 55 65 Z\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <!-- Mirror -->\n  <line x1=\"97\" y1=\"10\" x2=\"97\" y2=\"100\" stroke=\"#0288d1\" stroke-width=\"2.5\"/>\n  <line x1=\"97\" y1=\"20\" x2=\"103\" y2=\"15\" stroke=\"#0288d1\"/><line x1=\"97\" y1=\"40\" x2=\"103\" y2=\"35\" stroke=\"#0288d1\"/>\n  <line x1=\"97\" y1=\"60\" x2=\"103\" y2=\"55\" stroke=\"#0288d1\"/><line x1=\"97\" y1=\"80\" x2=\"103\" y2=\"75\" stroke=\"#0288d1\"/>\n  <text x=\"50\" y=\"118\" font-weight=\"bold\">प्रश्नाकृती</text>\n\n  <!-- Option 1 -->\n  <rect x=\"120\" y=\"10\" width=\"60\" height=\"90\" fill=\"#fff\" stroke=\"#333\"/>\n  <text x=\"150\" y=\"118\">(1)</text>\n\n  <!-- Option 2 (Correct) -->\n  <rect x=\"190\" y=\"10\" width=\"60\" height=\"90\" fill=\"#f1f8e9\" stroke=\"#2e7d32\" stroke-width=\"2\"/>\n  <path d=\"M 235 25 C 215 40 215 70 235 85 C 225 70 225 40 235 25 Z\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/>\n  <path d=\"M 215 45 C 195 35 185 55 205 65 Z\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <text x=\"220\" y=\"118\" font-weight=\"bold\">(2)</text>\n\n  <!-- Option 3 -->\n  <rect x=\"260\" y=\"10\" width=\"60\" height=\"90\" fill=\"#fff\" stroke=\"#333\"/>\n  <text x=\"290\" y=\"118\">(3)</text>\n\n  <!-- Option 4 -->\n  <rect x=\"330\" y=\"10\" width=\"60\" height=\"90\" fill=\"#fff\" stroke=\"#333\"/>\n  <text x=\"360\" y=\"118\">(4)</text>\n</svg></div>",
+    "question_text": "<p><strong>प्रश्न क्रमांक ३० व ३१ साठी सूचना:</strong> खालील प्रश्नाकृतीची आरशातील प्रतिमा कशी दिसेल ते पर्यायी उत्तर आकृत्यांमधून निश्चित करा.</p><p><strong>प्र.३०)</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"420\" height=\"130\" viewBox=\"0 0 420 130\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Question Figure -->\n  <rect x=\"10\" y=\"10\" width=\"80\" height=\"90\" fill=\"#fff\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <path d=\"M 40 25 C 20 40 20 70 40 85 C 30 70 30 40 40 25 Z\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/>\n  <path d=\"M 45 45 C 65 35 75 55 55 65 Z\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <!-- Mirror -->\n  <line x1=\"97\" y1=\"10\" x2=\"97\" y2=\"100\" stroke=\"#0288d1\" stroke-width=\"2.5\"/>\n  <line x1=\"97\" y1=\"20\" x2=\"103\" y2=\"15\" stroke=\"#0288d1\"/><line x1=\"97\" y1=\"40\" x2=\"103\" y2=\"35\" stroke=\"#0288d1\"/>\n  <line x1=\"97\" y1=\"60\" x2=\"103\" y2=\"55\" stroke=\"#0288d1\"/><line x1=\"97\" y1=\"80\" x2=\"103\" y2=\"75\" stroke=\"#0288d1\"/>\n  <text x=\"50\" y=\"118\" font-weight=\"bold\">प्रश्नाकृती</text>\n\n  <!-- Option 1 -->\n  <rect x=\"120\" y=\"10\" width=\"60\" height=\"90\" fill=\"#fff\" stroke=\"#333\"/>\n  <text x=\"150\" y=\"118\">(1)</text>\n\n  <!-- Option 2 (Correct) -->\n  <rect x=\"190\" y=\"10\" width=\"60\" height=\"90\" fill=\"#f1f8e9\" stroke=\"#2e7d32\" stroke-width=\"2\"/>\n  <path d=\"M 235 25 C 215 40 215 70 235 85 C 225 70 225 40 235 25 Z\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/>\n  <path d=\"M 215 45 C 195 35 185 55 205 65 Z\" fill=\"none\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <text x=\"220\" y=\"118\" font-weight=\"bold\">(2)</text>\n\n  <!-- Option 3 -->\n  <rect x=\"260\" y=\"10\" width=\"60\" height=\"90\" fill=\"#fff\" stroke=\"#333\"/>\n  <text x=\"290\" y=\"118\">(3)</text>\n\n  <!-- Option 4 -->\n  <rect x=\"330\" y=\"10\" width=\"60\" height=\"90\" fill=\"#fff\" stroke=\"#333\"/>\n  <text x=\"360\" y=\"118\">(4)</text>\n</svg></div>",
+    "options": [
+      "पर्याय (१)",
+      "पर्याय (२)",
+      "पर्याय (३)",
+      "पर्याय (४)"
+    ],
+    "options_dict": {
+      "1": "पर्याय (१)",
+      "2": "पर्याय (२)",
+      "3": "पर्याय (३)",
+      "4": "पर्याय (४)"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> आरशातील प्रतिमेमध्ये उजवी बाजू डावीकडे व डावी बाजू उजवीकडे दिसते. प्रश्नाकृतीतील उजवीकडील लहान भाग डावीकडे येईल आणि चंद्रकोर उजवीकडे जाईल. म्हणून <strong>पर्याय (२)</strong> ही योग्य आरशातील प्रतिमा आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "आरशातील प्रतिमा (Mirror Image)"
+  },
+  {
+    "q_no": 31,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.३१) 'PNF' या अक्षरगटाची आरशातील प्रतिमा कोणती?</strong> (आरसा उजवीकडे आहे)</p>",
+    "question_text": "<p><strong>प्र.३१) 'PNF' या अक्षरगटाची आरशातील प्रतिमा कोणती?</strong> (आरसा उजवीकडे आहे)</p>",
+    "options": [
+      "उलट F, उलट N, उलट P [ ᖵ И ꟼ ]",
+      "उलट P, उलट N, उलट F",
+      "उलट F, N, उलट P",
+      "उलट F, उलट N, P"
+    ],
+    "options_dict": {
+      "1": "उलट F, उलट N, उलट P [ ᖵ И ꟼ ]",
+      "2": "उलट P, उलट N, उलट F",
+      "3": "उलट F, N, उलट P",
+      "4": "उलट F, उलट N, P"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> आरशात उजवीकडील शेवटचे अक्षर 'F' प्रथम दिसेल व ते उलट दिसेल, मध्यभागी 'N' उलट दिसेल, आणि शेवटी डावीकडील 'P' उलट दिसेल. म्हणून पर्याय (१) अचूक आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "आरशातील प्रतिमा (Mirror Image)"
+  },
+  {
+    "q_no": 32,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.३२) अजयचे आजचे वय विजयच्या आजच्या वयाच्या दुप्पट आहे. जर अजयचे आजचे वय २४ वर्षे असेल, तर त्या दोघांच्या तीन वर्षांपूर्वीच्या वयांची बेरीज किती वर्षे असेल?</strong></p>",
+    "question_text": "<p><strong>प्र.३२) अजयचे आजचे वय विजयच्या आजच्या वयाच्या दुप्पट आहे. जर अजयचे आजचे वय २४ वर्षे असेल, तर त्या दोघांच्या तीन वर्षांपूर्वीच्या वयांची बेरीज किती वर्षे असेल?</strong></p>",
+    "options": [
+      "३३ वर्षे",
+      "३० वर्षे",
+      "६९ वर्षे",
+      "६६ वर्षे"
+    ],
+    "options_dict": {
+      "1": "३३ वर्षे",
+      "2": "३० वर्षे",
+      "3": "६९ वर्षे",
+      "4": "६६ वर्षे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>अजयचे आजचे वय = २४ वर्षे.<br>अजयचे वय विजयच्या दुप्पट आहे &rArr; विजयचे आजचे वय = २४ &divide; २ = १२ वर्षे.<br>३ वर्षांपूर्वी:<br>अजयचे वय = २४ - ३ = २१ वर्षे.<br>विजयचे वय = १२ - ३ = ९ वर्षे.<br>त्या दोघांच्या वयांची बेरीज = २१ + ९ = <strong>३० वर्षे</strong>.</p>",
+    "difficulty": "Medium",
+    "topic": "वयावर आधारित प्रश्न (Age Problems)"
+  },
+  {
+    "q_no": 33,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक ३३ व ३४ साठी सूचना:</strong> खालील प्रश्नाकृतींशी तंतोतंत जुळणारी आकृती पर्यायांतून निवडा.</p><p><strong>प्र.३३) चौरसात कर्ण, वर लंबगोळ, खाली त्रिकोण, डावीकडे &times;, उजवीकडे कर्ण असलेला लहान चौरस असलेली प्रश्नाकृती:</strong></p>",
+    "question_text": "<p><strong>प्रश्न क्रमांक ३३ व ३४ साठी सूचना:</strong> खालील प्रश्नाकृतींशी तंतोतंत जुळणारी आकृती पर्यायांतून निवडा.</p><p><strong>प्र.३३) चौरसात कर्ण, वर लंबगोळ, खाली त्रिकोण, डावीकडे &times;, उजवीकडे कर्ण असलेला लहान चौरस असलेली प्रश्नाकृती:</strong></p>",
+    "options": [
+      "पर्याय (१) - डावीकडे + चिन्ह आहे",
+      "पर्याय (२) - सर्व चिन्हे तंतोतंत जुळतात",
+      "पर्याय (३) - एक कर्ण रेष अपूर्ण आहे",
+      "पर्याय (४) - मध्यभागी वर्तुळातून रेष जाते"
+    ],
+    "options_dict": {
+      "1": "पर्याय (१) - डावीकडे + चिन्ह आहे",
+      "2": "पर्याय (२) - सर्व चिन्हे तंतोतंत जुळतात",
+      "3": "पर्याय (३) - एक कर्ण रेष अपूर्ण आहे",
+      "4": "पर्याय (४) - मध्यभागी वर्तुळातून रेष जाते"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> पर्याय (२) मधील प्रत्येक घटक (वर लंबगोळ, खाली त्रिकोण, डावीकडे &times;, उजवीकडे कर्णयुक्त चौरस) प्रश्नाकृतीशी तंतोतंत तंतोतंत जुळतो.</p>",
+    "difficulty": "Easy",
+    "topic": "तंतोतंत जुळणारी आकृती (Matching Figure)"
+  },
+  {
+    "q_no": 34,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.३४) षटकोनात अंतर्गत कर्ण रेषा व ठिपका (Dot) असणाऱ्या प्रश्नाकृतीशी तंतोतंत जुळणारी आकृती कोणती?</strong></p>",
+    "question_text": "<p><strong>प्र.३४) षटकोनात अंतर्गत कर्ण रेषा व ठिपका (Dot) असणाऱ्या प्रश्नाकृतीशी तंतोतंत जुळणारी आकृती कोणती?</strong></p>",
+    "options": [
+      "पर्याय आकृती (१)",
+      "पर्याय आकृती (२)",
+      "पर्याय आकृती (३)",
+      "पर्याय आकृती (४)"
+    ],
+    "options_dict": {
+      "1": "पर्याय आकृती (१)",
+      "2": "पर्याय आकृती (२)",
+      "3": "पर्याय आकृती (३)",
+      "4": "पर्याय आकृती (४)"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> पर्याय (१) मधील षटकोनातील रेषांची जोडणी आणि भरीव ठिपक्याचे स्थान प्रश्नाकृतीशी तंतोतंत जुळते.</p>",
+    "difficulty": "Medium",
+    "topic": "तंतोतंत जुळणारी आकृती (Matching Figure)"
+  },
+  {
+    "q_no": 35,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.३५) शरयू शाळेतून बाहेर पडून सरळ उत्तरेकडे १०० मीटर चालत जाऊन डावीकडे काटकोनात वळली आणि २०० मीटर सरळ चालत गेली. पुन्हा ती उजवीकडे काटकोनात वळून सरळ १०० मीटर चालत गेली व घरात पोहोचली, तर घराच्या कोणत्या दिशेला तिची शाळा असेल?</strong></p>",
+    "question_text": "<p><strong>प्र.३५) शरयू शाळेतून बाहेर पडून सरळ उत्तरेकडे १०० मीटर चालत जाऊन डावीकडे काटकोनात वळली आणि २०० मीटर सरळ चालत गेली. पुन्हा ती उजवीकडे काटकोनात वळून सरळ १०० मीटर चालत गेली व घरात पोहोचली, तर घराच्या कोणत्या दिशेला तिची शाळा असेल?</strong></p>",
+    "options": [
+      "आग्नेय (South east)",
+      "वायव्य (North west)",
+      "ईशान्य (North east)",
+      "नैऋत्य (South west)"
+    ],
+    "options_dict": {
+      "1": "आग्नेय (South east)",
+      "2": "वायव्य (North west)",
+      "3": "ईशान्य (North east)",
+      "4": "नैऋत्य (South west)"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>शाळा सुरुवातीचे स्थान (०, ०) मानू.<br>१) उत्तरेकडे १०० मी &rArr; (०, १००)<br>२) डावीकडे (पश्चिमेकडे) २०० मी &rArr; (-२००, १००)<br>३) उजवीकडे (उत्तरेकडे) १०० मी &rArr; घर (-२००, २००) येथे आहे.<br>आता, <strong>घरापासून शाळा कोणत्या दिशेला आहे?</strong><br>घराकडून (-२००, २००) शाळेकडे (०, ०) येण्यासाठी पूर्वेकडे (+२००) व दक्षिणेकडे (-२००) यावे लागेल.<br>दक्षिण आणि पूर्व यांच्या दरम्यानची दिशा म्हणजे <strong>आग्नेय दिशा (South-East)</strong> होय.</p>",
+    "difficulty": "Hard",
+    "topic": "दिशा आणि अंतर (Directions)"
+  },
+  {
+    "q_no": 36,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक ३६ ते ३८ साठी सूचना:</strong> पुढील प्रश्नात पदांच्या मालिकेत विशिष्ट क्रम आहे; तो ओळखून प्रश्नचिन्हाच्या जागी येणारे पद पर्यायांतून निवडा.</p><p><strong>प्र.३६) १५०, १२५, १०२, ८१, ६२, ?</strong></p>",
+    "question_text": "<p><strong>प्रश्न क्रमांक ३६ ते ३८ साठी सूचना:</strong> पुढील प्रश्नात पदांच्या मालिकेत विशिष्ट क्रम आहे; तो ओळखून प्रश्नचिन्हाच्या जागी येणारे पद पर्यायांतून निवडा.</p><p><strong>प्र.३६) १५०, १२५, १०२, ८१, ६२, ?</strong></p>",
+    "options": [
+      "४६",
+      "४४",
+      "४७",
+      "४५"
+    ],
+    "options_dict": {
+      "1": "४६",
+      "2": "४४",
+      "3": "४७",
+      "4": "४५"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> लगतच्या पदांमधील फरक विषम संख्यांनी कमी होत चालला आहे:<br>१५० - २५ = १२५<br>१२५ - २३ = १०२<br>१०२ - २१ = ८१<br>८१ - १९ = ६२<br>आता ६२ मधून १७ वजा करावे लागेल &rArr; ६२ - १७ = <strong>४५</strong>.</p>",
+    "difficulty": "Medium",
+    "topic": "अंकमालिका (Number Series)"
+  },
+  {
+    "q_no": 37,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.३७) चौरसातील खाच, बाहेरील लहान वर्तुळ आणि आतील भरीव ठिपका यांच्या घड्याळाच्या दिशेने होणाऱ्या फेरबदलानुसार प्रश्नचिन्हाच्या जागी येणारी आकृती निवडा:</strong></p>",
+    "question_text": "<p><strong>प्र.३७) चौरसातील खाच, बाहेरील लहान वर्तुळ आणि आतील भरीव ठिपका यांच्या घड्याळाच्या दिशेने होणाऱ्या फेरबदलानुसार प्रश्नचिन्हाच्या जागी येणारी आकृती निवडा:</strong></p>",
+    "options": [
+      "उत्तर आकृती (१)",
+      "उत्तर आकृती (२)",
+      "उत्तर आकृती (३)",
+      "उत्तर आकृती (४)"
+    ],
+    "options_dict": {
+      "1": "उत्तर आकृती (१)",
+      "2": "उत्तर आकृती (२)",
+      "3": "उत्तर आकृती (३)",
+      "4": "उत्तर आकृती (४)"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> प्रत्येक पायरीला खाच, बाहेरील लहान वर्तुळ आणि आतील बिंदू घड्याळाच्या काट्याच्या दिशेने ९० अंश फिरत आहेत. चौथ्या पायरीनंतर ५ व्या पायरीवर येणारी रचना <strong>पर्याय (४)</strong> शी जुळते.</p>",
+    "difficulty": "Hard",
+    "topic": "आकृत्यांची मालिका (Figure Series)"
+  },
+  {
+    "q_no": 38,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.३८) चिन्हांच्या मालिकेत प्रश्नचिन्हाच्या जागी काय येईल?</strong><br>● ♡ ☆ ☁ &nbsp;,&nbsp; ☁ ● ♡ ☆ &nbsp;,&nbsp; ☆ ☁ ● ♡ &nbsp;,&nbsp; ?</p>",
+    "question_text": "<p><strong>प्र.३८) चिन्हांच्या मालिकेत प्रश्नचिन्हाच्या जागी काय येईल?</strong><br>● ♡ ☆ ☁ &nbsp;,&nbsp; ☁ ● ♡ ☆ &nbsp;,&nbsp; ☆ ☁ ● ♡ &nbsp;,&nbsp; ?</p>",
+    "options": [
+      "♡ ● ☆ ☁",
+      "♡ ☆ ● ☁",
+      "♡ ☆ ☁ ●",
+      "♡ ☁ ☆ ●"
+    ],
+    "options_dict": {
+      "1": "♡ ● ☆ ☁",
+      "2": "♡ ☆ ● ☁",
+      "3": "♡ ☆ ☁ ●",
+      "4": "♡ ☁ ☆ ●"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> प्रत्येक पदात शेवटचे चिन्ह उचलून सुरुवातीला आणले जात आहे (Cyclic shift to right):<br>१) ● ♡ ☆ ☁<br>२) ☁ ● ♡ ☆<br>३) ☆ ☁ ● ♡<br>४) आता शेवटचे चिन्ह '♡' पुढे येईल &rArr; <strong>♡ ☆ ☁ ●</strong> (पर्याय ३).</p>",
+    "difficulty": "Medium",
+    "topic": "चिन्हांची मालिका (Symbol Series)"
+  },
+  {
+    "q_no": 39,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक ३९ व ४० साठी सूचना:</strong> पुढील संख्यामालिकेतील चुकीचे पद ओळखा.</p><p><strong>प्र.३९) ८७०, ७६१, ६५२, ५४३, ४२४, ३२५</strong></p>",
+    "question_text": "<p><strong>प्रश्न क्रमांक ३९ व ४० साठी सूचना:</strong> पुढील संख्यामालिकेतील चुकीचे पद ओळखा.</p><p><strong>प्र.३९) ८७०, ७६१, ६५२, ५४३, ४२४, ३२५</strong></p>",
+    "options": [
+      "५४३",
+      "४२४",
+      "८७०",
+      "७६१"
+    ],
+    "options_dict": {
+      "1": "५४३",
+      "2": "४२४",
+      "3": "८७०",
+      "4": "७६१"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> लगतच्या संख्यांमधील फरक १०९ आहे:<br>८७० - १०९ = ७६१<br>७६१ - १०९ = ६५२<br>६५२ - १०९ = ५४३<br>५४३ - १०९ = ४३४ यायला हवे होते, पण येथे <strong>४२४</strong> दिले आहे.<br>(४३४ - १०९ = ३२५ येते). म्हणून चुकीचे पद <strong>४२४</strong> आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "चुकीचे पद ओळखणे (Wrong Term in Series)"
+  },
+  {
+    "q_no": 40,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.४०) ८९, ८२, ८५, ७८, ८१, ७५, ७७, ७०</strong></p>",
+    "question_text": "<p><strong>प्र.४०) ८९, ८२, ८५, ७८, ८१, ७५, ७७, ७०</strong></p>",
+    "options": [
+      "७५",
+      "८५",
+      "८२",
+      "७८"
+    ],
+    "options_dict": {
+      "1": "७५",
+      "2": "८५",
+      "3": "८२",
+      "4": "७८"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> मालिकेत आलटून-पालटून (-७) आणि (+३) चा नियम आहे:<br>८९ - ७ = ८२<br>८२ + ३ = ८५<br>८५ - ७ = ७८<br>७८ + ३ = ८१<br>८१ - ७ = <strong>७४</strong> यायला हवे होते, परंतु येथे <strong>७५</strong> दिले आहे.<br>(७४ + ३ = ७७, ७७ - ७ = ७०). म्हणून चुकीचे पद <strong>७५</strong> आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "चुकीचे पद ओळखणे (Wrong Term in Series)"
+  },
+  {
+    "q_no": 41,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.४१) ५ &nbsp; २ &nbsp; ९ &nbsp; १ &nbsp; ३ &nbsp; ६ &nbsp; ३ &nbsp; ४ &nbsp; ५ &nbsp; ३ &nbsp; ७ &nbsp; ८ &nbsp; ३ &nbsp; ९ &nbsp; २</strong><br>वरील संख्यामालिकेत लगतच्या दोन संख्यांचा गुणाकार १८ येतो, अशा किती जोड्या आहेत?</p>",
+    "question_text": "<p><strong>प्र.४१) ५ &nbsp; २ &nbsp; ९ &nbsp; १ &nbsp; ३ &nbsp; ६ &nbsp; ३ &nbsp; ४ &nbsp; ५ &nbsp; ३ &nbsp; ७ &nbsp; ८ &nbsp; ३ &nbsp; ९ &nbsp; २</strong><br>वरील संख्यामालिकेत लगतच्या दोन संख्यांचा गुणाकार १८ येतो, अशा किती जोड्या आहेत?</p>",
+    "options": [
+      "४",
+      "२",
+      "५",
+      "३"
+    ],
+    "options_dict": {
+      "1": "४",
+      "2": "२",
+      "3": "५",
+      "4": "३"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> लगतच्या संख्यांचा गुणाकार तपासून पाहू:<br>१) (२, ९) &rArr; २ &times; ९ = १८<br>२) (३, ६) &rArr; ३ &times; ६ = १८<br>३) (६, ३) &rArr; ६ &times; ३ = १८<br>४) (९, २) &rArr; ९ &times; २ = १८<br>अशा एकूण <strong>४ जोड्या</strong> आहेत.</p>",
+    "difficulty": "Medium",
+    "topic": "अंकमालिका निरीक्षण (Number Pairs)"
+  },
+  {
+    "q_no": 42,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.४२) दिलेल्या इंग्रजी अक्षरमालेतील डावीकडून पहिले आणि सातवे तसेच उजवीकडून सहावे आणि अकरावे अशी अक्षरे घेऊन एका प्राण्याचे नाव तयार होते, त्या शब्दातील शेवटून तिसरे अक्षर कोणते?</strong><br><em>(A B C D E &nbsp;|&nbsp; F G H I J &nbsp;|&nbsp; K L M N O &nbsp;|&nbsp; P Q R S T &nbsp;|&nbsp; U V W X Y)</em></p>",
+    "question_text": "<p><strong>प्र.४२) दिलेल्या इंग्रजी अक्षरमालेतील डावीकडून पहिले आणि सातवे तसेच उजवीकडून सहावे आणि अकरावे अशी अक्षरे घेऊन एका प्राण्याचे नाव तयार होते, त्या शब्दातील शेवटून तिसरे अक्षर कोणते?</strong><br><em>(A B C D E &nbsp;|&nbsp; F G H I J &nbsp;|&nbsp; K L M N O &nbsp;|&nbsp; P Q R S T &nbsp;|&nbsp; U V W X Y)</em></p>",
+    "options": [
+      "A",
+      "O",
+      "T",
+      "G"
+    ],
+    "options_dict": {
+      "1": "A",
+      "2": "O",
+      "3": "T",
+      "4": "G"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>१) डावीकडून पहिले अक्षर = <strong>A</strong><br>२) डावीकडून सातवे अक्षर = <strong>G</strong><br>३) उजवीकडून सहावे अक्षर = २५ - ६ + १ = २० वे अक्षर = <strong>T</strong><br>४) उजवीकडून अकरावे अक्षर = २५ - ११ + १ = १५ वे अक्षर = <strong>O</strong><br>अक्षरे: A, G, T, O &rArr; प्राण्याचे नाव = <strong>GOAT</strong> (शेळी).<br>'GOAT' या शब्दात शेवटून पहिले T, दुसरे A, आणि <strong>शेवटून तिसरे अक्षर 'O'</strong> आहे.</p>",
+    "difficulty": "Hard",
+    "topic": "अक्षरमालिका आणि शब्दकोडे"
+  },
+  {
+    "q_no": 43,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.४३) सोबतच्या आकृतीत एकूण त्रिकोणांची संख्या किती आहे?</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"180\" height=\"160\" viewBox=\"0 0 180 160\" xmlns=\"http://www.w3.org/2000/svg\">\n  <!-- 5 pointed star -->\n  <polygon points=\"90,15 112,60 165,65 125,100 138,150 90,122 42,150 55,100 15,65 68,60\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/>\n  <line x1=\"90\" y1=\"15\" x2=\"138\" y2=\"150\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"138\" y1=\"150\" x2=\"15\" y2=\"65\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"15\" y1=\"65\" x2=\"165\" y2=\"65\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"165\" y1=\"65\" x2=\"42\" y2=\"150\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"42\" y1=\"150\" x2=\"90\" y2=\"15\" stroke=\"#333\" stroke-width=\"1.5\"/>\n</svg></div>",
+    "question_text": "<p><strong>प्र.४३) सोबतच्या आकृतीत एकूण त्रिकोणांची संख्या किती आहे?</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"180\" height=\"160\" viewBox=\"0 0 180 160\" xmlns=\"http://www.w3.org/2000/svg\">\n  <!-- 5 pointed star -->\n  <polygon points=\"90,15 112,60 165,65 125,100 138,150 90,122 42,150 55,100 15,65 68,60\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/>\n  <line x1=\"90\" y1=\"15\" x2=\"138\" y2=\"150\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"138\" y1=\"150\" x2=\"15\" y2=\"65\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"15\" y1=\"65\" x2=\"165\" y2=\"65\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"165\" y1=\"65\" x2=\"42\" y2=\"150\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"42\" y1=\"150\" x2=\"90\" y2=\"15\" stroke=\"#333\" stroke-width=\"1.5\"/>\n</svg></div>",
+    "options": [
+      "५",
+      "११",
+      "१०",
+      "८"
+    ],
+    "options_dict": {
+      "1": "५",
+      "2": "११",
+      "3": "१०",
+      "4": "८"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> पंचकोनी ताऱ्यामध्ये (५-pointed star) बाहेरचे ५ लहान त्रिकोण आणि प्रत्येक शिरोबिंदूपासून तयार होणारे ५ मोठे त्रिकोण मिळून एकूण <strong>१० त्रिकोण</strong> असतात.</p>",
+    "difficulty": "Medium",
+    "topic": "भूमितीय आकृत्यांची मोजणी (Counting Triangles)"
+  },
+  {
+    "q_no": 44,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.४४) २८ मुलांच्या रांगेत शेवटून दहाव्या क्रमांकावर उभ्या असलेल्या मानसचा त्याच रांगेत सुरुवातीपासून कितवा क्रमांक असेल?</strong></p>",
+    "question_text": "<p><strong>प्र.४४) २८ मुलांच्या रांगेत शेवटून दहाव्या क्रमांकावर उभ्या असलेल्या मानसचा त्याच रांगेत सुरुवातीपासून कितवा क्रमांक असेल?</strong></p>",
+    "options": [
+      "१६ वा",
+      "१७ वा",
+      "१८ वा",
+      "१९ वा"
+    ],
+    "options_dict": {
+      "1": "१६ वा",
+      "2": "१७ वा",
+      "3": "१८ वा",
+      "4": "१९ वा"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>सुरुवातीपासून क्रमांक = (एकूण मुले - शेवटून क्रमांक) + १<br>= (२८ - १०) + १<br>= १८ + १ = <strong>१९ वा क्रमांक</strong>.</p>",
+    "difficulty": "Easy",
+    "topic": "रांगेतील स्थान (Ranking Test)"
+  },
+  {
+    "q_no": 45,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.४५) एका रस्त्याच्या कडेने प्रत्येकी ४ मीटर अंतरावर एक खांब याप्रमाणे २५ खांब उभे केले; तर रांगेतील मधल्या खांबापासून २२ वा खांब किती मीटर अंतरावर असेल?</strong></p>",
+    "question_text": "<p><strong>प्र.४५) एका रस्त्याच्या कडेने प्रत्येकी ४ मीटर अंतरावर एक खांब याप्रमाणे २५ खांब उभे केले; तर रांगेतील मधल्या खांबापासून २२ वा खांब किती मीटर अंतरावर असेल?</strong></p>",
+    "options": [
+      "९६ मीटर",
+      "३६ मीटर",
+      "४० मीटर",
+      "४४ मीटर"
+    ],
+    "options_dict": {
+      "1": "९६ मीटर",
+      "2": "३६ मीटर",
+      "3": "४० मीटर",
+      "4": "४४ मीटर"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>एकूण २५ खांब &rArr; मधला खांब = (२५ + १) &divide; २ = १३ वा खांब.<br>१३ व्या खांबापासून २२ व्या खांबापर्यंतचे अंतर:<br>खांबांमधील अंतरांची संख्या = २२ - १३ = ९ अंतरे.<br>प्रत्येक अंतर ४ मीटरचे आहे &rArr; एकूण अंतर = ९ &times; ४ = <strong>३६ मीटर</strong>.</p>",
+    "difficulty": "Medium",
+    "topic": "रांगेतील अंतर आणि खांब"
+  },
+  {
+    "q_no": 46,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.४६) दिलेल्या आकृतीत घनांची (ठोकळ्यांची) रचना एका विशिष्ट पद्धतीने केली आहे, त्यात एकूण किती घन आहेत ते ओळखा.</strong></p>",
+    "question_text": "<p><strong>प्र.४६) दिलेल्या आकृतीत घनांची (ठोकळ्यांची) रचना एका विशिष्ट पद्धतीने केली आहे, त्यात एकूण किती घन आहेत ते ओळखा.</strong></p>",
+    "options": [
+      "२६",
+      "१७",
+      "१६",
+      "२४"
+    ],
+    "options_dict": {
+      "1": "२६",
+      "2": "१७",
+      "3": "१६",
+      "4": "२४"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> थरांच्या रचनेनुसार आणि प्रत्येक स्तंभातील घनांकडे पाहता, अदृश्य व दृश्य ठोकळ्यांची एकूण संख्या <strong>२४</strong> भरते.</p>",
+    "difficulty": "Hard",
+    "topic": "ठोकळे मोजणे (Counting 3D Cubes)"
+  },
+  {
+    "q_no": 47,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.४७) मे महिन्याच्या १५ तारखेस गुरुवार आला असेल, तर त्या महिन्यात कोणता वार पाच वेळा येणार नाही?</strong></p>",
+    "question_text": "<p><strong>प्र.४७) मे महिन्याच्या १५ तारखेस गुरुवार आला असेल, तर त्या महिन्यात कोणता वार पाच वेळा येणार नाही?</strong></p>",
+    "options": [
+      "शुक्रवार",
+      "शनिवार",
+      "रविवार",
+      "गुरुवार"
+    ],
+    "options_dict": {
+      "1": "शुक्रवार",
+      "2": "शनिवार",
+      "3": "रविवार",
+      "4": "गुरुवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>मे महिन्यात ३१ दिवस असतात. ३१ दिवसांच्या महिन्यात १, २ व ३ तारखेचे वार ५ वेळा येतात.<br>१५ मे = गुरुवार &rArr; ८ मे = गुरुवार &rArr; १ मे = गुरुवार.<br>म्हणून १ मे = गुरुवार, २ मे = शुक्रवार, ३ मे = शनिवार.<br>हे तीन वार (गुरुवार, शुक्रवार, शनिवार) ५ वेळा येतील.<br><strong>रविवार</strong> हा ४ तारखेला येत असल्याने तो ५ वेळा येणार नाही (फक्त ४ वेळा येईल).</p>",
+    "difficulty": "Medium",
+    "topic": "दिनदर्शिका (Calendar)"
+  },
+  {
+    "q_no": 48,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक ४८ व ४९ साठी सूचना:</strong> सोबतच्या वेन आकृतीत वर्तुळात गायन, चौरसात वादन व त्रिकोणात नृत्य करणाऱ्या व्यक्तींची माहिती दिली आहे.</p><div style='text-align:center;margin:10px 0;'><svg width=\"340\" height=\"240\" viewBox=\"0 0 340 240\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Circle: गायन (Singers) -->\n  <circle cx=\"130\" cy=\"100\" r=\"70\" fill=\"none\" stroke=\"#d32f2f\" stroke-width=\"2\"/>\n  <text x=\"130\" y=\"25\" fill=\"#d32f2f\">गायन (Singers)</text>\n  <!-- Square: वादन (Musicians) -->\n  <rect x=\"140\" y=\"80\" width=\"100\" height=\"90\" fill=\"none\" stroke=\"#1976d2\" stroke-width=\"2\"/>\n  <text x=\"250\" y=\"125\" fill=\"#1976d2\">वादन (Musicians)</text>\n  <!-- Triangle: नृत्य (Dancers) -->\n  <polygon points=\"150,90 220,200 80,200\" fill=\"none\" stroke=\"#388e3c\" stroke-width=\"2\"/>\n  <text x=\"150\" y=\"225\" fill=\"#388e3c\" text-anchor=\"middle\">नृत्य (Dancers)</text>\n\n  <!-- Numbers inside regions -->\n  <text x=\"95\" y=\"105\">७</text>\n  <text x=\"160\" y=\"95\">५</text>\n  <text x=\"150\" y=\"130\">१३</text>\n  <text x=\"130\" y=\"165\">१५</text>\n  <text x=\"180\" y=\"165\">६</text>\n  <text x=\"200\" y=\"125\">१६</text>\n  <text x=\"140\" y=\"190\">२०</text>\n</svg></div><p><strong>प्र.४८) किमान दोन कलांमध्ये पारंगत असणाऱ्या व्यक्तींची संख्या किती?</strong></p>",
+    "question_text": "<p><strong>प्रश्न क्रमांक ४८ व ४९ साठी सूचना:</strong> सोबतच्या वेन आकृतीत वर्तुळात गायन, चौरसात वादन व त्रिकोणात नृत्य करणाऱ्या व्यक्तींची माहिती दिली आहे.</p><div style='text-align:center;margin:10px 0;'><svg width=\"340\" height=\"240\" viewBox=\"0 0 340 240\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Circle: गायन (Singers) -->\n  <circle cx=\"130\" cy=\"100\" r=\"70\" fill=\"none\" stroke=\"#d32f2f\" stroke-width=\"2\"/>\n  <text x=\"130\" y=\"25\" fill=\"#d32f2f\">गायन (Singers)</text>\n  <!-- Square: वादन (Musicians) -->\n  <rect x=\"140\" y=\"80\" width=\"100\" height=\"90\" fill=\"none\" stroke=\"#1976d2\" stroke-width=\"2\"/>\n  <text x=\"250\" y=\"125\" fill=\"#1976d2\">वादन (Musicians)</text>\n  <!-- Triangle: नृत्य (Dancers) -->\n  <polygon points=\"150,90 220,200 80,200\" fill=\"none\" stroke=\"#388e3c\" stroke-width=\"2\"/>\n  <text x=\"150\" y=\"225\" fill=\"#388e3c\" text-anchor=\"middle\">नृत्य (Dancers)</text>\n\n  <!-- Numbers inside regions -->\n  <text x=\"95\" y=\"105\">७</text>\n  <text x=\"160\" y=\"95\">५</text>\n  <text x=\"150\" y=\"130\">१३</text>\n  <text x=\"130\" y=\"165\">१५</text>\n  <text x=\"180\" y=\"165\">६</text>\n  <text x=\"200\" y=\"125\">१६</text>\n  <text x=\"140\" y=\"190\">२०</text>\n</svg></div><p><strong>प्र.४८) किमान दोन कलांमध्ये पारंगत असणाऱ्या व्यक्तींची संख्या किती?</strong></p>",
+    "options": [
+      "३९",
+      "२६",
+      "२१",
+      "२०"
+    ],
+    "options_dict": {
+      "1": "३९",
+      "2": "२६",
+      "3": "२१",
+      "4": "२०"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'किमान दोन कला' म्हणजे २ किंवा ३ कलांमध्ये असणाऱ्या सर्व व्यक्तींची बेरीज:<br>= (गायन व वादन) + (गायन व नृत्य) + (वादन व नृत्य) + (तिन्ही कला)<br>= ५ + १५ + ६ + १३ = <strong>३९ व्यक्ती</strong>.</p>",
+    "difficulty": "Medium",
+    "topic": "वेन आकृती (Venn Diagram)"
+  },
+  {
+    "q_no": 49,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.४९) फक्त गायन करणाऱ्या व्यक्तींपेक्षा फक्त नृत्य करणाऱ्या व्यक्तींची संख्या कितीने जास्त/कमी आहे?</strong></p>",
+    "question_text": "<p><strong>प्र.४९) फक्त गायन करणाऱ्या व्यक्तींपेक्षा फक्त नृत्य करणाऱ्या व्यक्तींची संख्या कितीने जास्त/कमी आहे?</strong></p>",
+    "options": [
+      "१० ने",
+      "५ ने",
+      "१२ ने",
+      "१३ ने"
+    ],
+    "options_dict": {
+      "1": "१० ने",
+      "2": "५ ने",
+      "3": "१२ ने",
+      "4": "१३ ने"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>फक्त गायन करणाऱ्या व्यक्ती = ७<br>फक्त नृत्य करणाऱ्या व्यक्ती = २०<br>फरक = २० - ७ = <strong>१३ ने</strong>.</p>",
+    "difficulty": "Easy",
+    "topic": "वेन आकृती (Venn Diagram)"
+  },
+  {
+    "q_no": 50,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.५०) पुढील प्रश्नात रिकाम्या वर्तुळात कोणती संख्या येईल?</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"220\" height=\"220\" viewBox=\"0 0 220 220\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Spokes -->\n  <line x1=\"110\" y1=\"25\" x2=\"110\" y2=\"195\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"25\" y1=\"110\" x2=\"195\" y2=\"110\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"170\" y2=\"170\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"170\" y1=\"50\" x2=\"50\" y2=\"170\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <!-- Circles on Spokes -->\n  <circle cx=\"110\" cy=\"25\" r=\"14\"/><text x=\"110\" y=\"30\">७</text>\n  <circle cx=\"170\" cy=\"50\" r=\"14\"/><text x=\"170\" y=\"55\">५</text>\n  <circle cx=\"195\" cy=\"110\" r=\"14\"/><text x=\"195\" y=\"115\">४</text>\n  <circle cx=\"170\" cy=\"170\" r=\"14\"/><text x=\"170\" y=\"175\">६</text>\n  <circle cx=\"110\" cy=\"195\" r=\"14\"/><text x=\"110\" y=\"200\">३६</text>\n  <circle cx=\"50\" cy=\"170\" r=\"14\"/><text x=\"50\" y=\"175\">२६</text>\n  <circle cx=\"25\" cy=\"110\" r=\"14\"/><text x=\"25\" y=\"115\">२१</text>\n  <circle cx=\"50\" cy=\"50\" r=\"14\" fill=\"#fff9c4\"/><text x=\"50\" y=\"55\" fill=\"#d32f2f\">?</text>\n</svg></div>",
+    "question_text": "<p><strong>प्र.५०) पुढील प्रश्नात रिकाम्या वर्तुळात कोणती संख्या येईल?</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"220\" height=\"220\" viewBox=\"0 0 220 220\" xmlns=\"http://www.w3.org/2000/svg\">\n  \n  <!-- Spokes -->\n  <line x1=\"110\" y1=\"25\" x2=\"110\" y2=\"195\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"25\" y1=\"110\" x2=\"195\" y2=\"110\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"170\" y2=\"170\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"170\" y1=\"50\" x2=\"50\" y2=\"170\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <!-- Circles on Spokes -->\n  <circle cx=\"110\" cy=\"25\" r=\"14\"/><text x=\"110\" y=\"30\">७</text>\n  <circle cx=\"170\" cy=\"50\" r=\"14\"/><text x=\"170\" y=\"55\">५</text>\n  <circle cx=\"195\" cy=\"110\" r=\"14\"/><text x=\"195\" y=\"115\">४</text>\n  <circle cx=\"170\" cy=\"170\" r=\"14\"/><text x=\"170\" y=\"175\">६</text>\n  <circle cx=\"110\" cy=\"195\" r=\"14\"/><text x=\"110\" y=\"200\">३६</text>\n  <circle cx=\"50\" cy=\"170\" r=\"14\"/><text x=\"50\" y=\"175\">२६</text>\n  <circle cx=\"25\" cy=\"110\" r=\"14\"/><text x=\"25\" y=\"115\">२१</text>\n  <circle cx=\"50\" cy=\"50\" r=\"14\" fill=\"#fff9c4\"/><text x=\"50\" y=\"55\" fill=\"#d32f2f\">?</text>\n</svg></div>",
+    "options": [
+      "१३",
+      "३७",
+      "२९",
+      "३१"
+    ],
+    "options_dict": {
+      "1": "१३",
+      "2": "३७",
+      "3": "२९",
+      "4": "३१"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> समोरासमोरील संख्यांमध्ये (संख्या &times; ५) + १ हा संबंध आहे:<br>७ च्या समोर &rArr; (७ &times; ५) + १ = ३५ + १ = ३६<br>५ च्या समोर &rArr; (५ &times; ५) + १ = २५ + १ = २६<br>४ च्या समोर &rArr; (४ &times; ५) + १ = २० + १ = २१<br>त्याचप्रमाणे ६ च्या समोरील रिकाम्या वर्तुळात &rArr; (६ &times; ५) + १ = ३० + १ = <strong>३१</strong> ही संख्या येईल.</p>",
+    "difficulty": "Medium",
+    "topic": "संख्यांचे कोडे (Number Puzzle in Circle)"
+  },
+  {
+    "q_no": 51,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.५१) एका सांकेतिक भाषेत ६२५ = ३२, २३४ = ११ आणि ९४१ = १३ असे लिहितात; तर त्याच सांकेतिक भाषेत ३८७ = किती?</strong></p>",
+    "question_text": "<p><strong>प्र.५१) एका सांकेतिक भाषेत ६२५ = ३२, २३४ = ११ आणि ९४१ = १३ असे लिहितात; तर त्याच सांकेतिक भाषेत ३८७ = किती?</strong></p>",
+    "options": [
+      "९२",
+      "१८",
+      "३१",
+      "२९"
+    ],
+    "options_dict": {
+      "1": "९२",
+      "2": "१८",
+      "3": "३१",
+      "4": "२९"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> (पहिला अंक &times; तिसरा अंक) + मधला अंक:<br>६२५ &rArr; (६ &times; ५) + २ = ३० + २ = ३२<br>२३४ &rArr; (२ &times; ४) + ३ = ८ + ३ = ११<br>९४१ &rArr; (९ &times; १) + ४ = ९ + ४ = १३<br>त्याचप्रमाणे ३८७ &rArr; (३ &times; ७) + ८ = २१ + ८ = <strong>२९</strong>.</p>",
+    "difficulty": "Medium",
+    "topic": "सांकेतिक भाषा (Coding-Decoding)"
+  },
+  {
+    "q_no": 52,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.५२) पुढील प्रश्नात प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?</strong></p><table border=\"1\" cellpadding=\"8\" style=\"border-collapse:collapse;margin:10px auto;text-align:center;font-size:16px;font-weight:bold;\">\n  <tr><td style=\"width:50px;\">१७</td><td style=\"width:50px;\">८१</td><td style=\"width:50px;\">३३</td></tr>\n  <tr><td style=\"background:#fff9c4;color:#d32f2f;\">?</td><td>४९</td><td>६५</td></tr>\n  <tr><td>४१</td><td>७३</td><td>२५</td></tr>\n</table>",
+    "question_text": "<p><strong>प्र.५२) पुढील प्रश्नात प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?</strong></p><table border=\"1\" cellpadding=\"8\" style=\"border-collapse:collapse;margin:10px auto;text-align:center;font-size:16px;font-weight:bold;\">\n  <tr><td style=\"width:50px;\">१७</td><td style=\"width:50px;\">८१</td><td style=\"width:50px;\">३३</td></tr>\n  <tr><td style=\"background:#fff9c4;color:#d32f2f;\">?</td><td>४९</td><td>६५</td></tr>\n  <tr><td>४१</td><td>७३</td><td>२५</td></tr>\n</table>",
+    "options": [
+      "५५",
+      "५६",
+      "५७",
+      "५८"
+    ],
+    "options_dict": {
+      "1": "५५",
+      "2": "५६",
+      "3": "५७",
+      "4": "५८"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> चौरसातील संख्यांच्या संबंधानुसार प्रश्नचिन्हाच्या जागी <strong>५७</strong> ही संख्या येते.</p>",
+    "difficulty": "Hard",
+    "topic": "संख्यांचे कोडे - चौरस (Number Grid Puzzle)"
+  },
+  {
+    "q_no": 53,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.५३) एका सांकेतिक भाषेत राजपूर = ३२, महाराज = २७ आणि राजपूत = २८ असे लिहितात; तर त्याच सांकेतिक भाषेत 'महापूर' हा शब्द कसा लिहाल?</strong></p>",
+    "question_text": "<p><strong>प्र.५३) एका सांकेतिक भाषेत राजपूर = ३२, महाराज = २७ आणि राजपूत = २८ असे लिहितात; तर त्याच सांकेतिक भाषेत 'महापूर' हा शब्द कसा लिहाल?</strong></p>",
+    "options": [
+      "८३",
+      "७३",
+      "८७",
+      "३८"
+    ],
+    "options_dict": {
+      "1": "८३",
+      "2": "७३",
+      "3": "८७",
+      "4": "३८"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>राजपूर (३२), महाराज (२७), राजपूत (२८) या तिन्ही शब्दांत 'राज' सामाईक आहे आणि अंकांत '२' सामाईक आहे &rArr; 'राज' = २.<br>त्यामुळे 'पूर' = ३, 'महा' = ७, 'पूत/पुत्र' = ८.<br>म्हणून <strong>'महापूर' = ७३</strong> (पर्याय २).</p>",
+    "difficulty": "Medium",
+    "topic": "सांकेतिक भाषा (Coding Words)"
+  },
+  {
+    "q_no": 54,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.५४) रुबियाचा दुसरा वाढदिवस सन २०१७ मध्ये महात्मा गांधी जयंतीच्या आदल्या दिवशी साजरा करण्यात आला, जर त्या वर्षी महात्मा गांधी जयंती सोमवारी आली असेल, तर तिचा जन्म कोणत्या वारी झाला असेल?</strong></p>",
+    "question_text": "<p><strong>प्र.५४) रुबियाचा दुसरा वाढदिवस सन २०१७ मध्ये महात्मा गांधी जयंतीच्या आदल्या दिवशी साजरा करण्यात आला, जर त्या वर्षी महात्मा गांधी जयंती सोमवारी आली असेल, तर तिचा जन्म कोणत्या वारी झाला असेल?</strong></p>",
+    "options": [
+      "मंगळवार",
+      "बुधवार",
+      "गुरुवार",
+      "रविवार"
+    ],
+    "options_dict": {
+      "1": "मंगळवार",
+      "2": "बुधवार",
+      "3": "गुरुवार",
+      "4": "रविवार"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>गांधी जयंती = २ ऑक्टोबर. २०१७ मध्ये २ ऑक्टोबरला सोमवार होता.<br>वाढदिवस गांधी जयंतीच्या आदल्या दिवशी म्हणजे १ ऑक्टोबर २०१७ रोजी (रविवार) होता.<br>हा तिचा २ रा वाढदिवस होता. म्हणजे तिचा जन्म १ ऑक्टोबर २०१५ रोजी झाला होता.<br>२०१५ ते २०१६ दरम्यान २०१६ हे लीप वर्ष येते (फेब्रुवारी २०१६ समाविष्ट असल्याने २ दिवस पुढे).<br>२०१६ ते २०१७ हे सामान्य वर्ष (१ दिवस पुढे).<br>म्हणजे २०१५ ते २०१७ मध्ये एकूण २ + १ = ३ दिवसांचा फरक पडला.<br>१ ऑक्टोबर २०१७ (रविवार) च्या ३ दिवस मागे गेल्यास: रविवार &rarr; शनिवार &rarr; शुक्रवार &rarr; <strong>गुरुवार</strong> येतो.<br>म्हणून तिचा जन्म <strong>गुरुवारी</strong> झाला होता.</p>",
+    "difficulty": "Hard",
+    "topic": "दिनदर्शिका (Calendar)"
+  },
+  {
+    "q_no": 55,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक ५५ व ५६ साठी सूचना:</strong> सारणीतील अक्षरे व चिन्हे:<br>ज(&#9698;), य(&#9632;), श(&#8856;), ह(&#9651;), प(&#9675;), र(&times;), ग(+), स(-), ण(&#9633;), ड(&#9746;), काना(&#9863;), वेलांटी(&#9723;), ऊ कार(&#9661;), अनुस्वार(&darr;)</p><p><strong>प्र.५५) हरणाच्या पिल्लाचे नाव कसे लिहाल?</strong></p>",
+    "question_text": "<p><strong>प्रश्न क्रमांक ५५ व ५६ साठी सूचना:</strong> सारणीतील अक्षरे व चिन्हे:<br>ज(&#9698;), य(&#9632;), श(&#8856;), ह(&#9651;), प(&#9675;), र(&times;), ग(+), स(-), ण(&#9633;), ड(&#9746;), काना(&#9863;), वेलांटी(&#9723;), ऊ कार(&#9661;), अनुस्वार(&darr;)</p><p><strong>प्र.५५) हरणाच्या पिल्लाचे नाव कसे लिहाल?</strong></p>",
+    "options": [
+      "&#9651; &times; &#9723; &#9633;",
+      "&#9675; &#9863; &#9746; -",
+      "&#8856; &#9723; &darr; + &times; &#9661;",
+      "&#9675; &#9651; &#9746;"
+    ],
+    "options_dict": {
+      "1": "&#9651; &times; &#9723; &#9633;",
+      "2": "&#9675; &#9863; &#9746; -",
+      "3": "&#8856; &#9723; &darr; + &times; &#9661;",
+      "4": "&#9675; &#9651; &#9746;"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> हरणाच्या पिल्लाला 'पाडस' म्हणतात.<br>प = &#9675;, काना = &#9863;, ड = &#9746;, स = -<br>म्हणून 'पाडस' चे सांकेतिक रूप <strong>&#9675; &#9863; &#9746; -</strong> (पर्याय २) हे आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "चिन्हांची सांकेतिक भाषा (Symbol Coding)"
+  },
+  {
+    "q_no": 56,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.५६) &#9675; &times; &#9863; &#9632; या चिन्हांनी कोणता शब्द दर्शविला जाईल?</strong></p>",
+    "question_text": "<p><strong>प्र.५६) &#9675; &times; &#9863; &#9632; या चिन्हांनी कोणता शब्द दर्शविला जाईल?</strong></p>",
+    "options": [
+      "पराजय",
+      "परगणा",
+      "पराग",
+      "परिवार"
+    ],
+    "options_dict": {
+      "1": "पराजय",
+      "2": "परगणा",
+      "3": "पराग",
+      "4": "परिवार"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> चिन्हांची अक्षरे जुळवू:<br>&#9675; = प<br>&times; = र<br>&#9863; = काना (रा)<br>&#9632; = य (किंवा जय)<br>यावरून <strong>'पराजय'</strong> हा अर्थपूर्ण शब्द दर्शविला जातो.</p>",
+    "difficulty": "Medium",
+    "topic": "चिन्हांची सांकेतिक भाषा (Symbol Coding)"
+  },
+  {
+    "q_no": 57,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.५७) तुमचा मित्र मोबाईलचा वापर खूप करत आहे, असे तुम्हाला आढळल्यास तुम्ही काय कराल?</strong></p>",
+    "question_text": "<p><strong>प्र.५७) तुमचा मित्र मोबाईलचा वापर खूप करत आहे, असे तुम्हाला आढळल्यास तुम्ही काय कराल?</strong></p>",
+    "options": [
+      "त्याच्या पालकांकडे त्याची तक्रार करेन.",
+      "मोबाईल बघूच नकोस, असे सांगेन.",
+      "आवश्यकतेनुसार व कमीत कमी मोबाईल वापरण्यास सांगेन.",
+      "मोबाईल स्वतःच्या ताब्यात घेऊन खेळत बसेन."
+    ],
+    "options_dict": {
+      "1": "त्याच्या पालकांकडे त्याची तक्रार करेन.",
+      "2": "मोबाईल बघूच नकोस, असे सांगेन.",
+      "3": "आवश्यकतेनुसार व कमीत कमी मोबाईल वापरण्यास सांगेन.",
+      "4": "मोबाईल स्वतःच्या ताब्यात घेऊन खेळत बसेन."
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> मित्राला समजावून सांगून गरजेपुरता आणि कमीत कमी मोबाईल वापरण्याचा समजूतदार सल्ला देणे ही सर्वात योग्य सामाजिक व भावनिक कृती आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "भावनिक व सामाजिक बुद्धिमत्ता (Social Intelligence)"
+  },
+  {
+    "q_no": 58,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.५८) प &nbsp; भ &nbsp; स &nbsp; र &nbsp; र &nbsp; भ &nbsp; प &nbsp; स &nbsp; र &nbsp; भ &nbsp; र &nbsp; भ &nbsp; स</strong><br>वरील अक्षरमालेत कोणती अक्षरे समान वेळा आली आहेत?</p>",
+    "question_text": "<p><strong>प्र.५८) प &nbsp; भ &nbsp; स &nbsp; र &nbsp; र &nbsp; भ &nbsp; प &nbsp; स &nbsp; र &nbsp; भ &nbsp; र &nbsp; भ &nbsp; स</strong><br>वरील अक्षरमालेत कोणती अक्षरे समान वेळा आली आहेत?</p>",
+    "options": [
+      "भ - स",
+      "र - प",
+      "स - प",
+      "भ - र"
+    ],
+    "options_dict": {
+      "1": "भ - स",
+      "2": "र - प",
+      "3": "स - प",
+      "4": "भ - र"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> प्रत्येक अक्षराची संख्या मोजू:<br>प = २ वेळा<br>भ = ४ वेळा<br>स = ३ वेळा<br>र = ४ वेळा<br>येथे <strong>'भ' आणि 'र' ही दोन्ही अक्षरे समान (प्रत्येकी ४ वेळा)</strong> आली आहेत.</p>",
+    "difficulty": "Easy",
+    "topic": "अक्षरमाला वारंवारता (Letter Frequency)"
+  },
+  {
+    "q_no": 59,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.५९) खालील काव्य पंक्तीतील दोन अक्षरी शब्दांची संख्या ओळखून योग्य पर्याय निवडा:</strong><br><em>'प्रकाशातले तारे तुम्ही, अंधारावर रुसा ।<br>हसा, मुलांनो हसा ।।'</em></p>",
+    "question_text": "<p><strong>प्र.५९) खालील काव्य पंक्तीतील दोन अक्षरी शब्दांची संख्या ओळखून योग्य पर्याय निवडा:</strong><br><em>'प्रकाशातले तारे तुम्ही, अंधारावर रुसा ।<br>हसा, मुलांनो हसा ।।'</em></p>",
+    "options": [
+      "पाच",
+      "चार",
+      "आठ",
+      "दोन"
+    ],
+    "options_dict": {
+      "1": "पाच",
+      "2": "चार",
+      "3": "आठ",
+      "4": "दोन"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> दोन अक्षरी शब्द:<br>१) तारे<br>२) तुम्ही<br>३) रुसा<br>४) हसा<br>५) हसा<br>असे एकूण <strong>५ शब्द</strong> दोन अक्षरी आहेत.</p>",
+    "difficulty": "Medium",
+    "topic": "भाषा आकलन व मोजणी"
+  },
+  {
+    "q_no": 60,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक ६० ते ६४ साठी सूचना:</strong> गटात न बसणारे पद ओळखा.</p><p><strong>प्र.६०)</strong></p>",
+    "question_text": "<p><strong>प्रश्न क्रमांक ६० ते ६४ साठी सूचना:</strong> गटात न बसणारे पद ओळखा.</p><p><strong>प्र.६०)</strong></p>",
+    "options": [
+      "नभ",
+      "गगन",
+      "मेघ",
+      "व्योम"
+    ],
+    "options_dict": {
+      "1": "नभ",
+      "2": "गगन",
+      "3": "मेघ",
+      "4": "व्योम"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> 'नभ', 'गगन', 'व्योम' हे सर्व आकाशाचे समानार्थी शब्द आहेत, तर <strong>'मेघ'</strong> म्हणजे ढग होय. म्हणून 'मेघ' हा वेगळा शब्द आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "गटात न बसणारे पद (Odd Word Out)"
+  },
+  {
+    "q_no": 61,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.६१)</strong></p>",
+    "question_text": "<p><strong>प्र.६१)</strong></p>",
+    "options": [
+      "१९९",
+      "६१",
+      "३९",
+      "३२७"
+    ],
+    "options_dict": {
+      "1": "१९९",
+      "2": "६१",
+      "3": "३९",
+      "4": "३२७"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> अधिकृत उत्तरतालिकेनुसार पर्याय (२) '६१' हे पद गटात न बसणारे पद आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "संख्यांचे वर्गीकरण (Odd Number Out)"
+  },
+  {
+    "q_no": 62,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.६२)</strong></p>",
+    "question_text": "<p><strong>प्र.६२)</strong></p>",
+    "options": [
+      "१६३२",
+      "८३५४",
+      "९१०८",
+      "३२१०"
+    ],
+    "options_dict": {
+      "1": "१६३२",
+      "2": "८३५४",
+      "3": "९१०८",
+      "4": "३२१०"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> अंकांच्या बेरजेची ३ ची कसोटी:<br>१६३२ &rArr; १+६+३+२ = १२ (३ ने भाग जातो)<br>९१०८ &rArr; ९+१+०+८ = १८ (३ ने भाग जातो)<br>३२१० &rArr; ३+२+१+० = ६ (३ ने भाग जातो)<br><strong>८३५४</strong> &rArr; ८+३+५+४ = २० (३ ने भाग जात नाही). म्हणून <strong>८३५४</strong> वेगळी संख्या आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "संख्यांचे वर्गीकरण - विभाज्यता (Divisibility)"
+  },
+  {
+    "q_no": 63,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.६३) खालीलपैकी गटात न बसणारी आकृती ओळखा:</strong> (प्रत्येक आकृतीत दोन परस्पर छेदणाऱ्या रेषांवर बाण, भरीव लंबगोळ, त्रिकोण व कोन यांची मांडणी आहे)</p>",
+    "question_text": "<p><strong>प्र.६३) खालीलपैकी गटात न बसणारी आकृती ओळखा:</strong> (प्रत्येक आकृतीत दोन परस्पर छेदणाऱ्या रेषांवर बाण, भरीव लंबगोळ, त्रिकोण व कोन यांची मांडणी आहे)</p>",
+    "options": [
+      "आकृती (१) - बाण वर, लंबगोळ खाली",
+      "आकृती (२) - बाण डावीकडे, लंबगोळ उजवीकडे",
+      "आकृती (३) - लंबगोळ वर, बाण खाली",
+      "आकृती (४) - लंबगोळ डावीकडे, बाण उजवीकडे"
+    ],
+    "options_dict": {
+      "1": "आकृती (१) - बाण वर, लंबगोळ खाली",
+      "2": "आकृती (२) - बाण डावीकडे, लंबगोळ उजवीकडे",
+      "3": "आकृती (३) - लंबगोळ वर, बाण खाली",
+      "4": "आकृती (४) - लंबगोळ डावीकडे, बाण उजवीकडे"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> बाण आणि भरीव लंबगोळाच्या परिभ्रमण दिशेनुसार पर्याय (३) ची आकृती गटाशी विसंगत ठरते.</p>",
+    "difficulty": "Hard",
+    "topic": "आकृत्यांचे वर्गीकरण (Odd Figure Out)"
+  },
+  {
+    "q_no": 64,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.६४)</strong></p>",
+    "question_text": "<p><strong>प्र.६४)</strong></p>",
+    "options": [
+      "AE",
+      "EI",
+      "BC",
+      "DG"
+    ],
+    "options_dict": {
+      "1": "AE",
+      "2": "EI",
+      "3": "BC",
+      "4": "DG"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> अधिकृत उत्तरतालिकेनुसार पर्याय (१) 'AE' हा गट विसंगत आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "अक्षरगट वर्गीकरण (Odd Letter Pair)"
+  },
+  {
+    "q_no": 65,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.६५) आंब्याला फणस म्हटले, फणसाला संत्री म्हटले, संत्र्याला केळे म्हटले, केळ्याला चिकू म्हटले; तर नागपूरच्या प्रसिद्ध फळास काय म्हणाल?</strong></p>",
+    "question_text": "<p><strong>प्र.६५) आंब्याला फणस म्हटले, फणसाला संत्री म्हटले, संत्र्याला केळे म्हटले, केळ्याला चिकू म्हटले; तर नागपूरच्या प्रसिद्ध फळास काय म्हणाल?</strong></p>",
+    "options": [
+      "फणस",
+      "चिकू",
+      "केळे",
+      "संत्री"
+    ],
+    "options_dict": {
+      "1": "फणस",
+      "2": "चिकू",
+      "3": "केळे",
+      "4": "संत्री"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> नागपूरचे प्रसिद्ध फळ 'संत्री' आहे. प्रश्नात संत्र्याला <strong>'केळे'</strong> म्हटले आहे. म्हणून नागपूरच्या प्रसिद्ध फळास 'केळे' म्हटले जाईल.</p>",
+    "difficulty": "Easy",
+    "topic": "सांकेतिक टोपणनाव (Coding Substitute)"
+  },
+  {
+    "q_no": 66,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.६६) सोबतच्या आकृतीत कोनांची संख्या किती आहे?</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"220\" height=\"150\" viewBox=\"0 0 220 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  <polygon points=\"110,20 20,130 200,130\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/>\n  <line x1=\"110\" y1=\"20\" x2=\"65\" y2=\"130\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"110\" y1=\"20\" x2=\"110\" y2=\"130\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"110\" y1=\"20\" x2=\"155\" y2=\"130\" stroke=\"#333\" stroke-width=\"1.5\"/>\n</svg></div>",
+    "question_text": "<p><strong>प्र.६६) सोबतच्या आकृतीत कोनांची संख्या किती आहे?</strong></p><div style='text-align:center;margin:10px 0;'><svg width=\"220\" height=\"150\" viewBox=\"0 0 220 150\" xmlns=\"http://www.w3.org/2000/svg\">\n  <polygon points=\"110,20 20,130 200,130\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/>\n  <line x1=\"110\" y1=\"20\" x2=\"65\" y2=\"130\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"110\" y1=\"20\" x2=\"110\" y2=\"130\" stroke=\"#333\" stroke-width=\"1.5\"/>\n  <line x1=\"110\" y1=\"20\" x2=\"155\" y2=\"130\" stroke=\"#333\" stroke-width=\"1.5\"/>\n</svg></div>",
+    "options": [
+      "१०",
+      "२०",
+      "१२",
+      "१८"
+    ],
+    "options_dict": {
+      "1": "१०",
+      "2": "२०",
+      "3": "१२",
+      "4": "१८"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>१) वरच्या शिरोबिंदूपाशी ४ भाग होतात &rArr; (४ &times; ५) &divide; २ = १० कोन.<br>२) पायावरील डाव्या टोकापाशी १ कोन व उजव्या टोकापाशी १ कोन = २ कोन.<br>३) पायावरील आतील ३ बिंदूंपाशी प्रत्येकी २ रेषीय कोन तयार होतात &rArr; ३ &times; २ = ६ कोन.<br>एकूण कोन = १० + २ + ६ = <strong>१८ कोन</strong>.</p>",
+    "difficulty": "Hard",
+    "topic": "कोनांची मोजणी (Counting Angles)"
+  },
+  {
+    "q_no": 67,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक ६७ ते ७१ साठी सूचना:</strong> पुढील प्रश्नात पहिल्या व दुसऱ्या पदाचा जसा संबंध आहे; अगदी तसाच संबंध तिसऱ्या व चौथ्या पदात आहे. तो संबंध शोधा व प्रश्नचिन्हाच्या जागी योग्य पर्याय निवडा.</p><p><strong>प्र.६७) शिक्षक : ? :: डॉक्टर : रोग</strong></p>",
+    "question_text": "<p><strong>प्रश्न क्रमांक ६७ ते ७१ साठी सूचना:</strong> पुढील प्रश्नात पहिल्या व दुसऱ्या पदाचा जसा संबंध आहे; अगदी तसाच संबंध तिसऱ्या व चौथ्या पदात आहे. तो संबंध शोधा व प्रश्नचिन्हाच्या जागी योग्य पर्याय निवडा.</p><p><strong>प्र.६७) शिक्षक : ? :: डॉक्टर : रोग</strong></p>",
+    "options": [
+      "ज्ञान",
+      "विद्यार्थी",
+      "शाळा",
+      "अज्ञान"
+    ],
+    "options_dict": {
+      "1": "ज्ञान",
+      "2": "विद्यार्थी",
+      "3": "शाळा",
+      "4": "अज्ञान"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> डॉक्टर रुग्णाचा 'रोग' दूर करतो किंवा नाहीसा करतो; त्याचप्रमाणे शिक्षक विद्यार्थ्याचे <strong>'अज्ञान'</strong> दूर करतो.</p>",
+    "difficulty": "Easy",
+    "topic": "समसंबंध (Analogy)"
+  },
+  {
+    "q_no": 68,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.६८) २५ : ४९ :: ३६ : ?</strong></p>",
+    "question_text": "<p><strong>प्र.६८) २५ : ४९ :: ३६ : ?</strong></p>",
+    "options": [
+      "४९",
+      "८१",
+      "१००",
+      "१२१"
+    ],
+    "options_dict": {
+      "1": "४९",
+      "2": "८१",
+      "3": "१००",
+      "4": "१२१"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>२५ &rArr; अंकांची बेरीज = २ + ५ = ७, आणि ७ चा वर्ग = <strong>४९</strong>.<br>त्याचप्रमाणे ३६ &rArr; अंकांची बेरीज = ३ + ६ = ९, आणि ९ चा वर्ग = <strong>८१</strong>.</p>",
+    "difficulty": "Medium",
+    "topic": "संख्या समसंबंध (Number Analogy)"
+  },
+  {
+    "q_no": 69,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.६९) HJ : KG :: RT : ?</strong></p>",
+    "question_text": "<p><strong>प्र.६९) HJ : KG :: RT : ?</strong></p>",
+    "options": [
+      "UQ",
+      "QU",
+      "SO",
+      "OS"
+    ],
+    "options_dict": {
+      "1": "UQ",
+      "2": "QU",
+      "3": "SO",
+      "4": "OS"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>H (८) + ३ = K (११)<br>J (१०) - ३ = G (७)<br>त्याचप्रमाणे:<br>R (१८) + ३ = U (२१)<br>T (२०) - ३ = Q (१७)<br>म्हणून उत्तर = <strong>UQ</strong>.</p>",
+    "difficulty": "Medium",
+    "topic": "अक्षर समसंबंध (Letter Analogy)"
+  },
+  {
+    "q_no": 70,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.७०) [ || ] : [ त्रिकोण ] :: [ ||| ] : ?</strong><br>(२ उभ्या रेषा : ३ बाजूंचा त्रिकोण :: ३ उभ्या रेषा : ? )</p>",
+    "question_text": "<p><strong>प्र.७०) [ || ] : [ त्रिकोण ] :: [ ||| ] : ?</strong><br>(२ उभ्या रेषा : ३ बाजूंचा त्रिकोण :: ३ उभ्या रेषा : ? )</p>",
+    "options": [
+      "त्रिकोण (Triangle)",
+      "पंचकोन (Pentagon)",
+      "षटकोन (Hexagon)",
+      "अष्टकोन (Octagon)"
+    ],
+    "options_dict": {
+      "1": "त्रिकोण (Triangle)",
+      "2": "पंचकोन (Pentagon)",
+      "3": "षटकोन (Hexagon)",
+      "4": "अष्टकोन (Octagon)"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> २ रेषांपासून मूळ संख्या क्रमानुसार ३ बाजूंचा त्रिकोण बनतो, तर ३ रेषांनंतरची पुढील मूळ संख्या ५ असल्याने ५ बाजूंचा <strong>पंचकोन (Pentagon)</strong> येईल.</p>",
+    "difficulty": "Medium",
+    "topic": "आकृती समसंबंध (Figure Analogy)"
+  },
+  {
+    "q_no": 71,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.७१) पहिल्या आकृतीची आरशातील प्रतिमा दुसरी आकृती आहे; तर तिसऱ्या आकृतीची (वर बाण, खाली चंद्रकोर, डावीकडे वर्तुळ, उजवीकडे बाण) आरशातील प्रतिमा कोणती?</strong></p>",
+    "question_text": "<p><strong>प्र.७१) पहिल्या आकृतीची आरशातील प्रतिमा दुसरी आकृती आहे; तर तिसऱ्या आकृतीची (वर बाण, खाली चंद्रकोर, डावीकडे वर्तुळ, उजवीकडे बाण) आरशातील प्रतिमा कोणती?</strong></p>",
+    "options": [
+      "पर्याय (१) - डावीकडे बाण, उजवीकडे वर्तुळ",
+      "पर्याय (२) - डावीकडे बाण, खाली वर्तुळ",
+      "पर्याय (३) - खाली बाण",
+      "पर्याय (४) - खाली बाण"
+    ],
+    "options_dict": {
+      "1": "पर्याय (१) - डावीकडे बाण, उजवीकडे वर्तुळ",
+      "2": "पर्याय (२) - डावीकडे बाण, खाली वर्तुळ",
+      "3": "पर्याय (३) - खाली बाण",
+      "4": "पर्याय (४) - खाली बाण"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> डावीकडील वर्तुळ आरशात उजवीकडे दिसते आणि उजवीकडील बाण डावीकडे दिसतो, वरचा व खालचा भाग स्थिर राहतो. म्हणून <strong>पर्याय (१)</strong> योग्य आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "आकृती समसंबंध - आरशातील प्रतिमा (Mirror Figure Analogy)"
+  },
+  {
+    "q_no": 72,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.७२) शरदचा काका हा सविताचा मामा आहे; तर सविताची आई शरदची कोण?</strong></p>",
+    "question_text": "<p><strong>प्र.७२) शरदचा काका हा सविताचा मामा आहे; तर सविताची आई शरदची कोण?</strong></p>",
+    "options": [
+      "मामी",
+      "काकी",
+      "आत्या",
+      "आजी"
+    ],
+    "options_dict": {
+      "1": "मामी",
+      "2": "काकी",
+      "3": "आत्या",
+      "4": "आजी"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>सविताचा मामा म्हणजे सविताच्या आईचा भाऊ.<br>प्रश्नानुसार, हा मामा शरदचा काका आहे.<br>म्हणजे सविताची आई ही शरदच्या काकाची बहीण आहे.<br>काकाची बहीण म्हणजेच शरदच्या वडिलांची बहीण होय.<br>वडिलांची बहीण म्हणजे शरदची <strong>'आत्या'</strong> होय.</p>",
+    "difficulty": "Medium",
+    "topic": "नातेसंबंध (Blood Relations)"
+  },
+  {
+    "q_no": 73,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.७३) ॲना रिनापेक्षा उंच आहे. सारा रिंकूपेक्षा उंच असून रिनापेक्षा उंच नाही, तर सर्वात ठेंगू कोण?</strong></p>",
+    "question_text": "<p><strong>प्र.७३) ॲना रिनापेक्षा उंच आहे. सारा रिंकूपेक्षा उंच असून रिनापेक्षा उंच नाही, तर सर्वात ठेंगू कोण?</strong></p>",
+    "options": [
+      "रिंकू",
+      "ॲना",
+      "रिना",
+      "सारा"
+    ],
+    "options_dict": {
+      "1": "रिंकू",
+      "2": "ॲना",
+      "3": "रिना",
+      "4": "सारा"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong><br>उंचीनुसार क्रम:<br>१) ॲना &gt; रिना<br>२) सारा &gt; रिंकू आणि रिना &gt; सारा<br>यावरून पूर्ण क्रम: <strong>ॲना &gt; रिना &gt; सारा &gt; रिंकू</strong>.<br>यावरून सर्वात ठेंगू (कमी उंचीची) <strong>रिंकू</strong> आहे.</p>",
+    "difficulty": "Easy",
+    "topic": "क्रमवारी व तुलना (Comparison / Ordering)"
+  },
+  {
+    "q_no": 74,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्रश्न क्रमांक ७४ व ७५ साठी सूचना:</strong> खालील प्रश्नाकृतींचे पाण्यातील प्रतिबिंब कसे दिसेल ते पर्यायी उत्तर आकृत्यांमधून निश्चित करा.</p><p><strong>प्र.७४) निमुळत्या टोकावर रेषा असणाऱ्या कलशाकार आकृतीचे पाण्यातील (खालील) प्रतिबिंब कोणते?</strong></p>",
+    "question_text": "<p><strong>प्रश्न क्रमांक ७४ व ७५ साठी सूचना:</strong> खालील प्रश्नाकृतींचे पाण्यातील प्रतिबिंब कसे दिसेल ते पर्यायी उत्तर आकृत्यांमधून निश्चित करा.</p><p><strong>प्र.७४) निमुळत्या टोकावर रेषा असणाऱ्या कलशाकार आकृतीचे पाण्यातील (खालील) प्रतिबिंब कोणते?</strong></p>",
+    "options": [
+      "उत्तर आकृती (१) - निमुळते टोक खाली, सपाट भाग वर",
+      "उत्तर आकृती (२)",
+      "उत्तर आकृती (३)",
+      "उत्तर आकृती (४)"
+    ],
+    "options_dict": {
+      "1": "उत्तर आकृती (१) - निमुळते टोक खाली, सपाट भाग वर",
+      "2": "उत्तर आकृती (२)",
+      "3": "उत्तर आकृती (३)",
+      "4": "उत्तर आकृती (४)"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> पाण्यातील प्रतिबिंबात वरचा भाग खाली आणि खालचा भाग वर उलट दिसतो. वरचे निमुळते टोक खाली येईल आणि सपाट तळ वर दिसेल. म्हणून पर्याय (१) योग्य प्रतिबिंब आहे.</p>",
+    "difficulty": "Medium",
+    "topic": "पाण्यातील प्रतिबिंब (Water Image)"
+  },
+  {
+    "q_no": 75,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "<p><strong>प्र.७५) '267' या संख्यागटाचे पाण्यातील प्रतिबिंब कोणते?</strong></p>",
+    "question_text": "<p><strong>प्र.७५) '267' या संख्यागटाचे पाण्यातील प्रतिबिंब कोणते?</strong></p>",
+    "options": [
+      "पर्याय (१)",
+      "पर्याय (२)",
+      "पर्याय (३) - [उलट २, उलट ६, उलट ७ डावीकडून उजवीकडे]",
+      "पर्याय (४)"
+    ],
+    "options_dict": {
+      "1": "पर्याय (१)",
+      "2": "पर्याय (२)",
+      "3": "पर्याय (३) - [उलट २, उलट ६, उलट ७ डावीकडून उजवीकडे]",
+      "4": "पर्याय (४)"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "<p><strong>स्पष्टीकरण:</strong> पाण्यातील प्रतिबिंबात अक्षरांचा डावीकडून उजवीकडील क्रम बदलत नाही, फक्त प्रत्येक अंक जागेवर उभा उलट (vertical flip) होतो. २, ६, ७ चे योग्य उलटे रूप <strong>पर्याय (३)</strong> मध्ये अचूक दिसते.</p>",
+    "difficulty": "Medium",
+    "topic": "पाण्यातील प्रतिबिंब (Water Image of Numbers)"
   }
 ]
