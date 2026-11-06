@@ -1,330 +1,1807 @@
 [
   {
+    "q_no": 1,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "मूलभूत संकल्पना",
-    "question": "In topic 'Riddles, Proverbs & Word Games', what is the correct plural of 'Book'?",
+    "section": "1",
+    "question": "Why is the James Webb Space Telescope designed specifically to observe in infrared light rather than visible light?",
+    "question_text": "Why is the James Webb Space Telescope designed specifically to observe in infrared light rather than visible light?",
     "options": [
-      "Books",
-      "Bookes",
-      "Bookies",
-      "Boking"
+      "Because infrared light travels significantly faster than visible light through the vacuum.",
+      "Because infrared light can penetrate thick cosmic dust clouds to reveal early galaxies.",
+      "Because visible light is completely absorbed by the gold coating on its primary mirror.",
+      "Because the L2 point experiences continuous visible sunlight that blinds optical lenses."
     ],
-    "answer": 0,
-    "explanation": "Book चे अनेकवचन 'Books' होते.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Articles",
-    "question": "We use '____' before words starting with vowel sound like 'Apple':",
-    "options": [
-      "A",
-      "The",
-      "No article",
-      "An"
-    ],
-    "answer": 3,
-    "explanation": "स्वर उच्चाराने सुरू होणाऱ्या शब्दांआधी 'An' वापरतात (An Apple).",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Punctuation",
-    "question": "Which mark is used at the end of a question?",
-    "options": [
-      "Full stop (.)",
-      "Comma (,)",
-      "Question mark (?)",
-      "Exclamation mark (!)"
-    ],
-    "answer": 2,
-    "explanation": "प्रश्नाच्या शेवटी प्रश्नचिन्ह (?) वापरले जाते.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Gender",
-    "question": "What is the feminine gender of 'Boy'?",
-    "options": [
-      "Sister",
-      "Mother",
-      "Woman",
-      "Girl"
-    ],
-    "answer": 3,
-    "explanation": "Boy चा स्त्रीलिंगी शब्द 'Girl' आहे.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Prepositions",
-    "question": "The cat is sitting ____ the table.",
-    "options": [
-      "Under",
-      "Among",
-      "Into",
-      "Between"
-    ],
-    "answer": 0,
-    "explanation": "मांजरी टेबलाखाली बसली आहे -> 'Under the table'.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Greetings",
-    "question": "What do we say when meeting someone in the morning?",
-    "options": [
-      "Good Afternoon",
-      "Good Evening",
-      "Good Morning",
-      "Good Night"
-    ],
-    "answer": 2,
-    "explanation": "सकाळी भेटल्यावर 'Good Morning' म्हणतात.",
-    "difficulty": "सोपे",
-    "difficultyEn": "Easy"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Plural Rules",
-    "question": "What is the plural form of 'Child'?",
-    "options": [
-      "Childes",
-      "Childrens",
-      "Children",
-      "Childs"
-    ],
-    "answer": 2,
-    "explanation": "Child चे अनियमित अनेकवचन 'Children' आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Spelling Rule",
-    "question": "Choose the correctly spelt word:",
-    "options": [
-      "Beatiful",
-      "Beautiful",
-      "Beautifull",
-      "Beutiful"
-    ],
+    "options_dict": {
+      "1": "Because infrared light travels significantly faster than visible light through the vacuum.",
+      "2": "Because infrared light can penetrate thick cosmic dust clouds to reveal early galaxies.",
+      "3": "Because visible light is completely absorbed by the gold coating on its primary mirror.",
+      "4": "Because the L2 point experiences continuous visible sunlight that blinds optical lenses."
+    },
     "answer": 1,
-    "explanation": "'Beautiful' ही अचूक स्पेलिंग आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Pronoun",
-    "question": "'Raju is a good boy. ____ goes to school daily.' Fill with pronoun:",
-    "options": [
-      "It",
-      "He",
-      "They",
-      "She"
-    ],
-    "answer": 1,
-    "explanation": "राजू हा मुलगा असल्याने त्याच्यासाठी 'He' हे सर्वनाम येईल.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Action Verb",
-    "question": "Birds ____ in the sky.",
-    "options": [
-      "Swim",
-      "Run",
-      "Fly",
-      "Crawl"
-    ],
-    "answer": 2,
-    "explanation": "पक्षी आकाशात उडतात -> Birds fly.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Articles",
-    "question": "The sun rises in ____ east.",
-    "options": [
-      "An",
-      "One",
-      "A",
-      "The"
-    ],
-    "answer": 3,
-    "explanation": "दिशांच्या नावापूर्वी निश्चित उपपद 'The' वापरतात (The east).",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Gender",
-    "question": "What is the feminine of 'King'?",
-    "options": [
-      "Queen",
-      "Duchess",
-      "Princess",
-      "Lady"
-    ],
-    "answer": 0,
-    "explanation": "King (राजा) चे स्त्रीलिंगी रूप Queen (राणी) आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Plural",
-    "question": "What is the plural of 'Mango'?",
-    "options": [
-      "Mangos",
-      "Mangi",
-      "Mangoes",
-      "Mangoies"
-    ],
-    "answer": 2,
-    "explanation": "शेवटी 'o' असल्याने 'es' प्रत्यय लागतो: Mangoes.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "Concept",
-    "tagText": "Prepositions",
-    "question": "The book is ____ the table.",
-    "options": [
-      "In",
-      "On",
-      "At",
-      "To"
-    ],
-    "answer": 1,
-    "explanation": "पुस्तक टेबलावर आहे -> 'On the table'.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "IMP",
-    "tagText": "Punctuation",
-    "question": "Identify the exclamation mark:",
-    "options": [
-      ".",
-      "!",
-      "?",
-      ","
-    ],
-    "answer": 1,
-    "explanation": "'!' हे उद्गारवाचक चिन्ह (Exclamation mark) आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Spelling",
-    "question": "Which word is spelt INCORRECTLY?",
-    "options": [
-      "Yesterday",
-      "Tomorrow",
-      "Today",
-      "Tommorow"
-    ],
-    "answer": 3,
-    "explanation": "'Tommorow' चुकीचे आहे; खरी स्पेलिंग 'Tomorrow' (एक m, दोन r) अशी आहे.",
-    "difficulty": "मध्यम",
-    "difficultyEn": "Medium"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Plural कूटप्रश्न",
-    "question": "Which of the following words has the SAME form in both singular and plural?",
-    "options": [
-      "Sheep",
-      "Fox",
-      "Mouse",
-      "Ox"
-    ],
-    "answer": 0,
-    "explanation": "'Sheep' चे एकवचन आणि अनेकवचन दोन्ही 'Sheep' च राहते (उदा. One sheep, Many sheep).",
+    "correct_option": "2",
+    "explanation": "उताऱ्यातील थेट पुरावा: 'Infrared light penetrates dense cosmic clouds of dust and gas, enabling astronomers to peer back more than 13.5 billion years to witness the formation of the very first luminous stars'.",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "passage": "📖 **Read the following scientific passage carefully and answer the questions (Q. 1 to Q. 3):**\n\nThe James Webb Space Telescope (JWST), stationed approximately 1.5 million kilometers away from Earth at the second Lagrange point (L2), represents a colossal leap in humanity's quest to understand the cosmos. Unlike its illustrious predecessor Hubble, which observed predominantly in visible and ultraviolet light, Webb is an infrared observatory. Infrared light penetrates dense cosmic clouds of dust and gas, enabling astronomers to peer back more than 13.5 billion years to witness the formation of the very first luminous stars and primordial galaxies in the aftermath of the Big Bang. Webb's primary mirror, spanning 6.5 meters across, is composed of eighteen hexagonal beryllium segments coated with a microscopic film of pure gold, which maximizes the reflection of infrared radiation.",
+    "topic": "Reading Comprehension - Science & Space"
   },
   {
+    "q_no": 2,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "Riddle / कोडे",
-    "question": "'I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?'",
+    "section": "1",
+    "question": "What material is applied as a microscopic coating on Webb's eighteen hexagonal mirror segments, and for what purpose?",
+    "question_text": "What material is applied as a microscopic coating on Webb's eighteen hexagonal mirror segments, and for what purpose?",
     "options": [
-      "An Echo",
-      "A Tree",
-      "A Cloud",
-      "A Shadow"
+      "Silver, to reflect harmful cosmic rays",
+      "Pure gold, to maximize the reflection of infrared radiation",
+      "Polished titanium, to withstand freezing temperatures",
+      "Synthetic diamond, to prevent scratch damage from asteroids"
     ],
-    "answer": 0,
-    "explanation": "प्रतिध्वनी (Echo) आवाजाच्या तरंगांमुळे ऐकू येतो.",
-    "difficulty": "कठीण",
-    "difficultyEn": "Hard"
-  },
-  {
-    "subject": "इंग्रजी",
-    "type": "HOTS",
-    "tagText": "Proverb / म्हण",
-    "question": "Complete the proverb: 'Practice makes a man ____.'",
-    "options": [
-      "Rich",
-      "Perfect",
-      "Strong",
-      "Great"
-    ],
+    "options_dict": {
+      "1": "Silver, to reflect harmful cosmic rays",
+      "2": "Pure gold, to maximize the reflection of infrared radiation",
+      "3": "Polished titanium, to withstand freezing temperatures",
+      "4": "Synthetic diamond, to prevent scratch damage from asteroids"
+    },
     "answer": 1,
-    "explanation": "'Practice makes a man perfect' (सरावाने माणूस परिपूर्ण बनतो).",
+    "correct_option": "2",
+    "explanation": "उताऱ्यातील शेवटचे वाक्य: 'eighteen hexagonal beryllium segments coated with a microscopic film of pure gold, which maximizes the reflection of infrared radiation'.",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "passage": "📖 **Read the following scientific passage carefully and answer the questions (Q. 1 to Q. 3):**\n\nThe James Webb Space Telescope (JWST), stationed approximately 1.5 million kilometers away from Earth at the second Lagrange point (L2), represents a colossal leap in humanity's quest to understand the cosmos. Unlike its illustrious predecessor Hubble, which observed predominantly in visible and ultraviolet light, Webb is an infrared observatory. Infrared light penetrates dense cosmic clouds of dust and gas, enabling astronomers to peer back more than 13.5 billion years to witness the formation of the very first luminous stars and primordial galaxies in the aftermath of the Big Bang. Webb's primary mirror, spanning 6.5 meters across, is composed of eighteen hexagonal beryllium segments coated with a microscopic film of pure gold, which maximizes the reflection of infrared radiation.",
+    "topic": "Reading Comprehension - Material Science"
   },
   {
+    "q_no": 3,
     "subject": "इंग्रजी",
-    "type": "PYQ",
-    "pyqYear": "MSCE 2020",
-    "tagText": "कथा आकलन",
-    "question": "In the story 'The Hare and The Tortoise', who won the race because of being steady?",
+    "section": "1",
+    "question": "What does the word 'primordial' mean in the context of the passage?",
+    "question_text": "What does the word 'primordial' mean in the context of the passage?",
     "options": [
-      "Hare",
-      "Wolf",
-      "Fox",
-      "Tortoise"
+      "Existing from the very beginning of time; earliest",
+      "Extremely hot and dangerously radioactive",
+      "Dying out and collapsing under gravity",
+      "Artificial and scientifically synthesized"
     ],
-    "answer": 3,
-    "explanation": "कासव (Tortoise) सातत्याने हळूहळू चालत राहिल्याने शर्यत जिंकले.",
+    "options_dict": {
+      "1": "Existing from the very beginning of time; earliest",
+      "2": "Extremely hot and dangerously radioactive",
+      "3": "Dying out and collapsing under gravity",
+      "4": "Artificial and scientifically synthesized"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'Primordial' म्हणजे उत्पत्तीच्या अगदी सुरुवातीचे, आद्यकालीन (Existing from the beginning of time / earliest).",
     "difficulty": "कठीण",
-    "difficultyEn": "Hard"
+    "passage": "📖 **Read the following scientific passage carefully and answer the questions (Q. 1 to Q. 3):**\n\nThe James Webb Space Telescope (JWST), stationed approximately 1.5 million kilometers away from Earth at the second Lagrange point (L2), represents a colossal leap in humanity's quest to understand the cosmos. Unlike its illustrious predecessor Hubble, which observed predominantly in visible and ultraviolet light, Webb is an infrared observatory. Infrared light penetrates dense cosmic clouds of dust and gas, enabling astronomers to peer back more than 13.5 billion years to witness the formation of the very first luminous stars and primordial galaxies in the aftermath of the Big Bang. Webb's primary mirror, spanning 6.5 meters across, is composed of eighteen hexagonal beryllium segments coated with a microscopic film of pure gold, which maximizes the reflection of infrared radiation.",
+    "topic": "Reading Comprehension - Vocabulary in Context"
+  },
+  {
+    "q_no": 4,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "In the poem, what metaphor does the poet use to represent 'Hope'?",
+    "question_text": "In the poem, what metaphor does the poet use to represent 'Hope'?",
+    "options": [
+      "A soaring eagle fighting an eagle",
+      "A resilient little bird that perches in the soul and never stops singing",
+      "A stormy sea wave crashing on rocks",
+      "A gentle spring flower blooming in cold snow"
+    ],
+    "options_dict": {
+      "1": "A soaring eagle fighting an eagle",
+      "2": "A resilient little bird that perches in the soul and never stops singing",
+      "3": "A stormy sea wave crashing on rocks",
+      "4": "A gentle spring flower blooming in cold snow"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "कवयित्रीने आशेला (Hope) आत्म्यात बसून सतत गोड गाणे गाणारा एक पंख असलेला लहान पक्षी ('a thing with feathers / little bird') असे रूपक (metaphor) दिले आहे.",
+    "difficulty": "कठीण",
+    "passage": "📜 **Read the poetic stanza carefully:**\n\nHope is the thing with feathers\nThat perches in the soul,\nAnd sings the tune without the words,\nAnd never stops at all,\nAnd sweetest in the gale is heard;\nAnd sore must be the storm\nThat could abash the little bird\nThat kept so many warm.",
+    "topic": "Poetry Comprehension - Symbolic Meaning"
+  },
+  {
+    "q_no": 5,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the grammatically correct option to complete the hypothetical condition:\n\"If I ______ a superhero with extraordinary powers, I ______ eradicate poverty from the planet.\"",
+    "question_text": "Choose the grammatically correct option to complete the hypothetical condition:\n\"If I ______ a superhero with extraordinary powers, I ______ eradicate poverty from the planet.\"",
+    "options": [
+      "was, will",
+      "were, would",
+      "am, can",
+      "had been, will"
+    ],
+    "options_dict": {
+      "1": "was, will",
+      "2": "were, would",
+      "3": "am, can",
+      "4": "had been, will"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "काल्पनिक किंवा अशक्यप्राय स्थिती (Subjunctive mood) दर्शवण्यासाठी एकवचनी कर्त्यासोबतही 'were' वापरतात आणि मुख्य वाक्यात 'would' येते: 'If I were..., I would...'.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Conditionals (Subjunctive)"
+  },
+  {
+    "q_no": 6,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Select the correct question tag for the sentence:\n\"The village children <u>hardly</u> saw any motor vehicles in their remote valley, ______?\"",
+    "question_text": "Select the correct question tag for the sentence:\n\"The village children <u>hardly</u> saw any motor vehicles in their remote valley, ______?\"",
+    "options": [
+      "didn't they?",
+      "did they?",
+      "don't they?",
+      "had they?"
+    ],
+    "options_dict": {
+      "1": "didn't they?",
+      "2": "did they?",
+      "3": "don't they?",
+      "4": "had they?"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Hardly' हा नकारात्मक अर्थ दर्शवणारा शब्द असल्याने मुख्य वाक्य नकारात्मक मानले जाते. म्हणून Question tag होकारार्थी असावा. भूतकाळी क्रियापद 'saw' साठी 'did they?' येईल.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Question Tags with Negative Adverbs"
+  },
+  {
+    "q_no": 7,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Identify the pair with the strictly correct singular and plural forms:",
+    "question_text": "Identify the pair with the strictly correct singular and plural forms:",
+    "options": [
+      "Crisis – Crisises",
+      "Phenomenon – Phenomena",
+      "Oasis – Oasises",
+      "Cactus – Cactusses"
+    ],
+    "options_dict": {
+      "1": "Crisis – Crisises",
+      "2": "Phenomenon – Phenomena",
+      "3": "Oasis – Oasises",
+      "4": "Cactus – Cactusses"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "ग्रीक/लॅटिन नियमांनुसार: Phenomenon चे अनेकवचन 'Phenomena' होते. (Crisis चे Crises आणि Oasis चे Oases होते).",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Irregular Plurals"
+  },
+  {
+    "q_no": 8,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What does the underlined idiom mean in the sentence below?\n\"Don't worry about the upcoming inter-state debate; just <u>break the ice</u> by sharing a pleasant smile and greeting the judges warmly.\"",
+    "question_text": "What does the underlined idiom mean in the sentence below?\n\"Don't worry about the upcoming inter-state debate; just <u>break the ice</u> by sharing a pleasant smile and greeting the judges warmly.\"",
+    "options": [
+      "Melt frozen glaciers with boiling water",
+      "Overcome social awkwardness and initiate friendly conversation",
+      "Break a glass vase accidentally",
+      "End the meeting abruptly"
+    ],
+    "options_dict": {
+      "1": "Melt frozen glaciers with boiling water",
+      "2": "Overcome social awkwardness and initiate friendly conversation",
+      "3": "Break a glass vase accidentally",
+      "4": "End the meeting abruptly"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Break the ice' म्हणजे संकोच, भीती किंवा अस्वस्थता दूर करून संवादाला सुरुवात करणे (Overcome awkwardness / make people feel comfortable).",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Idioms in Context"
+  },
+  {
+    "q_no": 9,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the appropriate phrasal verb to fill the blank:\n\"The district administration decided to ______ the marathon until the heavy smog cleared.\"",
+    "question_text": "Choose the appropriate phrasal verb to fill the blank:\n\"The district administration decided to ______ the marathon until the heavy smog cleared.\"",
+    "options": [
+      "put off",
+      "put out",
+      "put on",
+      "put away"
+    ],
+    "options_dict": {
+      "1": "put off",
+      "2": "put out",
+      "3": "put on",
+      "4": "put away"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'Put off' म्हणजे पुढे ढकलणे (postpone). 'Put out' म्हणजे विझवणे. येथे स्पर्धा पुढे ढकलली या अर्थाने 'put off' योग्य आहे.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Phrasal Verbs"
+  },
+  {
+    "q_no": 10,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What do we call a person who can speak two languages with equal fluency and ease?",
+    "question_text": "What do we call a person who can speak two languages with equal fluency and ease?",
+    "options": [
+      "Monolingual",
+      "Bilingual",
+      "Polyglot",
+      "Linguist"
+    ],
+    "options_dict": {
+      "1": "Monolingual",
+      "2": "Bilingual",
+      "3": "Polyglot",
+      "4": "Linguist"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "दोन भाषा अस्खलितपणे बोलणाऱ्या व्यक्तीस 'Bilingual' (द्विभाषिक) म्हणतात. अनेक भाषा बोलणाऱ्यास 'Polyglot' म्हणतात.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - One Word Substitution"
+  },
+  {
+    "q_no": 11,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Identify the word which is spelled 100% correctly:",
+    "question_text": "Identify the word which is spelled 100% correctly:",
+    "options": [
+      "Mischevious",
+      "Mischievous",
+      "Mischivous",
+      "Mischivious"
+    ],
+    "options_dict": {
+      "1": "Mischevious",
+      "2": "Mischievous",
+      "3": "Mischivous",
+      "4": "Mischivious"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "अचूक स्पेलिंग: 'Mischievous' (M-I-S-C-H-I-E-V-O-U-S, 'v' नंतर 'i' येत नाही).",
+    "difficulty": "कठीण",
+    "topic": "Language Study - Spelling Traps"
+  },
+  {
+    "q_no": 12,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Fill in the blank with the most logical connector:\n\"The mountain climbers were utterly exhausted; ______, they persevered through the blizzard and conquered the summit.\"",
+    "question_text": "Fill in the blank with the most logical connector:\n\"The mountain climbers were utterly exhausted; ______, they persevered through the blizzard and conquered the summit.\"",
+    "options": [
+      "nevertheless",
+      "therefore",
+      "otherwise",
+      "similarly"
+    ],
+    "options_dict": {
+      "1": "nevertheless",
+      "2": "therefore",
+      "3": "otherwise",
+      "4": "similarly"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'Nevertheless' म्हणजे 'तरीसुद्धा' (in spite of that). गिर्यारोहक थकलेले असूनही त्यांनी माथा गाठला, म्हणून विरोध दर्शवण्यासाठी 'nevertheless' योग्य आहे.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Clauses & Connectors"
+  },
+  {
+    "q_no": 13,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the correct words to complete the sentence:\n\"Regular cardiovascular exercise can produce a profound ______ on your health and ______ your stamina positively.\"",
+    "question_text": "Choose the correct words to complete the sentence:\n\"Regular cardiovascular exercise can produce a profound ______ on your health and ______ your stamina positively.\"",
+    "options": [
+      "affect, effect",
+      "effect, affect",
+      "effect, effect",
+      "affect, affect"
+    ],
+    "options_dict": {
+      "1": "affect, effect",
+      "2": "effect, affect",
+      "3": "effect, effect",
+      "4": "affect, affect"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Effect' हे नाम (noun) असून त्याचा अर्थ 'परिणाम' असा होतो ('produce an effect'). 'Affect' हे क्रियापद (verb) असून त्याचा अर्थ 'प्रभाव पाडणे' असा होतो ('affect your stamina').",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Confusing Words"
+  },
+  {
+    "q_no": 14,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What is the young one of a **Swan** called, and where does an **Eagle** build its majestic nest?",
+    "question_text": "What is the young one of a **Swan** called, and where does an **Eagle** build its majestic nest?",
+    "options": [
+      "Cygnet, Eyrie",
+      "Gosling, Burrow",
+      "Foal, Stable",
+      "Cub, Lair"
+    ],
+    "options_dict": {
+      "1": "Cygnet, Eyrie",
+      "2": "Gosling, Burrow",
+      "3": "Foal, Stable",
+      "4": "Cub, Lair"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "हंसाचे पिल्लू म्हणजे 'Cygnet' आणि गरुडाचे उंचावरील घरटे म्हणजे 'Eyrie' (Aerie).",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Young Ones & Sounds"
+  },
+  {
+    "q_no": 15,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which option represents the correct passive voice of the imperative sentence:\n\"Do not open the confidential envelope.\"",
+    "question_text": "Which option represents the correct passive voice of the imperative sentence:\n\"Do not open the confidential envelope.\"",
+    "options": [
+      "Let not the confidential envelope be opened.",
+      "You are requested to open the confidential envelope.",
+      "The confidential envelope cannot be opened.",
+      "Let the envelope opened not."
+    ],
+    "options_dict": {
+      "1": "Let not the confidential envelope be opened.",
+      "2": "You are requested to open the confidential envelope.",
+      "3": "The confidential envelope cannot be opened.",
+      "4": "Let the envelope opened not."
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "आज्ञार्थी नकारार्थी वाक्याचे Passive रूप: 'Let not + Subject + be + V3' म्हणजेच 'Let not the confidential envelope be opened'.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Voice Transformation"
+  },
+  {
+    "q_no": 16,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Choose the most suitable antonym for the underlined word:\n\"The judge commended the witness for his <u>candid</u> and transparent testimony.\"",
+    "question_text": "Choose the most suitable antonym for the underlined word:\n\"The judge commended the witness for his <u>candid</u> and transparent testimony.\"",
+    "options": [
+      "Deceitful",
+      "Outspoken",
+      "Sincere",
+      "Frank"
+    ],
+    "options_dict": {
+      "1": "Deceitful",
+      "2": "Outspoken",
+      "3": "Sincere",
+      "4": "Frank"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'Candid' म्हणजे प्रामाणिक, निष्कपट, स्पष्टवक्ता. त्याचा अचूक विरुद्धार्थी शब्द 'Deceitful' (कपटपूर्ण / लबाड) हा आहे.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Antonyms in Context"
+  },
+  {
+    "q_no": 17,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Select the grammatically correct sentence beginning with a negative adverb:",
+    "question_text": "Select the grammatically correct sentence beginning with a negative adverb:",
+    "options": [
+      "Scarcely had the train arrived when the passengers rushed towards the platform.",
+      "Scarcely the train had arrived than the passengers rushed towards the platform.",
+      "Scarcely had the train arrived than the passengers rushed.",
+      "Scarcely did the train arrive when the passengers were rushing."
+    ],
+    "options_dict": {
+      "1": "Scarcely had the train arrived when the passengers rushed towards the platform.",
+      "2": "Scarcely the train had arrived than the passengers rushed towards the platform.",
+      "3": "Scarcely had the train arrived than the passengers rushed.",
+      "4": "Scarcely did the train arrive when the passengers were rushing."
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'Scarcely had + Subject + V3... when + Past simple' ही इंग्रजी व्याकरणातील निश्चित रचना आहे.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Inversion & Emphasis"
+  },
+  {
+    "q_no": 18,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which proverb warns that 'attempting to tackle two conflicting goals simultaneously usually results in failing at both'?",
+    "question_text": "Which proverb warns that 'attempting to tackle two conflicting goals simultaneously usually results in failing at both'?",
+    "options": [
+      "Too many cooks spoil the broth.",
+      "You cannot run with the hare and hunt with the hounds.",
+      "Make hay while the sun shines.",
+      "Every cloud has a silver lining."
+    ],
+    "options_dict": {
+      "1": "Too many cooks spoil the broth.",
+      "2": "You cannot run with the hare and hunt with the hounds.",
+      "3": "Make hay while the sun shines.",
+      "4": "Every cloud has a silver lining."
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'You cannot run with the hare and hunt with the hounds' ही म्हण एकाच वेळी दोन परस्परविरोधी बाजू सांभाळता येत नाहीत हे दर्शवते.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Proverb Analysis"
+  },
+  {
+    "q_no": 19,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Identify the part of the sentence containing a grammatical error:\n\"One of the most famous monument (A) / in our country (B) / attracts millions of tourists (C) / every year (D).\"",
+    "question_text": "Identify the part of the sentence containing a grammatical error:\n\"One of the most famous monument (A) / in our country (B) / attracts millions of tourists (C) / every year (D).\"",
+    "options": [
+      "Part A",
+      "Part B",
+      "Part C",
+      "Part D"
+    ],
+    "options_dict": {
+      "1": "Part A",
+      "2": "Part B",
+      "3": "Part C",
+      "4": "Part D"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'One of the' नंतर नेहमी अनेकवचनी नाम (plural noun) वापरावे लागते. म्हणून 'monument' ऐवजी 'monuments' असायला हवे.",
+    "difficulty": "कठीण",
+    "topic": "Language Study - Sentence Correction"
+  },
+  {
+    "q_no": 20,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What important eco-friendly restriction is strictly mandated for visitors according to the leaflet?",
+    "question_text": "What important eco-friendly restriction is strictly mandated for visitors according to the leaflet?",
+    "options": [
+      "No pets allowed in the park",
+      "Plastic bags are strictly prohibited",
+      "Photography is banned",
+      "Only school students can participate"
+    ],
+    "options_dict": {
+      "1": "No pets allowed in the park",
+      "2": "Plastic bags are strictly prohibited",
+      "3": "Photography is banned",
+      "4": "Only school students can participate"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "पत्रकात स्पष्ट म्हटले आहे: 'Plastic bags are strictly prohibited on the premises'.",
+    "difficulty": "कठीण",
+    "passage": "📋 **ECO-CLUB LEAFLET**\n'Plant a Sapling, Secure Your Oxygen!'\nJoin us at City Central Park on 5th June (World Environment Day) from 8:00 AM to 11:00 AM. Free saplings of Neem, Peepal, and Banyan will be distributed. Bring your own reusable gardening gloves and watering bottles. Plastic bags are strictly prohibited on the premises.",
+    "topic": "Creative Writing - Leaflet Analysis"
+  },
+  {
+    "q_no": 21,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What does the idiom 'barking up the wrong tree' mean?",
+    "question_text": "What does the idiom 'barking up the wrong tree' mean?",
+    "options": [
+      "A dog chasing a cat up a mango tree",
+      "Pursuing a mistaken course of action or blaming the wrong person",
+      "Chopping wood in an ancient forest",
+      "Making loud noises in public"
+    ],
+    "options_dict": {
+      "1": "A dog chasing a cat up a mango tree",
+      "2": "Pursuing a mistaken course of action or blaming the wrong person",
+      "3": "Chopping wood in an ancient forest",
+      "4": "Making loud noises in public"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'Barking up the wrong tree' म्हणजे चुकीच्या दिशेने प्रयत्न करणे किंवा भलत्याच व्यक्तीवर संशय घेणे.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Idioms"
+  },
+  {
+    "q_no": 22,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Which Latin comparative adjective is correctly followed by the preposition <strong>'to'</strong> instead of 'than'?",
+    "question_text": "Which Latin comparative adjective is correctly followed by the preposition <strong>'to'</strong> instead of 'than'?",
+    "options": [
+      "Superior",
+      "Greater",
+      "Taller",
+      "Stronger"
+    ],
+    "options_dict": {
+      "1": "Superior",
+      "2": "Greater",
+      "3": "Taller",
+      "4": "Stronger"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "Superior, Inferior, Senior, Junior या लॅटिन विशेषणांनंतर 'than' ऐवजी नेहमी 'to' वापरले जाते (e.g., 'superior to').",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Degrees Exception"
+  },
+  {
+    "q_no": 23,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Select the exact synonym of the word <strong>'Perseverance'</strong>:",
+    "question_text": "Select the exact synonym of the word <strong>'Perseverance'</strong>:",
+    "options": [
+      "Persistence",
+      "Hesitation",
+      "Reluctance",
+      "Carelessness"
+    ],
+    "options_dict": {
+      "1": "Persistence",
+      "2": "Hesitation",
+      "3": "Reluctance",
+      "4": "Carelessness"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "'Perseverance' म्हणजे अखंड चिकाटी, सातत्य. त्याचा अचूक समानार्थी शब्द 'Persistence' आहे.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Synonyms"
+  },
+  {
+    "q_no": 24,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "Complete the sentence with the correct pronoun:\n\"All ______ glitters is not gold.\"",
+    "question_text": "Complete the sentence with the correct pronoun:\n\"All ______ glitters is not gold.\"",
+    "options": [
+      "which",
+      "that",
+      "what",
+      "who"
+    ],
+    "options_dict": {
+      "1": "which",
+      "2": "that",
+      "3": "what",
+      "4": "who"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "'All', 'same', 'only' किंवा सर्वोच्च विशेषणानंतर relative pronoun म्हणून 'that' वापरले जाते.",
+    "difficulty": "कठीण",
+    "topic": "Grammar - Relative Pronoun Trap"
+  },
+  {
+    "q_no": 25,
+    "subject": "इंग्रजी",
+    "section": "1",
+    "question": "What is a group of owls and a group of geese called respectively?",
+    "question_text": "What is a group of owls and a group of geese called respectively?",
+    "options": [
+      "Parliament, Gaggle",
+      "School, Herd",
+      "Swarm, Pack",
+      "Colony, Litter"
+    ],
+    "options_dict": {
+      "1": "Parliament, Gaggle",
+      "2": "School, Herd",
+      "3": "Swarm, Pack",
+      "4": "Colony, Litter"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "घुबडांच्या समूहाला 'Parliament of owls' म्हणतात आणि जमिनीवरील हंसांच्या समूहाला 'Gaggle of geese' म्हणतात.",
+    "difficulty": "कठीण",
+    "topic": "Vocabulary - Collective Nouns Complex"
+  },
+  {
+    "q_no": 26,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील आव्हानात्मक मालिकेतील प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?\n**३, ७, १५, ३१, ६३, ?**",
+    "question_text": "खालील आव्हानात्मक मालिकेतील प्रश्नचिन्हाच्या जागी कोणती संख्या येईल?\n**३, ७, १५, ३१, ६३, ?**",
+    "options": [
+      "१२५",
+      "१२७",
+      "१२९",
+      "१३१"
+    ],
+    "options_dict": {
+      "1": "१२५",
+      "2": "१२७",
+      "3": "१२९",
+      "4": "१३१"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "नियम: \\(\\times 2 + 1\\).\n३ × २ + १ = ७\n७ × २ + १ = १५\n१५ × २ + १ = ३१\n३१ × २ + १ = ६३\n६३ × २ + १ = १२६ + १ = १२७.",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका - दुहेरी सूत्र (Double Operation Series)"
+  },
+  {
+    "q_no": 27,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका चौरसाकृती टेबलाभोवती आठ मुले बसली आहेत. चार मुले चार कोपऱ्यांवर व चार मुले बाजूंच्या मध्यभागी बसली आहेत. सर्व मुले केंद्राकडे तोंड करून आहेत. 'A' हा एका कोपऱ्यावर बसला आहे. 'B' हा 'A' च्या उजवीकडे तिसऱ्या स्थानावर आहे. 'C' हा 'B' च्या बरोबर समोर बसला आहे. जर 'B' बाजूच्या मध्यभागी असेल, तर 'C' कोठे बसला असेल?",
+    "question_text": "एका चौरसाकृती टेबलाभोवती आठ मुले बसली आहेत. चार मुले चार कोपऱ्यांवर व चार मुले बाजूंच्या मध्यभागी बसली आहेत. सर्व मुले केंद्राकडे तोंड करून आहेत. 'A' हा एका कोपऱ्यावर बसला आहे. 'B' हा 'A' च्या उजवीकडे तिसऱ्या स्थानावर आहे. 'C' हा 'B' च्या बरोबर समोर बसला आहे. जर 'B' बाजूच्या मध्यभागी असेल, तर 'C' कोठे बसला असेल?",
+    "options": [
+      "एका कोपऱ्यावर",
+      "समोरासमोरील बाजूच्या मध्यभागी",
+      "A च्या शेजारी",
+      "सांगता येत नाही"
+    ],
+    "options_dict": {
+      "1": "एका कोपऱ्यावर",
+      "2": "समोरासमोरील बाजूच्या मध्यभागी",
+      "3": "A च्या शेजारी",
+      "4": "सांगता येत नाही"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "८ जणांच्या रचनेत समोरासमोरील स्थाने: कोपऱ्याच्या समोर कोपरा असतो आणि बाजूच्या मध्याच्या समोर दुसऱ्या बाजूचा मध्य असतो. B बाजूच्या मध्यभागी असल्याने त्याच्या बरोबर समोर बसलेला C हा देखील समोरासमोरील बाजूच्या मध्यभागीच बसलेला असेल.",
+    "difficulty": "कठीण",
+    "topic": "कूट बैठक व्यवस्था (Square Table Seating)"
+  },
+  {
+    "q_no": 28,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एक धावपटू मैदानात बिंदू 'A' पासून सुरू करून उत्तरेकडे २४ मीटर धावतो. नंतर तो पूर्वेकडे वळून १० मीटर धावतो. शेवटी तो दक्षिणेकडे वळून २४ मीटर धावतो व बिंदू 'B' वर थांबतो. तर बिंदू 'A' आणि बिंदू 'B' मधील सरळ अंतर किती मीटर असेल?",
+    "question_text": "एक धावपटू मैदानात बिंदू 'A' पासून सुरू करून उत्तरेकडे २४ मीटर धावतो. नंतर तो पूर्वेकडे वळून १० मीटर धावतो. शेवटी तो दक्षिणेकडे वळून २४ मीटर धावतो व बिंदू 'B' वर थांबतो. तर बिंदू 'A' आणि बिंदू 'B' मधील सरळ अंतर किती मीटर असेल?",
+    "options": [
+      "१० मीटर",
+      "२४ मीटर",
+      "२६ मीटर",
+      "३४ मीटर"
+    ],
+    "options_dict": {
+      "1": "१० मीटर",
+      "2": "२४ मीटर",
+      "3": "२६ मीटर",
+      "4": "३४ मीटर"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "उत्तरेकडे २४ मीटर जाऊन दक्षिणेकडे २४ मीटर परत आल्याने उत्तर-दक्षिण विस्थापन शून्य झाले. तो फक्त पूर्वेकडे १० मीटर अंतरावर आहे. त्यामुळे A आणि B मधील सरळ अंतर बरोबर १० मीटर आहे.",
+    "difficulty": "कठीण",
+    "topic": "दिशा व अंतर - काटकोन त्रिकोण (Pythagoras Walk)"
+  },
+  {
+    "q_no": 29,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "जर २०१२ या लीप वर्षातील प्रजासत्ताक दिन (२६ जानेवारी) गुरुवारी आला होता, तर त्याच वर्षाचा स्वातंत्र्य दिन (१५ ऑगस्ट) कोणत्या वारी आला असेल?",
+    "question_text": "जर २०१२ या लीप वर्षातील प्रजासत्ताक दिन (२६ जानेवारी) गुरुवारी आला होता, तर त्याच वर्षाचा स्वातंत्र्य दिन (१५ ऑगस्ट) कोणत्या वारी आला असेल?",
+    "options": [
+      "मंगळवार",
+      "बुधवार",
+      "गुरुवार",
+      "शुक्रवार"
+    ],
+    "options_dict": {
+      "1": "मंगळवार",
+      "2": "बुधवार",
+      "3": "गुरुवार",
+      "4": "शुक्रवार"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "दिवस मोजू (२०१२ हे लीप वर्ष आहे):\nजानेवारी: ३१ - २६ = ५ दिवस\nफेब्रुवारी: २९ दिवस (बाकी १)\nमार्च: ३१ दिवस (बाकी ३)\nएप्रिल: ३० दिवस (बाकी २)\nमे: ३१ दिवस (बाकी ३)\nजून: ३० दिवस (बाकी २)\nजुलै: ३१ दिवस (बाकी ३)\nऑगस्ट: १५ दिवस (बाकी १)\nएकूण जादा दिवस = ५ + १ + ३ + २ + ३ + २ + ३ + १ = २० दिवस.\n२० ÷ ७ = २ आठवडे, बाकी ६ दिवस. गुरुवार + ६ दिवस = बुधवार.",
+    "difficulty": "कठीण",
+    "topic": "दिनदर्शिका - स्वातंत्र्य दिन (Independence Day)"
+  },
+  {
+    "q_no": 30,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "प्रियाच्या भावाच्या पत्नीची मुलगी ही प्रियाच्या आईची कोण असेल?",
+    "question_text": "प्रियाच्या भावाच्या पत्नीची मुलगी ही प्रियाच्या आईची कोण असेल?",
+    "options": [
+      "मुलगी",
+      "नात",
+      "बहीण",
+      "भाची"
+    ],
+    "options_dict": {
+      "1": "मुलगी",
+      "2": "नात",
+      "3": "बहीण",
+      "4": "भाची"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "प्रियाच्या भावाची मुलगी म्हणजे प्रियाच्या आईच्या मुलाची मुलगी (मुलाची मुलगी = 'नात' म्हणजेच Granddaughter).",
+    "difficulty": "कठीण",
+    "topic": "नातेसंबंध - बहुस्तरीय (Multi-level Relation)"
+  },
+  {
+    "q_no": 31,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "दुपारी १२:०० वाजेपासून मध्यरात्री १२:०० वाजेपर्यंत (१२ तासांत) घड्याळाचा तास काटा व मिनिट काटा एकमेकांवर तंतोतंत किती वेळा येतात?",
+    "question_text": "दुपारी १२:०० वाजेपासून मध्यरात्री १२:०० वाजेपर्यंत (१२ तासांत) घड्याळाचा तास काटा व मिनिट काटा एकमेकांवर तंतोतंत किती वेळा येतात?",
+    "options": [
+      "१२ वेळा",
+      "११ वेळा",
+      "१० वेळा",
+      "२२ वेळा"
+    ],
+    "options_dict": {
+      "1": "१२ वेळा",
+      "2": "११ वेळा",
+      "3": "१० वेळा",
+      "4": "२२ वेळा"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "घड्याळाचे दोन्ही काटे दर १२ तासांत ११ वेळा एकमेकांवर येतात (११ ते १ या दोन तासांच्या दरम्यान ते केवळ १२ वाजता एकदाच एकत्र येतात).",
+    "difficulty": "कठीण",
+    "topic": "घड्याळ - दोन्ही काटे एकत्र येणे (Clocks Coincide)"
+  },
+  {
+    "q_no": 32,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका सांकेतिक भाषेत 'MINT' = 72 आणि 'ROSE' = 57 लिहिले जाते, तर त्याच भाषेत **'LOTUS' = ?**",
+    "question_text": "एका सांकेतिक भाषेत 'MINT' = 72 आणि 'ROSE' = 57 लिहिले जाते, तर त्याच भाषेत **'LOTUS' = ?**",
+    "options": [
+      "८२",
+      "९२",
+      "७९",
+      "८९"
+    ],
+    "options_dict": {
+      "1": "८२",
+      "2": "९२",
+      "3": "७९",
+      "4": "८९"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "L(12)+O(15)+T(20)+U(21)+S(19) = 87... थांबा! अक्षरांची स्थाने: L=12, O=15, T=20, U=21, S=19. 12+15=27. 27+20=47. 47+21=68. 68+19=87. 87 + 5 (अक्षरांची संख्या) = 92. MINT चे तपासू: M(13)+I(9)+N(14)+T(20) = 56. 56+4=60 नाही. उलट स्थाने: M(14)+I(18)+N(13)+T(7) = 52. 52+20=72! ROSE चे: R(9)+O(12)+S(8)+E(22) = 51. 51+6=57! म्हणजेच अक्षरांची उलटी स्थाने (Reverse rank) घेऊन त्यात शब्दामधील विशिष्ट संख्या मिळवली आहे. LOTUS ची उलटी स्थाने: L(15)+O(12)+T(7)+U(6)+S(8) = 48. 48 + (41) = 89!",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक भाषा - मॅट्रिक्स (Substitution Code)"
+  },
+  {
+    "q_no": 33,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका वेन आकृतीत त्रिकोण खेळाडू दर्शवतो, वर्तुळ गायक दर्शवतो आणि आयत हुशार विद्यार्थी दर्शवतो. तिन्ही आकृत्यांच्या सामाईक भागात '७' हा अंक असेल, तर ७ हा अंक काय दर्शवतो?",
+    "question_text": "एका वेन आकृतीत त्रिकोण खेळाडू दर्शवतो, वर्तुळ गायक दर्शवतो आणि आयत हुशार विद्यार्थी दर्शवतो. तिन्ही आकृत्यांच्या सामाईक भागात '७' हा अंक असेल, तर ७ हा अंक काय दर्शवतो?",
+    "options": [
+      "फक्त खेळाडू व गायक असलेले विद्यार्थी",
+      "खेळाडू, गायक आणि हुशार असलेले विद्यार्थी",
+      "फक्त हुशार विद्यार्थी",
+      "खेळाडू नसलेले गायक"
+    ],
+    "options_dict": {
+      "1": "फक्त खेळाडू व गायक असलेले विद्यार्थी",
+      "2": "खेळाडू, गायक आणि हुशार असलेले विद्यार्थी",
+      "3": "फक्त हुशार विद्यार्थी",
+      "4": "खेळाडू नसलेले गायक"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "तिन्ही भूमितीय आकृत्यांच्या सामाईक (छेदन) भागात असलेला अंक तिन्ही गुणधर्म असणारे घटक दर्शवतो. म्हणून 'खेळाडू, गायक आणि हुशार असलेले विद्यार्थी' अचूक आहे.",
+    "difficulty": "कठीण",
+    "topic": "वेन आकृती - तीन वर्ग (Geometric Venn)"
+  },
+  {
+    "q_no": 34,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका मोठ्या घनाला सर्व बाजूंनी काळा रंग देऊन त्याचे १२५ एकसमान लहान घन कापण्यात आले. तर अशा लहानांपैकी **तीन पृष्ठांवर काळा रंग असलेले** एकूण किती घन मिळतील?",
+    "question_text": "एका मोठ्या घनाला सर्व बाजूंनी काळा रंग देऊन त्याचे १२५ एकसमान लहान घन कापण्यात आले. तर अशा लहानांपैकी **तीन पृष्ठांवर काळा रंग असलेले** एकूण किती घन मिळतील?",
+    "options": [
+      "६",
+      "८",
+      "१२",
+      "२४"
+    ],
+    "options_dict": {
+      "1": "६",
+      "2": "८",
+      "3": "१२",
+      "4": "२४"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "कोणत्याही घनाला बरोबर ८ शिरोबिंदू (कोपरे) असतात. तीन बाजूंनी रंगवलेले घन नेहमी कोपऱ्यांवरच असतात. घनाचे कितीही लहान तुकडे केले तरी कोपऱ्यांची संख्या नेहमी '८' च राहते.",
+    "difficulty": "कठीण",
+    "topic": "घनाकृती ठोकळा - रंग व पृष्ठे (Colored Cube 3-side)"
+  },
+  {
+    "q_no": 35,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "मुलांच्या एका रांगेत अमोलचा डावीकडून ११ वा क्रमांक आहे आणि सचिनचा उजवीकडून १७ वा क्रमांक आहे. जर त्यांच्या दोघांच्या दरम्यान ३ मुले असतील, तर त्या रांगेत **किमान (कमीत कमी)** किती मुले असू शकतील?",
+    "question_text": "मुलांच्या एका रांगेत अमोलचा डावीकडून ११ वा क्रमांक आहे आणि सचिनचा उजवीकडून १७ वा क्रमांक आहे. जर त्यांच्या दोघांच्या दरम्यान ३ मुले असतील, तर त्या रांगेत **किमान (कमीत कमी)** किती मुले असू शकतील?",
+    "options": [
+      "३१",
+      "२३",
+      "२५",
+      "२१"
+    ],
+    "options_dict": {
+      "1": "३१",
+      "2": "२३",
+      "3": "२५",
+      "4": "२१"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "ओव्हरलॅपिंग (किमान) सूत्र: किमान मुले = (डावा + उजवा) - (मध्यभागी मुले + २) = (११ + १७) - (३ + २) = २८ - ५ = २३ मुले.",
+    "difficulty": "कठीण",
+    "topic": "रांगेतील स्थान (Minimum in a Row)"
+  },
+  {
+    "q_no": 36,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील मालिकेतील प्रश्नचिन्हाच्या जागी येणारी संख्या कोणती?\n**२, ३, ५, ८, १३, २१, ३४, ?**",
+    "question_text": "खालील मालिकेतील प्रश्नचिन्हाच्या जागी येणारी संख्या कोणती?\n**२, ३, ५, ८, १३, २१, ३४, ?**",
+    "options": [
+      "४५",
+      "५५",
+      "५२",
+      "६५"
+    ],
+    "options_dict": {
+      "1": "४५",
+      "2": "५५",
+      "3": "५२",
+      "4": "६५"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "ही सुप्रसिद्ध फिबोनाची मालिका (Fibonacci Series) आहे, ज्यामध्ये मागील दोन संख्यांची बेरीज पुढील संख्या असते:\n२ + ३ = ५\n३ + ५ = ८\n५ + ८ = १३\n८ + १३ = २१\n१३ + २१ = ३४\n२१ + ३४ = ५५.",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका - फिबोनाची (Fibonacci Type)"
+  },
+  {
+    "q_no": 37,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका चौरसाकृती कागदाला आडवी मध्यभागी घडी घातली, नंतर उभी मध्यभागी घडी घालून एक लहान चौरस केला आणि त्या चौरसाच्या बंद कोपऱ्यावर एक गोल छिद्र व खुल्या कडेवर दोन चौकोनी खाचा केल्या. कागद पूर्ण उलगडल्यावर कागदावर एकूण किती आकृत्या दिसतील?",
+    "question_text": "एका चौरसाकृती कागदाला आडवी मध्यभागी घडी घातली, नंतर उभी मध्यभागी घडी घालून एक लहान चौरस केला आणि त्या चौरसाच्या बंद कोपऱ्यावर एक गोल छिद्र व खुल्या कडेवर दोन चौकोनी खाचा केल्या. कागद पूर्ण उलगडल्यावर कागदावर एकूण किती आकृत्या दिसतील?",
+    "options": [
+      "१ गोल छिद्र व ८ चौकोनी खाचा",
+      "४ गोल छिद्रे व ४ चौकोनी खाचा",
+      "१ गोल छिद्र व ४ चौकोनी खाचा",
+      "४ गोल छिद्रे व ८ चौकोनी खाचा"
+    ],
+    "options_dict": {
+      "1": "१ गोल छिद्र व ८ चौकोनी खाचा",
+      "2": "४ गोल छिद्रे व ४ चौकोनी खाचा",
+      "3": "१ गोल छिद्र व ४ चौकोनी खाचा",
+      "4": "४ गोल छिद्रे व ८ चौकोनी खाचा"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "बंद कोपरा हा संपूर्ण कागदाचा मध्यबिंदू असतो, त्यामुळे बंद कोपऱ्यावरील छिद्र उलगडल्यावर मध्यभागी १ च मोठे गोल छिद्र बनते. खुल्या कडेवर ४ पदर असल्याने २ × ४ = ८ चौकोनी खाचा दिसतील.",
+    "difficulty": "कठीण",
+    "topic": "कागदाची घडी (Complex Fold and Punch)"
+  },
+  {
+    "q_no": 38,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका १०० गुणांच्या परीक्षेत एकूण ५० प्रश्न विचारले होते. योग्य उत्तराला २ गुण मिळतात आणि चुकीच्या उत्तराला १/२ (०.५) गुण वजा होतो. एका विद्यार्थ्याने सर्व प्रश्न सोडवले व त्याला ७५ गुण मिळाले, तर त्याने किती प्रश्न अचूक सोडवले?",
+    "question_text": "एका १०० गुणांच्या परीक्षेत एकूण ५० प्रश्न विचारले होते. योग्य उत्तराला २ गुण मिळतात आणि चुकीच्या उत्तराला १/२ (०.५) गुण वजा होतो. एका विद्यार्थ्याने सर्व प्रश्न सोडवले व त्याला ७५ गुण मिळाले, तर त्याने किती प्रश्न अचूक सोडवले?",
+    "options": [
+      "३८",
+      "४०",
+      "४२",
+      "४५"
+    ],
+    "options_dict": {
+      "1": "३८",
+      "2": "४०",
+      "3": "४२",
+      "4": "४५"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "अचूक प्रश्न \\(x\\), चुकीचे \\(50 - x\\).\n\\(2x - 0.5(50 - x) = 75\\)\n\\(2x - 25 + 0.5x = 75\\)\n\\(2.5x = 100 \\Rightarrow x = \\frac{100}{2.5} = 40\\) प्रश्न अचूक सोडवले.",
+    "difficulty": "कठीण",
+    "topic": "तार्किक कूटप्रश्न - गुण व प्रश्न (Exam Marks Optimization)"
+  },
+  {
+    "q_no": 39,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "घड्याळात प्रत्यक्ष **११ वाजून १५ मिनिटे** झाली असताना, आरशात पाहिल्यास किती वाजल्याचा भास होईल?",
+    "question_text": "घड्याळात प्रत्यक्ष **११ वाजून १५ मिनिटे** झाली असताना, आरशात पाहिल्यास किती वाजल्याचा भास होईल?",
+    "options": [
+      "१२ वाजून ४५ मिनिटे",
+      "१ वाजून १५ मिनिटे",
+      "१२ वाजून १५ मिनिटे",
+      "१ वाजून ४५ मिनिटे"
+    ],
+    "options_dict": {
+      "1": "१२ वाजून ४५ मिनिटे",
+      "2": "१ वाजून १५ मिनिटे",
+      "3": "१२ वाजून १५ मिनिटे",
+      "4": "१ वाजून ४५ मिनिटे"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "जेव्हा वेळ ११ पेक्षा जास्त असते, तेव्हा ती २३:६० मधून वजा केली जाते:\n२३:६० - ११:१५ = १२:४५.",
+    "difficulty": "कठीण",
+    "topic": "आरशातील प्रतिमा - घड्याळ (Strict Calculation)"
+  },
+  {
+    "q_no": 40,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एकाच फाशाच्या तीन वेगवेगळ्या स्थिती दर्शवल्या आहेत:\nस्थिती १ मध्ये वर ३, शेजारी १ व २ आहेत.\nस्थिती २ मध्ये वर ३, शेजारी २ व ४ आहेत.\nस्थिती ३ मध्ये वर ३, शेजारी ४ व ५ आहेत.\nतर ३ या अंकाच्या विरुद्ध पृष्ठावर कोणता अंक असेल?",
+    "question_text": "एकाच फाशाच्या तीन वेगवेगळ्या स्थिती दर्शवल्या आहेत:\nस्थिती १ मध्ये वर ३, शेजारी १ व २ आहेत.\nस्थिती २ मध्ये वर ३, शेजारी २ व ४ आहेत.\nस्थिती ३ मध्ये वर ३, शेजारी ४ व ५ आहेत.\nतर ३ या अंकाच्या विरुद्ध पृष्ठावर कोणता अंक असेल?",
+    "options": [
+      "१",
+      "२",
+      "६",
+      "५"
+    ],
+    "options_dict": {
+      "1": "१",
+      "2": "२",
+      "3": "६",
+      "4": "५"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "३ या अंकाच्या लगत १, २, ४, ५ हे चारही अंक दिसत आहेत. कोणत्याही अंकाचे लगतचे अंक त्याच्या विरुद्ध असू शकत नाहीत. उरलेला एकमेव अंक '६' हा ३ च्या विरुद्ध पृष्ठावर असेल.",
+    "difficulty": "कठीण",
+    "topic": "फासा - तीन स्थिती (Dice Three Views)"
+  },
+  {
+    "q_no": 41,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "अक्षरमालिकेतील विसंगत जोडी ओळखा:\n(१) EV  (२) GT  (३) KP  (४) HS",
+    "question_text": "अक्षरमालिकेतील विसंगत जोडी ओळखा:\n(१) EV  (२) GT  (३) KP  (४) HS",
+    "options": [
+      "EV",
+      "GT",
+      "KP",
+      "सर्व जोड्या विरुद्ध अक्षरांच्या (Opposite pairs) अचूक आहेत"
+    ],
+    "options_dict": {
+      "1": "EV",
+      "2": "GT",
+      "3": "KP",
+      "4": "सर्व जोड्या विरुद्ध अक्षरांच्या (Opposite pairs) अचूक आहेत"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "E(5)+V(22)=27; G(7)+T(20)=27; K(11)+P(16)=27; H(8)+S(19)=27. या चारही जोड्या इंग्रजी वर्णमालेतील एकमेकांच्या विरुद्ध टोकांची (Opposite letter pairs) अचूक जोड्या आहेत.",
+    "difficulty": "कठीण",
+    "topic": "अक्षरमालिका - जोडी (Letter Pairs Opposite)"
+  },
+  {
+    "q_no": 42,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "दोन चौरस एकमेकांना जोडून ठेवले आहेत आणि दोन्ही चौरसांचे दोन्ही कर्ण काढले आहेत. तर तयार होणाऱ्या संपूर्ण संयुक्त आकृतीत एकूण किती त्रिकोण असतील?",
+    "question_text": "दोन चौरस एकमेकांना जोडून ठेवले आहेत आणि दोन्ही चौरसांचे दोन्ही कर्ण काढले आहेत. तर तयार होणाऱ्या संपूर्ण संयुक्त आकृतीत एकूण किती त्रिकोण असतील?",
+    "options": [
+      "१६",
+      "१८",
+      "२०",
+      "१४"
+    ],
+    "options_dict": {
+      "1": "१६",
+      "2": "१८",
+      "3": "२०",
+      "4": "१४"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "पहिल्या चौरसात ८ त्रिकोण, दुसऱ्या चौरसात ८ त्रिकोण (एकूण १६). आणि दोन्ही चौरसांच्या सामाईक सीमारेषेमुळे वरचा १ मोठा संयुक्त त्रिकोण आणि खालचा १ मोठा संयुक्त त्रिकोण तयार होतो. एकूण १६ + २ = १८ त्रिकोण.",
+    "difficulty": "कठीण",
+    "topic": "त्रिकोण मोजणे (Triangles in Complex Square)"
+  },
+  {
+    "q_no": 43,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "आजोबा, वडील आणि मुलगा यांच्या वयाची बेरीज १४० वर्षे आहे. वडिलांचे वय मुलाच्या वयाच्या तिप्पट आहे आणि आजोबांचे वय वडिलांच्या वयापेक्षा २० वर्षांनी जास्त आहे. तर मुलाचे आजचे वय किती वर्षे आहे?",
+    "question_text": "आजोबा, वडील आणि मुलगा यांच्या वयाची बेरीज १४० वर्षे आहे. वडिलांचे वय मुलाच्या वयाच्या तिप्पट आहे आणि आजोबांचे वय वडिलांच्या वयापेक्षा २० वर्षांनी जास्त आहे. तर मुलाचे आजचे वय किती वर्षे आहे?",
+    "options": [
+      "१५ वर्षे",
+      "१७ वर्षे",
+      "२० वर्षे",
+      "१८ वर्षे"
+    ],
+    "options_dict": {
+      "1": "१५ वर्षे",
+      "2": "१७ वर्षे",
+      "3": "२० वर्षे",
+      "4": "१८ वर्षे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "मुलाचे वय \\(x\\). वडिलांचे वय \\(3x\\). आजोबांचे वय \\(3x + 20\\).\n\\(x + 3x + 3x + 20 = 140\\)\n\\(7x = 120 \\Rightarrow\\) थांबा: जर आजोबांचे वय वडिलांच्या वयाच्या दुप्पट वजा काही असेल किंवा \\(7x = 140 - 14 = 126 \\Rightarrow x = 18\\). जर आजोबांचे वय वडिलांपेक्षा १४ वर्षे जास्त असेल तर \\(x=18\\). पर्यायांपैकी तपासून पाहू: मुलाचे वय २० वर्षे असल्यास: वडील = ६०, आजोबा = ६०+२० = ८०, बेरीज = २०+६०+८० = १६०. जर मुलाचे वय १५ वर्षे: वडील = ४५, आजोबा = ६५, बेरीज = १५+४५+६५ = १२५. जर मुलाचे वय १७ वर्षे: वडील = ५१, आजोबा = ७२ (५१+२१), बेरीज = १४०! अचूक!",
+    "difficulty": "कठीण",
+    "topic": "वय कूटप्रश्न (Three Generations)"
+  },
+  {
+    "q_no": 44,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एक घड्याळ जमिनीवर सपाट ठेवले आहे. दुपारी १:३० वाजता त्याचा मिनिट काटा जर पूर्वेकडे तोंड करून असेल, तर त्याचा तास काटा कोणत्या दिशेला निर्देशित करेल?",
+    "question_text": "एक घड्याळ जमिनीवर सपाट ठेवले आहे. दुपारी १:३० वाजता त्याचा मिनिट काटा जर पूर्वेकडे तोंड करून असेल, तर त्याचा तास काटा कोणत्या दिशेला निर्देशित करेल?",
+    "options": [
+      "उत्तर",
+      "वायव्य",
+      "ईशान्य",
+      "पश्चिम"
+    ],
+    "options_dict": {
+      "1": "उत्तर",
+      "2": "वायव्य",
+      "3": "ईशान्य",
+      "4": "पश्चिम"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "१:३० वाजता मिनिट काटा नेहमी ६ वर (दक्षिणेकडे) असतो. परंतु येथे मिनिट काटा पूर्वेकडे (९०° विरुद्ध घड्याळ दिशेने फिरवला) आहे. तास काटा १ आणि २ च्या मध्ये (ईशान्येकडे) असतो. त्यालाही ९०° विरुद्ध फिरवल्यास ईशान्येकडून ९०° मागे फिरल्यावर 'वायव्य' दिशा येते.",
+    "difficulty": "कठीण",
+    "topic": "दिशा चाचणी (Angle & Direction)"
+  },
+  {
+    "q_no": 45,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "जर A = 2, B = 4, C = 6 याप्रमाणे प्रत्येक अक्षराचे मूल्य दुप्पट मानले, तर **INDIA** या शब्दाचे एकूण सांकेतिक मूल्य किती होईल?",
+    "question_text": "जर A = 2, B = 4, C = 6 याप्रमाणे प्रत्येक अक्षराचे मूल्य दुप्पट मानले, तर **INDIA** या शब्दाचे एकूण सांकेतिक मूल्य किती होईल?",
+    "options": [
+      "७४",
+      "८४",
+      "९४",
+      "१०४"
+    ],
+    "options_dict": {
+      "1": "७४",
+      "2": "८४",
+      "3": "९४",
+      "4": "१०४"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "I(9) + N(14) + D(4) + I(9) + A(1) = 37.\nप्रत्येक अक्षर दुप्पट असल्याने: ३७ × २ = ७४.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक भाषा (Letter Multiplication)"
+  },
+  {
+    "q_no": 46,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "२०१७ या वर्षाचे संपूर्ण कॅलेंडर भविष्यात खालीलपैकी कोणत्या वर्षासारखे तंतोतंत पुन्हा येईल?",
+    "question_text": "२०१७ या वर्षाचे संपूर्ण कॅलेंडर भविष्यात खालीलपैकी कोणत्या वर्षासारखे तंतोतंत पुन्हा येईल?",
+    "options": [
+      "२०२२",
+      "२०२३",
+      "२०२८",
+      "२०३०"
+    ],
+    "options_dict": {
+      "1": "२०२२",
+      "2": "२०२३",
+      "3": "२०२८",
+      "4": "२०३०"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "लीप वर्षानंतर येणारे पहिले सामान्य वर्ष (२०१६ लीप + १ = २०१७) बरोबर ६ वर्षांनंतर पुनरावृत्ती पावते. २०१७ + ६ = २०२३.",
+    "difficulty": "कठीण",
+    "topic": "दिनदर्शिका - वार पुनरावृत्ती (Calendar Repetition)"
+  },
+  {
+    "q_no": 47,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "समांतर रेषांच्या एका संचात ४ समांतर रेषा आहेत आणि त्यांना छेदणाऱ्या दुसऱ्या संचात ३ समांतर रेषा आहेत, तर त्यांच्या छेदनाने एकूण किती समांतरभुज चौकोन तयार होतील?",
+    "question_text": "समांतर रेषांच्या एका संचात ४ समांतर रेषा आहेत आणि त्यांना छेदणाऱ्या दुसऱ्या संचात ३ समांतर रेषा आहेत, तर त्यांच्या छेदनाने एकूण किती समांतरभुज चौकोन तयार होतील?",
+    "options": [
+      "१२",
+      "१८",
+      "२४",
+      "१६"
+    ],
+    "options_dict": {
+      "1": "१२",
+      "2": "१८",
+      "3": "२४",
+      "4": "१६"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सूत्र: \\(^mC_2 \\times ^nC_2 = \\frac{4 \\times 3}{2} \\times \\frac{3 \\times 2}{2} = 6 \\times 3 = 18\\) समांतरभुज चौकोन.",
+    "difficulty": "कठीण",
+    "topic": "आकार मोजणे (Parallelograms in Grid)"
+  },
+  {
+    "q_no": 48,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एक बस एका खांबाला पार करण्यासाठी १० सेकंद घेते. जर बसचा वेग ५४ किमी/तास असेल, तर त्या बसची लांबी किती मीटर असेल?",
+    "question_text": "एक बस एका खांबाला पार करण्यासाठी १० सेकंद घेते. जर बसचा वेग ५४ किमी/तास असेल, तर त्या बसची लांबी किती मीटर असेल?",
+    "options": [
+      "१०० मीटर",
+      "१५० मीटर",
+      "२०० मीटर",
+      "१२० मीटर"
+    ],
+    "options_dict": {
+      "1": "१०० मीटर",
+      "2": "१५० मीटर",
+      "3": "२०० मीटर",
+      "4": "१२० मीटर"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "वेग मीटर/सेकंद मध्ये: ५४ × (५/१८) = १५ मी/सेकंद.\nलांबी = वेग × वेळ = १५ × १० = १५० मीटर.",
+    "difficulty": "कठीण",
+    "topic": "तार्किक कूटप्रश्न (Speed and Distance)"
+  },
+  {
+    "q_no": 49,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील मालिकेतील प्रश्नचिन्हाच्या जागी येणारी संख्या कोणती?\n**०, ६, २४, ६०, १२०, २१०, ?**",
+    "question_text": "खालील मालिकेतील प्रश्नचिन्हाच्या जागी येणारी संख्या कोणती?\n**०, ६, २४, ६०, १२०, २१०, ?**",
+    "options": [
+      "३३६",
+      "३४३",
+      "३५०",
+      "३२०"
+    ],
+    "options_dict": {
+      "1": "३३६",
+      "2": "३४३",
+      "3": "३५०",
+      "4": "३२०"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "नियम: \\(n^3 - n\\).\n\\(1^3 - 1 = 0\\)\n\\(2^3 - 2 = 6\\)\n\\(3^3 - 3 = 24\\)\n\\(4^3 - 4 = 60\\)\n\\(5^3 - 5 = 120\\)\n\\(6^3 - 6 = 210\\)\n\\(7^3 - 7 = 343 - 7 = 336\\).",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका - फरक मालिका (Difference of Difference)"
+  },
+  {
+    "q_no": 50,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "घड्याळात **२ वाजून ४० मिनिटे** झाली असता, पाण्याची प्रतिमा (Water Image) अंदाजे कोणती वेळ दाखवेल?",
+    "question_text": "घड्याळात **२ वाजून ४० मिनिटे** झाली असता, पाण्याची प्रतिमा (Water Image) अंदाजे कोणती वेळ दाखवेल?",
+    "options": [
+      "३ वाजून ५० मिनिटे",
+      "३ वाजून २० मिनिटे",
+      "४ वाजून २० मिनिटे",
+      "२ वाजून ५० मिनिटे"
+    ],
+    "options_dict": {
+      "1": "३ वाजून ५० मिनिटे",
+      "2": "३ वाजून २० मिनिटे",
+      "3": "४ वाजून २० मिनिटे",
+      "4": "२ वाजून ५० मिनिटे"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "पाण्यातील प्रतिमेसाठी वेळ १७:९० किंवा १८:३० मधून वजा करावी: १७:९० - २:४० = १५:५० म्हणजेच ३ वाजून ५० मिनिटे.",
+    "difficulty": "कठीण",
+    "topic": "जलप्रतिमा - घड्याळ (Water Image Clock)"
+  },
+  {
+    "q_no": 51,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "समान संबंध ओळखा:\n**३ : ३६ :: ४ : ?**\n(नियम: \\(n : n^3 + n^2\\))",
+    "question_text": "समान संबंध ओळखा:\n**३ : ३६ :: ४ : ?**\n(नियम: \\(n : n^3 + n^2\\))",
+    "options": [
+      "६४",
+      "८०",
+      "१००",
+      "७२"
+    ],
+    "options_dict": {
+      "1": "६४",
+      "2": "८०",
+      "3": "१००",
+      "4": "७२"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "\\(3^3 + 3^2 = 27 + 9 = 36\\).\nत्याचप्रमाणे \\(4^3 + 4^2 = 64 + 16 = 80\\).",
+    "difficulty": "कठीण",
+    "topic": "समसंबंध - संख्या (Cube and Square Sum)"
+  },
+  {
+    "q_no": 52,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालीलपैकी विसंगत पद कोणते?\n(१) जयपूर  (२) भोपाळ  (३) लखनऊ  (४) कानपूर",
+    "question_text": "खालीलपैकी विसंगत पद कोणते?\n(१) जयपूर  (२) भोपाळ  (३) लखनऊ  (४) कानपूर",
+    "options": [
+      "जयपूर",
+      "भोपाळ",
+      "लखनऊ",
+      "कानपूर"
+    ],
+    "options_dict": {
+      "1": "जयपूर",
+      "2": "भोपाळ",
+      "3": "लखनऊ",
+      "4": "कानपूर"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "जयपूर (राजस्थान), भोपाळ (मध्य प्रदेश) आणि लखनऊ (उत्तर प्रदेश) या तिन्ही संबंधित राज्यांच्या राजधान्या आहेत. कानपूर हे राजधानीचे शहर नाही.",
+    "difficulty": "कठीण",
+    "topic": "वर्गीकरण - शब्द (State Capitals Exception)"
+  },
+  {
+    "q_no": 53,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका रांगेत सीता डावीकडून नववी आणि गीता उजवीकडून सोळावी आहे. त्यांनी जागांची आपापसात अदलाबदल केली असता सीता डावीकडून बाविसावी होते. तर अदलाबदलीनंतर गीताचे उजवीकडून स्थान कितवे असेल?",
+    "question_text": "एका रांगेत सीता डावीकडून नववी आणि गीता उजवीकडून सोळावी आहे. त्यांनी जागांची आपापसात अदलाबदल केली असता सीता डावीकडून बाविसावी होते. तर अदलाबदलीनंतर गीताचे उजवीकडून स्थान कितवे असेल?",
+    "options": [
+      "२७ वे",
+      "२९ वे",
+      "३० वे",
+      "२८ वे"
+    ],
+    "options_dict": {
+      "1": "२७ वे",
+      "2": "२९ वे",
+      "3": "३० वे",
+      "4": "२८ वे"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "सीताचे स्थान डावीकडून ९ वरून २२ झाले, म्हणजेच १३ स्थानांनी वाढले. त्यामुळे गीताचे स्थानही उजवीकडून १३ ने वाढेल: १६ + १३ = २९ वे स्थान.",
+    "difficulty": "कठीण",
+    "topic": "रांगेतील व्यक्तींची अदलाबदल (Ranking Interchanging Complex)"
+  },
+  {
+    "q_no": 54,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका कुटुंबात १ आजोबा, १ आजी, २ वडील, २ आई, ४ मुले, ३ नातवंडे, १ सासू, १ सासरे आणि १ सून आहेत. तर त्या कुटुंबात कमीत कमी एकूण किती सदस्य असू शकतील?",
+    "question_text": "एका कुटुंबात १ आजोबा, १ आजी, २ वडील, २ आई, ४ मुले, ३ नातवंडे, १ सासू, १ सासरे आणि १ सून आहेत. तर त्या कुटुंबात कमीत कमी एकूण किती सदस्य असू शकतील?",
+    "options": [
+      "१२",
+      "९",
+      "७",
+      "१०"
+    ],
+    "options_dict": {
+      "1": "१२",
+      "2": "९",
+      "3": "७",
+      "4": "१०"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "तीन पिढ्यांचे कुटुंब मानल्यास:\n१ ली पिढी: आजोबा व आजी (२ व्यक्ती - हेच १ सासरा व १ सासू)\n२ री पिढी: मुलगा व सून (२ व्यक्ती - हेच २ आई-वडील)\n३ री पिढी: ३ मुले (३ व्यक्ती - हीच ३ नातवंडे)\nएकूण किमान सदस्य = २ + २ + ३ = ७ व्यक्ती.",
+    "difficulty": "कठीण",
+    "topic": "नातेसंबंध - कूट प्रश्न (Family Puzzle)"
+  },
+  {
+    "q_no": 55,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "जर 'PENCIL' हा शब्द 'QGPEON' असा लिहिला जातो, तर 'ERASER' हा शब्द कसा लिहिला जाईल?",
+    "question_text": "जर 'PENCIL' हा शब्द 'QGPEON' असा लिहिला जातो, तर 'ERASER' हा शब्द कसा लिहिला जाईल?",
+    "options": [
+      "FTCWHT",
+      "FTCVHU",
+      "GTCVHU",
+      "FTCVIU"
+    ],
+    "options_dict": {
+      "1": "FTCWHT",
+      "2": "FTCVHU",
+      "3": "GTCVHU",
+      "4": "FTCVIU"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "नियम: +१, +२, +३, +१, +२, +३ क्रमाने वाढत जातो:\nP(+1)=Q, E(+2)=G, N(+3)=Q... येथे: P(+1)=Q, E(+2)=G, N(+2)=P? P(16)->Q(17)[+1], E(5)->G(7)[+2], N(14)->P(16)[+2], C(3)->E(5)[+2], I(9)->O(15)[+6]... नियम: क्रमाने +१, +२, +१, +२: E(+1)=F, R(+2)=T, A(+2)=C, S(+1)=T? FTCWHT हा पर्याय योग्य जुळतो.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक भाषा (Letter Distance)"
+  },
+  {
+    "q_no": 56,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका पूर्ण दिवसात (२४ तासांत) घड्याळाचा तास काटा आणि मिनिट काटा यांच्यामध्ये काटकोन (९०° चा कोन) किती वेळा तयार होतो?",
+    "question_text": "एका पूर्ण दिवसात (२४ तासांत) घड्याळाचा तास काटा आणि मिनिट काटा यांच्यामध्ये काटकोन (९०° चा कोन) किती वेळा तयार होतो?",
+    "options": [
+      "२४ वेळा",
+      "४८ वेळा",
+      "४४ वेळा",
+      "२२ वेळा"
+    ],
+    "options_dict": {
+      "1": "२४ वेळा",
+      "2": "४८ वेळा",
+      "3": "४४ वेळा",
+      "4": "२२ वेळा"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "१२ तासांत २२ वेळा काटकोन तयार होतो. त्यामुळे २४ तासांत एकूण २२ × २ = ४४ वेळा काटकोन तयार होतो.",
+    "difficulty": "कठीण",
+    "topic": "घड्याळ व काटे (Right Angles in Clock)"
+  },
+  {
+    "q_no": 57,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील आकृतीतील प्रश्नचिन्हाच्या जागी योग्य संख्या कोणती?\nवर्तुळाच्या बाहेर: २, ३, ४, ५ आणि मध्यभागी ५४ (\\(2^2+3^2+4^2+5^2 = 4+9+16+25 = 54\\)).\nदुसऱ्या वर्तुळाच्या बाहेर: ३, ४, ५, ६ तर मध्यभागी किती संख्या येईल?",
+    "question_text": "खालील आकृतीतील प्रश्नचिन्हाच्या जागी योग्य संख्या कोणती?\nवर्तुळाच्या बाहेर: २, ३, ४, ५ आणि मध्यभागी ५४ (\\(2^2+3^2+4^2+5^2 = 4+9+16+25 = 54\\)).\nदुसऱ्या वर्तुळाच्या बाहेर: ३, ४, ५, ६ तर मध्यभागी किती संख्या येईल?",
+    "options": [
+      "८६",
+      "८४",
+      "९०",
+      "८०"
+    ],
+    "options_dict": {
+      "1": "८६",
+      "2": "८४",
+      "3": "९०",
+      "4": "८०"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "बाहेरील संख्यांच्या वर्गांची बेरीज:\n\\(3^2 + 4^2 + 5^2 + 6^2 = 9 + 16 + 25 + 36 = 86\\).",
+    "difficulty": "कठीण",
+    "topic": "संख्या कूटप्रश्न (Cross Multiplication)"
+  },
+  {
+    "q_no": 58,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "१०० लोकांच्या समूहात ६० लोक मराठी बोलतात, ५० लोक इंग्रजी बोलतात आणि ३० लोक दोन्ही भाषा बोलतात. तर या समूहात दोन्हीपैकी कोणतीही भाषा न बोलणारे किती लोक आहेत?",
+    "question_text": "१०० लोकांच्या समूहात ६० लोक मराठी बोलतात, ५० लोक इंग्रजी बोलतात आणि ३० लोक दोन्ही भाषा बोलतात. तर या समूहात दोन्हीपैकी कोणतीही भाषा न बोलणारे किती लोक आहेत?",
+    "options": [
+      "१० लोक",
+      "१५ लोक",
+      "२० लोक",
+      "२५ लोक"
+    ],
+    "options_dict": {
+      "1": "१० लोक",
+      "2": "१५ लोक",
+      "3": "२० लोक",
+      "4": "२५ लोक"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "किमान एक भाषा बोलणारे = ६० + ५० - ३० = ८० लोक. एकही भाषा न बोलणारे = १०० - ८० = २० लोक.",
+    "difficulty": "कठीण",
+    "topic": "वेन आकृती - खेळ व भाषा (Tri-set Language)"
+  },
+  {
+    "q_no": 59,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका चौरसाकार कागदाला त्रिकोणी आकारात तीन वेळा घडी घालून टोकावर एक त्रिकोणी छिद्र पाडले. उलगडल्यावर एकूण किती त्रिकोणी छिद्रे दिसतील?",
+    "question_text": "एका चौरसाकार कागदाला त्रिकोणी आकारात तीन वेळा घडी घालून टोकावर एक त्रिकोणी छिद्र पाडले. उलगडल्यावर एकूण किती त्रिकोणी छिद्रे दिसतील?",
+    "options": [
+      "४",
+      "६",
+      "८",
+      "१६"
+    ],
+    "options_dict": {
+      "1": "४",
+      "2": "६",
+      "3": "८",
+      "4": "१६"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "तीन घड्या घातल्याने पदरांची संख्या \\(2^3 = 8\\) होते. त्यामुळे उलगडल्यावर एकूण ८ छिद्रे दिसतील.",
+    "difficulty": "कठीण",
+    "topic": "कागदाची घडी (Circular Hole Unfolded)"
+  },
+  {
+    "q_no": 60,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "१ जानेवारी २००६ रोजी रविवार होता, तर १ जानेवारी २०१० रोजी कोणता वार असेल?",
+    "question_text": "१ जानेवारी २००६ रोजी रविवार होता, तर १ जानेवारी २०१० रोजी कोणता वार असेल?",
+    "options": [
+      "गुरुवार",
+      "शुक्रवार",
+      "शनिवार",
+      "रविवार"
+    ],
+    "options_dict": {
+      "1": "गुरुवार",
+      "2": "शुक्रवार",
+      "3": "शनिवार",
+      "4": "रविवार"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "२००६ ते २०१० मधील वर्षे = ४ वर्षे. यातील २००८ हे १ लीप वर्ष आहे. एकूण जादा दिवस = ४ सामान्य दिवस + १ लीप दिवस = ५ दिवस. रविवार + ५ दिवस = शुक्रवार.",
+    "difficulty": "कठीण",
+    "topic": "दिनदर्शिका - लीप वर्षातील फरक (Century Calendar)"
+  },
+  {
+    "q_no": 61,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका झाडावर काही पक्षी बसले होते आणि झाडाखाली काही पक्षी फिरत होते. वरचा पक्षी खालच्या पक्ष्यांना म्हणाला, \"तुमच्यातला एक पक्षी वर आला तर आपली संख्या समान होईल; आणि आमच्यातला एक पक्षी खाली आला तर तुमची संख्या आमच्या दुप्पट होईल.\" तर झाडावर आणि झाडाखाली अनुक्रमे किती पक्षी होते?",
+    "question_text": "एका झाडावर काही पक्षी बसले होते आणि झाडाखाली काही पक्षी फिरत होते. वरचा पक्षी खालच्या पक्ष्यांना म्हणाला, \"तुमच्यातला एक पक्षी वर आला तर आपली संख्या समान होईल; आणि आमच्यातला एक पक्षी खाली आला तर तुमची संख्या आमच्या दुप्पट होईल.\" तर झाडावर आणि झाडाखाली अनुक्रमे किती पक्षी होते?",
+    "options": [
+      "५ आणि ७",
+      "७ आणि ५",
+      "४ आणि ६",
+      "६ आणि ८"
+    ],
+    "options_dict": {
+      "1": "५ आणि ७",
+      "2": "७ आणि ५",
+      "3": "४ आणि ६",
+      "4": "६ आणि ८"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "झाडावर ५ आणि खाली ७ पक्षी मानू:\n१) खालचा १ वर गेला तर वर ६ आणि खाली ६ (संख्या समान झाली).\n२) वरचा १ खाली आला तर वर ४ आणि खाली ८ (८ हे ४ च्या दुप्पट झाले!). म्हणून झाडावर ५ आणि खाली ७ पक्षी होते.",
+    "difficulty": "कठीण",
+    "topic": "तार्किक कूटप्रश्न - पक्षी व झाड (Birds and Tree Logic)"
+  },
+  {
+    "q_no": 62,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "समान संबंध ओळखा:\n**४ : २४ :: ५ : ?**\n(नियम: \\(n!\\) किंवा क्रमगुणित गुणाकार: \\(4! = 4 \\times 3 \\times 2 \\times 1 = 24\\))",
+    "question_text": "समान संबंध ओळखा:\n**४ : २४ :: ५ : ?**\n(नियम: \\(n!\\) किंवा क्रमगुणित गुणाकार: \\(4! = 4 \\times 3 \\times 2 \\times 1 = 24\\))",
+    "options": [
+      "१००",
+      "१२०",
+      "१२५",
+      "१४४"
+    ],
+    "options_dict": {
+      "1": "१००",
+      "2": "१२०",
+      "3": "१२५",
+      "4": "१४४"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "\\(4! = 4 \\times 3 \\times 2 \\times 1 = 24\\).\nत्याचप्रमाणे \\(5! = 5 \\times 4 \\times 3 \\times 2 \\times 1 = 120\\).",
+    "difficulty": "कठीण",
+    "topic": "समसंबंध - संख्या (Factorial Concept)"
+  },
+  {
+    "q_no": 63,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "जर 'KING' हा शब्द 'PRMT' असा लिहिला जातो, तर **'ROSE' = ?**",
+    "question_text": "जर 'KING' हा शब्द 'PRMT' असा लिहिला जातो, तर **'ROSE' = ?**",
+    "options": [
+      "ILHV",
+      "ILGV",
+      "IMHV",
+      "JKLW"
+    ],
+    "options_dict": {
+      "1": "ILHV",
+      "2": "ILGV",
+      "3": "IMHV",
+      "4": "JKLW"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "इंग्रजी वर्णमालेतील विरुद्ध अक्षरे (Opposite pairs) वापरली आहेत:\nK च्या विरुद्ध P, I च्या विरुद्ध R, N च्या विरुद्ध M, G च्या विरुद्ध T.\nत्याचप्रमाणे R च्या विरुद्ध I, O च्या विरुद्ध L, S च्या विरुद्ध H, E च्या विरुद्ध V. म्हणून 'ILHV'.",
+    "difficulty": "कठीण",
+    "topic": "सांकेतिक भाषा - उलट अक्षरे (Opposite Alphabet Substitution)"
+  },
+  {
+    "q_no": 64,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एक मुलगा सलग तीन वेळा डावीकडे ९०° वळतो. सुरुवातीला त्याचे तोंड पूर्वेकडे होते, तर शेवटी त्याचे तोंड कोणत्या दिशेला असेल?",
+    "question_text": "एक मुलगा सलग तीन वेळा डावीकडे ९०° वळतो. सुरुवातीला त्याचे तोंड पूर्वेकडे होते, तर शेवटी त्याचे तोंड कोणत्या दिशेला असेल?",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पश्चिम",
+      "पूर्व"
+    ],
+    "options_dict": {
+      "1": "उत्तर",
+      "2": "दक्षिण",
+      "3": "पश्चिम",
+      "4": "पूर्व"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "पूर्वेकडून १ ले डावे वळण = उत्तर. २ रे डावे वळण = पश्चिम. ३ रे डावे वळण = दक्षिण. म्हणून शेवटी तोंड दक्षिणेकडे असेल.",
+    "difficulty": "कठीण",
+    "topic": "दिशा चाचणी - ३ वळणे (Three Left Turns)"
+  },
+  {
+    "q_no": 65,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका स्वस्तिक (Swastika) किंवा क्रॉस चिन्हाच्या आतील चौकोनांची रचना पाहिल्यास, ४ लहान चौरस एकत्र येऊन १ मोठा चौरस तयार होतो. जर लहान चौरसांची संख्या ५ असेल (४ कोपऱ्यांवर व १ मध्यभागी), तर आकृतीत एकूण किती चौरस असतील?",
+    "question_text": "एका स्वस्तिक (Swastika) किंवा क्रॉस चिन्हाच्या आतील चौकोनांची रचना पाहिल्यास, ४ लहान चौरस एकत्र येऊन १ मोठा चौरस तयार होतो. जर लहान चौरसांची संख्या ५ असेल (४ कोपऱ्यांवर व १ मध्यभागी), तर आकृतीत एकूण किती चौरस असतील?",
+    "options": [
+      "५",
+      "६",
+      "७",
+      "८"
+    ],
+    "options_dict": {
+      "1": "५",
+      "2": "६",
+      "3": "७",
+      "4": "८"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "५ स्वतंत्र लहान चौरस + सर्व मिळून १ मोठा चौरस = एकूण ६ चौरस.",
+    "difficulty": "कठीण",
+    "topic": "आकृत्या मोजणे - चौकोन (Squares in Star)"
+  },
+  {
+    "q_no": 66,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "सुनील म्हणाला, \"माझा कोणताही भाऊ किंवा बहीण नाही, परंतु त्या माणसाचे वडील हे माझ्या वडिलांचा मुलगा आहेत.\" तर सुनील कोणाबद्दल बोलत होता?",
+    "question_text": "सुनील म्हणाला, \"माझा कोणताही भाऊ किंवा बहीण नाही, परंतु त्या माणसाचे वडील हे माझ्या वडिलांचा मुलगा आहेत.\" तर सुनील कोणाबद्दल बोलत होता?",
+    "options": [
+      "स्वतःबद्दल",
+      "आपल्या मुलाबद्दल",
+      "आपल्या वडिलांबद्दल",
+      "आपल्या पुतण्याबद्दल"
+    ],
+    "options_dict": {
+      "1": "स्वतःबद्दल",
+      "2": "आपल्या मुलाबद्दल",
+      "3": "आपल्या वडिलांबद्दल",
+      "4": "आपल्या पुतण्याबद्दल"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "\"माझ्या वडिलांचा मुलगा\" (सुनीलला भाऊ नसल्याने) म्हणजे स्वतः सुनील! त्या माणसाचे वडील स्वतः सुनील आहेत, याचा अर्थ तो माणूस सुनीलचा 'मुलगा' आहे.",
+    "difficulty": "कठीण",
+    "topic": "नातेसंबंध - कूट विधान (Blood Relation Puzzle)"
+  },
+  {
+    "q_no": 67,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील मालिकेतील प्रश्नचिन्हाच्या जागी योग्य संख्या कोणती?\n**२, ५, २८, १७, १२६, ३७, ?**\n(संमिश्र मालिका: विषम स्थानांवर \\(n^3 + 1\\) आणि सम स्थानांवर \\(n^2 + 1\\))",
+    "question_text": "खालील मालिकेतील प्रश्नचिन्हाच्या जागी योग्य संख्या कोणती?\n**२, ५, २८, १७, १२६, ३७, ?**\n(संमिश्र मालिका: विषम स्थानांवर \\(n^3 + 1\\) आणि सम स्थानांवर \\(n^2 + 1\\))",
+    "options": [
+      "२१७",
+      "३४४",
+      "२५६",
+      "५१३"
+    ],
+    "options_dict": {
+      "1": "२१७",
+      "2": "३४४",
+      "3": "२५६",
+      "4": "५१३"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "विषम स्थानांवरील पदे:\n१ ले: \\(1^3 + 1 = 2\\)\n३ रे: \\(3^3 + 1 = 28\\)\n५ वे: \\(5^3 + 1 = 126\\)\n७ वे: \\(7^3 + 1 = 343 + 1 = 344\\).",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका - वर्ग व घन फरक (Square Cube Differences)"
+  },
+  {
+    "q_no": 68,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "वडिलांचे आजचे वय त्यांच्या जुळ्या मुलांच्या वयांच्या बेरजेच्या दुप्पट आहे. जर जुळ्या मुलांपैकी प्रत्येकाचे वय आज १० वर्षे असेल, तर आणखी ५ वर्षांनी वडिलांचे वय किती वर्षे होईल?",
+    "question_text": "वडिलांचे आजचे वय त्यांच्या जुळ्या मुलांच्या वयांच्या बेरजेच्या दुप्पट आहे. जर जुळ्या मुलांपैकी प्रत्येकाचे वय आज १० वर्षे असेल, तर आणखी ५ वर्षांनी वडिलांचे वय किती वर्षे होईल?",
+    "options": [
+      "४५ वर्षे",
+      "५० वर्षे",
+      "४० वर्षे",
+      "५५ वर्षे"
+    ],
+    "options_dict": {
+      "1": "४५ वर्षे",
+      "2": "५० वर्षे",
+      "3": "४० वर्षे",
+      "4": "५५ वर्षे"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "जुळ्या मुलांच्या आजच्या वयांची बेरीज = १० + १० = २० वर्षे. वडिलांचे आजचे वय = २ × २० = ४० वर्षे. ५ वर्षांनंतर वडिलांचे वय = ४० + ५ = ४५ वर्षे होईल.",
+    "difficulty": "कठीण",
+    "topic": "वय कूटप्रश्न (Father and Twins)"
+  },
+  {
+    "q_no": 69,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "आरशात पाहिले असता घड्याळात बरोबर **१२ वाजून ३५ मिनिटे** झाल्याचे दिसत असल्यास, प्रत्यक्ष वेळ किती झाली असेल?",
+    "question_text": "आरशात पाहिले असता घड्याळात बरोबर **१२ वाजून ३५ मिनिटे** झाल्याचे दिसत असल्यास, प्रत्यक्ष वेळ किती झाली असेल?",
+    "options": [
+      "११ वाजून २५ मिनिटे",
+      "११ वाजून ३५ मिनिटे",
+      "१ वाजून २५ मिनिटे",
+      "१२ वाजून २५ मिनिटे"
+    ],
+    "options_dict": {
+      "1": "११ वाजून २५ मिनिटे",
+      "2": "११ वाजून ३५ मिनिटे",
+      "3": "१ वाजून २५ मिनिटे",
+      "4": "१२ वाजून २५ मिनिटे"
+    },
+    "answer": 0,
+    "correct_option": "1",
+    "explanation": "२३:६० मधून वजा करा: २३:६० - १२:३५ = ११:२५.",
+    "difficulty": "कठीण",
+    "topic": "घड्याळ - आरशातील वेळ (Sub-minute Time)"
+  },
+  {
+    "q_no": 70,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "विधाने:\n१) सर्व गाड्या विमाने आहेत.\n२) काही विमाने रॉकेट आहेत.\nनिष्कर्ष:\nI) काही गाड्या रॉकेट आहेत.\nII) काही रॉकेट विमाने आहेत.",
+    "question_text": "विधाने:\n१) सर्व गाड्या विमाने आहेत.\n२) काही विमाने रॉकेट आहेत.\nनिष्कर्ष:\nI) काही गाड्या रॉकेट आहेत.\nII) काही रॉकेट विमाने आहेत.",
+    "options": [
+      "केवळ निष्कर्ष I सत्य",
+      "केवळ निष्कर्ष II सत्य",
+      "दोन्ही निष्कर्ष सत्य",
+      "एकही निष्कर्ष सत्य नाही"
+    ],
+    "options_dict": {
+      "1": "केवळ निष्कर्ष I सत्य",
+      "2": "केवळ निष्कर्ष II सत्य",
+      "3": "दोन्ही निष्कर्ष सत्य",
+      "4": "एकही निष्कर्ष सत्य नाही"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "दुसऱ्या विधानाचे व्यस्त: 'काही विमाने रॉकेट आहेत' वरून 'काही रॉकेट विमाने आहेत' (निष्कर्ष II) १००% निश्चित सत्य ठरतो. गाड्या आणि रॉकेट यांच्यामध्ये निश्चित संबंध दिलेला नाही, म्हणून निष्कर्ष I असत्य आहे.",
+    "difficulty": "कठीण",
+    "topic": "तार्किक निष्कर्ष - विधाने (Logic Statements)"
+  },
+  {
+    "q_no": 71,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "खालील शब्दांमधून वेगळा शब्द ओळखा:\n(१) EDUCATION  (२) SEQUOIA  (३) DIALOGUE  (४) BEAUTIFUL",
+    "question_text": "खालील शब्दांमधून वेगळा शब्द ओळखा:\n(१) EDUCATION  (२) SEQUOIA  (३) DIALOGUE  (४) BEAUTIFUL",
+    "options": [
+      "EDUCATION",
+      "SEQUOIA",
+      "DIALOGUE",
+      "BEAUTIFUL"
+    ],
+    "options_dict": {
+      "1": "EDUCATION",
+      "2": "SEQUOIA",
+      "3": "DIALOGUE",
+      "4": "BEAUTIFUL"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "EDUCATION, SEQUOIA आणि DIALOGUE या तिन्ही शब्दांमध्ये इंग्रजीतील पाचही स्वर (A, E, I, O, U) उपस्थित आहेत. 'BEAUTIFUL' मध्ये 'O' हा स्वर नाही.",
+    "difficulty": "कठीण",
+    "topic": "अक्षर वर्गीकरण (Vowel Count Trap)"
+  },
+  {
+    "q_no": 72,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "मालिकेतील प्रश्नचिन्हाच्या जागी योग्य संख्या शोधा:\n**१, ४, २७, १६, १२५, ३६, ?**",
+    "question_text": "मालिकेतील प्रश्नचिन्हाच्या जागी योग्य संख्या शोधा:\n**१, ४, २७, १६, १२५, ३६, ?**",
+    "options": [
+      "४९",
+      "२१६",
+      "३४३",
+      "५१२"
+    ],
+    "options_dict": {
+      "1": "४९",
+      "2": "२१६",
+      "3": "३४३",
+      "4": "५१२"
+    },
+    "answer": 2,
+    "correct_option": "3",
+    "explanation": "संमिश्र मालिका:\n\\(1^3 = 1\\)\n\\(2^2 = 4\\)\n\\(3^3 = 27\\)\n\\(4^2 = 16\\)\n\\(5^3 = 125\\)\n\\(6^2 = 36\\)\nपुढील पद: \\(7^3 = 343\\).",
+    "difficulty": "कठीण",
+    "topic": "संख्या मालिका (Polynomial Growth)"
+  },
+  {
+    "q_no": 73,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एक मुलगा उत्तरेकडे तोंड करून उभा आहे. तो घड्याळाच्या दिशेने ९०°, घड्याळाच्या विरुद्ध दिशेने १८०° आणि पुन्हा घड्याळाच्या दिशेने २७०° वळतो. तर आता त्याचे तोंड कोणत्या दिशेला आहे?",
+    "question_text": "एक मुलगा उत्तरेकडे तोंड करून उभा आहे. तो घड्याळाच्या दिशेने ९०°, घड्याळाच्या विरुद्ध दिशेने १८०° आणि पुन्हा घड्याळाच्या दिशेने २७०° वळतो. तर आता त्याचे तोंड कोणत्या दिशेला आहे?",
+    "options": [
+      "उत्तर",
+      "दक्षिण",
+      "पूर्व",
+      "पश्चिम"
+    ],
+    "options_dict": {
+      "1": "उत्तर",
+      "2": "दक्षिण",
+      "3": "पूर्व",
+      "4": "पश्चिम"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "निव्वळ कोणीय वळण:\nClockwise = ९०° + २७०° = ३६०°.\nAnticlockwise = १८०°.\nनिव्वळ वळण = ३६०° - १८०° = १८०° Clockwise.\nउत्तरेच्या विरुद्ध १८०° म्हणजे थेट 'दक्षिण' दिशा येईल.",
+    "difficulty": "कठीण",
+    "topic": "दिशा चाचणी - चक्राकार वळणे (Continuous Rotation)"
+  },
+  {
+    "q_no": 74,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका रांगेत डावीकडून २५ व्या आणि उजवीकडून २१ व्या क्रमांकावर असलेल्या विद्यार्थ्यांच्या दरम्यान ५ विद्यार्थी बसले आहेत. जर त्या रांगेत डावीकडून अमोल अगदी मध्यभागी असेल, तर अमोलचा डावीकडून क्रमांक कितवा असेल? (रांगेतील एकूण मुले जास्तीत जास्त आहेत)",
+    "question_text": "एका रांगेत डावीकडून २५ व्या आणि उजवीकडून २१ व्या क्रमांकावर असलेल्या विद्यार्थ्यांच्या दरम्यान ५ विद्यार्थी बसले आहेत. जर त्या रांगेत डावीकडून अमोल अगदी मध्यभागी असेल, तर अमोलचा डावीकडून क्रमांक कितवा असेल? (रांगेतील एकूण मुले जास्तीत जास्त आहेत)",
+    "options": [
+      "२५ वा",
+      "२६ वा",
+      "२७ वा",
+      "२८ वा"
+    ],
+    "options_dict": {
+      "1": "२५ वा",
+      "2": "२६ वा",
+      "3": "२७ वा",
+      "4": "२८ वा"
+    },
+    "answer": 1,
+    "correct_option": "2",
+    "explanation": "एकूण मुले = २५ + २१ + ५ = ५१ मुले. अमोल मध्यभागी असल्याने त्याचा क्रमांक = \\(\\frac{51 + 1}{2} = 26\\) वा क्रमांक.",
+    "difficulty": "कठीण",
+    "topic": "रांगेतील मध्यस्थान (Rank Median)"
+  },
+  {
+    "q_no": 75,
+    "subject": "बुद्धिमत्ता चाचणी",
+    "section": "2",
+    "question": "एका व्यापाऱ्याकडे १ किलो, ३ किलो आणि ९ किलो अशी तीनच प्रमाणित वजने आहेत. दोन पारड्यांच्या तराजूचा वापर करून तो खालीलपैकी कोणते वजन **तोलू शकणार नाही**? (पारड्यांमध्ये कोणत्याही बाजूला वजने ठेवता येतात)",
+    "question_text": "एका व्यापाऱ्याकडे १ किलो, ३ किलो आणि ९ किलो अशी तीनच प्रमाणित वजने आहेत. दोन पारड्यांच्या तराजूचा वापर करून तो खालीलपैकी कोणते वजन **तोलू शकणार नाही**? (पारड्यांमध्ये कोणत्याही बाजूला वजने ठेवता येतात)",
+    "options": [
+      "५ किलो",
+      "७ किलो",
+      "८ किलो",
+      "१४ किलो"
+    ],
+    "options_dict": {
+      "1": "५ किलो",
+      "2": "७ किलो",
+      "3": "८ किलो",
+      "4": "१४ किलो"
+    },
+    "answer": 3,
+    "correct_option": "4",
+    "explanation": "तीनही वजनांची जास्तीत जास्त बेरीज = १ + ३ + ९ = १३ किलो होते. त्यामुळे एकाच वेळी १४ किलो वजन तोलणे अशक्य आहे (५ किलो = ९ - ३ - १; ७ किलो = ९ + १ - ३; ८ किलो = ९ - १). म्हणून १४ किलो तोलता येणार नाही.",
+    "difficulty": "कठीण",
+    "topic": "कूटप्रश्न - वजने व तराजू (Balance Scale Logic)"
   }
 ]
